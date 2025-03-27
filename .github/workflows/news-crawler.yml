@@ -2,8 +2,8 @@ name: News Crawler
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # 매 5분마다 실행
-  workflow_dispatch: # 수동 실행 옵션
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   crawl-news:
