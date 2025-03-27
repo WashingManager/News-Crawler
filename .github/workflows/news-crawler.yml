@@ -8,17 +8,21 @@ on:
 jobs:
   crawl-news:
     runs-on: ubuntu-latest
+    permissions: # 권한 설정 추가
+      contents: write # 저장소에 쓰기 권한 부여
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # GITHUB_TOKEN 사용
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # Node.js 18로 변경
+          node-version: '18'
 
       - name: Install dependencies
-        run: npm install axios@1.6.8 cheerio # axios 버전을 1.6.8로 고정
+        run: npm install axios@1.6.8 cheerio
 
       - name: Run crawler script
         run: node crawler.js
