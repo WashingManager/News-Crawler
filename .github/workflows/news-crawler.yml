@@ -2,7 +2,7 @@ name: News Crawler
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '30 3-23/3 * * *'
   workflow_dispatch:
 
 jobs:
