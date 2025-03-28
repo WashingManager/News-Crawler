@@ -1,35 +1,36 @@
+name: News Crawler
+on:
+  schedule:
+    - cron: 0 0,12 * * *
+  workflow_dispatch:
 jobs:
   crawl-news:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
-    - name: Install dependencies
-      run: npm install axios@1.6.8 cheerio
-    - name: Run crawler script
-      run: node crawler.js
-    - name: Commit and push changes
-      run: 'git config --global user.name "GitHub Action"
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install axios@1.6.8 cheerio
+      - name: Run crawler script
+        run: node crawler.js
+      - name: Commit and push changes
+        run: 'git config --global user.name "GitHub Action"
 
-        git config --global user.email "action@github.com"
+          git config --global user.email "action@github.com"
 
-        git add news.json
+          git add news.json
 
-        git commit -m "Update news.json with latest news" || echo "No changes to commit"
+          git commit -m "Update news.json with latest news" || echo "No changes to
+          commit"
 
-        git push
+          git push
 
-        '
-name: News Crawler
-'on':
-  schedule:
-  - cron: 0 0,12 * * *
-  workflow_dispatch: null
+          '
