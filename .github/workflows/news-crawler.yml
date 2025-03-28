@@ -1,36 +1,35 @@
 name: News Crawler
-
-on:
+true:
   schedule:
-    - cron: '30 3-23/3 * * *'
-  workflow_dispatch:
-
+  - cron: 30 3-23/3 * * *
+  workflow_dispatch: null
 jobs:
   crawl-news:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-    permissions: # 권한 설정 추가
-      contents: write # 저장소에 쓰기 권한 부여
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} # GITHUB_TOKEN 사용
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    - name: Install dependencies
+      run: npm install axios@1.6.8 cheerio
+    - name: Run crawler script
+      run: node crawler.js
+    - name: Commit and push changes
+      run: 'git config --global user.name "GitHub Action"
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+        git config --global user.email "action@github.com"
 
-      - name: Install dependencies
-        run: npm install axios@1.6.8 cheerio
+        git add news.json
 
-      - name: Run crawler script
-        run: node crawler.js
+        git commit -m "Update news.json with latest news" || echo "No changes to commit"
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add news.json
-          git commit -m "Update news.json with latest news" || echo "No changes to commit"
-          git push
+        git push
+
+        '
