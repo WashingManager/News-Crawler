@@ -1,8 +1,3 @@
-name: News Crawler
-true:
-  schedule:
-  - cron: 30 3-23/3 * * *
-  workflow_dispatch: null
 jobs:
   crawl-news:
     permissions:
@@ -33,3 +28,8 @@ jobs:
         git push
 
         '
+name: News Crawler
+'on':
+  schedule:
+  - cron: 0 0,12 * * *
+  workflow_dispatch: null
