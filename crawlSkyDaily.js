@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const iconv = require('iconv-lite'); // 추가
 const { getKeywords } = require('./keyword.js');
-const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./lib/utils.js');
+const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./utils.js');
 
 const urls = [
   'https://www.skyedaily.com/news/articlelist.html?mode=list',
