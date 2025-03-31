@@ -12,7 +12,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18' # 16 -> 18로 변경
       - name: Install Dependencies
         run: npm install axios cheerio
       - name: Run Crawlers
