@@ -4,21 +4,27 @@ const { getKeywords } = require('./keyword.js');
 const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./utils.js');
 
 const urls = [
-  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm',  // 정치
-  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N3&view_type=sm',  // 사회
-  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N6&view_type=sm'   // 국제
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm', // 정치
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N3&view_type=sm', // 사회
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N6&view_type=sm'  // 국제
 ];
 
-// 키워드 기반 필터링
+// 키워드 기반 필터링 (완화된 조건)
 function isRelevantArticle(textContent, keywords) {
   const words = new Set(textContent.toLowerCase().match(/\b\w+\b/g) || []);
-  return keywords.filter(k => words.has(k.toLowerCase())).length >= 2;
+  const keywordCount = keywords.filter(k => words.has(k.toLowerCase())).length;
+  console.log(`Keyword count for "${textContent}": ${keywordCount}`); // 디버깅 로그
+  return keywordCount >= 1; // 2 -> 1로 완화
 }
 
 // 기사 세부 정보 추출
 async function extractArticleDetails(url) {
   try {
-    const response = await axios.get(url);
+    const response = await axios.get(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+      }
+    });
     const $ = cheerio.load(response.data);
     const summary = $('div.article-head-summary').text().trim() || '';
     return summary;
@@ -32,10 +38,14 @@ async function extractArticleDetails(url) {
 async function processArticle($, element, keywords, existingNews) {
   const titleElement = $(element).find('h4.titles a');
   const hrefLink = `https://www.gukjenews.com${titleElement.attr('href')}`;
-  if (isDuplicate(hrefLink, existingNews)) return null;
+  if (isDuplicate(hrefLink, existingNews)) {
+    console.log(`Duplicate found: ${hrefLink}`); // 디버깅 로그
+    return null;
+  }
 
   const title = titleElement.text().trim();
   const timeStr = $(element).find('span.byline em:nth-of-type(3)').text().trim() || '';
+  console.log(`Processing article: ${title}`); // 디버깅 로그
   if (!isRelevantArticle(title, keywords)) return null;
 
   const summary = await extractArticleDetails(hrefLink);
@@ -55,37 +65,20 @@ async function crawlPage(url, keywords, existingNews, page = 1) {
     });
     const $ = cheerio.load(response.data);
     const elements = $('ul.type2 li');
+    console.log(`Found ${elements.length} elements in ${fullUrl}`); // 디버깅 로그
     const newArticles = [];
 
     for (const elem of elements.toArray()) {
       const article = await processArticle($, elem, keywords, existingNews);
       if (article) newArticles.push(article);
+      else console.log(`Article filtered out on page ${page}`); // 디버깅 로그
     }
 
+    console.log(`URL ${fullUrl}에서 ${newArticles.length}개 기사 수집`);
     return newArticles.length > 0 ? newArticles : null;
   } catch (error) {
     console.error(`페이지 크롤링 실패 (${url}):`, error);
     return null;
-  }
-}
-
-async function crawlPage(url, keywords, existingNews) {
-  try {
-    const response = await axios.get(url);
-    const $ = cheerio.load(response.data);
-    const elements = $('div.list-block');
-    console.log(`Found ${elements.length} elements in ${url}`);
-    const newArticles = [];
-    elements.each((i, elem) => {
-      const article = processArticle($, elem, keywords, existingNews);
-      if (article) newArticles.push(article);
-      else console.log(`Article filtered out at index ${i}`);
-    });
-    console.log(`URL ${url}에서 ${newArticles.length}개 기사 수집`);
-    return newArticles;
-  } catch (error) {
-    console.error(`페이지 크롤링 실패 (${url}):`, error);
-    return [];
   }
 }
 
