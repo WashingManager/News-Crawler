@@ -4,8 +4,9 @@ const { getKeywords } = require('./keyword.js');
 const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./utils.js');
 
 const urls = [
-  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm',
-  // 나머지 URL들 추가
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm',  // 정치
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N3&view_type=sm',  // 사회
+  'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N6&view_type=sm'   // 국제
 ];
 
 // 키워드 기반 필터링
