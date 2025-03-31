@@ -5,27 +5,14 @@ const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./utils.js');
 
 const urls = [
   'https://www.fntoday.co.kr/news/articleList.html?sc_sub_section_code=S2N107',
-  // 나머지 URL들 추가
 ];
 
-// 키워드 기반 필터링
+// 키워드 기반 필터링 (조건 완화)
 function isRelevantArticle(textContent, keywords) {
   const words = new Set(textContent.toLowerCase().match(/\b\w+\b/g) || []);
   const keywordCount = keywords.filter(k => words.has(k.toLowerCase())).length;
-  return keywordCount >= 2; // 제외 키워드는 생략 가능
-}
-
-// 기사 세부 정보 추출
-async function extractArticleDetails(url) {
-  try {
-    const response = await axios.get(url);
-    const $ = cheerio.load(response.data);
-    const summary = $('p.list-summary a').text().trim() || '';
-    return summary;
-  } catch (error) {
-    console.error(`요약 추출 실패 (${url}):`, error);
-    return '';
-  }
+  console.log(`Keyword count for "${textContent}": ${keywordCount}`); // 디버깅 로그
+  return keywordCount >= 1; // 2 -> 1로 완화
 }
 
 // 단일 기사 처리
@@ -33,10 +20,14 @@ function processArticle($, element, keywords, existingNews) {
   const titleElement = $(element).find('div.list-titles a');
   const hrefLink = titleElement.attr('href') || '';
   const fullLink = hrefLink.startsWith('http') ? hrefLink : `https://www.fntoday.co.kr${hrefLink}`;
-  if (isDuplicate(fullLink, existingNews)) return null;
+  if (isDuplicate(fullLink, existingNews)) {
+    console.log(`Duplicate found: ${fullLink}`);
+    return null;
+  }
 
   const title = titleElement.text().trim();
   const timeStr = $(element).find('div.list-dated').text().split('|').pop().trim();
+  console.log(`Processing article: ${title}`); // 디버깅 로그
 
   if (isRelevantArticle(title, keywords)) {
     return { title, time: timeStr, link: fullLink };
@@ -50,6 +41,7 @@ async function crawlPage(url, keywords, existingNews) {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
     const elements = $('div.list-block');
+    console.log(`Found ${elements.length} elements in ${url}`); // 선택자 확인
     const newArticles = [];
 
     elements.each((i, elem) => {
