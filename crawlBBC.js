@@ -23,6 +23,7 @@ function isWithinLastTwoDays(timeStr) {
 // 기사 크롤링
 async function crawlBBC() {
   const keywords = getKeywords();
+  console.log(`Keywords: ${keywords}`);
   const existingNews = await loadExistingNews();
 
   try {
