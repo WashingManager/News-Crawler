@@ -1,0 +1,35 @@
+name: Crawl News
+on:
+  schedule:
+    - cron: '0 */10 * * *' # 5분마다 실행
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - name: Install Dependencies
+        run: npm install axios cheerio
+      - name: Run Crawlers
+        run: |
+          node crawlFNToday.js
+          node crawlBBC.js
+          node crawlDaum.js
+          node crawlVOA.js
+          node crawlGoogleNews.js
+          node crawlGukjeNews.js
+          node crawlSkyDaily.js
+          node crawlYNA.js
+          node crawlFnNews.js
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news.json
+          git commit -m "Update news.json with latest articles" || echo "No changes to commit"
+          git push
