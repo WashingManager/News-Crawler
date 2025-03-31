@@ -1,7 +1,7 @@
 name: Crawl News
 on:
   schedule:
-    - cron: '0 */5 * * *'
+    - cron: '0 */10 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,16 +20,16 @@ jobs:
       - name: Install Dependencies
         run: npm install
       - name: Run Crawlers
-        run: |
-          node crawlFNToday.js
-          node crawlBBC.js
-          node crawlDaum.js
-          node crawlVOA.js
-          node crawlGoogleNews.js
-          node crawlGukjeNews.js
-          node crawlSkyDaily.js
-          node crawlYNA.js
-          node crawlFnNews.js
+      run: |
+        node crawlFNToday.js || echo "FNToday failed"
+        node crawlBBC.js || echo "BBC failed"
+        node crawlDaum.js || echo "Daum failed"
+        node crawlVOA.js || echo "VOA failed"
+        node crawlGoogleNews.js || echo "Google News failed"
+        node crawlGukjeNews.js || echo "GukjeNews failed"
+        node crawlSkyDaily.js || echo "SkyDaily failed"
+        node crawlYNA.js || echo "YNA failed"
+        node crawlFnNews.js || echo "FnNews failed"
       - name: Commit Changes
         run: |
           git config --local user.email "action@github.com"
