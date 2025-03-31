@@ -1,20 +1,24 @@
 name: Crawl News
 on:
   schedule:
-    - cron: '0 */10 * * *' # 5분마다 실행
-  workflow_dispatch: # 수동 실행 가능
+    - cron: '0 */5 * * *'
+  workflow_dispatch:
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    permissions: # 권한 추가
+      contents: write # 리포지토리 쓰기 권한
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # 기본 토큰 사용
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # 16 -> 18로 변경
+          node-version: '16'
       - name: Install Dependencies
-        run: npm install axios cheerio
+        run: npm install
       - name: Run Crawlers
         run: |
           node crawlFNToday.js
