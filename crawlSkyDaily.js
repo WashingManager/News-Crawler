@@ -1,7 +1,8 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const iconv = require('iconv-lite'); // 추가
 const { getKeywords } = require('./keyword.js');
-const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./utils.js');
+const { loadExistingNews, saveToNewsJson, isDuplicate } = require('./lib/utils.js');
 
 const urls = [
   'https://www.skyedaily.com/news/articlelist.html?mode=list',
@@ -17,8 +18,9 @@ function isRelevantArticle(textContent, keywords) {
 // 기사 세부 정보 추출
 async function extractArticleDetails(url) {
   try {
-    const response = await axios.get(url, { responseEncoding: 'euc-kr' });
-    const $ = cheerio.load(response.data);
+    const response = await axios.get(url, { responseType: 'arraybuffer' }); // 바이너리 데이터로 받음
+    const decodedData = iconv.decode(Buffer.from(response.data), 'euc-kr'); // euc-kr 디코딩
+    const $ = cheerio.load(decodedData);
     const summary = $('div.article_txt').text().trim() || '';
     return summary;
   } catch (error) {
@@ -46,8 +48,9 @@ async function processArticle($, element, keywords, existingNews) {
 // 페이지 크롤링
 async function crawlPage(url, keywords, existingNews) {
   try {
-    const response = await axios.get(url, { responseEncoding: 'euc-kr' });
-    const $ = cheerio.load(response.data);
+    const response = await axios.get(url, { responseType: 'arraybuffer' });
+    const decodedData = iconv.decode(Buffer.from(response.data), 'euc-kr');
+    const $ = cheerio.load(decodedData);
     const elements = $('div.picarticle a');
     const newArticles = [];
 
