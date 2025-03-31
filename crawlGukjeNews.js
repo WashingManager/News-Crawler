@@ -69,6 +69,26 @@ async function crawlPage(url, keywords, existingNews, page = 1) {
   }
 }
 
+async function crawlPage(url, keywords, existingNews) {
+  try {
+    const response = await axios.get(url);
+    const $ = cheerio.load(response.data);
+    const elements = $('div.list-block');
+    console.log(`Found ${elements.length} elements in ${url}`);
+    const newArticles = [];
+    elements.each((i, elem) => {
+      const article = processArticle($, elem, keywords, existingNews);
+      if (article) newArticles.push(article);
+      else console.log(`Article filtered out at index ${i}`);
+    });
+    console.log(`URL ${url}에서 ${newArticles.length}개 기사 수집`);
+    return newArticles;
+  } catch (error) {
+    console.error(`페이지 크롤링 실패 (${url}):`, error);
+    return [];
+  }
+}
+
 // 메인 실행 함수
 async function crawlGukjeNews() {
   const keywords = getKeywords();
