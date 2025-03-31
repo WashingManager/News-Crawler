@@ -85,6 +85,7 @@ async function crawlPage(url, keywords, existingNews, page = 1) {
 // 메인 실행 함수
 async function crawlGukjeNews() {
   const keywords = getKeywords();
+  console.log(`Keywords: ${keywords}`);
   const existingNews = await loadExistingNews();
   let allNewArticles = [];
 
