@@ -7,16 +7,16 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    permissions: # 권한 추가
-      contents: write # 리포지토리 쓰기 권한
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # 기본 토큰 사용
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18' # 16 -> 18로 업그레이드
       - name: Install Dependencies
         run: npm install
       - name: Run Crawlers
