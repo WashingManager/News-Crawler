@@ -3,33 +3,30 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const { getKeywords } = require('./keyword.js');
 
-// 엔드포인트 목록
 const GLOBAL_ENDPOINTS = [
-  'https://news.daum.net/global', // 국제
-  'https://news.daum.net/china', // 중국
-  'https://news.daum.net/northamerica', // 북미
-  'https://news.daum.net/japan', // 일본
-  'https://news.daum.net/asia', // 아시아/오세아니아
-  'https://news.daum.net/arab', // 중동/아랍
-  'https://news.daum.net/europe', // 유럽
-  'https://news.daum.net/southamerica', // 중남미
-  'https://news.daum.net/africa', // 아프리카
-  'https://news.daum.net/topic' // 해외화제
+  'https://news.daum.net/global',
+  'https://news.daum.net/china',
+  'https://news.daum.net/northamerica',
+  'https://news.daum.net/japan',
+  'https://news.daum.net/asia',
+  'https://news.daum.net/arab',
+  'https://news.daum.net/europe',
+  'https://news.daum.net/southamerica',
+  'https://news.daum.net/africa',
+  'https://news.daum.net/topic'
 ];
 
 const GENERAL_ENDPOINTS = [
-  'https://news.daum.net/politics', // 정치
-  'https://news.daum.net/society', // 사회
-  'https://news.daum.net/economy', // 경제
-  'https://news.daum.net/climate' // 기후
+  'https://news.daum.net/politics',
+  'https://news.daum.net/society',
+  'https://news.daum.net/economy',
+  'https://news.daum.net/climate'
 ];
 
-const SPECIAL_ENDPOINT = 'https://issue.daum.net/focus/241203'; // 한시적 특집
+const SPECIAL_ENDPOINT = 'https://issue.daum.net/focus/241203';
 
-// 지연 함수 (ms 단위로 대기)
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
-// 크롤링 함수
 async function crawlNews() {
   try {
     let existingNews = [];
@@ -40,7 +37,6 @@ async function crawlNews() {
     const keywords = getKeywords();
     const newsItems = [];
 
-    // 글로벌 엔드포인트 크롤링
     for (const url of GLOBAL_ENDPOINTS) {
       const category = url.split('/').pop();
       try {
@@ -51,19 +47,19 @@ async function crawlNews() {
           const title = $(elem).find('.tit_txt').text().trim();
           const link = $(elem).attr('href');
           const time = $(elem).find('.txt_info').last().text().trim();
+          const imgSrc = $(elem).find('.wrap_thumb img').attr('src') || $(elem).find('.wrap_thumb source').attr('srcset') || '';
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-            newsItems.push({ title, time, link, category });
+            newsItems.push({ title, time, link, category, imgSrc });
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
       } catch (error) {
         console.error(`Error crawling ${category}:`, error.message);
       }
-      await delay(2000); // 2초 대기
+      await delay(2000);
     }
 
-    // 종합 엔드포인트 크롤링
     for (const url of GENERAL_ENDPOINTS) {
       const category = url.split('/').pop();
       try {
@@ -74,19 +70,19 @@ async function crawlNews() {
           const title = $(elem).find('.tit_txt').text().trim();
           const link = $(elem).attr('href');
           const time = $(elem).find('.txt_info').last().text().trim();
+          const imgSrc = $(elem).find('.wrap_thumb img').attr('src') || $(elem).find('.wrap_thumb source').attr('srcset') || '';
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-            newsItems.push({ title, time, link, category });
+            newsItems.push({ title, time, link, category, imgSrc });
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
       } catch (error) {
         console.error(`Error crawling ${category}:`, error.message);
       }
-      await delay(2000); // 2초 대기
+      await delay(2000);
     }
 
-    // 특집 엔드포인트 크롤링
     try {
       const specialResponse = await axios.get(SPECIAL_ENDPOINT);
       const $special = cheerio.load(specialResponse.data);
@@ -94,9 +90,10 @@ async function crawlNews() {
         const title = $special(elem).find('.tit_txt').text().trim();
         const link = $special(elem).attr('href');
         const time = $special(elem).find('.txt_info').last().text().trim();
+        const imgSrc = $special(elem).find('.wrap_thumb img').attr('src') || $special(elem).find('.wrap_thumb source').attr('srcset') || '';
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-          newsItems.push({ title, time, link, category: 'special' });
+          newsItems.push({ title, time, link, category: 'special', imgSrc });
         }
       });
       console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
@@ -105,7 +102,7 @@ async function crawlNews() {
     }
 
     const newNews = newsItems.filter(item => !existingNews.some(existing => existing.link === item.link));
-    const updatedNews = [...newNews, ...existingNews]; // 슬라이스 제거 또는 제한 늘리기
+    const updatedNews = [...newNews, ...existingNews];
     fs.writeFileSync('news.json', JSON.stringify(updatedNews, null, 2));
     console.log(`News updated successfully: ${newNews.length} new items added, Total items: ${updatedNews.length}`);
   } catch (error) {
