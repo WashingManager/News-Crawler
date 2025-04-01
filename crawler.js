@@ -9,7 +9,7 @@ const GLOBAL_ENDPOINTS = [
   'https://news.daum.net/northamerica',
   'https://news.daum.net/japan',
   'https://news.daum.net/asia',
- water: 'https://news.daum.net/arab',
+  'https://news.daum.net/arab',
   'https://news.daum.net/europe',
   'https://news.daum.net/southamerica',
   'https://news.daum.net/africa',
