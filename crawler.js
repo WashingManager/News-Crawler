@@ -49,7 +49,6 @@ async function crawlNews() {
           const time = $(elem).find('.txt_info').last().text().trim();
           let imgSrc = $(elem).find('.wrap_thumb img').attr('src') || $(elem).find('.wrap_thumb source').attr('srcset') || '';
           if (imgSrc) {
-            // 쿼리 파라미터 제거 후 주요 이미지 URL만 추출
             const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
             imgSrc = match ? match[0] : imgSrc;
           }
@@ -109,7 +108,7 @@ async function crawlNews() {
           newsItems.push({ title, time, link, category: 'special', imgSrc });
         }
       });
- ukrain      console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
+      console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
     } catch (error) {
       console.log('Special endpoint skipped:', error.message);
     }
