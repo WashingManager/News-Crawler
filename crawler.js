@@ -3,7 +3,27 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const { getKeywords } = require('./keyword.js');
 
-const URL = 'https://news.daum.net/global?nil_profile=mini&nil_src=news';
+const GLOBAL_ENDPOINTS = [
+  'https://news.daum.net/global', // 국제
+  'https://news.daum.net/china', // 중국
+  'https://news.daum.net/northamerica', // 북미
+  'https://news.daum.net/japan', // 일본
+  'https://news.daum.net/asia', // 아시아/오세아니아
+  'https://news.daum.net/arab', // 중동/아랍
+  'https://news.daum.net/europe', // 유럽
+  'https://news.daum.net/southamerica', // 중남미
+  'https://news.daum.net/africa', // 아프리카
+  'https://news.daum.net/topic' // 해외화제
+];
+
+const GENERAL_ENDPOINTS = [
+  'https://news.daum.net/politics', // 정치
+  'https://news.daum.net/society', // 사회
+  'https://news.daum.net/economy', // 경제
+  'https://news.daum.net/climate' // 기후
+];
+
+const SPECIAL_ENDPOINT = 'https://issue.daum.net/focus/241203'; // 한시적 특집
 
 async function crawlNews() {
   try {
@@ -13,24 +33,60 @@ async function crawlNews() {
     }
 
     const keywords = getKeywords();
-    const response = await axios.get(URL);
-    const $ = cheerio.load(response.data);
-
     const newsItems = [];
-    $('.list_newsheadline2 .item_newsheadline2, .list_newsbasic .item_newsbasic').each((i, elem) => {
-      const title = $(elem).find('.tit_txt').text().trim();
-      const link = $(elem).attr('href');
-      const time = $(elem).find('.txt_info').last().text().trim();
 
-      if (keywords.some(keyword => title.includes(keyword))) {
-        newsItems.push({ title, time, link });
-      }
-    });
+    // 글로벌 엔드포인트 크롤링
+    for (const url of GLOBAL_ENDPOINTS) {
+      const category = url.split('/').pop();
+      const response = await axios.get(url);
+      const $ = cheerio.load(response.data);
 
-    const newNews = newsItems.filter(item => 
-      !existingNews.some(existing => existing.link === item.link)
-    );
+      $('.list_newsheadline2 .item_newsheadline2, .list_newsbasic .item_newsbasic').each((i, elem) => {
+        const title = $(elem).find('.tit_txt').text().trim();
+        const link = $(elem).attr('href');
+        const time = $(elem).find('.txt_info').last().text().trim();
 
+        if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+          newsItems.push({ title, time, link, category });
+        }
+      });
+    }
+
+    // 종합 엔드포인트 크롤링
+    for (const url of GENERAL_ENDPOINTS) {
+      const category = url.split('/').pop();
+      const response = await axios.get(url);
+      const $ = cheerio.load(response.data);
+
+      $('.box_comp.box_news_headline2 .item_newsheadline2, .box_comp.box_news_block .item_newsblock').each((i, elem) => {
+        const title = $(elem).find('.tit_txt').text().trim();
+        const link = $(elem).attr('href');
+        const time = $(elem).find('.txt_info').last().text().trim();
+
+        if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+          newsItems.push({ title, time, link, category });
+        }
+      });
+    }
+
+    // 특집 엔드포인트 크롤링 (존재 시)
+    try {
+      const specialResponse = await axios.get(SPECIAL_ENDPOINT);
+      const $special = cheerio.load(specialResponse.data);
+      $special('.list_newsbasic .item_newsbasic').each((i, elem) => {
+        const title = $special(elem).find('.tit_txt').text().trim();
+        const link = $special(elem).attr('href');
+        const time = $special(elem).find('.txt_info').last().text().trim();
+
+        if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+          newsItems.push({ title, time, link, category: 'special' });
+        }
+      });
+    } catch (e) {
+      console.log('Special endpoint skipped:', e.message);
+    }
+
+    const newNews = newsItems.filter(item => !existingNews.some(existing => existing.link === item.link));
     const updatedNews = [...newNews, ...existingNews].slice(0, 50);
     fs.writeFileSync('news.json', JSON.stringify(updatedNews, null, 2));
     console.log(`News updated successfully: ${newNews.length} new items added`);
