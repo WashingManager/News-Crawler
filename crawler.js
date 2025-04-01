@@ -3,6 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const { getKeywords } = require('./keyword.js');
 
+// 엔드포인트 목록
 const GLOBAL_ENDPOINTS = [
   'https://news.daum.net/global', // 국제
   'https://news.daum.net/china', // 중국
@@ -25,6 +26,10 @@ const GENERAL_ENDPOINTS = [
 
 const SPECIAL_ENDPOINT = 'https://issue.daum.net/focus/241203'; // 한시적 특집
 
+// 지연 함수 (ms 단위로 대기)
+const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
+
+// 크롤링 함수
 async function crawlNews() {
   try {
     let existingNews = [];
@@ -38,38 +43,50 @@ async function crawlNews() {
     // 글로벌 엔드포인트 크롤링
     for (const url of GLOBAL_ENDPOINTS) {
       const category = url.split('/').pop();
-      const response = await axios.get(url);
-      const $ = cheerio.load(response.data);
+      try {
+        const response = await axios.get(url);
+        const $ = cheerio.load(response.data);
 
-      $('.list_newsheadline2 .item_newsheadline2, .list_newsbasic .item_newsbasic').each((i, elem) => {
-        const title = $(elem).find('.tit_txt').text().trim();
-        const link = $(elem).attr('href');
-        const time = $(elem).find('.txt_info').last().text().trim();
+        $('.list_newsheadline2 .item_newsheadline2, .list_newsbasic .item_newsbasic').each((i, elem) => {
+          const title = $(elem).find('.tit_txt').text().trim();
+          const link = $(elem).attr('href');
+          const time = $(elem).find('.txt_info').last().text().trim();
 
-        if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-          newsItems.push({ title, time, link, category });
-        }
-      });
+          if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+            newsItems.push({ title, time, link, category });
+          }
+        });
+        console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
+      } catch (error) {
+        console.error(`Error crawling ${category}:`, error.message);
+      }
+      await delay(2000); // 2초 대기
     }
 
     // 종합 엔드포인트 크롤링
     for (const url of GENERAL_ENDPOINTS) {
       const category = url.split('/').pop();
-      const response = await axios.get(url);
-      const $ = cheerio.load(response.data);
+      try {
+        const response = await axios.get(url);
+        const $ = cheerio.load(response.data);
 
-      $('.box_comp.box_news_headline2 .item_newsheadline2, .box_comp.box_news_block .item_newsblock').each((i, elem) => {
-        const title = $(elem).find('.tit_txt').text().trim();
-        const link = $(elem).attr('href');
-        const time = $(elem).find('.txt_info').last().text().trim();
+        $('.box_comp.box_news_headline2 .item_newsheadline2, .box_comp.box_news_block .item_newsblock').each((i, elem) => {
+          const title = $(elem).find('.tit_txt').text().trim();
+          const link = $(elem).attr('href');
+          const time = $(elem).find('.txt_info').last().text().trim();
 
-        if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-          newsItems.push({ title, time, link, category });
-        }
-      });
+          if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+            newsItems.push({ title, time, link, category });
+          }
+        });
+        console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
+      } catch (error) {
+        console.error(`Error crawling ${category}:`, error.message);
+      }
+      await delay(2000); // 2초 대기
     }
 
-    // 특집 엔드포인트 크롤링 (존재 시)
+    // 특집 엔드포인트 크롤링
     try {
       const specialResponse = await axios.get(SPECIAL_ENDPOINT);
       const $special = cheerio.load(specialResponse.data);
@@ -82,8 +99,9 @@ async function crawlNews() {
           newsItems.push({ title, time, link, category: 'special' });
         }
       });
-    } catch (e) {
-      console.log('Special endpoint skipped:', e.message);
+      console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
+    } catch (error) {
+      console.log('Special endpoint skipped:', error.message);
     }
 
     const newNews = newsItems.filter(item => !existingNews.some(existing => existing.link === item.link));
