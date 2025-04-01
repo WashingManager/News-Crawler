@@ -168,7 +168,7 @@ async function crawlNews() {
     for (let i = 0; i < newsItems.length; i++) {
       if (!newsItems[i].imgSrc) {
         newsItems[i].imgSrc = await fetchImageFromArticle(newsItems[i].link);
-        console.log(`Fetched image for "${newsItems[i].title}": ${newsItems[i].imgSrc}`);
+        //console.log(`Fetched image for "${newsItems[i].title}": ${newsItems[i].imgSrc}`);
         await delay(1000);
       }
     }
