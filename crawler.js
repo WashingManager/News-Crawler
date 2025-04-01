@@ -76,9 +76,9 @@ async function crawlNews() {
               const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
-            console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+            //console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
           } else {
-            console.log(`No .wrap_thumb found for "${title}" in ${category}`);
+            //console.log(`No .wrap_thumb found for "${title}" in ${category}`);
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
@@ -113,9 +113,9 @@ async function crawlNews() {
               const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
-            console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+            //console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
           } else {
-            console.log(`No .wrap_thumb found for "${title}" in ${category}`);
+            //console.log(`No .wrap_thumb found for "${title}" in ${category}`);
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
