@@ -32,11 +32,14 @@ async function fetchImageFromArticle(url) {
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
-    const imgSrc = $('article img.thumb_g_article').attr('src');
+    const imgSrc = $('.thumb_g_article').attr('src'); // <article> 제한 제거
     if (imgSrc) {
-      const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
-      return match ? match[0] : imgSrc;
+      const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/); // img1, img3 등 모두 포함
+      console.log(`Raw image src from ${url}: ${imgSrc}`);
+      console.log(`Matched: ${match ? match[0] : 'none'}`);
+      return match ? match[0] : imgSrc; // 정규식 실패 시 원본 URL 반환
     }
+    console.log(`No thumb_g_article found in ${url}`);
     return '';
   } catch (error) {
     console.error(`Error fetching image from article ${url}:`, error.message);
@@ -69,7 +72,7 @@ async function crawlNews() {
           if (wrapThumb.length) {
             imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
             if (imgSrc) {
-              const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+              const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
           }
@@ -101,7 +104,7 @@ async function crawlNews() {
           if (wrapThumb.length) {
             imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
             if (imgSrc) {
-              const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+              const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
           }
@@ -130,7 +133,7 @@ async function crawlNews() {
         if (wrapThumb.length) {
           imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
           if (imgSrc) {
-            const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+            const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
             imgSrc = match ? match[0] : imgSrc;
           }
         }
