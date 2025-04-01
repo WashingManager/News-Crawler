@@ -82,7 +82,7 @@ async function crawlNews() {
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-            console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
+            //console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
             newsItems.push({ title, time, link, category, imgSrc });
           } else {
             console.log(`Skipped "${title}" - No keyword match or duplicate`);
@@ -119,7 +119,7 @@ async function crawlNews() {
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-            console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
+            //console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
             newsItems.push({ title, time, link, category, imgSrc });
           } else {
             console.log(`Skipped "${title}" - No keyword match or duplicate`);
@@ -153,7 +153,7 @@ async function crawlNews() {
         }
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
-          console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
+          //console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
           newsItems.push({ title, time, link, category: 'special', imgSrc });
         } else {
           //console.log(`Skipped "${title}" - No keyword match or duplicate`);
