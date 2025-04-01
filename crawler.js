@@ -9,7 +9,7 @@ const GLOBAL_ENDPOINTS = [
   'https://news.daum.net/northamerica',
   'https://news.daum.net/japan',
   'https://news.daum.net/asia',
-  'https://news.daum.net/arab',
+ water: 'https://news.daum.net/arab',
   'https://news.daum.net/europe',
   'https://news.daum.net/southamerica',
   'https://news.daum.net/africa',
@@ -47,14 +47,19 @@ async function crawlNews() {
           const title = $(elem).find('.tit_txt').text().trim();
           const link = $(elem).attr('href');
           const time = $(elem).find('.txt_info').last().text().trim();
-          let imgSrc = $(elem).find('.wrap_thumb img').attr('src') || $(elem).find('.wrap_thumb source').attr('srcset') || '';
-          if (imgSrc) {
-            const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
-            imgSrc = match ? match[0] : imgSrc;
+          const wrapThumb = $(elem).find('.wrap_thumb');
+          let imgSrc = '';
+          if (wrapThumb.length) {
+            imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
+            if (imgSrc) {
+              const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+              imgSrc = match ? match[0] : imgSrc;
+            }
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
             newsItems.push({ title, time, link, category, imgSrc });
+            if (!imgSrc) console.log(`No image found for "${title}" in ${category}`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -74,14 +79,19 @@ async function crawlNews() {
           const title = $(elem).find('.tit_txt').text().trim();
           const link = $(elem).attr('href');
           const time = $(elem).find('.txt_info').last().text().trim();
-          let imgSrc = $(elem).find('.wrap_thumb img').attr('src') || $(elem).find('.wrap_thumb source').attr('srcset') || '';
-          if (imgSrc) {
-            const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
-            imgSrc = match ? match[0] : imgSrc;
+          const wrapThumb = $(elem).find('.wrap_thumb');
+          let imgSrc = '';
+          if (wrapThumb.length) {
+            imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
+            if (imgSrc) {
+              const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+              imgSrc = match ? match[0] : imgSrc;
+            }
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
             newsItems.push({ title, time, link, category, imgSrc });
+            if (!imgSrc) console.log(`No image found for "${title}" in ${category}`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -98,14 +108,19 @@ async function crawlNews() {
         const title = $special(elem).find('.tit_txt').text().trim();
         const link = $special(elem).attr('href');
         const time = $special(elem).find('.txt_info').last().text().trim();
-        let imgSrc = $special(elem).find('.wrap_thumb img').attr('src') || $special(elem).find('.wrap_thumb source').attr('srcset') || '';
-        if (imgSrc) {
-          const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
-          imgSrc = match ? match[0] : imgSrc;
+        const wrapThumb = $special(elem).find('.wrap_thumb');
+        let imgSrc = '';
+        if (wrapThumb.length) {
+          imgSrc = wrapThumb.find('source').attr('srcset') || wrapThumb.find('img').attr('src') || '';
+          if (imgSrc) {
+            const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+            imgSrc = match ? match[0] : imgSrc;
+          }
         }
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
           newsItems.push({ title, time, link, category: 'special', imgSrc });
+          if (!imgSrc) console.log(`No image found for "${title}" in special`);
         }
       });
       console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
