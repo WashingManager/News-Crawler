@@ -105,9 +105,9 @@ async function crawlNews() {
     }
 
     const newNews = newsItems.filter(item => !existingNews.some(existing => existing.link === item.link));
-    const updatedNews = [...newNews, ...existingNews].slice(0, 50);
+    const updatedNews = [...newNews, ...existingNews]; // 슬라이스 제거 또는 제한 늘리기
     fs.writeFileSync('news.json', JSON.stringify(updatedNews, null, 2));
-    console.log(`News updated successfully: ${newNews.length} new items added`);
+    console.log(`News updated successfully: ${newNews.length} new items added, Total items: ${updatedNews.length}`);
   } catch (error) {
     console.error('Error crawling news:', error);
   }
