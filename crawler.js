@@ -27,6 +27,23 @@ const SPECIAL_ENDPOINT = 'https://issue.daum.net/focus/241203';
 
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
+// 기사 본문에서 이미지 URL을 가져오는 함수
+async function fetchImageFromArticle(url) {
+  try {
+    const response = await axios.get(url);
+    const $ = cheerio.load(response.data);
+    const imgSrc = $('article img.thumb_g_article').attr('src');
+    if (imgSrc) {
+      const match = imgSrc.match(/https:\/\/img1\.daumcdn\.net\/thumb\/[^?]+/);
+      return match ? match[0] : imgSrc;
+    }
+    return '';
+  } catch (error) {
+    console.error(`Error fetching image from article ${url}:`, error.message);
+    return '';
+  }
+}
+
 async function crawlNews() {
   try {
     let existingNews = [];
@@ -59,7 +76,7 @@ async function crawlNews() {
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
             newsItems.push({ title, time, link, category, imgSrc });
-            if (!imgSrc) console.log(`No image found for "${title}" in ${category}`);
+            if (!imgSrc) console.log(`No image found in list for "${title}" in ${category}`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -91,7 +108,7 @@ async function crawlNews() {
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
             newsItems.push({ title, time, link, category, imgSrc });
-            if (!imgSrc) console.log(`No image found for "${title}" in ${category}`);
+            if (!imgSrc) console.log(`No image found in list for "${title}" in ${category}`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -120,12 +137,21 @@ async function crawlNews() {
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
           newsItems.push({ title, time, link, category: 'special', imgSrc });
-          if (!imgSrc) console.log(`No image found for "${title}" in special`);
+          if (!imgSrc) console.log(`No image found in list for "${title}" in special`);
         }
       });
       console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
     } catch (error) {
       console.log('Special endpoint skipped:', error.message);
+    }
+
+    // 이미지 없는 기사에 대해 본문에서 이미지 크롤링
+    for (let i = 0; i < newsItems.length; i++) {
+      if (!newsItems[i].imgSrc) {
+        newsItems[i].imgSrc = await fetchImageFromArticle(newsItems[i].link);
+        console.log(`Fetched image for "${newsItems[i].title}": ${newsItems[i].imgSrc}`);
+        await delay(1000); // 추가 요청 간 1초 대기
+      }
     }
 
     const newNews = newsItems.filter(item => !existingNews.some(existing => existing.link === item.link));
