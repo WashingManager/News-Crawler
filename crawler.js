@@ -35,11 +35,11 @@ async function fetchImageFromArticle(url) {
     const imgSrc = $('.thumb_g_article').attr('src');
     if (imgSrc) {
       const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
-      console.log(`Raw image src from ${url}: ${imgSrc}`);
-      console.log(`Matched: ${match ? match[0] : 'none'}`);
+      //console.log(`Raw image src from ${url}: ${imgSrc}`);
+      //console.log(`Matched: ${match ? match[0] : 'none'}`);
       return match ? match[0] : imgSrc;
     }
-    console.log(`No thumb_g_article found in ${url}`);
+    //console.log(`No thumb_g_article found in ${url}`);
     return '';
   } catch (error) {
     console.error(`Error fetching image from article ${url}:`, error.message);
@@ -55,7 +55,7 @@ async function crawlNews() {
     }
 
     const keywords = getKeywords();
-    console.log('Keywords:', keywords); // 키워드 확인
+    //console.log('Keywords:', keywords); // 키워드 확인
     const newsItems = [];
 
     for (const url of GLOBAL_ENDPOINTS) {
@@ -147,19 +147,19 @@ async function crawlNews() {
             const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
             imgSrc = match ? match[0] : imgSrc;
           }
-          console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+          //console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
         } else {
-          console.log(`No .wrap_thumb found for "${title}" in special`);
+          //console.log(`No .wrap_thumb found for "${title}" in special`);
         }
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
           console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
           newsItems.push({ title, time, link, category: 'special', imgSrc });
         } else {
-          console.log(`Skipped "${title}" - No keyword match or duplicate`);
+          //console.log(`Skipped "${title}" - No keyword match or duplicate`);
         }
       });
-      console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
+      //console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
     } catch (error) {
       console.log('Special endpoint skipped:', error.message);
     }
