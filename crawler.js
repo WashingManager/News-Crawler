@@ -32,12 +32,12 @@ async function fetchImageFromArticle(url) {
   try {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
-    const imgSrc = $('.thumb_g_article').attr('src'); // <article> 제한 제거
+    const imgSrc = $('.thumb_g_article').attr('src');
     if (imgSrc) {
-      const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/); // img1, img3 등 모두 포함
+      const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
       console.log(`Raw image src from ${url}: ${imgSrc}`);
       console.log(`Matched: ${match ? match[0] : 'none'}`);
-      return match ? match[0] : imgSrc; // 정규식 실패 시 원본 URL 반환
+      return match ? match[0] : imgSrc;
     }
     console.log(`No thumb_g_article found in ${url}`);
     return '';
@@ -55,6 +55,7 @@ async function crawlNews() {
     }
 
     const keywords = getKeywords();
+    console.log('Keywords:', keywords); // 키워드 확인
     const newsItems = [];
 
     for (const url of GLOBAL_ENDPOINTS) {
@@ -75,11 +76,16 @@ async function crawlNews() {
               const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
+            console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+          } else {
+            console.log(`No .wrap_thumb found for "${title}" in ${category}`);
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+            console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
             newsItems.push({ title, time, link, category, imgSrc });
-            if (!imgSrc) console.log(`No image found in list for "${title}" in ${category}`);
+          } else {
+            console.log(`Skipped "${title}" - No keyword match or duplicate`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -107,11 +113,16 @@ async function crawlNews() {
               const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
               imgSrc = match ? match[0] : imgSrc;
             }
+            console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+          } else {
+            console.log(`No .wrap_thumb found for "${title}" in ${category}`);
           }
 
           if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+            console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
             newsItems.push({ title, time, link, category, imgSrc });
-            if (!imgSrc) console.log(`No image found in list for "${title}" in ${category}`);
+          } else {
+            console.log(`Skipped "${title}" - No keyword match or duplicate`);
           }
         });
         console.log(`Crawled ${category}: ${newsItems.filter(item => item.category === category).length} items`);
@@ -136,11 +147,16 @@ async function crawlNews() {
             const match = imgSrc.match(/https:\/\/img[0-9]\.daumcdn\.net\/thumb\/[^?]+/);
             imgSrc = match ? match[0] : imgSrc;
           }
+          console.log(`Found imgSrc in list for "${title}": ${imgSrc}`);
+        } else {
+          console.log(`No .wrap_thumb found for "${title}" in special`);
         }
 
         if (keywords.some(keyword => title.includes(keyword)) && !newsItems.some(item => item.link === link)) {
+          console.log(`Pushing item: ${title}, imgSrc: ${imgSrc}`);
           newsItems.push({ title, time, link, category: 'special', imgSrc });
-          if (!imgSrc) console.log(`No image found in list for "${title}" in special`);
+        } else {
+          console.log(`Skipped "${title}" - No keyword match or duplicate`);
         }
       });
       console.log(`Crawled special: ${newsItems.filter(item => item.category === 'special').length} items`);
@@ -153,7 +169,7 @@ async function crawlNews() {
       if (!newsItems[i].imgSrc) {
         newsItems[i].imgSrc = await fetchImageFromArticle(newsItems[i].link);
         console.log(`Fetched image for "${newsItems[i].title}": ${newsItems[i].imgSrc}`);
-        await delay(1000); // 추가 요청 간 1초 대기
+        await delay(1000);
       }
     }
 
