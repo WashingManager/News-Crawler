@@ -1,5 +1,929 @@
 [
   {
+    "title": "이스라엘군, 적신월사 구급대원 등 15명 학살 후 집단매장",
+    "time": "4분 전",
+    "link": "https://v.daum.net/v/20250401140601688",
+    "category": "global"
+  },
+  {
+    "title": "외신도 헌재 '윤 대통령 탄핵 선고일 지정' 긴급 타전",
+    "time": "1분 전",
+    "link": "https://v.daum.net/v/20250401140903819",
+    "category": "global"
+  },
+  {
+    "title": "방콕 지진서 무너지는 52층 다리 뛰어넘어 가족에게 간 한국인",
+    "time": "1분 전",
+    "link": "https://v.daum.net/v/20250401140902817",
+    "category": "global"
+  },
+  {
+    "title": "日 연구소 “트럼프 관세로 세계 GDP 1120조원 증발”",
+    "time": "1분 전",
+    "link": "https://v.daum.net/v/20250401140901816",
+    "category": "global"
+  },
+  {
+    "title": "말레이 쿠알라룸푸르서 주유소 주변 가스관 폭발로 화재…33명 부상",
+    "time": "3분 전",
+    "link": "https://v.daum.net/v/20250401140716763",
+    "category": "global"
+  },
+  {
+    "title": "'편의점 알바' 전처 살해…불까지 지르고 도주한 30대 체포(종합)",
+    "time": "12분 전",
+    "link": "https://v.daum.net/v/20250401135833280",
+    "category": "global"
+  },
+  {
+    "title": "\"美 상무·재무부도 오늘 보고서 발표\"…중국 우대국 지위 거론할 듯",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401113025377",
+    "category": "china"
+  },
+  {
+    "title": "중국, 6개월 만에 '대만 포위' 훈련…\"독립 세력에 경고\"",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401110310857",
+    "category": "china"
+  },
+  {
+    "title": "왕이 \"러·우 평화 아직 멀어…中, 글로벌 사우스와 건설적 역할\"",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401103712344",
+    "category": "china"
+  },
+  {
+    "title": "중국, 50년 만에 3년 연속 디플레이션 위기…“돈 쓰라면서 일은 안 줘”",
+    "time": "7시간 전",
+    "link": "https://v.daum.net/v/20250401070513037",
+    "category": "china"
+  },
+  {
+    "title": "MS 출신 연구자도, 구글 AI 전문가도… 중국으로 ‘유턴’",
+    "time": "14시간 전",
+    "link": "https://v.daum.net/v/20250401003111472",
+    "category": "china"
+  },
+  {
+    "title": "中 스마트폰시장 1위 탈환 화웨이, 사상 두번째 매출",
+    "time": "21시간 전",
+    "link": "https://v.daum.net/v/20250331171620429",
+    "category": "china"
+  },
+  {
+    "title": "중, 4대 국유은행에 ‘105조원’ 공적자금",
+    "time": "17시간 전",
+    "link": "https://v.daum.net/v/20250331205320091",
+    "category": "china"
+  },
+  {
+    "title": "中, 심층·초심층 유전 발견…‘매장량 1억t, 1000만명이 20년 사용’",
+    "time": "19시간 전",
+    "link": "https://v.daum.net/v/20250331185211731",
+    "category": "china"
+  },
+  {
+    "title": "10월에 경주 온다는 中시진핑, 4월 동남아 3개국 순방 예정",
+    "time": "22시간 전",
+    "link": "https://v.daum.net/v/20250331162323904",
+    "category": "china"
+  },
+  {
+    "title": "美 -5.1%, 中 18.1%…희비 엇갈린 양국 증시",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331112040718",
+    "category": "china"
+  },
+  {
+    "title": "“시진핑, APEC 참석 의향 한국에 전달”",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330185011166",
+    "category": "china"
+  },
+  {
+    "title": "시진핑, 한국 오나…일 “중국, ‘경주 APEC’ 참석 뜻 한국에 전달”",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330140505914",
+    "category": "china"
+  },
+  {
+    "title": "트럼프發 관세 폭탄, 부산시 정면 돌파··· ‘비상수출 대책 2.0’ 추진",
+    "time": "방금 전",
+    "link": "https://v.daum.net/v/20250401140940843",
+    "category": "northamerica"
+  },
+  {
+    "title": "트럼프 장·차남, 가상화폐 채굴업체 투자 나서",
+    "time": "4분 전",
+    "link": "https://v.daum.net/v/20250401140620705",
+    "category": "northamerica"
+  },
+  {
+    "title": "트럼프 \"상호관세 이르면 1일 밤 공개\"…최대 관심사는 대상국가",
+    "time": "19분 전",
+    "link": "https://v.daum.net/v/20250401135136037",
+    "category": "northamerica"
+  },
+  {
+    "title": "[데스크의 눈] '이빨요정' 빗댄 버핏의 '트럼프 관세' 경고",
+    "time": "34분 전",
+    "link": "https://v.daum.net/v/20250401133550534",
+    "category": "northamerica"
+  },
+  {
+    "title": "제조기업 60%, '트럼프 관세' 영향권…\"경영상 큰 타격 불가피\"",
+    "time": "1시간 전",
+    "link": "https://v.daum.net/v/20250401130431607",
+    "category": "northamerica"
+  },
+  {
+    "title": "여성 전투 참여 반대한 헤그세스 美 국방, \"전투병과 체력 기준 성별 무관하게 통일\"",
+    "time": "1시간 전",
+    "link": "https://v.daum.net/v/20250401130052536",
+    "category": "northamerica"
+  },
+  {
+    "title": "상호관세 압박한 트럼프…\"푸틴에 화났다\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401115814837",
+    "category": "northamerica"
+  },
+  {
+    "title": "美소비자 테슬라 부담되자 루시드 산다…주가 4% 급등",
+    "time": "26분 전",
+    "link": "https://v.daum.net/v/20250401134423771",
+    "category": "northamerica"
+  },
+  {
+    "title": "미국 빅3 자동차 “저가 부품은 빼달라”…관세 면제 막판 로비",
+    "time": "1시간 전",
+    "link": "https://v.daum.net/v/20250401124639317",
+    "category": "northamerica"
+  },
+  {
+    "title": "\"화장지 쓸어담아야 할 수도\"···벌벌 떠는 美국민들, 무슨 일?",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401121337596",
+    "category": "northamerica"
+  },
+  {
+    "title": "머스크, CIA 찾아 정부효율성 논의…랫클리프 국장 \"세금 존중\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401120355266",
+    "category": "northamerica"
+  },
+  {
+    "title": "美상호관세 D-1… 7쪽에 걸쳐 韓무역장벽 조목조목 지적",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401115729797",
+    "category": "northamerica"
+  },
+  {
+    "title": "미, 중국 스파이 색출 재개되나… 중국계 보안분야 교수 자택 수색",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401115122560",
+    "category": "northamerica"
+  },
+  {
+    "title": "日 우익 반발에…윤봉길 의사 추모관 개관 연기",
+    "time": "17분 전",
+    "link": "https://v.daum.net/v/20250401135259077",
+    "category": "japan"
+  },
+  {
+    "title": "일본 2월 실업률 2.4%·0.1%P '개선'…\"1인당 일자리 1.24개·0.02P↓\"",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401104857020",
+    "category": "japan"
+  },
+  {
+    "title": "“30년 안에 日 '규모 9' 난카이 대지진 온다”… 30만명 사망 예상",
+    "time": "8시간 전",
+    "link": "https://v.daum.net/v/20250401060110209",
+    "category": "japan"
+  },
+  {
+    "title": "‘양말 애호가’ 美국방장관, 日총리 면담 때 고른 색깔은?",
+    "time": "13시간 전",
+    "link": "https://v.daum.net/v/20250401013909852",
+    "category": "japan"
+  },
+  {
+    "title": "\"일본 놀러 가면 꼭 먹었는데\"···유명 덮밥집, '쥐' 이어 '바퀴벌레' 나오자 결국",
+    "time": "18시간 전",
+    "link": "https://v.daum.net/v/20250331201103350",
+    "category": "japan"
+  },
+  {
+    "title": "日, 규슈에 新 지대함 미사일 부대 창설",
+    "time": "19시간 전",
+    "link": "https://v.daum.net/v/20250331191002087",
+    "category": "japan"
+  },
+  {
+    "title": "일본, 미국 \"중국 견제 합심\"에 안도했지만… 알 수 없는 트럼프 속내에 불안",
+    "time": "22시간 전",
+    "link": "https://v.daum.net/v/20250331163018200",
+    "category": "japan"
+  },
+  {
+    "title": "[특파원 현장] ‘혐한’ 안 먹히자 일본 우익 새 타깃 된 ‘재일 쿠르드족’",
+    "time": "22시간 전",
+    "link": "https://v.daum.net/v/20250331155032394",
+    "category": "japan"
+  },
+  {
+    "title": "구니사키 반도에서 만난  ‘개천 용’ [임병식의 일본, 일본인 이야기]",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331105500084",
+    "category": "japan"
+  },
+  {
+    "title": "日 3대 규동체인 스키야 ‘바퀴벌레 파문’에 영업 일시중단",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331132653857",
+    "category": "japan"
+  },
+  {
+    "title": "이오지마에서 살아남은 100세 美노병 “일본 미워한 적 없어, 나쁜 건 전쟁”",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330151905544",
+    "category": "japan"
+  },
+  {
+    "title": "죽은 쥐 이어 바퀴까지… 전 매장 일시휴점 나선 日 스키야",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330131507020",
+    "category": "japan"
+  },
+  {
+    "title": "\"독도는 일본땅\" 벽보 옆에 나체사진 '착착'···때만 되면 보이는 日 선거벽보 사라지나",
+    "time": "3일 전",
+    "link": "https://v.daum.net/v/20250329174856870",
+    "category": "japan"
+  },
+  {
+    "title": "일본서 사랑받는 벚꽃, 國花일까",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250329012135980",
+    "category": "japan"
+  },
+  {
+    "title": "“50년후 국가별 1인당 GDP, 한국 21위 일본 45위 전망”",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328155147298",
+    "category": "japan"
+  },
+  {
+    "title": "\"파키스탄, 올해 중 난민 등 아프간인 300만명 추방 계획\"",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401111038231",
+    "category": "asia"
+  },
+  {
+    "title": "[미얀마 강진 현장] 군부 통제에 구호 차단…'반군 장악지' 진앙 참상 '깜깜이'",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401105333278",
+    "category": "asia"
+  },
+  {
+    "title": "태국 지진 속 ‘52층 점프’…가족 위해 뛰어든 ‘한국 아빠’",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401105001076",
+    "category": "asia"
+  },
+  {
+    "title": "인도네시아 해변 ‘악어 공포’…습격후 시신 물고 떠다녀 경악",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401110217816",
+    "category": "asia"
+  },
+  {
+    "title": "천연가스 비축 비상 걸린 유럽 \"가격 치솟아 혼란 우려\"",
+    "time": "24시간 전",
+    "link": "https://v.daum.net/v/20250331143016376",
+    "category": "europe"
+  },
+  {
+    "title": "트럼프 \"3선? 농담 아니야…할 방법 있다\"",
+    "time": "5시간 전",
+    "link": "https://v.daum.net/v/20250401093308856",
+    "category": "southamerica"
+  },
+  {
+    "title": "샌프란시스코 법원, 트럼프의 베네수엘라 이민 수십만명 추방계획에 제동",
+    "time": "5시간 전",
+    "link": "https://v.daum.net/v/20250401092429382",
+    "category": "southamerica"
+  },
+  {
+    "title": "'상호관세' 발표 앞두고…美, 韓 '비관세 무역장벽' 언급",
+    "time": "6시간 전",
+    "link": "https://v.daum.net/v/20250401083904726",
+    "category": "southamerica"
+  },
+  {
+    "title": "트럼프 \"김정은과 어느 시점에 뭔가 할 것…연락할 계획 있다\"",
+    "time": "6시간 전",
+    "link": "https://v.daum.net/v/20250401080841045",
+    "category": "southamerica"
+  },
+  {
+    "title": "'멕시코 한인 자부심' 한글학교…노후 건물 보수 위해 모금활동",
+    "time": "9시간 전",
+    "link": "https://v.daum.net/v/20250401044217261",
+    "category": "southamerica"
+  },
+  {
+    "title": "멕시코서 대규모 ‘불법 석유’ 적발…소비가 300억원 규모",
+    "time": "12시간 전",
+    "link": "https://v.daum.net/v/20250401021331913",
+    "category": "southamerica"
+  },
+  {
+    "title": "멕시코서 대규모 '불법 석유' 적발…소비가 300억 원 규모",
+    "time": "12시간 전",
+    "link": "https://v.daum.net/v/20250401015400867",
+    "category": "southamerica"
+  },
+  {
+    "title": "멕시코서 대규모 '불법 석유' 적발…소비가 300억원 규모",
+    "time": "12시간 전",
+    "link": "https://v.daum.net/v/20250401014243855",
+    "category": "southamerica"
+  },
+  {
+    "title": "'파나마항구 美에 매각 논란' CK허치슨, 통신사업 분사도 검토?(종합)",
+    "time": "20시간 전",
+    "link": "https://v.daum.net/v/20250331175838313",
+    "category": "southamerica"
+  },
+  {
+    "title": "“쓰레기 음식에 중독된 아이들”...심각한 비만에 ‘단짠과의 전쟁’ 선포한 멕시코",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331140617338",
+    "category": "southamerica"
+  },
+  {
+    "title": "민족갈등·권력투쟁 아프리카 內戰… 실상은 금·석유 걸린 錢爭[Global Window]",
+    "time": "5시간 전",
+    "link": "https://v.daum.net/v/20250401091809088",
+    "category": "africa"
+  },
+  {
+    "title": "중동·아프리카로 주무대 옮긴 中전기차… 트럼프 관세 반사익",
+    "time": "20시간 전",
+    "link": "https://v.daum.net/v/20250331181403807",
+    "category": "africa"
+  },
+  {
+    "title": "남수단 정부, '대통령 정적' 부통령 가택연금 확인",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250329002621664",
+    "category": "africa"
+  },
+  {
+    "title": "가지지구 휴전협상 재개되나…이집트 \"이스라엘로부터 긍정적 신호\"",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328142832149",
+    "category": "africa"
+  },
+  {
+    "title": "남수단 정부, 부통령 체포…연립정부 해체·내전 우려",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328112511598",
+    "category": "africa"
+  },
+  {
+    "title": "미국, 경찰책임자 등 홍콩 고위인사 6명 제재…“자치 훼손”",
+    "time": "10시간 전",
+    "link": "https://v.daum.net/v/20250401042103192",
+    "category": "africa"
+  },
+  {
+    "title": "美, 경찰책임자 등 홍콩 고위인사 6명 제재…\"자치 훼손\"",
+    "time": "11시간 전",
+    "link": "https://v.daum.net/v/20250401033047122",
+    "category": "africa"
+  },
+  {
+    "title": "이집트 홍해서 관광 잠수함 가라앉아 6명 사망",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330133007264",
+    "category": "africa"
+  },
+  {
+    "title": "또 발견된 왕의 무덤...주인은 3600년전 이집트 파라오 중 한 명",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328203900079",
+    "category": "africa"
+  },
+  {
+    "title": "노상방뇨 딱 걸린 맨유 전설…英 경찰 \"신고는 안 들어와\"",
+    "time": "25분 전",
+    "link": "https://v.daum.net/v/20250401134521822",
+    "category": "topic"
+  },
+  {
+    "title": "하노이 호안끼엠 호수의 상징물 '샤크 조' 이달 말 철거.. \"마지막 모습 사진으로\" 연일 북새통",
+    "time": "59분 전",
+    "link": "https://v.daum.net/v/20250401131147826",
+    "category": "topic"
+  },
+  {
+    "title": "美 버스 운전사, 승객과 말다툼하다 총 쏴…2명 사망",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401110442931",
+    "category": "topic"
+  },
+  {
+    "title": "'처녀 파티' 즐기던 美 여성…모르는 남성에 묻지마 폭행",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401110100733",
+    "category": "topic"
+  },
+  {
+    "title": "'추경 기싸움'…與 \"산불·AI부터 대응해야\" VS 野 \"민생 한계, 규모 늘려야\"",
+    "time": "10분 전",
+    "link": "https://v.daum.net/v/20250401140023399",
+    "category": "politics"
+  },
+  {
+    "title": "트럼프 \"北과 소통, '무언가' 한다\"…뭘 어떻게 하겠다는 건가",
+    "time": "29분 전",
+    "link": "https://v.daum.net/v/20250401134137708",
+    "category": "politics"
+  },
+  {
+    "title": "韓대행, 상법개정안에 거부권…“적극적 경영 저해 소지”",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401123824191",
+    "category": "politics"
+  },
+  {
+    "title": "“헌재 5:3은 아니다”…‘탄핵 아니면 4:4’ 무게추는 파면에",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401122504915",
+    "category": "politics"
+  },
+  {
+    "title": "韓 권한대행, 오늘 마은혁 임명 불투명…민주, 오후 비상대기",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114904440",
+    "category": "politics"
+  },
+  {
+    "title": "마은혁 향한 좌파·친북몰이…그 거짓과 망령의 실체",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401112506067",
+    "category": "politics"
+  },
+  {
+    "title": "\"`한국형 은퇴자 도시` 조성 위해 정부와 민간의 혁신적 협력 필요\"",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401111715589",
+    "category": "politics"
+  },
+  {
+    "title": "대통령실, 尹 선고 관련 “차분하게 헌재 결정 기다릴 것”",
+    "time": "33분 전",
+    "link": "https://v.daum.net/v/20250401133721571",
+    "category": "politics"
+  },
+  {
+    "title": "백혜련 \"尹, 파면되는 순간 보수 유튜버로 변신할 것\"[팩트앤뷰]",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401115631751",
+    "category": "politics"
+  },
+  {
+    "title": "영국 국방부 \"북한군 5000여명 사상\"… 돌격대의 총알받이 대가",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250401140318571",
+    "category": "politics"
+  },
+  {
+    "title": "조태열, 나토 외교장관회의 참석…韓 4년 연속 초청",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401121757700",
+    "category": "politics"
+  },
+  {
+    "title": "관세·방위비 압박 이어 북미대화까지…커지는 '트럼프 스톰'",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401111340372",
+    "category": "politics"
+  },
+  {
+    "title": "전세계 다 하는데…절충교역 문제삼은 美, 군함 조달협상 노리나",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401094530559",
+    "category": "politics"
+  },
+  {
+    "title": "윤상현 \"尹 탄핵심판, 당연히 기각·각하될 것\"",
+    "time": "31분 전",
+    "link": "https://v.daum.net/v/20250401133910631",
+    "category": "politics"
+  },
+  {
+    "title": "北 방어는 한국이 맡으라는 美… 방위비 분담 인상 압박 쓰나미 몰려온다",
+    "time": "10시간 전",
+    "link": "https://v.daum.net/v/20250401043056223",
+    "category": "politics"
+  },
+  {
+    "title": "비행편 늘리는 北…외화벌이 수단 '관광'에 힘주는 김정은",
+    "time": "24시간 전",
+    "link": "https://v.daum.net/v/20250331143834800",
+    "category": "politics"
+  },
+  {
+    "title": "尹대통령 4일 '운명의 날' [종합]",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401105230207",
+    "category": "politics"
+  },
+  {
+    "title": "민주주의 성적표 공개 시즌, 윤석열이 점수 다 깎았다",
+    "time": "6시간 전",
+    "link": "https://v.daum.net/v/20250401080935080",
+    "category": "politics"
+  },
+  {
+    "title": "“문형배, 시간 끌지 말라” “尹 복귀땐 2차 계엄”...갈 데까지 간 여야",
+    "time": "14시간 전",
+    "link": "https://v.daum.net/v/20250401001200358",
+    "category": "politics"
+  },
+  {
+    "title": "민중이 방심하면 윤석열 같은 독버섯 생긴다",
+    "time": "16시간 전",
+    "link": "https://v.daum.net/v/20250331220708238",
+    "category": "politics"
+  },
+  {
+    "title": "구제역·산불에 영호남 경매 중단…가축시장 ‘정중동’",
+    "time": "35분 전",
+    "link": "https://v.daum.net/v/20250401133520522",
+    "category": "politics"
+  },
+  {
+    "title": "[에너지닮은꼴 대만을 가다](상)원전 가동 중단 코앞…불안한 기업들 \"전력부족사태 온다\"",
+    "time": "7시간 전",
+    "link": "https://v.daum.net/v/20250401073029371",
+    "category": "politics"
+  },
+  {
+    "title": "[영주선비문화탐방]– 소수서원, 한국선비문화의 성지를 가다",
+    "time": "17분 전",
+    "link": "https://v.daum.net/v/20250401135346098",
+    "category": "society"
+  },
+  {
+    "title": "“살이 더 이상 안 빠져” 다이어트 정체기 극복? 뇌를 속이는 게 핵심[헬시타임]",
+    "time": "19분 전",
+    "link": "https://v.daum.net/v/20250401135126033",
+    "category": "society"
+  },
+  {
+    "title": "산불은 괴물이 아니다",
+    "time": "36분 전",
+    "link": "https://v.daum.net/v/20250401133505515",
+    "category": "society"
+  },
+  {
+    "title": "[단독] 산불진화 전문인원 고령화 ‘심각’… 50대 이상 30%",
+    "time": "22시간 전",
+    "link": "https://v.daum.net/v/20250331160711186",
+    "category": "society"
+  },
+  {
+    "title": "유길상 한국기술교육대 총장 “저출산·100세 시대, 전 국민 평생직업능력 강화하겠다”",
+    "time": "23시간 전",
+    "link": "https://v.daum.net/v/20250331150110887",
+    "category": "society"
+  },
+  {
+    "title": "檢 \"문재인 전 대통령, 소환 불응…서면 조사 중\"",
+    "time": "20시간 전",
+    "link": "https://v.daum.net/v/20250331180625623",
+    "category": "society"
+  },
+  {
+    "title": "윤 대통령 복귀하면 언론 자유 말살이다",
+    "time": "37분 전",
+    "link": "https://v.daum.net/v/20250401133401480",
+    "category": "society"
+  },
+  {
+    "title": "대통령 파면으로 방송계 정상화해야",
+    "time": "37분 전",
+    "link": "https://v.daum.net/v/20250401133349471",
+    "category": "society"
+  },
+  {
+    "title": "\"윤석열만 지켜\" 성소수자 혐오 보도 진정 각하한 인권위 규탄",
+    "time": "22시간 전",
+    "link": "https://v.daum.net/v/20250331163115266",
+    "category": "society"
+  },
+  {
+    "title": "김두겸 시장, 산불 해결 해답은 '임도'…\"모든 산에 개설해야\"",
+    "time": "4분 전",
+    "link": "https://v.daum.net/v/20250401140653732",
+    "category": "society"
+  },
+  {
+    "title": "충북도, 국토부에 '청주공항 민간 활주로 신설' 사업 제안",
+    "time": "6분 전",
+    "link": "https://v.daum.net/v/20250401140433630",
+    "category": "society"
+  },
+  {
+    "title": "213시간 만에 주불 진화…재난지원금 지급",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331085032396",
+    "category": "society"
+  },
+  {
+    "title": "(출연) \"산에서 불났는데 바다의 배가 불 탔다\"...재난 대응체계 전환 필요",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330164947289",
+    "category": "society"
+  },
+  {
+    "title": "평균 나이 '환갑'...산불진화대원 고령화에 대응 역부족",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330052221791",
+    "category": "society"
+  },
+  {
+    "title": "경북도, 30만원 긴급재난지원금 지원 등 산불대응 5대 정책 발표",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328103702214",
+    "category": "society"
+  },
+  {
+    "title": "韓대행, 헌재 공백 없도록 문형배·이미선 후임 준비할 때[사설]",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114509231",
+    "category": "society"
+  },
+  {
+    "title": "[속보]권성동 \"헌재판관 임기 만료 2달 전에 후보자 추천하는게 정상\"",
+    "time": "23시간 전",
+    "link": "https://v.daum.net/v/20250331151108449",
+    "category": "society"
+  },
+  {
+    "title": "3주 뒤면 6인 체제 회귀할 수도‥'식물 헌재' 경고등 켜져",
+    "time": "4일 전",
+    "link": "https://v.daum.net/v/20250328202208764",
+    "category": "society"
+  },
+  {
+    "title": "'금전 갈등' 사장 살해 뒤 사고사 위장 종업원 2심도 무기징역 구형",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401104908034",
+    "category": "society"
+  },
+  {
+    "title": "\"헌재 尹 탄핵 결정 불수용\" 응답 51%…`수용`보다 9%p↑",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401112120841",
+    "category": "society"
+  },
+  {
+    "title": "‘대접전’ 담양군수 재선거 D-1, 주요 공약 살펴보니…",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401103610282",
+    "category": "society"
+  },
+  {
+    "title": "[시선집중] 여론조사 전문가 “尹 탄핵선고 지연, 정권교체론 키워. 탄핵찬성 집회 커질 수도”",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401101513180",
+    "category": "society"
+  },
+  {
+    "title": "빅스비, 이대로 괜찮나? – 한국 AI 음성비서의 현주소 [한양경제]",
+    "time": "59분 전",
+    "link": "https://v.daum.net/v/20250401131140821",
+    "category": "economy"
+  },
+  {
+    "title": "정부 “미 USTR 보고서, 한국엔 상대적으로 우호적”",
+    "time": "3분 전",
+    "link": "https://v.daum.net/v/20250401140714758",
+    "category": "economy"
+  },
+  {
+    "title": "기계연·귀뚜라미, 제로에너지 수직농장 개발…정부 'K수직농장 사업' 선정",
+    "time": "35분 전",
+    "link": "https://v.daum.net/v/20250401133604541",
+    "category": "economy"
+  },
+  {
+    "title": "'관세·공매도·탄핵·환율'…변수 사로잡힌 4월 증시 대응법은",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401113703804",
+    "category": "economy"
+  },
+  {
+    "title": "'나중 결제·대금은 오늘 정산'…한국소호은행이 제시한 은행은",
+    "time": "8분 전",
+    "link": "https://v.daum.net/v/20250401140305544",
+    "category": "economy"
+  },
+  {
+    "title": "EY한영, 교보생명 가치평가 포기...가격산정 답보",
+    "time": "25분 전",
+    "link": "https://v.daum.net/v/20250401134606838",
+    "category": "economy"
+  },
+  {
+    "title": "\"美 해방의날 앞둔 비트코인, 불확실성 커지면 올해 6만달러\"[코인브리핑]",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401101015902",
+    "category": "economy"
+  },
+  {
+    "title": "‘코인 대통령’ 자처하더니 행동은…트럼프發 관세전쟁에 가상자산 ‘털썩’",
+    "time": "15시간 전",
+    "link": "https://v.daum.net/v/20250331233301914",
+    "category": "economy"
+  },
+  {
+    "title": "법인, 하반기 코인 투자 문 열린다… 거래소·제휴은행 물밑 싸움 치열",
+    "time": "20시간 전",
+    "link": "https://v.daum.net/v/20250331175101015",
+    "category": "economy"
+  },
+  {
+    "title": "노후자금 위협받는 노년층…소중한 돈 지키려면?",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331070030294",
+    "category": "economy"
+  },
+  {
+    "title": "연금개혁, 독일과 일본에서 배워라 [Deep&wide]",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331043045495",
+    "category": "economy"
+  },
+  {
+    "title": "한국취업센터, 고용노동부 사업 운영기관에 잇따라 선정",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401103403162",
+    "category": "economy"
+  },
+  {
+    "title": "“대금 못받을라” 납품 꺼려… 홈플러스 잇단 할인행사에도 매대 ‘텅텅’",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114832415",
+    "category": "economy"
+  },
+  {
+    "title": "美, 日 車안전기준·IT기업 규제 등 지적…쌀 고관세 비판",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250401140318569",
+    "category": "economy"
+  },
+  {
+    "title": "관세리스크에 흔들리는 美경제… 1분기 소비심리-증시지표 3년만에 ‘최악’",
+    "time": "15분 전",
+    "link": "https://v.daum.net/v/20250401135541160",
+    "category": "economy"
+  },
+  {
+    "title": "日 총리 “미국 추가관세, 일본 제외 강력 요구할 것”",
+    "time": "17분 전",
+    "link": "https://v.daum.net/v/20250401135400106",
+    "category": "economy"
+  },
+  {
+    "title": "[美 관세폭탄 임박] 현대차 “현지 생산 체제로 영향 최소화”",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250401140313563",
+    "category": "economy"
+  },
+  {
+    "title": "택시 스스로 3분 만에 배터리 교체…中 자율주행 진화[르포]",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401120227194",
+    "category": "economy"
+  },
+  {
+    "title": "김해상공회의소 회원사 '기업 RE100' 가입 지원으로 탄소 중립 실천",
+    "time": "1시간 전",
+    "link": "https://v.daum.net/v/20250401130704665",
+    "category": "climate"
+  },
+  {
+    "title": "[기후는 말한다] ‘여의도 5배’ 과수원 산불 피해…정부 “긴급 지원”",
+    "time": "1시간 전",
+    "link": "https://v.daum.net/v/20250401124445297",
+    "category": "climate"
+  },
+  {
+    "title": "[단독]산불로 CO2 최소 48만~70만t 방출…온실가스 수백만t에 탄소저감 차질",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401104303670",
+    "category": "climate"
+  },
+  {
+    "title": "충북 충주농협, 기후변화 대비 고품질 과수 생산 박차",
+    "time": "4시간 전",
+    "link": "https://v.daum.net/v/20250401103445195",
+    "category": "climate"
+  },
+  {
+    "title": "산불 현장 일주일 있어보니…정부, 사람 살릴 고민 없었다[기후로운 경제생활]",
+    "time": "17시간 전",
+    "link": "https://v.daum.net/v/20250331212101551",
+    "category": "climate"
+  },
+  {
+    "title": "“절대 우연 아냐” 동시다발 ‘산불’ 이상하다 했더니…놀라운 분석 결과[지구, 뭐래?]",
+    "time": "20시간 전",
+    "link": "https://v.daum.net/v/20250331184019478",
+    "category": "climate"
+  },
+  {
+    "title": "기후변화에 산불 최대 120일↑…소백산맥에선 5개월 넘게 '빨간불'",
+    "time": "1일 전",
+    "link": "https://v.daum.net/v/20250331134933521",
+    "category": "climate"
+  },
+  {
+    "title": "[속보]민주당 \"최상목 탄핵 예정대로 진행...尹 선고는 파면뿐\"",
+    "time": "29분 전",
+    "link": "https://v.daum.net/v/20250401134206732",
+    "category": "special"
+  },
+  {
+    "title": "[속보]민주당, 崔 탄핵안에 \"본회의 열리면 보고...韓은 지켜볼 것\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401121845729",
+    "category": "special"
+  },
+  {
+    "title": "[속보]권성동 \"尹탄핵 선고, 공정 판결 기대…승복할 것\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401120320244",
+    "category": "special"
+  },
+  {
+    "title": "[속보]권성동 “尹탄핵 선고기일 지정 환영…국힘은 어떤 결과에도 승복”",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401115058524",
+    "category": "special"
+  },
+  {
+    "title": "[속보]與권성동 \"헌재 탄핵 선고 기일 확정해 다행…환영\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114925452",
+    "category": "special"
+  },
+  {
+    "title": "금요일 윤 대통령 탄핵심판 선고...이 시각 헌재 앞",
+    "time": "12분 전",
+    "link": "https://v.daum.net/v/20250401135834281",
+    "category": "special"
+  },
+  {
+    "title": "선고 D-3 헌재 앞 '진공 상태'로...\"알박기 시 강제 퇴거\"",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114624296",
+    "category": "special"
+  },
+  {
+    "title": "20일째 멈춘 광화문 따릉이, 탄핵선고 해도 재개 불투명",
+    "time": "2시간 전",
+    "link": "https://v.daum.net/v/20250401114200061",
+    "category": "special"
+  },
+  {
+    "title": "윤석열 탄핵 선고 ‘디데이’ 나오자 분주한 경찰…전국 기동대 60% 서울에 배치",
+    "time": "3시간 전",
+    "link": "https://v.daum.net/v/20250401113222500",
+    "category": "special"
+  },
+  {
+    "title": "[단독]계엄 날 “KBS에 줄 간첩죄 보도 자료 준비” 진술에도···안 캐물은 검찰",
+    "time": "21시간 전",
+    "link": "https://v.daum.net/v/20250331165150288",
+    "category": "special"
+  },
+  {
+    "title": "[단독] 여인형 방첩사, 비상계엄 5개월 전 ‘군 유일 견제기구’ 감찰실장직 편제서 삭제",
+    "time": "2일 전",
+    "link": "https://v.daum.net/v/20250330134911610",
+    "category": "special"
+  },
+  {
     "title": "[글로벌 포커스]돌아온 트럼프에 치열해진 美·中 패권 대결",
     "time": "8분 전",
     "link": "https://v.daum.net/v/20250401135817273",
