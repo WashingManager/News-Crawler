@@ -1,5 +1,376 @@
 [
   {
+    "title": "프리드먼 NYT 칼럼 “트럼프 ‘해방의 날’ 전야에 내가 중국에서 본 것”",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250402172322936",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172322151lcxs.jpg&scode=media"
+  },
+  {
+    "title": "中건설힌 방콕 '두부 빌딩' 비리 정황…태국 조사 확대",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250402172251916",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2FEdaily%2F20250402172253345viir.jpg&scode=media"
+  },
+  {
+    "title": "역대 최악 산불 ‘이 나무’가 문제?…“모두 없애야” 퇴출론까지 나온 LA",
+    "time": "11분 전",
+    "link": "https://v.daum.net/v/20250402171904774",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fseoul%2F20250402171905829ngtd.jpg&scode=media"
+  },
+  {
+    "title": "전 세계 들쑤셔놓은 트럼프의 '관세 전쟁'...미국 감당 못할 위기 우려 [지금이뉴스]",
+    "time": "14분 전",
+    "link": "https://v.daum.net/v/20250402171615658",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2FYTN%2F20250402171617364dfpg.jpg&scode=media"
+  },
+  {
+    "title": "틱톡, 오라클이 인수? 기한 재연장? \"트럼프, 2일 사업권 매각안 논의\"",
+    "time": "15분 전",
+    "link": "https://v.daum.net/v/20250402171523629",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmoneytoday%2F20250402171525374lbgz.jpg&scode=media"
+  },
+  {
+    "title": "24시간이 모자라…'트럼프 비판' 美상원의원 역대 최장 연설",
+    "time": "18분 전",
+    "link": "https://v.daum.net/v/20250402171202502",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnocut%2F20250402171205181aevj.jpg&scode=media"
+  },
+  {
+    "title": "‘상호관세 D-1’ 트럼프 관세전쟁 일지…1월 취임식부터 70일간 파상공세 [디브리핑]",
+    "time": "28분 전",
+    "link": "https://v.daum.net/v/20250402170236080",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fned%2F20250402170238330tfyx.jpg&scode=media"
+  },
+  {
+    "title": "일본, 트럼프 관세 전쟁에 '신중 대응' 전환… '안보 보복' 우려",
+    "time": "30분 전",
+    "link": "https://v.daum.net/v/20250402170009927",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fhankooki%2F20250402170011726ihia.jpg&scode=media"
+  },
+  {
+    "title": "[올댓차이나] 대만 증시, 뉴욕 증시 강세에 소폭 상승 마감…0.08%↑",
+    "time": "1분 전",
+    "link": "https://v.daum.net/v/20250402172909109",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172909916dgrv.jpg&scode=media"
+  },
+  {
+    "title": "중국이 중국했다?…“지진에 무너진 917억짜리 건물서 ‘짝퉁 강철’ 발견” [포착]",
+    "time": "1분 전",
+    "link": "https://v.daum.net/v/20250402172907107",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fseoul%2F20250402172909336edjv.jpg&scode=media"
+  },
+  {
+    "title": "중국, ‘윤 대통령 탄핵심판 선고’에 “내정 논평 않겠다”",
+    "time": "3분 전",
+    "link": "https://v.daum.net/v/20250402172722064",
+    "category": "global",
+    "imgSrc": ""
+  },
+  {
+    "title": "미얀마강진 사망 2천886명…108시간만에 기적적 생존자 구조도(종합)",
+    "time": "3분 전",
+    "link": "https://v.daum.net/v/20250402172721062",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fyonhap%2F20250402172721917ghfu.jpg&scode=media"
+  },
+  {
+    "title": "美해군사관학교도 ‘다양성 금지령’… 도서관 책 400권 폐기",
+    "time": "4분 전",
+    "link": "https://v.daum.net/v/20250402172638035",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172638977sgiv.jpg&scode=media"
+  },
+  {
+    "title": "“벤츠, 관세 부담에 저가 모델 철수 검토”",
+    "time": "4분 전",
+    "link": "https://v.daum.net/v/20250402172544008",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkbs%2F20250402172546965cadi.jpg&scode=media"
+  },
+  {
+    "title": "대만섬 포위 中 포위훈련에 산둥호 항모전단도 참여",
+    "time": "5분 전",
+    "link": "https://v.daum.net/v/20250402172537005",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172537531ureq.jpg&scode=media"
+  },
+  {
+    "title": "러-우크라, 부분휴전 놓고 '버티기·비방전'…협상 '데드락'",
+    "time": "6분 전",
+    "link": "https://v.daum.net/v/20250402172436975",
+    "category": "global",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsy%2F20250402172436784uran.jpg&scode=media"
+  },
+  {
+    "title": "트럼프 車관세 앞두고 수요 몰려···현대차·기아, 1분기 美판매 신기록",
+    "time": "23분 전",
+    "link": "https://v.daum.net/v/20250402170738313",
+    "category": "northamerica",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fseouleconomy%2F20250402170740062qdfp.jpg&scode=media"
+  },
+  {
+    "title": "“트럼프 로마황제냐” 비판 노벨평화상 수상자, 美비자 취소당해",
+    "time": "27분 전",
+    "link": "https://v.daum.net/v/20250402170313129",
+    "category": "northamerica",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fdonga%2F20250402170458631nwhy.jpg&scode=media"
+  },
+  {
+    "title": "보편? 상호? 품목?…‘트럼프 관세’ 어떻든 車·반도체 수출 '악재'",
+    "time": "29분 전",
+    "link": "https://v.daum.net/v/20250402170145035",
+    "category": "northamerica",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fjoongang%2F20250402170146419zuom.jpg&scode=media"
+  },
+  {
+    "title": "트럼프 관세 폭탄, 인천 기업 72% 악영향…매출 감소 등 우려",
+    "time": "32분 전",
+    "link": "https://v.daum.net/v/20250402165835851",
+    "category": "northamerica",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkyeonggi%2F20250402165836377ciym.jpg&scode=media"
+  },
+  {
+    "title": "이스라엘, 가자지구 공격 확대…\"대규모 토지 점령할 것\"",
+    "time": "6분 전",
+    "link": "https://v.daum.net/v/20250402172429972",
+    "category": "arab",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172429357gbut.jpg&scode=media"
+  },
+  {
+    "title": "\"2030년내 우크라 EU 가입 지원\"…'우크라이나2EU' 프로그램 출범",
+    "time": "14분 전",
+    "link": "https://v.daum.net/v/20250402171640676",
+    "category": "europe",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2FNEWS1%2F20250402171641661mccz.jpg&scode=media"
+  },
+  {
+    "title": "\"비행기서 따뜻한 커피 마시지 마세요\" 미국 승무원의 경고 [짤e몽땅]",
+    "time": "29분 전",
+    "link": "https://v.daum.net/v/20250402170209051",
+    "category": "topic",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmbn%2F20250402170234863reoa.gif&scode=media"
+  },
+  {
+    "title": "국힘 박충권 \"공산주의자\" 돌출 발언에 여야 본회의장 충돌",
+    "time": "13분 전",
+    "link": "https://v.daum.net/v/20250402171801724",
+    "category": "politics",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fohmynews%2F20250402171801625dhwo.jpg&scode=media"
+  },
+  {
+    "title": "“일희일비하지 말고 말 신중하게”···헌재 결론 앞둔 정치권 자제 목소리",
+    "time": "24분 전",
+    "link": "https://v.daum.net/v/20250402170652295",
+    "category": "politics",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkhan%2F20250402170654167ugfu.jpg&scode=media"
+  },
+  {
+    "title": "尹 선고 임박에 野 긴장 고조…'탄핵 여론전' 총력",
+    "time": "31분 전",
+    "link": "https://v.daum.net/v/20250402165939887",
+    "category": "politics",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fdailian%2F20250402165941451jwvx.jpg&scode=media"
+  },
+  {
+    "title": "국회, 尹 탄핵소추 변호사비로 1억1000만원 썼다",
+    "time": "16분 전",
+    "link": "https://v.daum.net/v/20250402171425590",
+    "category": "politics",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fjoongang%2F20250402171426944ebbj.jpg&scode=media"
+  },
+  {
+    "title": "‘여진 공포’에 떠는 미얀마…“상황 악화시키는 군부가 더 두렵다”",
+    "time": "13분 전",
+    "link": "https://v.daum.net/v/20250402171751719",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkhan%2F20250402171753034aukq.jpg&scode=media"
+  },
+  {
+    "title": "“고졸 지방러인데 취업 될까요?” “네, 그럼요”…인재 채용 팔 걷은 국방부",
+    "time": "20분 전",
+    "link": "https://v.daum.net/v/20250402171101433",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fseoul%2F20250402171103236cewn.jpg&scode=media"
+  },
+  {
+    "title": "WTO·FTA 체제의 종언…자유무역은 역사 속으로 사라진다",
+    "time": "31분 전",
+    "link": "https://v.daum.net/v/20250402170005912",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmoneytoday%2F20250402170007441fuwr.jpg&scode=media"
+  },
+  {
+    "title": "77년전 불법계엄 속 사라진 제주 공동체…마을마다 울려퍼지는 4·3 진혼곡",
+    "time": "50분 전",
+    "link": "https://v.daum.net/v/20250402164107075",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkhan%2F20250402164108637fepv.jpg&scode=media"
+  },
+  {
+    "title": "계엄군에 결박 당한 기자 \"생명의 위협 느껴...거짓 증언에 분노\"",
+    "time": "32분 전",
+    "link": "https://v.daum.net/v/20250402165847862",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmediatoday%2F20250402165849171kbwa.jpg&scode=media"
+  },
+  {
+    "title": "경기관광공사, DMZ 최인접 평화누리캠핑장 시설·편의 개선",
+    "time": "8분 전",
+    "link": "https://v.daum.net/v/20250402172318933",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Finews24%2F20250402172320191hhmt.jpg&scode=media"
+  },
+  {
+    "title": "한국농어촌공사 입찰기준 변경에 경주전문건설협의회 ‘반발’",
+    "time": "8분 전",
+    "link": "https://v.daum.net/v/20250402172259919",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fsisapress%2F20250402172301573qxxy.jpg&scode=media"
+  },
+  {
+    "title": "수액 흐름 원활하면 ‘파란색’…주목받는 산불 피해 소나무 생존 판단 기술",
+    "time": "9분 전",
+    "link": "https://v.daum.net/v/20250402172136882",
+    "category": "society",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fjoongang%2F20250402172137867kmkl.jpg&scode=media"
+  },
+  {
+    "title": "트럼프의 선택, 앳킨스 SEC 위원장 유력…가상자산 시장 '빅 체인지' 온다",
+    "time": "방금 전",
+    "link": "https://v.daum.net/v/20250402173002132",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fked%2F20250402173003598skdh.jpg&scode=media"
+  },
+  {
+    "title": "트럼프 반대에도 'US스틸 인수'한다는 일본제철...새 복병 등장 [데일리 아시아]",
+    "time": "33분 전",
+    "link": "https://v.daum.net/v/20250402165822837",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S686x440a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkedtv%2F20250402165822426oqvs.jpg&scode=media"
+  },
+  {
+    "title": "최 부총리 \"美 관세, 시장 변동성 높일수도…대응책 신속히 마련\"",
+    "time": "2분 전",
+    "link": "https://v.daum.net/v/20250402172901103",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewsis%2F20250402172901825ghgs.jpg&scode=media"
+  },
+  {
+    "title": "내일 새벽 美 상호관세 발표…동맹 한국도 20%?",
+    "time": "11분 전",
+    "link": "https://v.daum.net/v/20250402171931787",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fkedtv%2F20250402172944630iyug.png&scode=media"
+  },
+  {
+    "title": "최상목 \"美상호관세 계기로 국제금융 단기 변동성 높아질 수도\"",
+    "time": "13분 전",
+    "link": "https://v.daum.net/v/20250402171753721",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fyonhap%2F20250402171753900oevi.jpg&scode=media"
+  },
+  {
+    "title": "인니 전기차 시장 '韓中전쟁' 더 달아오른다...현대차 \"인니 자동차 산업 자부심 될 것\"",
+    "time": "3분 전",
+    "link": "https://v.daum.net/v/20250402172817090",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Ffnnewsi%2F20250402172817905ruqj.png&scode=media"
+  },
+  {
+    "title": "'불닭 품절' 저력으로 … 한상경제권 구축, 韓경제 일으킬 것",
+    "time": "10분 전",
+    "link": "https://v.daum.net/v/20250402172104849",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmk%2F20250402172110081cpff.jpg&scode=media"
+  },
+  {
+    "title": "산은과 제주항공 지원 논의도... AK홀딩스, 애경산업 팔면 단숨에 숨통트여",
+    "time": "11분 전",
+    "link": "https://v.daum.net/v/20250402172016813",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fchosunbiz%2F20250402172017562fiuj.jpg&scode=media"
+  },
+  {
+    "title": "탄핵정국에 대기업도 바짝 몸 사렸다…은행 기업대출 5년 만에 '뚝'",
+    "time": "7분 전",
+    "link": "https://v.daum.net/v/20250402172404953",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2FBUSINESSWATCH%2F20250402172406400fssb.jpg&scode=media"
+  },
+  {
+    "title": "한신공영, 지난해 기준 수주 잔액 약 7조원",
+    "time": "39분 전",
+    "link": "https://v.daum.net/v/20250402165204530",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fned%2F20250402165205431cdjp.jpg&scode=media"
+  },
+  {
+    "title": "“트럼프한테 속았나” 비트코인 채굴업계의 비명...지난 달 시총 25% 감소",
+    "time": "28분 전",
+    "link": "https://v.daum.net/v/20250402170311127",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmk%2F20250402170314340bykh.jpg&scode=media"
+  },
+  {
+    "title": "스테이블코인 1위 ‘테더’ 트럼프 효과에 비트코인 보유량 11조원 넘어",
+    "time": "28분 전",
+    "link": "https://v.daum.net/v/20250402170304113",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmk%2F20250402170308340jvid.png&scode=media"
+  },
+  {
+    "title": "'관세 부메랑' 미국 마트, 중국업체에 압력 \"납품가 10% 낮춰\"",
+    "time": "방금 전",
+    "link": "https://v.daum.net/v/20250402173001131",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmoneytoday%2F20250402173002506umjx.jpg&scode=media"
+  },
+  {
+    "title": "타이어 3사, 미 관세 '빨간불'에 유럽 시장 공략 가속",
+    "time": "25분 전",
+    "link": "https://v.daum.net/v/20250402170601257",
+    "category": "economy",
+    "imgSrc": "//img1.daumcdn.net/thumb/S340x230a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fmoneyweek%2F20250402170604168ycvs.jpg&scode=media"
+  },
+  {
+    "title": "“4일 20명 예약 취소됐어요”… 尹 선고일, 헌재 인근 상점 줄줄이 휴점",
+    "time": "9분 전",
+    "link": "https://v.daum.net/v/20250402172216903",
+    "category": "special",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fchosunbiz%2F20250402172221972erot.jpg&scode=media"
+  },
+  {
+    "title": "[오마이포토] 헌재 앞 큰 벽 사이로, '서로 다른' 풍경",
+    "time": "10분 전",
+    "link": "https://v.daum.net/v/20250402172100842",
+    "category": "special",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fohmynews%2F20250402172103074fioz.jpg&scode=media"
+  },
+  {
+    "title": "헌재 주변 ‘진공 구역’ 100→150m 확대…선고당일 특공대 배치",
+    "time": "12분 전",
+    "link": "https://v.daum.net/v/20250402171859770",
+    "category": "special",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fdonga%2F20250402171901993wwmt.jpg&scode=media"
+  },
+  {
+    "title": "여 \"민주, 어떤 결정이든 승복해야\" vs 이재명 \"승복은 윤 대통령이\"",
+    "time": "32분 전",
+    "link": "https://v.daum.net/v/20250402165835850",
+    "category": "special",
+    "imgSrc": "//img1.daumcdn.net/thumb/S324x208a.q80.fwebp/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2FYTN%2F20250402165836179wcrc.jpg&scode=media"
+  },
+  {
     "title": "\"中 조직부장·통전부장 자리 맞바꿈\"…전례없는 수뇌부 인사",
     "time": "2분 전",
     "link": "https://v.daum.net/v/20250402165536721",
