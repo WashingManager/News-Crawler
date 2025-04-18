@@ -45,7 +45,7 @@ def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword for keyword in keywords if re.search(re.escape(keyword.lower()), text_content.lower())]
     exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    if text_content in processed_titles or len(matching_keywords) < 1 or exclude_match:
+    if text_content in processed_titles or len(matching_keywords) < 2 or exclude_match:
         return False
     return True
 
@@ -124,7 +124,6 @@ def scrape_page(url):
                             'summary': summary
                         })
                         print(f"Article processed: {text_content} ({published_time})")
-                        break  # 한 페이지당 한 기사
     except Exception as e:
         print(f"페이지 처리 실패 ({url}): {e}")
     return articles
@@ -140,6 +139,9 @@ def save_to_json(new_articles):
     
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
+        # 중복 URL 제거
+        existing_urls = {article['url'] for article in today_data['articles']}
+        new_articles = [article for article in new_articles if article['url'] not in existing_urls]
         today_data['articles'].extend(new_articles)
     else:
         existing_data.append({'date': today, 'articles': new_articles})
