@@ -22,12 +22,12 @@ def get_keywords():
         )
         keywords = json.loads(result.stdout)
         print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        return keywords, []  # 제외 키워드는 따로 없으니 빈 리스트로
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
 
-keywords, exclude_keywords = get_keywords()
+keywords, exclude_keywords = get_keywords()  # 두 값을 받는 부분
 urls = [
     'https://www.fntoday.co.kr/news/articleList.html?sc_sub_section_code=S2N107',
     'https://www.fntoday.co.kr/news/articleList.html?sc_section_code=S1N19',
