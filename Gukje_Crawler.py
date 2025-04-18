@@ -10,23 +10,35 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import subprocess
 
-
+# 결과 파일 이름 (대소문자 일관성 유지)
 result_filename = 'Gukje_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
 
 def get_keywords():
     try:
+        # keyword.js에서 키워드 로드
         result = subprocess.run(
             ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
             capture_output=True, text=True, check=True
         )
-        keywords = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        # JSON 데이터 파싱
+        keywords_data = json.loads(result.stdout)
+        print(f"Raw keywords data: {keywords_data}")  # 디버깅용 출력
+        
+        # 키워드 데이터가 딕셔너리인지 확인
+        if not isinstance(keywords_data, dict):
+            raise ValueError(f"Expected a dictionary from keyword.js, got {type(keywords_data)}")
+        
+        # include와 exclude 키워드 추출
+        include_keywords = keywords_data.get('include', [])
+        exclude_keywords = keywords_data.get('exclude', [])
+        print(f"Loaded keywords - include: {include_keywords}, exclude: {exclude_keywords}")
+        return include_keywords, exclude_keywords
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
 
+# 키워드 로드
 keywords, exclude_keywords = get_keywords()
 
 urls = [
@@ -38,6 +50,7 @@ urls = [
 processed_links = set()
 
 def is_relevant_article(text_content):
+    # 기사 제목에서 단어 추출 후 키워드 매칭 확인
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
     exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
@@ -49,6 +62,7 @@ def get_existing_links():
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
+        print(f"{result_filename} 파일이 없음. 새로 생성 예정.")
         return set()
 
 def process_article(element, base_url):
@@ -110,21 +124,29 @@ def scrape_page(url, page):
         return []
 
 def save_to_json(new_articles):
-    try:
-        with open(result_filename, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-    except FileNotFoundError:
-        existing_data = []
+    # 기존 데이터 로드 또는 초기화
+    existing_data = []
+    if os.path.exists(result_filename):
+        try:
+            with open(result_filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
     
+    # 오늘 데이터 찾기
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
         today_data['articles'].extend(new_articles)
     else:
         existing_data.append({'date': today, 'articles': new_articles})
     
-    with open(result_filename, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(new_articles)} articles to {result_filename}")
+    # JSON 파일 저장
+    try:
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
+        print(f"{len(new_articles)}개의 기사를 {result_filename}에 저장 완료")
+    except Exception as e:
+        print(f"JSON 저장 실패: {e}")
 
 def main():
     global processed_links
@@ -144,7 +166,7 @@ def main():
     if all_articles:
         save_to_json(all_articles)
     else:
-        print("No new articles found")
+        print("새로운 기사 없음")
 
 if __name__ == "__main__":
     main()
