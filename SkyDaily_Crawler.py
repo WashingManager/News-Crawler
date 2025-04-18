@@ -45,7 +45,7 @@ def is_relevant_article(text_content):
         return True
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword for keyword in keywords if re.search(re.escape(keyword.lower()), text_content.lower())]
-    print(f"매칭된 키워드: {matching_keywords}")
+    #print(f"매칭된 키워드: {matching_keywords}")
     return len(matching_keywords) >= 2
 
 def get_existing_links():
