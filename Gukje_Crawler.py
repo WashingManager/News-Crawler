@@ -3,43 +3,31 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import json
-import sys
 import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import subprocess
 
-# 결과 파일 이름 (대소문자 일관성 유지)
+# 결과 파일 이름
 result_filename = 'Gukje_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
 
 def get_keywords():
     try:
-        # keyword.js에서 키워드 로드
         result = subprocess.run(
             ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
             capture_output=True, text=True, check=True
         )
-        # JSON 데이터 파싱
-        keywords_data = json.loads(result.stdout)
-        print(f"Raw keywords data: {keywords_data}")  # 디버깅용 출력
-        
-        # 키워드 데이터가 딕셔너리인지 확인
-        if not isinstance(keywords_data, dict):
-            raise ValueError(f"Expected a dictionary from keyword.js, got {type(keywords_data)}")
-        
-        # include와 exclude 키워드 추출
-        include_keywords = keywords_data.get('include', [])
-        exclude_keywords = keywords_data.get('exclude', [])
-        print(f"Loaded keywords - include: {include_keywords}, exclude: {exclude_keywords}")
-        return include_keywords, exclude_keywords
+        keywords = json.loads(result.stdout)
+        print(f"Loaded {len(keywords)} keywords")
+        return keywords
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
-        return [], []
+        return []
 
 # 키워드 로드
-keywords, exclude_keywords = get_keywords()
+keywords = get_keywords()
 
 urls = [
     'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm',
@@ -53,8 +41,7 @@ def is_relevant_article(text_content):
     # 기사 제목에서 단어 추출 후 키워드 매칭 확인
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
-    exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    return len(matching_keywords) >= 2 and not exclude_match
+    return len(matching_keywords) >= 2
 
 def get_existing_links():
     try:
@@ -124,7 +111,6 @@ def scrape_page(url, page):
         return []
 
 def save_to_json(new_articles):
-    # 기존 데이터 로드 또는 초기화
     existing_data = []
     if os.path.exists(result_filename):
         try:
@@ -133,14 +119,12 @@ def save_to_json(new_articles):
         except json.JSONDecodeError:
             print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
     
-    # 오늘 데이터 찾기
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
         today_data['articles'].extend(new_articles)
     else:
         existing_data.append({'date': today, 'articles': new_articles})
     
-    # JSON 파일 저장
     try:
         with open(result_filename, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, ensure_ascii=False, indent=2)
@@ -163,9 +147,7 @@ def main():
             page += 1
             time.sleep(1)
     
-    # 새로운 기사가 있으면 저장, 없으면 빈 데이터 유지
     save_to_json(all_articles)
-    # 파일이 없으면 빈 JSON 배열로 초기화
     if not os.path.exists(result_filename):
         with open(result_filename, 'w', encoding='utf-8') as f:
             json.dump([], f, ensure_ascii=False, indent=2)
