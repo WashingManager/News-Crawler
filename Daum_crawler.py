@@ -1,4 +1,4 @@
-# scraper.py
+# Daum_Crawler.py
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -14,7 +14,6 @@ json_filename = 'daum_News.json'
 # keyword.js에서 키워드 가져오기
 def get_keywords():
     try:
-        # Node.js로 keyword.js 실행
         result = subprocess.run(
             ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
             capture_output=True, text=True, check=True
@@ -27,7 +26,7 @@ def get_keywords():
         return []
 
 keywords = get_keywords()
-exclude_keywords = []  # 제외 키워드 (필요 시 추가)
+exclude_keywords = []
 
 urls = [
     'https://news.daum.net/global',
@@ -155,7 +154,7 @@ def get_news_from_page(url, page, category):
         
         return any(results)
     except Exception as e:
-        print(f"페이지 처리 실패 ({full_url}): {e}")
+        print(f"페이지 처리 실패 ({url}): {e}")
         return False
 
 def scrape_category(url):
@@ -173,7 +172,6 @@ def scrape_category(url):
         get_news_from_page(url, 1, category)
         time.sleep(2)
 
-# 기존 JSON 파일 읽기
 def load_existing_json():
     if os.path.exists(json_filename):
         try:
@@ -183,7 +181,6 @@ def load_existing_json():
             print(f"JSON 파일 읽기 실패: {e}")
     return []
 
-# JSON 저장
 def save_to_json():
     print(f"최종 결과 수: {len(result_set)}")
     sorted_result = sorted(result_set, key=lambda x: x[1] if x[1] else '0000-00-00 00:00', reverse=True)
@@ -223,9 +220,7 @@ def save_to_json():
 
     print(f'Results saved to {json_filename}')
 
-# 크롤링 실행
 for url in urls:
     scrape_category(url)
 
-# JSON 저장
 save_to_json()
