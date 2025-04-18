@@ -8,7 +8,7 @@ import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-json_filename = 'voa_News.json'
+result_filename = 'voa_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
 
 def get_keywords():
