@@ -3,13 +3,12 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import json
-import sys
 import os
-import urllib.parse
+import re
+import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
-import subprocess
-
+import urllib.parse
 
 result_filename = 'yna_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
@@ -17,12 +16,12 @@ today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금�
 def get_keywords():
     try:
         result = subprocess.run(
-            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
+            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify({include: k.getKeywords(), exclude: k.getExcludeKeywords?.() || []}));'],
             capture_output=True, text=True, check=True
         )
-        keywords = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        data = json.loads(result.stdout)
+        print(f"Loaded {len(data['include'])} keywords, {len(data['exclude'])} exclude keywords")
+        return data['include'], data['exclude']
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
@@ -41,14 +40,17 @@ base_urls = [
 ]
 
 processed_links = set()
+processed_titles = set()
 
 def is_relevant_article(full_text):
     if not keywords:
         return True
-    text_lower = full_text.lower()
-    matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in text_lower]
-    exclude_match = any(keyword.lower() in text_lower for keyword in exclude_keywords)
-    return len(matching_keywords) >= 2 and not exclude_match
+    words = set(re.findall(r'\b\w+\b', full_text.lower()))
+    matching_keywords = [keyword for keyword in keywords if re.search(re.escape(keyword.lower()), full_text.lower())]
+    exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
+    if len(matching_keywords) < 2 or exclude_match:
+        return False
+    return True
 
 def get_existing_links():
     try:
@@ -56,12 +58,13 @@ def get_existing_links():
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
+        print(f"{result_filename} 파일이 없음. 새로 생성 예정.")
         return set()
 
 def process_article(article, base_url):
     title_element = article.select_one('span.title01')
     title = title_element.text.strip() if title_element else ''
-    if not title:
+    if not title or title in processed_titles:
         return None
     
     link_element = article.select_one('a.tit-news')
@@ -89,21 +92,28 @@ def process_article(article, base_url):
         time_str = time_element.text.strip()
         try:
             current_year = datetime.now().year
-            parsed_time = datetime.strptime(f"{current_year}-{time_str}", '%Y-%m-%d %H:%M')
+            if '-' in time_str:  # 예: 04-18 20:54
+                parsed_time = datetime.strptime(f"{current_year}-{time_str}", '%Y-%m-%d %H:%M')
+            else:  # 예: 2025-04-18 20:54
+                parsed_time = datetime.strptime(time_str, '%Y-%m-%d %H:%M')
             published_time = parsed_time.isoformat()
-        except ValueError:
+        except ValueError as e:
+            print(f"Invalid time format: {time_str}, Error: {e}")
             return None
     
     img_element = article.select_one('img')
-    img_url = img_element.get('src') if img_element else ''
+    img_url = img_element.get('src', '') if img_element else ''
     
     processed_links.add(clean_link)
+    processed_titles.add(title)
+    print(f"Article processed: {title} ({published_time})")
     return {
         'title': title,
         'time': published_time,
         'img': img_url,
         'url': clean_link,
-        'original_url': clean_link
+        'original_url': clean_link,
+        'summary': lead
     }
 
 def scrape_page(url, page):
@@ -130,21 +140,28 @@ def scrape_page(url, page):
         return []
 
 def save_to_json(new_articles):
-    try:
-        with open(result_filename, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-    except FileNotFoundError:
-        existing_data = []
+    existing_data = []
+    if os.path.exists(result_filename):
+        try:
+            with open(result_filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
     
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
+        existing_urls = {article['url'] for article in today_data['articles']}
+        new_articles = [article for article in new_articles if article['url'] not in existing_urls]
         today_data['articles'].extend(new_articles)
     else:
         existing_data.append({'date': today, 'articles': new_articles})
     
-    with open(result_filename, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(new_articles)} articles to {result_filename}")
+    try:
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
+        print(f"Saved {len(new_articles)} articles to {result_filename}")
+    except Exception as e:
+        print(f"JSON 저장 실패: {e}")
 
 def main():
     global processed_links
@@ -165,6 +182,10 @@ def main():
         save_to_json(all_articles)
     else:
         print("No new articles found")
+        if not os.path.exists(result_filename):
+            with open(result_filename, 'w', encoding='utf-8') as f:
+                json.dump([], f, ensure_ascii=False, indent=2)
+            print(f"Empty {result_filename} created")
 
 if __name__ == "__main__":
     main()
