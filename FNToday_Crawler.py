@@ -155,6 +155,12 @@ def main():
         save_to_json(all_articles)
     else:
         print("No new articles found")
+    
+    # ✅ 마지막에 이 부분 추가!
+    if not os.path.exists(result_filename):
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump([], f, ensure_ascii=False, indent=2)
+        print(f"{result_filename} 파일이 없어서 새로 생성했어요.")
 
 if __name__ == "__main__":
     main()
