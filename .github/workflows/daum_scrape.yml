@@ -1,3 +1,4 @@
+# .github/workflows/daum_scrape.yml
 name: Daum News Scraper
 
 on:
@@ -28,7 +29,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4
 
-    - name: Run Daum_Crawler
+    - name: Run scraper
       run: python Daum_Crawler.py
 
     - name: Commit and push results
