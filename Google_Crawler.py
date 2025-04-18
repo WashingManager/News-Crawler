@@ -9,6 +9,8 @@ import re
 from fuzzywuzzy import fuzz
 from fake_useragent import UserAgent
 import time
+import subprocess
+
 
 result_filename = 'google_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
