@@ -20,11 +20,19 @@ def get_keywords():
             capture_output=True, text=True, check=True
         )
         keywords = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+
+        # 딕셔너리인지, 리스트인지 확인
+        if isinstance(keywords, dict):
+            return keywords.get('include', []), keywords.get('exclude', [])
+        elif isinstance(keywords, list):
+            return keywords, []  # exclude는 없음
+        else:
+            print(f"알 수 없는 키워드 타입: {type(keywords)}")
+            return [], []
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
+
 
 keywords, exclude_keywords = get_keywords()
 
