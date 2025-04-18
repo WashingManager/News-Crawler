@@ -13,6 +13,16 @@ jobs:
     steps:
     - name: Check out repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 전체 히스토리 체크아웃
+
+    - name: List directory contents
+      run: |
+        pwd  # 현재 디렉토리
+        ls -la  # 파일 목록
+        find . -type f  # 모든 파일 경 soaring
+        if [ -f "Daum_crawler.py" ]; then echo "Daum_crawler.py found"; else echo "Daum_crawler.py NOT found"; fi
+        if [ -f "keyword.js" ]; then echo "keyword.js found"; else echo "keyword.js NOT found"; fi
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -30,7 +40,8 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run scraper
-      run: python Daum_Crawler.py
+      run: python Daum_crawler.py
+      continue-on-error: true  # 오류 시 다음 단계 진행
 
     - name: Commit and push results
       run: |
