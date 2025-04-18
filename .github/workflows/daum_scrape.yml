@@ -1,9 +1,7 @@
-# .github/workflows/daum_scrape.yml
 name: Daum News Scraper
-
 on:
   schedule:
-    - cron: '0 8 * * *'  # 매일 오전 8시 UTC (한국 시간 오후 5시)
+    - cron: '9 * * * *'  # 매일 오전 8시 UTC (한국 시간 오후 5시)
   workflow_dispatch:  # 수동 실행 가능
 
 permissions:
@@ -15,44 +13,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check out repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0  # 전체 히스토리 체크아웃
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 전체 히스토리 체크아웃
 
-    - name: List directory contents
-      run: |
-        pwd
-        ls -la
-        find . -type f
-        if [ -f "Daum_crawler.py" ]; then echo "Daum_crawler.py found"; else echo "Daum_crawler.py NOT found"; fi
-        if [ -f "keyword.js" ]; then echo "keyword.js found"; else echo "keyword.js NOT found"; fi
+      - name: List directory contents
+        run: |
+          pwd
+          ls -la
+          find . -type f
+          if [ -f "Daum_crawler.py" ]; then echo "Daum_crawler.py found"; else echo "Daum_crawler.py NOT found"; fi
+          if [ -f "keyword.js" ]; then echo "keyword.js found"; else echo "keyword.js NOT found"; fi
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '20'
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-    - name: Install Python dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-    - name: Run scraper
-      run: python Daum_crawler.py
-      continue-on-error: true
+      - name: Run scraper
+        run: python Daum_crawler.py
+        continue-on-error: true
 
-    - name: Commit and push results
-      run: |
-        git config --global user.name 'GitHub Action'
-        git config --global user.email 'action@github.com'
-        git add daum_News.json
-        git commit -m "Update daum_News.json $(date)" || echo "No changes to commit"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push results
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add daum_News.json
+          git commit -m "Update daum_News.json $(date)" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
