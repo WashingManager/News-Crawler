@@ -13,17 +13,17 @@ today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금�
 def get_keywords():
     try:
         result = subprocess.run(
-            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify({include: k.getKeywords(), exclude: k.getExcludeKeywords?.() || []}));'],
+            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
             capture_output=True, text=True, check=True
         )
-        data = json.loads(result.stdout)
-        print(f"Loaded {len(data['include'])} include keywords, {len(data['exclude'])} exclude keywords")
-        return data['include'], data['exclude']
+        keywords = json.loads(result.stdout)
+        print(f"Loaded {len(keywords)} keywords: {keywords}")
+        return keywords
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
-        return [], []
+        return []
 
-keywords, exclude_keywords = get_keywords()
+keywords = get_keywords()
 
 urls = [
     'https://www.voakorea.com/z/2767',  # 정치안보
@@ -41,9 +41,8 @@ def is_relevant_article(text_content):
         return True
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword for keyword in keywords if re.search(re.escape(keyword.lower()), text_content.lower())]
-    exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    print(f"매칭된 키워드: {matching_keywords}, 제외 키워드 매칭: {exclude_match}")
-    return len(matching_keywords) >= 2 and not exclude_match
+    print(f"매칭된 키워드: {matching_keywords}")
+    return len(matching_keywords) >= 2
 
 def get_existing_links():
     try:
@@ -90,8 +89,10 @@ def process_article(element):
     time_element = element.find('span', class_='date')
     published_time = time_element.text.strip() if time_element else ''
     try:
-        parsed_time = datetime.strptime(published_time, '%Y-%m-%d %H:%M')
-        formatted_time = parsed_time.isoformat()
+        # 한국어 날짜 형식 처리 (예: 2025년 3월 16일)
+        parsed_time = datetime.strptime(published_time, '%Y년 %m월 %d일')
+        # 시간 정보가 없으므로 00:00으로 설정
+        formatted_time = parsed_time.replace(hour=0, minute=0, second=0).isoformat()
     except ValueError as e:
         print(f"잘못된 시간 형식: {published_time}, 에러: {e}")
         return None
