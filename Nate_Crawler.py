@@ -8,6 +8,8 @@ import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urlparse, urlunparse
+import subprocess
+
 
 result_filename = 'nate_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
