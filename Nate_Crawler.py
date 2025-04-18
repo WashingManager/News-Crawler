@@ -41,12 +41,6 @@ def get_date_list():
     yesterday = today - timedelta(days=1)
     return [today.strftime('%Y%m%d'), yesterday.strftime('%Y%m%d')]
 
-def is_relevant_article(text_content):
-    words = set(re.findall(r'\b\w+\b', text_content.lower()))
-    matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
-    print(f"Checking relevance - Title: {text_content}, Matching keywords: {matching_keywords}")
-    return len(matching_keywords) >= 1
-
 def get_existing_links():
     try:
         with open(result_filename, 'r', encoding='utf-8') as f:
@@ -97,17 +91,15 @@ def process_article(article, base_url):
     img_element = article.select_one('img')
     img_url = img_element.get('src', '') if img_element else ''
     
-    if is_relevant_article(text_content):
-        processed_links.add(clean_url)
-        print(f"Article accepted: {text_content}")
-        return {
-            'title': text_content,
-            'time': formatted_time,
-            'img': img_url,
-            'url': clean_url,
-            'original_url': clean_url
-        }
-    return None
+    processed_links.add(clean_url)
+    print(f"Article processed: {text_content}")
+    return {
+        'title': text_content,
+        'time': formatted_time,
+        'img': img_url,
+        'url': clean_url,
+        'original_url': clean_url
+    }
 
 def scrape_page(url):
     print(f"Scraping URL: {url}")
