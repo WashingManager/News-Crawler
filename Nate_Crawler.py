@@ -21,12 +21,12 @@ def get_keywords():
         )
         keywords = json.loads(result.stdout)
         print(f"Loaded {len(keywords)} keywords")
-        return keywords
+        return keywords, []  # exclude_keywords는 임시로 빈 리스트 반환
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
-        return []
+        return [], []
 
-keywords = get_keywords()
+keywords, exclude_keywords = get_keywords()
 
 base_urls = [
     'https://news.nate.com/recent?mid=n0102',  # 경제
@@ -55,11 +55,12 @@ def is_relevant_article(title, text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
     keyword_count = len(matching_keywords)
-    
+    exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
+
     if title in processed_titles:
         return False
     
-    if keyword_count >= 2:
+    if keyword_count >= 2 and not exclude_match:
         return True
     return False
 
@@ -98,11 +99,16 @@ def process_article(article, base_url):
         print("No time element found")
         return None
     
+    # 유연한 시간 형식 처리
     try:
-        parsed_time = datetime.strptime(published_time, '%Y.%m.%d %H:%M')
+        if '-' in published_time:  # 예: 04-18 20:54
+            parsed_time = datetime.strptime(published_time, '%m-%d %H:%M')
+            parsed_time = parsed_time.replace(year=datetime.now().year)  # 연도 추가
+        else:  # 예: 2025.04.18 20:54
+            parsed_time = datetime.strptime(published_time, '%Y.%m.%d %H:%M')
         formatted_time = parsed_time.isoformat()
-    except ValueError:
-        print(f"Invalid time format: {published_time}")
+    except ValueError as e:
+        print(f"Invalid time format: {published_time}, Error: {e}")
         return None
     
     img_element = article.select_one('img')
