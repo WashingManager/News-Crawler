@@ -6,6 +6,7 @@ import json
 import sys
 import os
 import re
+import subprocess
 
 result_filename = 'naver_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
