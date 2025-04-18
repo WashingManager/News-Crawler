@@ -163,10 +163,13 @@ def main():
             page += 1
             time.sleep(1)
     
-    if all_articles:
-        save_to_json(all_articles)
-    else:
-        print("새로운 기사 없음")
+    # 새로운 기사가 있으면 저장, 없으면 빈 데이터 유지
+    save_to_json(all_articles)
+    # 파일이 없으면 빈 JSON 배열로 초기화
+    if not os.path.exists(result_filename):
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump([], f, ensure_ascii=False, indent=2)
+        print(f"새로운 기사 없음. 빈 {result_filename} 파일 생성")
 
 if __name__ == "__main__":
     main()
