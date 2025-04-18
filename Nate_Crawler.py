@@ -38,11 +38,13 @@ processed_links = set()
 
 def get_date_list():
     today = datetime.now()
-    return [today.strftime('%Y%m%d')]
+    yesterday = today - timedelta(days=1)
+    return [today.strftime('%Y%m%d'), yesterday.strftime('%Y%m%d')]
 
 def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
+    print(f"Checking relevance - Title: {text_content}, Matching keywords: {matching_keywords}")
     return len(matching_keywords) >= 1
 
 def get_existing_links():
@@ -55,41 +57,49 @@ def get_existing_links():
         return set()
 
 def process_article(article, base_url):
-    link_element = article.select_one('a.lt1')
+    link_element = article.select_one('a')
     if not link_element:
+        print("No link element found")
         return None
     
-    href_link = link_element['href']
+    href_link = link_element.get('href', '')
+    if not href_link:
+        print("No href in link element")
+        return None
+    
     full_link = urljoin(base_url, href_link)
     parsed_url = urlparse(full_link)
     clean_url = urlunparse((parsed_url.scheme, parsed_url.netloc, parsed_url.path, '', '', ''))
     
     if clean_url in processed_links:
+        print(f"Duplicate URL: {clean_url}")
         return None
     
-    title_element = article.select_one('h2.tit')
+    title_element = article.select_one('strong')
     if not title_element:
+        print("No title element found")
         return None
     
     text_content = title_element.get_text(strip=True)
-    time_element = article.select_one('span.medium em')
+    time_element = article.select_one('span.date')
     published_time = time_element.get_text(strip=True) if time_element else ''
+    if not published_time:
+        print("No time element found")
+        return None
+    
     try:
         parsed_time = datetime.strptime(published_time, '%Y.%m.%d %H:%M')
         formatted_time = parsed_time.isoformat()
     except ValueError:
+        print(f"Invalid time format: {published_time}")
         return None
     
     img_element = article.select_one('img')
-    img_url = img_element.get('src') if img_element else ''
-    
-    # 디버깅: 제목과 매칭된 키워드 출력
-    words = set(re.findall(r'\b\w+\b', text_content.lower()))
-    matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
-    print(f"Title: {text_content}, Matching keywords: {matching_keywords}")
+    img_url = img_element.get('src', '') if img_element else ''
     
     if is_relevant_article(text_content):
         processed_links.add(clean_url)
+        print(f"Article accepted: {text_content}")
         return {
             'title': text_content,
             'time': formatted_time,
@@ -106,7 +116,7 @@ def scrape_page(url):
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
-        article_elements = soup.select('div.mlt01')
+        article_elements = soup.select('div.postListType01 li')
         print(f"Found {len(article_elements)} articles")
         
         with ThreadPoolExecutor(max_workers=5) as executor:
@@ -151,7 +161,7 @@ def main():
     for base_url in base_urls:
         for date in get_date_list():
             page = 1
-            while page <= 5:
+            while page <= 10:
                 url = f'{base_url}&type=c&date={date}&page={page}'
                 articles = scrape_page(url)
                 all_articles.extend(articles)
