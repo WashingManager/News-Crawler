@@ -9,11 +9,23 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), 'data', 'lib')))
-from keywords import keywords, exclude_keywords
-
-result_filename = 'skydaily_News.json'
+result_filename = 'skyDaily_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
+
+def get_keywords():
+    try:
+        result = subprocess.run(
+            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
+            capture_output=True, text=True, check=True
+        )
+        keywords = json.loads(result.stdout)
+        print(f"Loaded keywords: {keywords}")
+        return keywords.get('include', []), keywords.get('exclude', [])
+    except Exception as e:
+        print(f"키워드 로드 실패: {e}")
+        return [], []
+
+keywords, exclude_keywords = get_keywords()
 
 urls = [
     'https://www.skyedaily.com/news/articlelist.html?mode=list',
