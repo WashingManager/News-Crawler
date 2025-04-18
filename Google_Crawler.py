@@ -23,10 +23,16 @@ def get_keywords():
         )
         keywords = json.loads(result.stdout)
         print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        
+        # 키워드 리스트가 직접 반환되므로, 두 개의 키워드 리스트로 나누는 로직 추가
+        include_keywords = [keyword for keyword in keywords if keyword]  # 필터링 로직 추가 가능
+        exclude_keywords = []  # exclude_keywords 로직 추가 시 여기에 할당
+        
+        return include_keywords, exclude_keywords
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
+
 
 keywords, exclude_keywords = get_keywords()
 urls = [
