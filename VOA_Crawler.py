@@ -7,6 +7,8 @@ import sys
 import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import subprocess
+
 
 result_filename = 'voa_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
