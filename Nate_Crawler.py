@@ -3,13 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import json
-import sys
 import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urlparse, urlunparse
 import subprocess
-
 
 result_filename = 'nate_News.json'
 today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
@@ -21,13 +19,13 @@ def get_keywords():
             capture_output=True, text=True, check=True
         )
         keywords = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        print(f"Loaded {len(keywords)} keywords")
+        return keywords
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
-        return [], []
+        return []
 
-keywords, exclude_keywords = get_keywords()
+keywords = get_keywords()
 
 base_urls = [
     'https://news.nate.com/recent?mid=n0102',
@@ -45,8 +43,7 @@ def get_date_list():
 def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
-    exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    return len(matching_keywords) >= 2 and not exclude_match
+    return len(matching_keywords) >= 2
 
 def get_existing_links():
     try:
@@ -54,6 +51,7 @@ def get_existing_links():
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
+        print(f"{result_filename} 파일이 없음. 새로 생성 예정.")
         return set()
 
 def process_article(article, base_url):
@@ -119,11 +117,13 @@ def scrape_page(url):
         return []
 
 def save_to_json(new_articles):
-    try:
-        with open(result_filename, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-    except FileNotFoundError:
-        existing_data = []
+    existing_data = []
+    if os.path.exists(result_filename):
+        try:
+            with open(result_filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
     
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
@@ -131,9 +131,12 @@ def save_to_json(new_articles):
     else:
         existing_data.append({'date': today, 'articles': new_articles})
     
-    with open(result_filename, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(new_articles)} articles to {result_filename}")
+    try:
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
+        print(f"{len(new_articles)}개의 기사를 {result_filename}에 저장 완료")
+    except Exception as e:
+        print(f"JSON 저장 실패: {e}")
 
 def main():
     global processed_links
@@ -152,10 +155,11 @@ def main():
                 page += 1
                 time.sleep(1)
     
-    if all_articles:
-        save_to_json(all_articles)
-    else:
-        print("No new articles found")
+    save_to_json(all_articles)
+    if not os.path.exists(result_filename):
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump([], f, ensure_ascii=False, indent=2)
+        print(f"새로운 기사 없음. 빈 {result_filename} 파일 생성")
 
 if __name__ == "__main__":
     main()
