@@ -6,6 +6,10 @@ on:
     - cron: '0 8 * * *'  # 매일 오전 8시 UTC (한국 시간 오후 5시)
   workflow_dispatch:  # 수동 실행 가능
 
+permissions:
+  contents: write  # 리포지토리 쓰기 권한 부여
+  actions: read    # Actions 읽기 권한
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -18,9 +22,9 @@ jobs:
 
     - name: List directory contents
       run: |
-        pwd  # 현재 디렉토리
-        ls -la  # 파일 목록
-        find . -type f  # 모든 파일 경 soaring
+        pwd
+        ls -la
+        find . -type f
         if [ -f "Daum_crawler.py" ]; then echo "Daum_crawler.py found"; else echo "Daum_crawler.py NOT found"; fi
         if [ -f "keyword.js" ]; then echo "keyword.js found"; else echo "keyword.js NOT found"; fi
 
@@ -41,7 +45,7 @@ jobs:
 
     - name: Run scraper
       run: python Daum_crawler.py
-      continue-on-error: true  # 오류 시 다음 단계 진행
+      continue-on-error: true
 
     - name: Commit and push results
       run: |
