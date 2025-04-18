@@ -43,7 +43,7 @@ def get_date_list():
 def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
-    return len(matching_keywords) >= 2
+    return len(matching_keywords) >= 1
 
 def get_existing_links():
     try:
