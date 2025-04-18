@@ -44,7 +44,7 @@ jobs:
         git config --global user.name 'GitHub Action'
         git config --global user.email 'action@github.com'
         git add fnnews_News.json
-        git commit -m "Update fnnews_News.json $(date)" || echo "No changes to commit"
+        git commit -m "Update Fn_News.json $(date)" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
