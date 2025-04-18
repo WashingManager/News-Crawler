@@ -1,6 +1,623 @@
 [
   {
     "date": "2025년 04월 18일 금요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "'입항료 내기 싫으면 중국 배 쓰지마'…트럼프 또 중국 압박",
+        "time": "2025-04-18T21:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/04/18/20250418502335.jpg",
+        "url": "https://news.nate.com/view/20250418n23634",
+        "original_url": "https://news.nate.com/view/20250418n23634"
+      },
+      {
+        "title": "일본 나가노현서 규모 5.0 지진…\"쓰나미 우려는 없어\"",
+        "time": "2025-04-18T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/04/18/2025041821072380181_1.jpg",
+        "url": "https://news.nate.com/view/20250418n33666",
+        "original_url": "https://news.nate.com/view/20250418n33666"
+      },
+      {
+        "title": "[영상] 건대 양꼬치 거리 한복판서 혐중 시위한 윤석열 지지 극우 청년들",
+        "time": "2025-04-18T21:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/04/18/20250418502457.jpg",
+        "url": "https://news.nate.com/view/20250418n25248",
+        "original_url": "https://news.nate.com/view/20250418n25248"
+      },
+      {
+        "title": "\"대통령 윤석열을 파면한다\"…역사에 남을 선고하고 떠나는 헌재 재판관 2인",
+        "time": "2025-04-18T21:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/04/18/rcv.NEWS1.NEWS1.20250418.2025-04-18T115040_1007242959_SOCIETY_I_P1.jpg",
+        "url": "https://news.nate.com/view/20250418n33574",
+        "original_url": "https://news.nate.com/view/20250418n33574"
+      },
+      {
+        "title": "일본 나가노현서 규모 5 지진 발생",
+        "time": "2025-04-18T21:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/04/18/PS25041801021.jpg",
+        "url": "https://news.nate.com/view/20250418n33415",
+        "original_url": "https://news.nate.com/view/20250418n33415"
+      },
+      {
+        "title": "이탈리아 총리, 트럼프와 회담 뒤 \"공정하고 건설적 대화\"",
+        "time": "2025-04-18T21:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202062639_700.jpg",
+        "url": "https://news.nate.com/view/20250418n33611",
+        "original_url": "https://news.nate.com/view/20250418n33611"
+      },
+      {
+        "title": "[월드 e-브리핑] 체코, 러시아 석유 의존 종료…서유럽 공급망 전환",
+        "time": "2025-04-18T21:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/04/18/1480318_680112_5638.png",
+        "url": "https://news.nate.com/view/20250418n33652",
+        "original_url": "https://news.nate.com/view/20250418n33652"
+      },
+      {
+        "title": "美 플로리다 총기난사, 2명 사망…용의자는 보안관 아들",
+        "time": "2025-04-18T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/04/18/1480335_680117_32.png",
+        "url": "https://news.nate.com/view/20250418n33676",
+        "original_url": "https://news.nate.com/view/20250418n33676"
+      },
+      {
+        "title": "\"전기차는 움직이는 스파이\" 중국산 부품 사용에 '도청' 가능성 지적한 英",
+        "time": "2025-04-18T21:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/04/18/ae_1744978085124_544201_0.jpg",
+        "url": "https://news.nate.com/view/20250418n29814",
+        "original_url": "https://news.nate.com/view/20250418n29814"
+      },
+      {
+        "title": "인내심 바닥난 美, 러·우크라·유럽에 휴전 동시압박",
+        "time": "2025-04-18T21:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/04/18/news-p.v1.20250319.80b6d0cce41e4aeca9e6a0fb0084e1af_P1.jpg",
+        "url": "https://news.nate.com/view/20250418n33782",
+        "original_url": "https://news.nate.com/view/20250418n33782"
+      },
+      {
+        "title": "일본 나가노현 나가노시 서남서쪽서 규모 5.0 지진",
+        "time": "2025-04-18T21:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202062632_700.jpg",
+        "url": "https://news.nate.com/view/20250418n33462",
+        "original_url": "https://news.nate.com/view/20250418n33462"
+      },
+      {
+        "title": "\"러, 휴전 조건으로 미국에 항공사 제재 해제 요구\"",
+        "time": "2025-04-18T20:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250418n32922",
+        "original_url": "https://news.nate.com/view/20250418n32922"
+      },
+      {
+        "title": "이탈리아 나폴리 인근서 케이블카 추락해 최소 4명 사망",
+        "time": "2025-04-18T20:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/04/18/202504180555123698_t.jpg",
+        "url": "https://news.nate.com/view/20250418n02389",
+        "original_url": "https://news.nate.com/view/20250418n02389"
+      },
+      {
+        "title": "美, 중국산 선박에 입항료 물리자…中 \"결국 美소비자 손해\"",
+        "time": "2025-04-18T20:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/04/18/3be47697-77c0-4b46-be30-a00ff90a358d.jpg",
+        "url": "https://news.nate.com/view/20250418n27166",
+        "original_url": "https://news.nate.com/view/20250418n27166"
+      },
+      {
+        "title": "폴란드 '스파이 차단' 2만5천곳 촬영금지",
+        "time": "2025-04-18T20:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/AKR20250418155600082_01_i.jpg",
+        "url": "https://news.nate.com/view/20250418n33225",
+        "original_url": "https://news.nate.com/view/20250418n33225"
+      },
+      {
+        "title": "미국 이번엔 '해운전쟁'…\"중국 입항 수수료 내라\"",
+        "time": "2025-04-18T20:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202062617_700.jpg",
+        "url": "https://news.nate.com/view/20250418n33030",
+        "original_url": "https://news.nate.com/view/20250418n33030"
+      },
+      {
+        "title": "美, 인내심 바닥났다…러·우크라·유럽에 휴전 동시압박",
+        "time": "2025-04-18T20:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/AKR20250418154700081_01_i.jpg",
+        "url": "https://news.nate.com/view/20250418n32995",
+        "original_url": "https://news.nate.com/view/20250418n32995"
+      },
+      {
+        "title": "해운 건들자 중국 즉각 반발…\"결국 미국 피해로 돌아갈 것\"",
+        "time": "2025-04-18T20:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202062618_700.jpg",
+        "url": "https://news.nate.com/view/20250418n33105",
+        "original_url": "https://news.nate.com/view/20250418n33105"
+      },
+      {
+        "title": "러시아, \"우크라 에너지 부분에 대한 공격유예 끝나\"",
+        "time": "2025-04-18T19:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250416_0000262775_web.jpg",
+        "url": "https://news.nate.com/view/20250418n31988",
+        "original_url": "https://news.nate.com/view/20250418n31988"
+      },
+      {
+        "title": "中, 美입항 수수료 부과 결정에 보복 시사…\"필요한 조치할 것\"",
+        "time": "2025-04-18T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/04/18/news_1744975175_1487609_m_1.jpeg",
+        "url": "https://news.nate.com/view/20250418n32182",
+        "original_url": "https://news.nate.com/view/20250418n32182"
+      },
+      {
+        "title": "미국, 중국 선박에 입항 수수료…'관세전쟁' 해운까지 전방위 확대",
+        "time": "2025-04-18T20:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/04/18/20250418518613.jpg",
+        "url": "https://news.nate.com/view/20250418n30924",
+        "original_url": "https://news.nate.com/view/20250418n30924"
+      },
+      {
+        "title": "러시아 \"우크라 평화협상 진전있지만 美와 접촉 복잡\"",
+        "time": "2025-04-18T19:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7213131_high.jpg",
+        "url": "https://news.nate.com/view/20250418n31429",
+        "original_url": "https://news.nate.com/view/20250418n31429"
+      },
+      {
+        "title": "미국 입항료 부과에 중국 \"즉시 중단하라\" 보복 시사",
+        "time": "2025-04-18T19:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/04/18/202504181731022962_t.jpg",
+        "url": "https://news.nate.com/view/20250418n27934",
+        "original_url": "https://news.nate.com/view/20250418n27934"
+      },
+      {
+        "title": "'테슬라' 인도 진출 기대감에 관련주 상승…모디-머스크 기술 협력 논의",
+        "time": "2025-04-18T19:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2025/04/18/15642360_1547778_2254.jpg",
+        "url": "https://news.nate.com/view/20250418n31278",
+        "original_url": "https://news.nate.com/view/20250418n31278"
+      },
+      {
+        "title": "美 입항 수수료 부과에 中 \"자국에 해 끼칠 것…중단 촉구\"",
+        "time": "2025-04-18T19:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/04/18/202504181752011035_0.jpg",
+        "url": "https://news.nate.com/view/20250418n30940",
+        "original_url": "https://news.nate.com/view/20250418n30940"
+      },
+      {
+        "title": "러 \"에너지 인프라 시설 공격 중단 기간 만료…추가 지시 없어\"",
+        "time": "2025-04-18T19:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7185100_high.jpg",
+        "url": "https://news.nate.com/view/20250418n31135",
+        "original_url": "https://news.nate.com/view/20250418n31135"
+      },
+      {
+        "title": "ICC, '네타냐후 미체포' 헝가리 조사…해명 요청",
+        "time": "2025-04-18T19:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250418n31376",
+        "original_url": "https://news.nate.com/view/20250418n31376"
+      },
+      {
+        "title": "미 루비오의 기습 발언, 우크라 아닌 러시아 푸틴에 대한 경고",
+        "time": "2025-04-18T19:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250418_0000266015_web.jpg",
+        "url": "https://news.nate.com/view/20250418n31005",
+        "original_url": "https://news.nate.com/view/20250418n31005"
+      },
+      {
+        "title": "이탈리아 멜로니 '관세 설득'에도…트럼프 \"입장 변화 없다\"",
+        "time": "2025-04-18T19:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/04/18/acb3813f-73b5-4acb-aad5-2a9c2325e724.jpg",
+        "url": "https://news.nate.com/view/20250418n31406",
+        "original_url": "https://news.nate.com/view/20250418n31406"
+      },
+      {
+        "title": "美, 中해운사·중국산 선박에 입항료…트럼프 \"中과 관세 대화 중\"",
+        "time": "2025-04-18T19:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/04/18/2025041818560323900_1744970163_1744958575.jpg",
+        "url": "https://news.nate.com/view/20250418n30476",
+        "original_url": "https://news.nate.com/view/20250418n30476"
+      },
+      {
+        "title": "젤렌스키 \"중국, 러시아에 무기 공급\"…中 \"근거 없는 비난\"(종합)",
+        "time": "2025-04-18T19:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250418_0000265706_web.jpg",
+        "url": "https://news.nate.com/view/20250418n31067",
+        "original_url": "https://news.nate.com/view/20250418n31067"
+      },
+      {
+        "title": "트럼프 관세에 명품도 비상…에르메스 \"가격인상\", LVMH \"美 생산\"",
+        "time": "2025-04-18T19:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/04/18/202504181508021105_0.jpg",
+        "url": "https://news.nate.com/view/20250418n30825",
+        "original_url": "https://news.nate.com/view/20250418n30825"
+      },
+      {
+        "title": "인도 총리, 머스크와 통화…\"기술혁신 협력 엄청난 잠재력\"",
+        "time": "2025-04-18T19:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7132108_high.jpg",
+        "url": "https://news.nate.com/view/20250418n30758",
+        "original_url": "https://news.nate.com/view/20250418n30758"
+      },
+      {
+        "title": "'에게해의 앙숙' 그리스·튀르키예 해상 경계선 갈등",
+        "time": "2025-04-18T18:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/PAP20250410023201009_P2.jpg",
+        "url": "https://news.nate.com/view/20250418n30273",
+        "original_url": "https://news.nate.com/view/20250418n30273"
+      },
+      {
+        "title": "하마스 \"인질 다 풀어주는 포괄적 협상 준비\"…이스라엘에 종전 역제안",
+        "time": "2025-04-18T18:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/04/18/20250418516777.jpg",
+        "url": "https://news.nate.com/view/20250418n30256",
+        "original_url": "https://news.nate.com/view/20250418n30256"
+      },
+      {
+        "title": "중국, 미국 입항료 부과에 \"즉각 중단 촉구\"…보복 조치 시사",
+        "time": "2025-04-18T18:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/04/18/news-p.v1.20250418.e8dbf2bc25cf4d488869426c9f78b5e2_P1.jpg",
+        "url": "https://news.nate.com/view/20250418n27011",
+        "original_url": "https://news.nate.com/view/20250418n27011"
+      },
+      {
+        "title": "[딥빽] '트럼프발 관세 폭탄 막아라!' 다가오는 한국 차례…각국의 반격·협상 카드에서 볼 수 있는 전략은?",
+        "time": "2025-04-18T18:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202062571_700.jpg",
+        "url": "https://news.nate.com/view/20250418n29840",
+        "original_url": "https://news.nate.com/view/20250418n29840"
+      },
+      {
+        "title": "中 희토류 수출 제한 발표에 美 새 희토류 광산 개발 노력 부산",
+        "time": "2025-04-18T18:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250418_0000267450_web.jpg",
+        "url": "https://news.nate.com/view/20250418n29919",
+        "original_url": "https://news.nate.com/view/20250418n29919"
+      },
+      {
+        "title": "美 \"중국산 선박에 입항료\"…中 \"필요한 조처할 것\"",
+        "time": "2025-04-18T18:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/in/2025/04/18/3b2871900cc492.jpg",
+        "url": "https://news.nate.com/view/20250418n29542",
+        "original_url": "https://news.nate.com/view/20250418n29542"
+      },
+      {
+        "title": "(영상) 푸틴, 보고 있나…\"150분간 러 병사 140명 전사, 최대 규모 전투\" [포착]",
+        "time": "2025-04-18T18:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/04/18/SSC_20250418183551_V.jpg",
+        "url": "https://news.nate.com/view/20250418n30023",
+        "original_url": "https://news.nate.com/view/20250418n30023"
+      },
+      {
+        "title": "美국무 \"우크라 휴전 진전 없으면 손 뗄 수도…며칠 내로 판단\"",
+        "time": "2025-04-18T18:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/04/18/2025041818164323879_1744967806_0027988699.jpg",
+        "url": "https://news.nate.com/view/20250418n29590",
+        "original_url": "https://news.nate.com/view/20250418n29590"
+      },
+      {
+        "title": "\"한 달 내 협상 타결\"…초조해진 트럼프, 중국 때리면서도 '국면 전환' 기대감 발신",
+        "time": "2025-04-18T18:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/04/18/8e2c1897-df2b-4b5d-aab9-9de311c3a0f4.jpg",
+        "url": "https://news.nate.com/view/20250418n23888",
+        "original_url": "https://news.nate.com/view/20250418n23888"
+      },
+      {
+        "title": "드론 천적 될까…영국 \"고출력 전파 무기 시험 성공\"",
+        "time": "2025-04-18T18:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/04/18/202504181816179941_t.jpg",
+        "url": "https://news.nate.com/view/20250418n29528",
+        "original_url": "https://news.nate.com/view/20250418n29528"
+      },
+      {
+        "title": "J-36 이어…中 '6세대 전투기' J-50 시험 비행 보란 듯 공개",
+        "time": "2025-04-18T18:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/04/18/ch_1744967344427_558830_0.jpg",
+        "url": "https://news.nate.com/view/20250418n26693",
+        "original_url": "https://news.nate.com/view/20250418n26693"
+      },
+      {
+        "title": "美, 우크라 휴전 협상서 발 빼나…\"진전 없을 시 평화노력 중단\"",
+        "time": "2025-04-18T18:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/04/18/cec438e1-e715-44f7-a95d-0065dd4e43ea.jpg",
+        "url": "https://news.nate.com/view/20250418n29473",
+        "original_url": "https://news.nate.com/view/20250418n29473"
+      },
+      {
+        "title": "美, 입항료 부과 결정…中 \"필요한 조치할 것\" 재보복 시사",
+        "time": "2025-04-18T18:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/04/18/ch_1744968004749_247308_0.jpg",
+        "url": "https://news.nate.com/view/20250418n26608",
+        "original_url": "https://news.nate.com/view/20250418n26608"
+      },
+      {
+        "title": "미 국무장관 \"우크라 휴전 진전 없으면 미국 손 뗄 수도\"",
+        "time": "2025-04-18T18:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/04/18/202055269_700.jpg",
+        "url": "https://news.nate.com/view/20250418n29228",
+        "original_url": "https://news.nate.com/view/20250418n29228"
+      },
+      {
+        "title": "미군, 예멘 항구 공습 \"반군 연료 차단\"…최소 38명 사망",
+        "time": "2025-04-18T18:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/04/18/20250418502714.jpg",
+        "url": "https://news.nate.com/view/20250418n28979",
+        "original_url": "https://news.nate.com/view/20250418n28979"
+      },
+      {
+        "title": "ICC, '네타냐후 미체포' 헝가리 조사…제재방법은 모호",
+        "time": "2025-04-18T18:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/PXI20250403032201009_P2.jpg",
+        "url": "https://news.nate.com/view/20250418n29493",
+        "original_url": "https://news.nate.com/view/20250418n29493"
+      },
+      {
+        "title": "미 국무장관 \"우크라이나 휴전 진전 없으면 손 뗄 수도\"",
+        "time": "2025-04-18T18:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250418n29509",
+        "original_url": "https://news.nate.com/view/20250418n29509"
+      },
+      {
+        "title": "우크라 총리, 내주 '광물협정' 체결 위해 방미…베센트 美재무와 회담",
+        "time": "2025-04-18T18:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7193312_high.jpg",
+        "url": "https://news.nate.com/view/20250418n29411",
+        "original_url": "https://news.nate.com/view/20250418n29411"
+      },
+      {
+        "title": "파리시, 그라피티와 전쟁 선포…\"연간 피해액 100억 원 육박\"",
+        "time": "2025-04-18T18:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/04/18/202504181816072290_t.jpg",
+        "url": "https://news.nate.com/view/20250418n29522",
+        "original_url": "https://news.nate.com/view/20250418n29522"
+      },
+      {
+        "title": "中, 美입항료 부과 결정에 \"필요한 조처할 것\"…보복 시사",
+        "time": "2025-04-18T18:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/04/18/131446311.2.jpg",
+        "url": "https://news.nate.com/view/20250418n27759",
+        "original_url": "https://news.nate.com/view/20250418n27759"
+      },
+      {
+        "title": "美국무장관 \"우크라 휴전 진전 없으면 美 손 뗄 수도\"",
+        "time": "2025-04-18T18:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/04/18/ae_1744968244862_423187_0.jpg",
+        "url": "https://news.nate.com/view/20250418n29668",
+        "original_url": "https://news.nate.com/view/20250418n29668"
+      },
+      {
+        "title": "\"의향서 체결했다\"…미국-우크라 광물협정 곧 서명? 트럼프 \"다음주\"",
+        "time": "2025-04-18T18:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/04/18/2025041814040355859_1.jpg",
+        "url": "https://news.nate.com/view/20250418n28841",
+        "original_url": "https://news.nate.com/view/20250418n28841"
+      },
+      {
+        "title": "美, 종전 중재 발빼나…루비오 \"다른 중요한 일도 많아\"(상보)",
+        "time": "2025-04-18T17:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7242661_high.jpg",
+        "url": "https://news.nate.com/view/20250418n28685",
+        "original_url": "https://news.nate.com/view/20250418n28685"
+      },
+      {
+        "title": "독일, 유로파이터 튀르키예 수출 제동",
+        "time": "2025-04-18T17:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/PAF20250410043901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250418n28638",
+        "original_url": "https://news.nate.com/view/20250418n28638"
+      },
+      {
+        "title": "中, 美 입항료 부과 결정에 \"즉각 중단 촉구…필요한 조처할 것\"",
+        "time": "2025-04-18T17:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/04/18/news-p.v1.20250414.bb1aeb7fa1384241b84919c6d91e8462_P1.jpg",
+        "url": "https://news.nate.com/view/20250418n28090",
+        "original_url": "https://news.nate.com/view/20250418n28090"
+      },
+      {
+        "title": "시진핑 웃음짓게 한 13살 캄보디아 공주…국빈 만찬서 중국 민요 열창",
+        "time": "2025-04-18T17:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/04/18/ch_1744965905207_6181_0.jpg",
+        "url": "https://news.nate.com/view/20250418n26472",
+        "original_url": "https://news.nate.com/view/20250418n26472"
+      },
+      {
+        "title": "\"한국이 중국 만두 훔쳤다\" 부글부글…비비고 '만두 모양 특허'에 \"어이없다\"는 中",
+        "time": "2025-04-18T17:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/04/18/SSC_20250418174216_V.jpg",
+        "url": "https://news.nate.com/view/20250418n28246",
+        "original_url": "https://news.nate.com/view/20250418n28246"
+      },
+      {
+        "title": "\"중국산 전기차는 움직이는 스파이\"…英 정부연구소 '도청' 경고",
+        "time": "2025-04-18T17:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/6900897_high.jpg",
+        "url": "https://news.nate.com/view/20250418n28460",
+        "original_url": "https://news.nate.com/view/20250418n28460"
+      },
+      {
+        "title": "美국무 \"우크라 휴전 진전 없으면 美 손 뗄 수도\"",
+        "time": "2025-04-18T17:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/AKR20250418139000081_01_i.jpg",
+        "url": "https://news.nate.com/view/20250418n28452",
+        "original_url": "https://news.nate.com/view/20250418n28452"
+      },
+      {
+        "title": "中, 美 입항료 부과 결정에 \"모두에 해 끼쳐…필요한 조처할 것\"",
+        "time": "2025-04-18T17:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/04/18/AKR20250418174948659_01_i.jpg",
+        "url": "https://news.nate.com/view/20250418n28466",
+        "original_url": "https://news.nate.com/view/20250418n28466"
+      },
+      {
+        "title": "\"대화중\"이라더니 中 해운 때린 트럼프",
+        "time": "2025-04-18T17:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/04/18/2GRKJLGJAI_1.jpg",
+        "url": "https://news.nate.com/view/20250418n28091",
+        "original_url": "https://news.nate.com/view/20250418n28091"
+      },
+      {
+        "title": "미국, 중국산 선박 입항료 부과…중국 \"공급망 불안·인플레 우려\"",
+        "time": "2025-04-18T17:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2025/04/18/15642247_1547656_3739.jpg",
+        "url": "https://news.nate.com/view/20250418n28066",
+        "original_url": "https://news.nate.com/view/20250418n28066"
+      },
+      {
+        "title": "폐쇄 요구했는데…'독도는 일본 땅' 日 정부 전시관 재개관",
+        "time": "2025-04-18T17:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/04/18/cz_1744965424352_872169_0.jpg",
+        "url": "https://news.nate.com/view/20250418n28051",
+        "original_url": "https://news.nate.com/view/20250418n28051"
+      },
+      {
+        "title": "美, 예멘 내 '후티 통제 항만'에 대규모 공습 \"38명 사망, 102명 부상\"",
+        "time": "2025-04-18T17:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/04/18/SSC_20250418171944_V.jpg",
+        "url": "https://news.nate.com/view/20250418n27488",
+        "original_url": "https://news.nate.com/view/20250418n27488"
+      },
+      {
+        "title": "中 \"美 입항료 부과, 자국에 손해…필요한 조치 취할 것\"",
+        "time": "2025-04-18T17:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20240924_0001660800_web.jpg",
+        "url": "https://news.nate.com/view/20250418n27644",
+        "original_url": "https://news.nate.com/view/20250418n27644"
+      },
+      {
+        "title": "우크라 재건투자기금 설립…한국 기업 진출 기회 열릴까",
+        "time": "2025-04-18T17:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250220_0000120746_web.jpg",
+        "url": "https://news.nate.com/view/20250418n27504",
+        "original_url": "https://news.nate.com/view/20250418n27504"
+      },
+      {
+        "title": "中, 美 입항료 부과 결정에 \"즉각 중단 촉구···필요한 조처할 것\"",
+        "time": "2025-04-18T17:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/04/18/2GRKK6ON1V_3.jpg",
+        "url": "https://news.nate.com/view/20250418n26229",
+        "original_url": "https://news.nate.com/view/20250418n26229"
+      },
+      {
+        "title": "독도를 알기 쉽게? 일본 '독도 역사 왜곡' 전시관 재개관",
+        "time": "2025-04-18T17:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/04/18/20250418172118424001.png",
+        "url": "https://news.nate.com/view/20250418n27550",
+        "original_url": "https://news.nate.com/view/20250418n27550"
+      },
+      {
+        "title": "중국, 6G 분야 韓·EU 등과 교류 확대…외자 투자 확대 방침",
+        "time": "2025-04-18T17:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ts/2025/04/18/15642224_1547634_2135.jpg",
+        "url": "https://news.nate.com/view/20250418n27543",
+        "original_url": "https://news.nate.com/view/20250418n27543"
+      },
+      {
+        "title": "中, 美 입항료 부과 방침에 \"모두에 해 끼치는 행위\"",
+        "time": "2025-04-18T17:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/04/18/cz_1744964464800_24566_0.jpg",
+        "url": "https://news.nate.com/view/20250418n26010",
+        "original_url": "https://news.nate.com/view/20250418n26010"
+      },
+      {
+        "title": "中, 美 선박 입항 수수료 부과에 \"즉시 중단하라, 필요한 조처할 것\"",
+        "time": "2025-04-18T17:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/04/18/ae_1744964944722_879256_0.jpg",
+        "url": "https://news.nate.com/view/20250418n27756",
+        "original_url": "https://news.nate.com/view/20250418n27756"
+      },
+      {
+        "title": "트럼프 \"우크라 광물협정, 24일 서명\"…평화협상 급물살 전망",
+        "time": "2025-04-18T17:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/04/18/b6841b6b-4afd-4a38-a47d-58f94f4cb2de.jpg",
+        "url": "https://news.nate.com/view/20250418n18703",
+        "original_url": "https://news.nate.com/view/20250418n18703"
+      },
+      {
+        "title": "우크라-美, 광물협정 의향서 체결…우크라 종전 협상도 '진전'",
+        "time": "2025-04-18T17:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/04/18/179513_1744963781.jpg",
+        "url": "https://news.nate.com/view/20250418n26925",
+        "original_url": "https://news.nate.com/view/20250418n26925"
+      },
+      {
+        "title": "루비오 \"며칠내 진전 없으면 美 우크라이나 평화노력 중단\"",
+        "time": "2025-04-18T17:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250418_0000266108_web.jpg",
+        "url": "https://news.nate.com/view/20250418n26624",
+        "original_url": "https://news.nate.com/view/20250418n26624"
+      },
+      {
+        "title": "루비오 \"며칠 내 진전 없을 시 美, 우크라 평화노력 중단\"",
+        "time": "2025-04-18T17:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20250418_0000266108_web.jpg",
+        "url": "https://news.nate.com/view/20250418n26752",
+        "original_url": "https://news.nate.com/view/20250418n26752"
+      },
+      {
+        "title": "'트럼프 정책 비판' 美공화 상원의원 \"정치적 보복 위협…두려움 느낀다\"",
+        "time": "2025-04-18T17:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/04/18/20250418516900.jpg",
+        "url": "https://news.nate.com/view/20250418n26688",
+        "original_url": "https://news.nate.com/view/20250418n26688"
+      },
+      {
+        "title": "[포토] 트럼프 향해 \"교육은 공공재\"…미 대학들 '억압' 맞서 시위",
+        "time": "2025-04-18T17:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/04/18/20250418502554.jpg",
+        "url": "https://news.nate.com/view/20250418n26315",
+        "original_url": "https://news.nate.com/view/20250418n26315"
+      },
+      {
+        "title": "'제조업 부흥' 트럼프 관세전쟁…정작 美빅테크 AI 주도권 위협",
+        "time": "2025-04-18T17:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/04/18/7098027_high.jpg",
+        "url": "https://news.nate.com/view/20250418n26530",
+        "original_url": "https://news.nate.com/view/20250418n26530"
+      },
+      {
+        "title": "[속보] 中, 美 입항료 부과 방침에 \"모두에 해 끼치는 행위\"",
+        "time": "2025-04-18T16:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/AKR20250418128500009_02_i.jpg",
+        "url": "https://news.nate.com/view/20250418n25785",
+        "original_url": "https://news.nate.com/view/20250418n25785"
+      },
+      {
+        "title": "러시아 파견 북한 노동자, 개 잡아먹는다?…부인했지만 제재 위반 인정한 꼴",
+        "time": "2025-04-18T16:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sc/2025/04/18/2025041801001370200188241.jpg",
+        "url": "https://news.nate.com/view/20250418n26364",
+        "original_url": "https://news.nate.com/view/20250418n26364"
+      },
+      {
+        "title": "[속보]中 \"美 입항료 부과, 자국에 손해\"",
+        "time": "2025-04-18T16:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250418n26116",
+        "original_url": "https://news.nate.com/view/20250418n26116"
+      },
+      {
+        "title": "'휴전 꾸물대는 러시아 보란 듯'…미국, 유럽·우크라와 3자 회담",
+        "time": "2025-04-18T16:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/04/18/4876a04b-c166-457a-a56a-14dfbcfd3652.jpg",
+        "url": "https://news.nate.com/view/20250418n26105",
+        "original_url": "https://news.nate.com/view/20250418n26105"
+      },
+      {
+        "title": "[속보] 中, 美 입항료 부과 결정에 \"즉각 중단 촉구…필요한 조처할 것\"",
+        "time": "2025-04-18T16:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/04/18/AKR20250418129800009_02_i.jpg",
+        "url": "https://news.nate.com/view/20250418n26059",
+        "original_url": "https://news.nate.com/view/20250418n26059"
+      },
+      {
+        "title": "미국, 러·우 전쟁서 발 빼나…국무장관 \"진전 없으면 다른 사안으로 넘어갈 것\"",
+        "time": "2025-04-18T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/04/18/rcv.YNA.20250418.PRU20250418067601009_P1.jpg",
+        "url": "https://news.nate.com/view/20250418n25723",
+        "original_url": "https://news.nate.com/view/20250418n25723"
+      },
+      {
+        "title": "[속보]루비오 \"며칠 내 진전 없으면 우크라 평화노력 포기\"",
+        "time": "2025-04-18T16:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/04/18/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250418n25608",
+        "original_url": "https://news.nate.com/view/20250418n25608"
+      }
+    ]
   }
 ]
