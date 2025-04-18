@@ -61,9 +61,15 @@ def is_relevant_article(text_content):
 def is_within_last_two_days(published_time):
     if not published_time:
         return False
-    article_date = datetime.strptime(published_time, '%Y-%m-%d %H:%M')
+    # published_time을 ISO 8601 형식에서 처리하도록 수정
+    try:
+        article_date = datetime.fromisoformat(published_time[:-1])  # 'T'가 포함된 문자열에서 마지막 'Z'를 제거하고 처리
+    except ValueError:
+        print(f"Invalid time format: {published_time}")
+        return False
     two_days_ago = datetime.now() - timedelta(days=2)
     return article_date >= two_days_ago
+
 
 def get_existing_links():
     try:
