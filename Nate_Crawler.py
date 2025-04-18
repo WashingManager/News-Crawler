@@ -83,6 +83,11 @@ def process_article(article, base_url):
     img_element = article.select_one('img')
     img_url = img_element.get('src') if img_element else ''
     
+    # 디버깅: 제목과 매칭된 키워드 출력
+    words = set(re.findall(r'\b\w+\b', text_content.lower()))
+    matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
+    print(f"Title: {text_content}, Matching keywords: {matching_keywords}")
+    
     if is_relevant_article(text_content):
         processed_links.add(clean_url)
         return {
