@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 import json
-import sys
 import os
 import re
 import subprocess
@@ -14,12 +13,12 @@ today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금�
 def get_keywords():
     try:
         result = subprocess.run(
-            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
+            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify({include: k.getKeywords(), exclude: k.getExcludeKeywords?.() || []}));'],
             capture_output=True, text=True, check=True
         )
-        keywords = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords}")
-        return keywords.get('include', []), keywords.get('exclude', [])
+        data = json.loads(result.stdout)
+        print(f"Loaded {len(data['include'])} keywords, {len(data['exclude'])} exclude keywords")
+        return data['include'], data['exclude']
     except Exception as e:
         print(f"키워드 로드 실패: {e}")
         return [], []
@@ -27,25 +26,28 @@ def get_keywords():
 keywords, exclude_keywords = get_keywords()
 
 urls = [
-    'https://news.naver.com/section/100',
-    'https://news.naver.com/section/101',
-    'https://news.naver.com/section/103',
-    'https://news.naver.com/section/104',
-    'https://news.naver.com/section/105',
-    'https://news.naver.com/breakingnews/section/104/231',
-    'https://news.naver.com/breakingnews/section/104/232',
-    'https://news.naver.com/breakingnews/section/104/233',
-    'https://news.naver.com/breakingnews/section/104/234',
-    'https://news.naver.com/breakingnews/section/104/322'
+    'https://news.naver.com/section/100',  # 정치
+    'https://news.naver.com/section/101',  # 경제
+    'https://news.naver.com/section/103',  # 생활/문화
+    'https://news.naver.com/section/104',  # 세계
+    'https://news.naver.com/section/105',  # IT/과학
+    'https://news.naver.com/breakingnews/section/104/231',  # 아시아/호주
+    'https://news.naver.com/breakingnews/section/104/232',  # 유럽
+    'https://news.naver.com/breakingnews/section/104/233',  # 중남미
+    'https://news.naver.com/breakingnews/section/104/234',  # 중동/아프리카
+    'https://news.naver.com/breakingnews/section/104/322',  # 북미
 ]
 
 processed_links = set()
+processed_titles = set()
 
 def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword for keyword in keywords if re.search(re.escape(keyword.lower()), text_content.lower())]
     exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    return len(matching_keywords) >= 1 and not exclude_match
+    if text_content in processed_titles or len(matching_keywords) < 1 or exclude_match:
+        return False
+    return True
 
 def get_existing_links():
     try:
@@ -53,6 +55,7 @@ def get_existing_links():
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
+        print(f"{result_filename} 파일이 없음. 새로 생성 예정.")
         return set()
 
 def extract_article_details(url):
@@ -60,20 +63,35 @@ def extract_article_details(url):
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 시간 정보 추출
         time_element = soup.select_one('span[class*="ARTICLE_DATE_TIME"]')
         published_time = ''
         if time_element:
             published_time_data = time_element.get('data-date-time', '')
             if published_time_data:
-                dt = datetime.strptime(published_time_data, '%Y-%m-%d %H:%M:%S')
-                published_time = dt.isoformat()
+                try:
+                    dt = datetime.strptime(published_time_data, '%Y-%m-%d %H:%M:%S')
+                    published_time = dt.isoformat()
+                except ValueError as e:
+                    print(f"Invalid time format: {published_time_data}, Error: {e}")
+                    return '', '', ''
         
+        # 요약 정보 추출
+        summary_element = soup.select_one('.media_end_summary')
+        summary = ''
+        if summary_element:
+            summary_html = summary_element.decode_contents()
+            summary = summary_html.replace('<br>', '\n').replace('<br/>', '\n').strip()
+        
+        # 이미지 URL 추출
         img_element = soup.select_one('img#img1')
-        img_url = img_element.get('data-src') if img_element else ''
-        return published_time, img_url
+        img_url = img_element.get('data-src', '') if img_element else ''
+        
+        return published_time, img_url, summary
     except Exception as e:
         print(f"데이터 추출 실패 ({url}): {e}")
-        return '', ''
+        return '', '', ''
 
 def scrape_page(url):
     print(f"Scraping URL: {url}")
@@ -83,6 +101,7 @@ def scrape_page(url):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         article_elements = soup.select('div.section_latest_article ul li')
+        print(f"Found {len(article_elements)} articles")
         
         for element in article_elements:
             title_element = element.select_one('div.sa_text a strong')
@@ -92,28 +111,32 @@ def scrape_page(url):
                 full_link = href_link if href_link.startswith('http') else f'https://news.naver.com{href_link}'
                 
                 if full_link not in processed_links and is_relevant_article(text_content):
-                    published_time, img_url = extract_article_details(full_link)
+                    published_time, img_url, summary = extract_article_details(full_link)
                     if published_time:
                         processed_links.add(full_link)
+                        processed_titles.add(text_content)
                         articles.append({
                             'title': text_content,
                             'time': published_time,
                             'img': img_url,
                             'url': full_link,
-                            'original_url': full_link
+                            'original_url': full_link,
+                            'summary': summary
                         })
-                        print(f"추출된 기사: {text_content} ({published_time})")
+                        print(f"Article processed: {text_content} ({published_time})")
                         break  # 한 페이지당 한 기사
     except Exception as e:
         print(f"페이지 처리 실패 ({url}): {e}")
     return articles
 
 def save_to_json(new_articles):
-    try:
-        with open(result_filename, 'r', encoding='utf-8') as f:
-            existing_data = json.load(f)
-    except FileNotFoundError:
-        existing_data = []
+    existing_data = []
+    if os.path.exists(result_filename):
+        try:
+            with open(result_filename, 'r', encoding='utf-8') as f:
+                existing_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
     
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
@@ -121,9 +144,12 @@ def save_to_json(new_articles):
     else:
         existing_data.append({'date': today, 'articles': new_articles})
     
-    with open(result_filename, 'w', encoding='utf-8') as f:
-        json.dump(existing_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(new_articles)} articles to {result_filename}")
+    try:
+        with open(result_filename, 'w', encoding='utf-8') as f:
+            json.dump(existing_data, f, ensure_ascii=False, indent=2)
+        print(f"Saved {len(new_articles)} articles to {result_filename}")
+    except Exception as e:
+        print(f"JSON 저장 실패: {e}")
 
 def main():
     global processed_links
@@ -138,6 +164,10 @@ def main():
         save_to_json(all_articles)
     else:
         print("No new articles found")
+        if not os.path.exists(result_filename):
+            with open(result_filename, 'w', encoding='utf-8') as f:
+                json.dump([], f, ensure_ascii=False, indent=2)
+            print(f"Empty {result_filename} created")
 
 if __name__ == "__main__":
     main()
