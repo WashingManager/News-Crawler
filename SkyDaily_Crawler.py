@@ -65,7 +65,7 @@ def extract_article_details(url):
         soup = BeautifulSoup(response.text, 'html.parser')
         summary_element = soup.select_one('div.article_txt')
         summary = summary_element.text.strip() if summary_element else ''
-        print(f"URL: {url}, 요약: {summary[:50]}...")
+        #print(f"URL: {url}, 요약: {summary[:50]}...")
         return summary
     except Exception as e:
         print(f"데이터 추출 실패 ({url}): {e}")
@@ -112,7 +112,7 @@ def process_article(element):
     text_content = f"{title} {summary}"
     
     if not is_relevant_article(text_content):
-        print(f"관련 없는 기사: {title}")
+        #print(f"관련 없는 기사: {title}")
         return None
     
     img_element = element.find('img')
@@ -132,7 +132,7 @@ def process_article(element):
     }
 
 def scrape_page(url):
-    print(f"Scraping URL: {url}")
+    #print(f"Scraping URL: {url}")
     articles = []
     try:
         response = requests.get(url, timeout=10)
