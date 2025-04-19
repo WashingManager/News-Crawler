@@ -1,4 +1,3 @@
-# FnNews_Crawler.py
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -21,7 +20,7 @@ day_map = {
     'Friday': '금요일', 'Saturday': '토요일', 'Sunday': '일요일'
 }
 eng_day = today_dt.strftime('%A')
-kor_day = day_map.get(eng_day, eng_day)  # 영어 요일을 한국어로 변환
+kor_day = day_map.get(eng_day, eng_day)
 today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
 
 urls = ['https://www.fnnews.com/newsflash']
@@ -40,6 +39,25 @@ def get_existing_links():
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
         return set()
+
+def get_image_from_detail_page(url):
+    """상세 페이지에서 이미지 URL을 가져오는 함수"""
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        # 상세 페이지에서 <div class="view_img"> 내의 <img> 태그를 찾음
+        img_element = soup.select_one('div.view_img img')
+        if img_element and img_element.get('src'):
+            img_url = img_element.get('src')
+            # 상대 경로인 경우 절대 경로로 변환
+            if not img_url.startswith('http'):
+                img_url = 'https://www.fnnews.com' + img_url
+            return img_url
+        return ''
+    except Exception as e:
+        print(f"상세 페이지 이미지 추출 실패 ({url}): {e}")
+        return ''
 
 def process_article(element):
     title_element = element.find('strong', class_='tit_thumb')
@@ -69,8 +87,13 @@ def process_article(element):
     except ValueError:
         return None
     
+    # 목록 페이지에서 <img> 태그 확인
     img_element = element.find('img')
     img_url = img_element.get('src') if img_element else ''
+    
+    # 목록 페이지에 이미지가 없으면 상세 페이지에서 가져오기
+    if not img_url:
+        img_url = get_image_from_detail_page(href_link)
     
     text_content = title
     if is_relevant_article(text_content):
