@@ -8,26 +8,23 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 import subprocess
+from keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
 
-# 결과 파일 이름
-result_filename = 'Gukje_News.json'
-today = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Friday', '금요일')
+# JSON 저장 폴더 설정
+NEWS_JSON_DIR = 'news_json'
+result_filename = os.path.join(NEWS_JSON_DIR, 'Gukje_News.json')
 
-def get_keywords():
-    try:
-        result = subprocess.run(
-            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
-            capture_output=True, text=True, check=True
-        )
-        keywords = json.loads(result.stdout)
-        print(f"Loaded {len(keywords)} keywords")
-        return keywords
-    except Exception as e:
-        print(f"키워드 로드 실패: {e}")
-        return []
+# 날짜 포맷팅 (모든 요일을 한국어로 변환)
+today_dt = datetime.now()
+day_map = {
+    'Monday': '월요일', 'Tuesday': '화요일', 'Wednesday': '수요일', 'Thursday': '목요일',
+    'Friday': '금요일', 'Saturday': '토요일', 'Sunday': '일요일'
+}
+eng_day = today_dt.strftime('%A')
+kor_day = day_map.get(eng_day, eng_day)  # 영어 요일을 한국어로 변환
+today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
 
-# 키워드 로드
-keywords = get_keywords()
+
 
 urls = [
     'https://www.gukjenews.com/news/articleList.html?sc_section_code=S1N1&view_type=sm',

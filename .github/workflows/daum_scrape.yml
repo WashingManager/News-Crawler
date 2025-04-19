@@ -22,6 +22,7 @@ jobs:
         run: |
           pwd
           ls -la
+          ls -la news_json || echo "news_json directory not found"          
           find . -type f
           if [ -f "Daum_crawler.py" ]; then echo "Daum_crawler.py found"; else echo "Daum_crawler.py NOT found"; fi
           if [ -f "keyword.js" ]; then echo "keyword.js found"; else echo "keyword.js NOT found"; fi
@@ -49,8 +50,8 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add daum_News.json
-          git commit -m "Update daum_News.json $(date)" || echo "No changes to commit"
+          git add news_json/daum_News.json
+          git commit -m "Update news_json/daum_News.json $(date)" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

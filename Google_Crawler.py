@@ -11,8 +11,10 @@ from fake_useragent import UserAgent
 import time
 import subprocess
 import random # Import random for variable sleep
+from keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
 
 result_filename = 'google_News.json'
+
 # Ensure consistent date formatting - using system locale might vary
 # Let's keep your original format, assuming the locale is set correctly for Korean day names.
 try:
@@ -31,52 +33,7 @@ except Exception as e:
     print(f"Warning: Could not set locale or format date reliably. Using default. Error: {e}")
     today = datetime.now().strftime('%Y-%m-%d') # Fallback format
 
-def get_keywords():
-    try:
-        # Ensure keyword.js is in the same directory or provide the correct path
-        keyword_script_path = os.path.join(os.path.dirname(__file__), 'keyword.js')
-        if not os.path.exists(keyword_script_path):
-            print(f"Error: keyword.js not found at {keyword_script_path}")
-            return [], []
 
-        result = subprocess.run(
-            ['node', '-e', f'const k = require("{keyword_script_path}"); console.log(JSON.stringify(k.getKeywords()));'],
-            capture_output=True, text=True, check=True, encoding='utf-8' # Specify encoding
-        )
-        keywords_raw = json.loads(result.stdout)
-        print(f"Loaded keywords: {keywords_raw}")
-
-        # Adapt based on the actual structure returned by keyword.js
-        # Assuming it returns a single list as suggested by the original code
-        if isinstance(keywords_raw, list):
-             include_keywords = [str(kw) for kw in keywords_raw if kw] # Ensure strings and filter empty
-             exclude_keywords = [] # Define how exclude keywords are determined if needed
-        else:
-             # Handle other potential structures if keyword.js changes
-             print("Warning: Unexpected keyword structure received.")
-             include_keywords = []
-             exclude_keywords = []
-
-        print(f"Include Keywords: {include_keywords}")
-        print(f"Exclude Keywords: {exclude_keywords}")
-        return include_keywords, exclude_keywords
-    except FileNotFoundError:
-        print("Error: 'node' command not found. Make sure Node.js is installed and in PATH.")
-        return [], []
-    except subprocess.CalledProcessError as e:
-        print(f"키워드 로드 실패 (Subprocess Error): {e}")
-        print(f"Stderr: {e.stderr}")
-        return [], []
-    except json.JSONDecodeError as e:
-        print(f"키워드 로드 실패 (JSON Decode Error): {e}")
-        print(f"Node output: {result.stdout}")
-        return [], []
-    except Exception as e:
-        print(f"키워드 로드 실패 (General Error): {e}")
-        return [], []
-
-
-keywords, exclude_keywords = get_keywords()
 urls = [
     'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp4WkRNU0FtdHZLQUFQAQ?hl=ko&gl=KR&ceid=KR%3Ako', # 주요 뉴스
     'https://news.google.com/home?hl=ko&gl=KR&ceid=KR%3Ako', # 홈

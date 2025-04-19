@@ -8,25 +8,11 @@ import time
 import urllib.parse
 import json
 import subprocess
+from keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
 
-json_filename = 'daum_News.json'
-
-# keyword.js에서 키워드 가져오기
-def get_keywords():
-    try:
-        result = subprocess.run(
-            ['node', '-e', 'const k = require("./keyword.js"); console.log(JSON.stringify(k.getKeywords()));'],
-            capture_output=True, text=True, check=True
-        )
-        keywords = json.loads(result.stdout)
-        print(f"Loaded {len(keywords)} keywords")
-        return keywords
-    except Exception as e:
-        print(f"키워드 로드 실패: {e}")
-        return []
-
-keywords = get_keywords()
-exclude_keywords = []
+# JSON 저장 폴더 설정
+NEWS_JSON_DIR = 'news_json'
+result_filename = os.path.join(NEWS_JSON_DIR, 'daum_News.json')  # news_json/daum_News.json
 
 urls = [
     'https://news.daum.net/global',
@@ -173,9 +159,9 @@ def scrape_category(url):
         time.sleep(2)
 
 def load_existing_json():
-    if os.path.exists(json_filename):
+    if os.path.exists(result_filename):
         try:
-            with open(json_filename, 'r', encoding='utf-8') as f:
+            with open(result_filename, 'r', encoding='utf-8') as f:
                 return json.load(f)
         except Exception as e:
             print(f"JSON 파일 읽기 실패: {e}")
@@ -215,10 +201,10 @@ def save_to_json():
 
     json_data = [{"date": date, "articles": articles} for date, articles in sorted(existing_by_date.items())]
 
-    with open(json_filename, 'w', encoding='utf-8') as f:
+    with open(result_filename, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
 
-    print(f'Results saved to {json_filename}')
+    print(f'Results saved to {result_filename}')
 
 for url in urls:
     scrape_category(url)

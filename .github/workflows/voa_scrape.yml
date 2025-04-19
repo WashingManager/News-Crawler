@@ -20,6 +20,7 @@ jobs:
         run: |
           pwd
           ls -la
+          ls -la news_json || echo "news_json directory not found"          
           find . -type f
 
       - name: Set up Python
@@ -40,8 +41,8 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add voa_News.json
-          git commit -m "Update voa_News.json $(date)" || echo "No changes to commit"
+          git add news_json/voa_News.json
+          git commit -m "Update news_json/voa_News.json $(date)" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
