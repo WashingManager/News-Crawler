@@ -11,7 +11,7 @@ from fake_useragent import UserAgent
 import time
 import subprocess
 import random # Import random for variable sleep
-from keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
+from News_keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
 
 result_filename = 'google_News.json'
 

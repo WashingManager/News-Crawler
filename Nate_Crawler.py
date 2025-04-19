@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urljoin, urlparse, urlunparse
 import subprocess
 import time
-from keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
+from News_keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
 
 # JSON 저장 폴더 설정
 NEWS_JSON_DIR = 'news_json'
