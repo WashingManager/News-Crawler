@@ -13,7 +13,8 @@ import subprocess
 import random # Import random for variable sleep
 from News_keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
 
-result_filename = 'google_News.json'
+NEWS_JSON_DIR = 'news_json'
+result_filename = os.path.join(NEWS_JSON_DIR,'google_News.json')
 
 # Ensure consistent date formatting - using system locale might vary
 # Let's keep your original format, assuming the locale is set correctly for Korean day names.
