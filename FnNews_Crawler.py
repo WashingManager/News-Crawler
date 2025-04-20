@@ -20,7 +20,9 @@ eng_day = today_dt.strftime('%A')
 kor_day = day_map.get(eng_day, eng_day)  # 영어 요일을 한국어로 변환
 today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
 urls = ['https://www.fnnews.com/newsflash']
-processed_links = set()def is_relevant_article(text_content):
+processed_links = set()
+
+def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
     exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
