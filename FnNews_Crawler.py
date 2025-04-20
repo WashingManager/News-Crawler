@@ -34,7 +34,9 @@ def get_existing_links():
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
     except FileNotFoundError:
-        return set()def process_article(element):
+        return set()
+
+def process_article(element):
     title_element = element.find('strong', class_='tit_thumb')
     if not title_element:
         return None
