@@ -26,7 +26,9 @@ def is_relevant_article(text_content):
     words = set(re.findall(r'\b\w+\b', text_content.lower()))
     matching_keywords = [keyword.lower() for keyword in keywords if keyword.lower() in words]
     exclude_match = any(keyword.lower() in words for keyword in exclude_keywords)
-    return len(matching_keywords) >= 2 and not exclude_matchdef get_existing_links():
+    return len(matching_keywords) >= 2 and not exclude_match
+
+def get_existing_links():
     try:
         with open(result_filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
