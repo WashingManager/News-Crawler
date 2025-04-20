@@ -215,5 +215,24 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3254698"
       }
     ]
+  },
+  {
+    "date": "2025년 04월 20일 일요일",
+    "articles": [
+      {
+        "title": "AFP통신 \"'부활절 휴전'에도 키이우서 공습 경보 울려\"",
+        "time": "2025-04-20T09:40:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3254729_3365649_3937_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3254729",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3254729"
+      },
+      {
+        "title": "美대법원, 트럼프 추방 차단 위해 개입",
+        "time": "2025-04-20T10:49:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3254745_3365668_4943_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3254745",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3254745"
+      }
+    ]
   }
 ]
