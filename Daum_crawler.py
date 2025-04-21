@@ -15,7 +15,7 @@ NEWS_JSON_DIR = 'news_json'
 result_filename = os.path.join(NEWS_JSON_DIR, 'daum_News.json')  # news_json/daum_News.json
 
 urls = [
-    'https://news.daum.net/global',
+    'https://news.daum.net/world',
     'https://news.daum.net/china',
     'https://news.daum.net/northamerica',
     'https://news.daum.net/japan',
