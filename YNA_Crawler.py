@@ -41,7 +41,7 @@ base_urls = [
     'https://www.yna.co.kr/industry/index',
     'https://www.yna.co.kr/society/index',
     'https://www.yna.co.kr/international/index',
-    'https://www.yna.co.kr/local/index,
+    'https://www.yna.co.kr/local/index',
     'https://www.yna.co.kr/culture/index'
 ]
 
