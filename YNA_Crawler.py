@@ -35,14 +35,14 @@ base_urls = [
     'https://www.yna.co.kr/nk/news/cooperation',
     'https://www.yna.co.kr/nk/news/correspondents',
     'https://www.yna.co.kr/nk/news/advisory-column',
-    'https://www.yna.co.kr/politics/index',
+    'https://www.yna.co.kr/politics/all',
     'https://www.yna.co.kr/politics/diplomacy',
-    'https://www.yna.co.kr/economy/index',
-    'https://www.yna.co.kr/industry/index',
-    'https://www.yna.co.kr/society/index',
-    'https://www.yna.co.kr/international/index',
-    'https://www.yna.co.kr/local/index',
-    'https://www.yna.co.kr/culture/index'
+    'https://www.yna.co.kr/economy/all',
+    'https://www.yna.co.kr/industry/all',
+    'https://www.yna.co.kr/society/all',
+    'https://www.yna.co.kr/international/all',
+    'https://www.yna.co.kr/local/all',
+    'https://www.yna.co.kr/culture/all'
 ]
 
 processed_links = set()
