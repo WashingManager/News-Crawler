@@ -8,12 +8,19 @@ import os
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
-from News_keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
+#from News_keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
 
 # JSON 저장 폴더 설정
 NEWS_JSON_DIR = 'news_json'
 result_filename = os.path.join(NEWS_JSON_DIR, 'Fn_News.json')
 
+def load_keywords():
+    with open('News_keyword.js', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    keywords = [item for cat in data['keywords'] for item in cat['items']]
+    exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]
+    return keywords, exclude_keywords
+keywords, exclude_keywords = load_keywords()
 # 날짜 포맷팅 (모든 요일을 한국어로 변환)
 today_dt = datetime.now()
 day_map = {
