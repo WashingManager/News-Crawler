@@ -21,6 +21,15 @@ def load_keywords():
     exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]
     return keywords, exclude_keywords
 keywords, exclude_keywords = load_keywords()
+# 날짜 포맷팅 (모든 요일을 한국어로 변환)
+today_dt = datetime.now()
+day_map = {
+    'Monday': '월요일', 'Tuesday': '화요일', 'Wednesday': '수요일', 'Thursday': '목요일',
+    'Friday': '금요일', 'Saturday': '토요일', 'Sunday': '일요일'
+}
+eng_day = today_dt.strftime('%A')
+kor_day = day_map.get(eng_day, eng_day)  # 영어 요일을 한국어로 변환
+today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
 
 urls = [
     'https://news.daum.net/world',
