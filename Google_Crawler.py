@@ -11,11 +11,19 @@ from fake_useragent import UserAgent
 import time
 import subprocess
 import random # Import random for variable sleep
-from News_keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
+#from News_keyword import keywords, exclude_keywords  # keyword.py에서 가져오기
 
 NEWS_JSON_DIR = 'news_json'
 result_filename = os.path.join(NEWS_JSON_DIR,'google_News.json')
 
+
+def load_keywords():
+    with open('News_keyword.js', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    keywords = [item for cat in data['keywords'] for item in cat['items']]
+    exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]
+    return keywords, exclude_keywords
+keywords, exclude_keywords = load_keywords()
 # Ensure consistent date formatting - using system locale might vary
 # Let's keep your original format, assuming the locale is set correctly for Korean day names.
 try:
@@ -33,7 +41,6 @@ try:
 except Exception as e:
     print(f"Warning: Could not set locale or format date reliably. Using default. Error: {e}")
     today = datetime.now().strftime('%Y-%m-%d') # Fallback format
-
 
 urls = [
     'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFp4WkRNU0FtdHZLQUFQAQ?hl=ko&gl=KR&ceid=KR%3Ako', # 주요 뉴스
