@@ -1,7 +1,7 @@
 name: YNA News Scraper
 on:
   schedule:
-    - cron: '0/10 * * * *'
+    - cron: '0,30 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

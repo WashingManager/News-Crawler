@@ -1,7 +1,7 @@
 name: Google News Scraper
 on:
   schedule:
-    - cron: '6/10 * * * *'
+    - cron: '18,48 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

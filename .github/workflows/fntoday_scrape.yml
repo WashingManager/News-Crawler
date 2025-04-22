@@ -1,7 +1,7 @@
 name: FNToday News Scraper
 on:
   schedule:
-    - cron: '5/10 * * * *' # 매일 오전 8시 UTC (KST 오후 5시)
+    - cron: '15,45 * * * *' # 매일 오전 8시 UTC (KST 오후 5시)
   workflow_dispatch:
 permissions:
   contents: write

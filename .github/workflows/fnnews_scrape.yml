@@ -1,7 +1,7 @@
 name: FnNews Scraper
 on:
   schedule:
-    - cron: '4/10 * * * *'
+    - cron: '12,42 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

@@ -1,7 +1,7 @@
 name: Gukje News Scraper
 on:
   schedule:
-    - cron: '7/10 * * * *'
+    - cron: '21,51 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
