@@ -1,7 +1,7 @@
 name: Daum News Scraper
 on:
   schedule:
-    - cron: '9 * * * *'  # 매일 오전 8시 UTC (한국 시간 오후 5시)
+    - cron: '3/10 * * * *' # 매일 오전 8시 UTC (한국 시간 오후 5시)
   workflow_dispatch:  # 수동 실행 가능
 
 permissions:

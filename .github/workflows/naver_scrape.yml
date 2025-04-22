@@ -1,7 +1,7 @@
 name: Naver News Scraper
 on:
   schedule:
-    - cron: '27 * * * *'
+    - cron: '9/10 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

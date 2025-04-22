@@ -1,7 +1,7 @@
 name: SkyDaily News Scraper
 on:
   schedule:
-    - cron: '6 * * * *'  # 매일 UTC 08:00 (KST 17:00)에 실행
+    - cron: '2/10 * * * *' # 매일 UTC 08:00 (KST 17:00)에 실행
   workflow_dispatch:     # 수동 실행 가능
 
 permissions:
