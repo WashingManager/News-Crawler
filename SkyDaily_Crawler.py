@@ -7,7 +7,7 @@ import re
 import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
-from News_keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
+#from News_keyword import keywords, exclude_keywords  # keyword.py에서 키워드 가져오기
 
 # JSON 저장 폴더 설정
 NEWS_JSON_DIR = 'news_json'
@@ -22,6 +22,15 @@ day_map = {
 eng_day = today_dt.strftime('%A')
 kor_day = day_map.get(eng_day, eng_day)  # 영어 요일을 한국어로 변환
 today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
+
+
+def load_keywords():
+    with open('News_keyword.js', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    keywords = [item for cat in data['keywords'] for item in cat['items']]
+    exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]
+    return keywords, exclude_keywords
+keywords, exclude_keywords = load_keywords()
 
 urls = [
     'https://www.skyedaily.com/news/articlelist.html?mode=list',  # 최신기사
