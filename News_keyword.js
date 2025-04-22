@@ -776,7 +776,8 @@ const keyword = {
     {
       "category": "User Added",
       "items": [
-        "셀러리"
+        "셀러리",
+        "믹서기"
       ]
     }
   ]
