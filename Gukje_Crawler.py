@@ -26,7 +26,7 @@ today = today_dt.strftime(f'%Y년 %m월 %d일 {kor_day}')
 
 
 def load_keywords():
-    with open('News_keyword.js', 'r', encoding='utf-8') as f:
+    with open('News_keyword.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     keywords = [item for cat in data['keywords'] for item in cat['items']]
     exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]

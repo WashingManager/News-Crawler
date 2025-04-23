@@ -18,7 +18,7 @@ result_filename = os.path.join(NEWS_JSON_DIR,'google_News.json')
 
 
 def load_keywords():
-    with open('News_keyword.js', 'r', encoding='utf-8') as f:
+    with open('News_keyword.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     keywords = [item for cat in data['keywords'] for item in cat['items']]
     exclude_keywords = [item for cat in data['exclude_keywords'] for item in cat['items']]
