@@ -600,6 +600,35 @@
   },
   {
     "date": "2025년 04월 25일 금요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "국방부, 군 정찰위성 4호기 발사 성공…\"독자적 우주 감시능력 확보\"",
+        "time": "2025-04-25T11:40:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3259686_3371162_5544_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3259686",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3259686"
+      },
+      {
+        "title": "석종건 방위사업청장, EU·NATO 고위급 면담… K-방산 유럽 협력 본격화",
+        "time": "2025-04-25T11:35:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3259724_3371208_2445_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3259724",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3259724"
+      },
+      {
+        "title": "[속보] 서울 코엑스서 화재 추정 연기...이용객·근무자 대피 소동",
+        "time": "2025-04-25T11:40:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3259758_3371234_4052_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3259758",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3259758"
+      },
+      {
+        "title": "[속보] 서울 코엑스에서 화재 추정 검은 연기 발생",
+        "time": "2025-04-25T11:27:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3259739_3371210_2732_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3259739",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3259739"
+      }
+    ]
   }
 ]
