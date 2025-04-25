@@ -480,6 +480,12 @@
         "중국 내부",
         "추방"
       ]
+    },
+    {
+      "category": "User Added",
+      "items": [
+        "교회"
+      ]
     }
   ],
   "exclude_keywords": [
