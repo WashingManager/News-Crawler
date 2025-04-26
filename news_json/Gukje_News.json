@@ -672,5 +672,45 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260392"
       }
     ]
+  },
+  {
+    "date": "2025년 04월 26일 토요일",
+    "articles": [
+      {
+        "title": "[속보] 안철수 \"이재명 시대를 반드시 막아야 한다\"",
+        "time": "2025-04-26T09:56:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260419_3372030_5534_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260419",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260419"
+      },
+      {
+        "title": "韓·美 첫 2+2 통상협의…우리 政 \"상호·품목별 관세 면제\" 요청",
+        "time": "2025-04-26T09:24:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260403_3372001_2441_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260403",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260403"
+      },
+      {
+        "title": "'차기 대통령 지지율' 이재명 49%·한덕수 31%·이준석 10% [갤럽]",
+        "time": "2025-04-25T08:36:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3259525_3371028_368_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3259525",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3259525"
+      },
+      {
+        "title": "'차기 대통령 적합도' 이재명 41%-홍준표·김문수 10% [NBS]",
+        "time": "2025-04-24T11:46:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3258731_3370099_2745_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3258731",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3258731"
+      },
+      {
+        "title": "대법 전원합의체, 이재명 '선거법 재판' 24일 속행",
+        "time": "2025-04-23T09:41:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3257442_3368676_539_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3257442",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3257442"
+      }
+    ]
   }
 ]
