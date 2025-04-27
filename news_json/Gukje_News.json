@@ -845,5 +845,52 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260873"
       }
     ]
+  },
+  {
+    "date": "2025년 04월 27일 일요일",
+    "articles": [
+      {
+        "title": "[속보] 청송 부남면 양숙리서 산불 발생...진화 작업 중",
+        "time": "2025-04-27T10:57:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260940_3372627_99_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260940",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260940"
+      },
+      {
+        "title": "[속보] '인제 산불' 주불 진화 완료...서울양양선 통행 재개",
+        "time": "2025-04-27T09:21:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260886_3372538_2110_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260886",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260886"
+      },
+      {
+        "title": "[속보] '대구 달구벌연등행렬' 두류네거리~반월당네거리 도로 통제",
+        "time": "2025-04-27T09:10:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260883_3372536_951_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260883",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260883"
+      },
+      {
+        "title": "검은 연기 치솟는 이란 항구 폭발 사고 현장",
+        "time": "2025-04-27T09:33:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260890_3372541_3332_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260890",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260890"
+      },
+      {
+        "title": "이란 항구 폭발 사고 현장",
+        "time": "2025-04-27T09:45:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260895_3372546_4451_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260895",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260895"
+      },
+      {
+        "title": "이란 폭발 사고 부상자 이송",
+        "time": "2025-04-27T09:43:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3260891_3372545_4218_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3260891",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3260891"
+      }
+    ]
   }
 ]
