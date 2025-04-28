@@ -993,6 +993,21 @@
   },
   {
     "date": "2025년 04월 28일 월요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "강릉서 군 포탄 폭발 사고...80대 남성 등 3명 부상",
+        "time": "2025-04-28T11:18:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3261556_3373298_1838_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3261556",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3261556"
+      },
+      {
+        "title": "여의도 파크원서 화재...직원·방문객 500명 긴급 대피",
+        "time": "2025-04-28T11:35:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3261571_3373320_3440_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3261571",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3261571"
+      }
+    ]
   }
 ]
