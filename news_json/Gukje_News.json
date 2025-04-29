@@ -1142,5 +1142,24 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3262448"
       }
     ]
+  },
+  {
+    "date": "2025년 04월 29일 화요일",
+    "articles": [
+      {
+        "title": "[속보] \"오늘 중 주불 진화\"...대구 함지산 산불 진화율 92% 달해",
+        "time": "2025-04-29T10:21:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3262566_3374415_2148_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3262566",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3262566"
+      },
+      {
+        "title": "[속보] 대구 함지산 산불 진화율 80% 넘어...주불 진화 목표",
+        "time": "2025-04-29T08:55:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202504/3262456_3374314_5526_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3262456",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3262456"
+      }
+    ]
   }
 ]
