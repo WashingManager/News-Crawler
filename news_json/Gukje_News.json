@@ -1397,5 +1397,31 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3264728"
       }
     ]
+  },
+  {
+    "date": "2025년 05월 01일 목요일",
+    "articles": [
+      {
+        "title": "파키스탄 \"인도 공격 임박\"",
+        "time": "2025-05-01T09:27:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3264786_3376832_2657_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3264786",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3264786"
+      },
+      {
+        "title": "[속보] 우크라이나 \"美, '광물·석유·가스' 프로젝트에 자금 지원\"",
+        "time": "2025-05-01T08:56:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3264743_3376786_568_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3264743",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3264743"
+      },
+      {
+        "title": "인도, 파키스탄 항공기 영공 폐쇄",
+        "time": "2025-05-01T09:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3264760_3376802_743_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3264760",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3264760"
+      }
+    ]
   }
 ]
