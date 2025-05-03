@@ -9514,11 +9514,25 @@
     "date": "2025년 05월 03일 토요일",
     "articles": [
       {
+        "title": "미국이 꽁꽁 포장해 처음으로 우크라이나에 보낸 F-16 기체 용도는…",
+        "time": "2025-05-03T20:21:37+00:00",
+        "img": "/api/attachments/CC8iK0NnNXBVMUZZVUhSSWFUbEpjVFpqVFJEZ0F4aUFCU2dLTWdZVmtJeE10UVU=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxNeWlKcWVlNXg4SE1xMFNMTTdQTll5SDQzVVdYU2VlT1VZa1FBRkFFbWdVTmo1RDBNY01oVFpqdHB5a0dhUXFXbldOTTFmVWNsWmVqbXVidG5MbUM4V1ZvSnpReC01emdQUmVSTE9vcmZUNFBTY2FLRUhFNWxJczBRU2J1ZzJTU29fYW1CMURLMWFSMUhRWmxtYjRDUTVkd9IBsgFBVV95cUxPYndIQlVMSHJaemZZc0NPVGk2N25PNWZwY1NvU1FfeFk2TjlTaTVEVkpWdEhNMF91VlpIY2xtZTExRm1HNy1KdXE1c01NeDN5cGVrSVZQd3hDOTd0VU0tTjlOMDJtZVpfVW9fVTNxUWlNT1BnRERfNGRqeWpwc3JqUXpEQlJCa0lXMHdSS0Q2M0tpcDA2Z1dsVnBWM1FyaEw3Q3VIdWVWbjNFazZOT2M4X0xR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxNeWlKcWVlNXg4SE1xMFNMTTdQTll5SDQzVVdYU2VlT1VZa1FBRkFFbWdVTmo1RDBNY01oVFpqdHB5a0dhUXFXbldOTTFmVWNsWmVqbXVidG5MbUM4V1ZvSnpReC01emdQUmVSTE9vcmZUNFBTY2FLRUhFNWxJczBRU2J1ZzJTU29fYW1CMURLMWFSMUhRWmxtYjRDUTVkd9IBsgFBVV95cUxPYndIQlVMSHJaemZZc0NPVGk2N25PNWZwY1NvU1FfeFk2TjlTaTVEVkpWdEhNMF91VlpIY2xtZTExRm1HNy1KdXE1c01NeDN5cGVrSVZQd3hDOTd0VU0tTjlOMDJtZVpfVW9fVTNxUWlNT1BnRERfNGRqeWpwc3JqUXpEQlJCa0lXMHdSS0Q2M0tpcDA2Z1dsVnBWM1FyaEw3Q3VIdWVWbjNFazZOT2M4X0xR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[속보] 김문수 “이재명은 독재자…집권 막기 위해 어떤 세력과도 연대”",
         "time": "2025-05-03T16:56:00+00:00",
         "img": "/api/attachments/CC8iL0NnNDRhRFZrTVRSd2RsaFBWalJSVFJDMEFSaVlBaWdCTWdrcFZJS1BvV2g3dHdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMidEFVX3lxTE5ZMWFHVUxac3d5R1M0NDBsQU9KcnVoaFBHNVVKS0tWNEtCcmJFMXVrWldKRHFLcXdyOVF5XzU5eW5mNWhLZlJzRXItMnJ1SmxZZkJubUVHNXJhNXFfb1F4LTQ4WmpfbWZ6QTFXNGplQkRpeDhx?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMidEFVX3lxTE5ZMWFHVUxac3d5R1M0NDBsQU9KcnVoaFBHNVVKS0tWNEtCcmJFMXVrWldKRHFLcXdyOVF5XzU5eW5mNWhLZlJzRXItMnJ1SmxZZkJubUVHNXJhNXFfb1F4LTQ4WmpfbWZ6QTFXNGplQkRpeDhx?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] 김문수, 한동훈 꺾고 국민의힘 대선 후보 확정…‘탄핵 반대파’가 이겼다",
+        "time": "2025-05-03T16:56:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNUVOM2hwWWtkMVJqWkRUSFprVFJEQUF4aXRCU2dLTWdtZEk0eXRJZWx6VWdF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE56SFdNZnZtbVpLZEktcWRNV2FVZ3RvdXVVUjdHVUtzUGNPSmlTRXhPMXp3ZWNBb3FNRjY4WXRnYmhrNnlpaHkzbm1zTjloS1RBQkRvekFPUGUwQdIBX0FVX3lxTE5lQmRrQy16LUlaMWE2WDV1Q0RGM0ZjX0xvY0ZrbFhBb0NVeGxJWjN6RGVkVDZzdWNaQkcydU9xeVNHRTVjUHYwWVpjVHNHUkc1ZWJmc05md3h5cW1HYzg0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE56SFdNZnZtbVpLZEktcWRNV2FVZ3RvdXVVUjdHVUtzUGNPSmlTRXhPMXp3ZWNBb3FNRjY4WXRnYmhrNnlpaHkzbm1zTjloS1RBQkRvekFPUGUwQdIBX0FVX3lxTE5lQmRrQy16LUlaMWE2WDV1Q0RGM0ZjX0xvY0ZrbFhBb0NVeGxJWjN6RGVkVDZzdWNaQkcydU9xeVNHRTVjUHYwWVpjVHNHUkc1ZWJmc05md3h5cW1HYzg0?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "삼척 동해상서 규모 2.2 지진…기상청 “피해 없을 듯”",
