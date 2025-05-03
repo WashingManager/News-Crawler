@@ -9514,6 +9514,20 @@
     "date": "2025년 05월 03일 토요일",
     "articles": [
       {
+        "title": "강원 삼척 동남쪽 해역, 규모 2.2 지진 발생 지진 진앙은 북위 37.35도, 동경 129.52도 지점",
+        "time": "2025-05-04T00:00:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVhOMHhKTTFaNExXUkVWelpLVFJEaEFSamhBU2dCTWdOVkFDWQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiaEFVX3lxTE5TN0w1bWNfMWFRcDRKdjNoM1JZYjJrVk95N3JoeUQ1YkkySlhGOTdteEYycF9yY0hYc2FSdHdWTGhGbkRRSmwzbzgtSlZtTzUtTkNLMVNWTnpTeGVjZlp1UVl2aW9NbzQ4?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiaEFVX3lxTE5TN0w1bWNfMWFRcDRKdjNoM1JZYjJrVk95N3JoeUQ1YkkySlhGOTdteEYycF9yY0hYc2FSdHdWTGhGbkRRSmwzbzgtSlZtTzUtTkNLMVNWTnpTeGVjZlp1UVl2aW9NbzQ4?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "인도네시아 지진6.0 규모",
+        "time": "2025-05-03T23:33:22+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXVaMEo0YnpocFYzaFZibXBtVFJEUUFSanpBU2dCTWdPUkJSUQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibkFVX3lxTE9QdDJ4d0tpQlotZXRzNERjcGp2THAtSGdGb2xXMWJER0lMSVVqNE1oMkNzcWttcXVoUHA1bnNmVTd1dFozMzU0OFZqb0w1YzFBOThtZEpScU0tajdUTVFDVm9XWUExZU5WTmxXT25n?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibkFVX3lxTE9QdDJ4d0tpQlotZXRzNERjcGp2THAtSGdGb2xXMWJER0lMSVVqNE1oMkNzcWttcXVoUHA1bnNmVTd1dFozMzU0OFZqb0w1YzFBOThtZEpScU0tajdUTVFDVm9XWUExZU5WTmxXT25n?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "인도네시아 고론탈로 서쪽 바다서 규모 6.0 지진 발생",
         "time": "2025-05-03T22:58:33+00:00",
         "img": "/api/attachments/CC8iJ0NnNXViR1ZLYUVWS1ZHUnlXV2xPVFJEUUFSanpBU2dCTWdPUkJSUQ=-w100-h100-p-df",
@@ -9542,11 +9556,25 @@
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxNeWlKcWVlNXg4SE1xMFNMTTdQTll5SDQzVVdYU2VlT1VZa1FBRkFFbWdVTmo1RDBNY01oVFpqdHB5a0dhUXFXbldOTTFmVWNsWmVqbXVidG5MbUM4V1ZvSnpReC01emdQUmVSTE9vcmZUNFBTY2FLRUhFNWxJczBRU2J1ZzJTU29fYW1CMURLMWFSMUhRWmxtYjRDUTVkd9IBsgFBVV95cUxPYndIQlVMSHJaemZZc0NPVGk2N25PNWZwY1NvU1FfeFk2TjlTaTVEVkpWdEhNMF91VlpIY2xtZTExRm1HNy1KdXE1c01NeDN5cGVrSVZQd3hDOTd0VU0tTjlOMDJtZVpfVW9fVTNxUWlNT1BnRERfNGRqeWpwc3JqUXpEQlJCa0lXMHdSS0Q2M0tpcDA2Z1dsVnBWM1FyaEw3Q3VIdWVWbjNFazZOT2M4X0xR?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "사법부 협박하는 민주당…“대법원장 탄핵 절차 즉각 돌입” “공수처는 대법원장 수사하라”",
+        "time": "2025-05-03T19:07:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNDNORkF4ZDNCdGNXRk9SSEZQVFJDUkF4ajhCU2dLTWdZQllKQ3pNQWM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiiwFBVV95cUxNQXF2S3dULTVpR0V2SW1CWE9tZjMwdmZkWHhmV194SU04b1RaQkphaG5lUHI5X1lGTl9JRGl5UVVidEZULUNrd3hTTEotQUJlc0xFQmlSamxHN05Od21rTkdWb3ZnV0V2R202MnRNYktYNXNUWkVzZmROTXRONGpWSGhwR2RiYjBNb2gw0gGfAUFVX3lxTE5TaGxJQ3dNY2pVY3VFZ0RfV2o2ekZwLXFtVXlBMlJpM3Q2ZG5Jd2JxSXdIRmNwX3VNS09JWjVraHFVUWRLbFRUazhDdW44X20yZUpwWVZpRjJlS1dBcU1lVmtqMGFZNmNUYXZ6Y2ppRFg4bWFMOEUtNmxjMjdxcnZiY3NWQVI3elIyUjEtUGs3bnVrSmtUcmRUYmI4ZUJzWQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiiwFBVV95cUxNQXF2S3dULTVpR0V2SW1CWE9tZjMwdmZkWHhmV194SU04b1RaQkphaG5lUHI5X1lGTl9JRGl5UVVidEZULUNrd3hTTEotQUJlc0xFQmlSamxHN05Od21rTkdWb3ZnV0V2R202MnRNYktYNXNUWkVzZmROTXRONGpWSGhwR2RiYjBNb2gw0gGfAUFVX3lxTE5TaGxJQ3dNY2pVY3VFZ0RfV2o2ekZwLXFtVXlBMlJpM3Q2ZG5Jd2JxSXdIRmNwX3VNS09JWjVraHFVUWRLbFRUazhDdW44X20yZUpwWVZpRjJlS1dBcU1lVmtqMGFZNmNUYXZ6Y2ppRFg4bWFMOEUtNmxjMjdxcnZiY3NWQVI3elIyUjEtUGs3bnVrSmtUcmRUYmI4ZUJzWQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "민주 초선 “조희대 탄핵소추 돌입”…李 “당이 국민 뜻 맞게 처리”",
         "time": "2025-05-03T18:59:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXFaWFpOVldOSFpFTm5Oa3hMVFJERUF4aW1CU2dLTWdZQmtJNlZ0QVk=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMid0FVX3lxTE9RemxLR2lhaGtjblN1cXVBVFV6ZGVsalhsSkpMaG1hQ0o1UW1VbGROMkRJazJHODF5TG9ZaDZ2dFpTNEprQXNReUtockhoNkpyYS1xbGViRS1FYkJ0cWtrR1A4WW5mRlo4RFNWejljVURlcEI3dWtJ0gFmQVVfeXFMTVAtaWhteXZsRnF6TjNMbkU3NndEQWFaeER6Y19vWVZFWHNfWFJYN2F1RDF2dS1jMnBUazItcEhZUkVxWmlTSElzRHV4VmhzV3IyTUFWTU83ZVRzN1FLZ3AzdFZ5RnlB?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMid0FVX3lxTE9RemxLR2lhaGtjblN1cXVBVFV6ZGVsalhsSkpMaG1hQ0o1UW1VbGROMkRJazJHODF5TG9ZaDZ2dFpTNEprQXNReUtockhoNkpyYS1xbGViRS1FYkJ0cWtrR1A4WW5mRlo4RFNWejljVURlcEI3dWtJ0gFmQVVfeXFMTVAtaWhteXZsRnF6TjNMbkU3NndEQWFaeER6Y19vWVZFWHNfWFJYN2F1RDF2dS1jMnBUazItcEhZUkVxWmlTSElzRHV4VmhzV3IyTUFWTU83ZVRzN1FLZ3AzdFZ5RnlB?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] 李, '金-韓 단일화' 전망에 \"반역세력 어떤 평가할지 돌아봐야\"",
+        "time": "2025-05-03T16:57:31+00:00",
+        "img": "/api/attachments/CC8iK0NnNXphREpJVlhOWGRFc3hXR0YwVFJDbkF4aXdCQ2dLTWdZaEE1d0xIZ2s=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE5NeFhYWnlMNnNCLUdyRUMtSkVZWHZ2UzNVMTlzdURNcC1feXc0OU96aDBZMlk4akt6OHMxM1NQelNVY2pzelc1bXFTQ0lkOG1BRjg1MDh3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE5NeFhYWnlMNnNCLUdyRUMtSkVZWHZ2UzNVMTlzdURNcC1feXc0OU96aDBZMlk4akt6OHMxM1NQelNVY2pzelc1bXFTQ0lkOG1BRjg1MDh3?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[속보] 김문수 “이재명은 독재자…집권 막기 위해 어떤 세력과도 연대”",
