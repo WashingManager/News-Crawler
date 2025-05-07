@@ -2205,5 +2205,31 @@
         "original_url": "https://www.fnnews.com/news/202505070622067280"
       }
     ]
+  },
+  {
+    "date": "2025년 05월 07일 수요일",
+    "articles": [
+      {
+        "title": "[속보]중국 지급준비율 0.5%p 인하",
+        "time": "2025-05-07T10:54:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202505071052048578",
+        "original_url": "https://www.fnnews.com/news/202505071052048578"
+      },
+      {
+        "title": "[속보] 최태원 \"위약금 면제, SKT 이사회 논의 중.. 형평성·법적 검토해야\"",
+        "time": "2025-05-07T10:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202505071010179880",
+        "original_url": "https://www.fnnews.com/news/202505071010179880"
+      },
+      {
+        "title": "[속보] 최태원 \"SKT 해킹 사태로 불안·불편 초래.. SK그룹 대표해 사과\"",
+        "time": "2025-05-07T10:04:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202505070953085334",
+        "original_url": "https://www.fnnews.com/news/202505070953085334"
+      }
+    ]
   }
 ]
