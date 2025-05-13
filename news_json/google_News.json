@@ -15129,11 +15129,32 @@
     "date": "2025년 05월 13일 화요일",
     "articles": [
       {
+        "title": "[속보] 멕시코, 라 크루스 데 로레토 235km 거리서 규모 5.9 지진 발생",
+        "time": "2025-05-14T06:31:00+00:00",
+        "img": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailian.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTFBja1lpOURqc01uVmMyOTBvRHVTUWM1VjI4TnZLd180czdUaWxFTFhjV21jbVQ1T3ZKS3QtUy0zREozLWxkMV9qV2FFb2VNeHhVRG1Lejd3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTFBja1lpOURqc01uVmMyOTBvRHVTUWM1VjI4TnZLd180czdUaWxFTFhjV21jbVQ1T3ZKS3QtUy0zREozLWxkMV9qV2FFb2VNeHhVRG1Lejd3?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[환경 공공기관 소식] 수자원공사 ‘초격차 물관리 기술 유럽 교두보 확대’, 기상청 ‘지진관측경보협의회’ 개최",
+        "time": "2025-05-14T06:01:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNW1ZVkZEUkdwTmJUZFFSMmhtVFJEQkFSaUZBaWdCTWdZQkFJWkUwQU0=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiYkFVX3lxTE5VNTIyV09rYjJqcTBlcjBFMUJ3V0JWeGJ6QUlSa2NueEVISE5MOWUxeGlGMncwdmwySmZYNWVoRGlmUkNYZmhEbkFEWmZfUUVSSi1zTkpkTHRXNWVPdWo2VXln?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYkFVX3lxTE5VNTIyV09rYjJqcTBlcjBFMUJ3V0JWeGJ6QUlSa2NueEVISE5MOWUxeGlGMncwdmwySmZYNWVoRGlmUkNYZmhEbkFEWmZfUUVSSi1zTkpkTHRXNWVPdWo2VXln?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "시리아 \"美 제재 해제, 중대 전환점…트럼프, 전임자보다 큰 일\"",
         "time": "2025-05-14T03:46:52+00:00",
         "img": "/api/attachments/CC8iK0NnNXBXQzFVUTI5TlpHVTJibXAzVFJDM0FSaVRBaWdCTWdhZFk0cXRxUWM=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE1IT2FnSzJoZlNLcVZHcjFJWkV1NVJra0lSQk01ODNTVUJ6NC1xNW81UjdzbS1NbjFaMmxKMWp3TGhMWkxEVEFrMUc2MWk3Vk83d1NaazhqRy1lcWPSAWBBVV95cUxPdkNYcmdOWFBwX3BDYmNhQXRyX3lZSTAxOEcwb0VzZmNjNlpYbkg4SW81TmQ2bGdVLXdXeXNrV195MEdVcHhZbGRJQno2ZGpGRWw4NjVCcTRGenR1WHI2N20?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE1IT2FnSzJoZlNLcVZHcjFJWkV1NVJra0lSQk01ODNTVUJ6NC1xNW81UjdzbS1NbjFaMmxKMWp3TGhMWkxEVEFrMUc2MWk3Vk83d1NaazhqRy1lcWPSAWBBVV95cUxPdkNYcmdOWFBwX3BDYmNhQXRyX3lZSTAxOEcwb0VzZmNjNlpYbkg4SW81TmQ2bGdVLXdXeXNrV195MEdVcHhZbGRJQno2ZGpGRWw4NjVCcTRGenR1WHI2N20?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "트럼프, 시리아 제재 ‘깜짝’ 해제…“도전의 기회 제공할 것”",
+        "time": "2025-05-14T03:28:00+00:00",
+        "img": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.donga.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "url": "https://news.google.com/read/CBMic0FVX3lxTFBIWnBvano2QUVldkdsdmU2X2Z4VUhUVlAtVnQxbE44OEFBUGNtc2R2Q29rd2RwMVFFVTZncVduSjJoWUZCQzNTd3ZRZVJueDIwR0V2Qm5zSTZmU3J0SFdPQS1pUlh4RElacEdCVHVqNkVMZ03SAWZBVV95cUxNYWF4VVFJLXBaMWR4Slg4MVBjajNkMmtxdktqdTRqV0hadElqTmFnVDlQOTNpTzI0TDJSOWxJOUJUcUZKUldIWFl2VllzWFlwbzZkSzdwWHlPRGs1VGNyeVlKeENuTUE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMic0FVX3lxTFBIWnBvano2QUVldkdsdmU2X2Z4VUhUVlAtVnQxbE44OEFBUGNtc2R2Q29rd2RwMVFFVTZncVduSjJoWUZCQzNTd3ZRZVJueDIwR0V2Qm5zSTZmU3J0SFdPQS1pUlh4RElacEdCVHVqNkVMZ03SAWZBVV95cUxNYWF4VVFJLXBaMWR4Slg4MVBjajNkMmtxdktqdTRqV0hadElqTmFnVDlQOTNpTzI0TDJSOWxJOUJUcUZKUldIWFl2VllzWFlwbzZkSzdwWHlPRGs1VGNyeVlKeENuTUE?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "트럼프 “시리아 제재 해제”…중동 평화 파트너십 속도",
