@@ -15129,6 +15129,20 @@
     "date": "2025년 05월 13일 화요일",
     "articles": [
       {
+        "title": "그리스 크레타섬서 규모 6.1 지진 발생",
+        "time": "2025-05-14T08:14:26+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVpTbVZ2VG5ObU1XUXlPVFZQVFJDZUJCaTFCQ2dLTWdNSlVSZw=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE9OdlI4cnBRSzU3NDR4dnRqVVVhdmhtTjlIbjNnTzNQTjd1RVZjdUtFcXpYVVhDV2paWWkxSnBWbXBRUVB3V05VSFlfQS1PdU9BaDFz?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE9OdlI4cnBRSzU3NDR4dnRqVVVhdmhtTjlIbjNnTzNQTjd1RVZjdUtFcXpYVVhDV2paWWkxSnBWbXBRUVB3V05VSFlfQS1PdU9BaDFz?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "미중 관세협상 '큰 진전' 이뤘지만…美 경기 둔화 불가피",
+        "time": "2025-05-14T08:00:01+00:00",
+        "img": "/api/attachments/CC8iK0NnNWFOMm94YTJ0a1VHMU9lRTExVFJEWEFoajZBU2dLTWdZbFZKYXRKUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9tTHk3SWdZYWVTOUZIYU5oRWNjOEE1Z3dYYnZEb2p1STVqLXZxd19rZFlITVFyVkpneXp5aW81Sm1DRXdRYjRUbGJZQzJnMnI3UktiX1BOVkR6Z9IBVEFVX3lxTFA5QktCQnBOcVB1aDNvcWJRdk5OSUtKM1BrRF9YaU11YmtyMmJsRTJBNVpvSTFhM2Fad240UnNVM1g2eW1sZEY0b1hlMXBGQmVwLWJGYg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE9tTHk3SWdZYWVTOUZIYU5oRWNjOEE1Z3dYYnZEb2p1STVqLXZxd19rZFlITVFyVkpneXp5aW81Sm1DRXdRYjRUbGJZQzJnMnI3UktiX1BOVkR6Z9IBVEFVX3lxTFA5QktCQnBOcVB1aDNvcWJRdk5OSUtKM1BrRF9YaU11YmtyMmJsRTJBNVpvSTFhM2Fad240UnNVM1g2eW1sZEY0b1hlMXBGQmVwLWJGYg?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[속보] 멕시코, 라 크루스 데 로레토 235km 거리서 규모 5.9 지진 발생",
         "time": "2025-05-14T06:31:00+00:00",
         "img": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailian.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
@@ -15141,6 +15155,13 @@
         "img": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://dailian.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "url": "https://news.google.com/read/CBMiUkFVX3lxTE5kNnA2cHhFU0tCdmpQUUFxcDNxUUhaSjhOS0lQYUdwRnRwU292NFl3MnY2QmgtSk1LclpKTkNBcjZkR3phUF9jUi1WWUxrcVlRdGc?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE5kNnA2cHhFU0tCdmpQUUFxcDNxUUhaSjhOS0lQYUdwRnRwU292NFl3MnY2QmgtSk1LclpKTkNBcjZkR3phUF9jUi1WWUxrcVlRdGc?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보]\"멕시코 할리스코 지역 해안서 규모 5.9 지진\"-EMSC - 머니S",
+        "time": "2025-05-14T06:07:01+00:00",
+        "img": "/api/attachments/CC8iK0NnNUxMV2cyYzJzMmFtVkRXbTB6VFJDZUF4amtCU2dLTWdZbGxKSnZPUWM=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiYkFVX3lxTE82QVFLYkxETkVPUGM5T2llVHhQTWVWNnlrblJWZnZsdjU5YUw5WW1MMDcxYWN4MmJzYXJfejVwSlVEbWxSSmFJV3RlTUJEbWdiUTJqZlNkaGZTRGstODhtTGVR0gFkQVVfeXFMTk8xVlltZDhYZV9RSXg5UndBNENpR2V0dHpBcFl0a0VFandfTldaM1FGeGdoRnktM0pXbnYtbUZuUi1GaGNaY2FHbEFMb0NPM1VYUTdTenY1WGxIZHFiRkxBWFJHMA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYkFVX3lxTE82QVFLYkxETkVPUGM5T2llVHhQTWVWNnlrblJWZnZsdjU5YUw5WW1MMDcxYWN4MmJzYXJfejVwSlVEbWxSSmFJV3RlTUJEbWdiUTJqZlNkaGZTRGstODhtTGVR0gFkQVVfeXFMTk8xVlltZDhYZV9RSXg5UndBNENpR2V0dHpBcFl0a0VFandfTldaM1FGeGdoRnktM0pXbnYtbUZuUi1GaGNaY2FHbEFMb0NPM1VYUTdTenY1WGxIZHFiRkxBWFJHMA?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[환경 공공기관 소식] 수자원공사 ‘초격차 물관리 기술 유럽 교두보 확대’, 기상청 ‘지진관측경보협의회’ 개최",
@@ -15197,6 +15218,13 @@
         "img": "/api/attachments/CC8iK0NnNVlabmQyV1ZaaFVtVm5XbVpEVFJERUF4aW1CU2dLTWdhMUU0UlNrUW8=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTFB4eGljR3luUW5CTmo2RC10RVR2R3lvTUUtNnMta2wxblQ0X0N0d2NqaGktTEE4dnFiMUFCNVZlbHR1bTFGdEd0aEF0MnJ1d1VhdDZEcjF6dnZCdVXSAWBBVV95cUxPZkg0SGFLM084U1YyQmFQX3Nidk96dG9LR2VXeWgyeVFZUll5X1dCU1VEdFpnQWJ0Wk5sYkoxZFh3WVh4SkJuVUdIbXBSWEpzWndGX25XcW5vakJwZlZnZGM?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFB4eGljR3luUW5CTmo2RC10RVR2R3lvTUUtNnMta2wxblQ0X0N0d2NqaGktTEE4dnFiMUFCNVZlbHR1bTFGdEd0aEF0MnJ1d1VhdDZEcjF6dnZCdVXSAWBBVV95cUxPZkg0SGFLM084U1YyQmFQX3Nidk96dG9LR2VXeWgyeVFZUll5X1dCU1VEdFpnQWJ0Wk5sYkoxZFh3WVh4SkJuVUdIbXBSWEpzWndGX25XcW5vakJwZlZnZGM?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "트럼프 \"이란과 갈등 끝내고 새 파트너십 구축 의향\"",
+        "time": "2025-05-14T01:40:30+00:00",
+        "img": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.yna.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTFB0M2RSLTFFYXBfd2VwQVNoanRnblVJcHFraUxzVzJLZkV2LUxnakhtcXVBcEVzRFpJZWZJa0FFemlYbWh3elhNZnZDckRwSkpMVGFQaEh4YWtnZ2vSAWBBVV95cUxPTVB0SldqVF84Z2oyandHdFdnQW1ZOVlmVHNMZlFNb1RFU3gtdVNOQlh6alBacVNRbkNTOTVGT3dtVkdob3ZlUm0tblRqWkhmc2NNQTRWbEwtLVdNdy1YYjk?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFB0M2RSLTFFYXBfd2VwQVNoanRnblVJcHFraUxzVzJLZkV2LUxnakhtcXVBcEVzRFpJZWZJa0FFemlYbWh3elhNZnZDckRwSkpMVGFQaEh4YWtnZ2vSAWBBVV95cUxPTVB0SldqVF84Z2oyandHdFdnQW1ZOVlmVHNMZlFNb1RFU3gtdVNOQlh6alBacVNRbkNTOTVGT3dtVkdob3ZlUm0tblRqWkhmc2NNQTRWbEwtLVdNdy1YYjk?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[단독] ‘탄핵이 필요한 거죠’ 윤석열 풍자 고소 KTV, 결국 소 취하",
