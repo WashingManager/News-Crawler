@@ -54903,5 +54903,430 @@
         "original_url": "https://v.daum.net/v/20250514083303635"
       }
     ]
+  },
+  {
+    "date": "2025년 05월 14일 Wednesday",
+    "articles": [
+      {
+        "title": "드론 기동하는 북한군…러 파병 '실전 경험' 남침 전술에 도입",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514112450614izue.jpg",
+        "url": "https://v.daum.net/v/20250514112450460",
+        "original_url": "https://v.daum.net/v/20250514112450460"
+      },
+      {
+        "title": "유엔, 이스라엘·美 가자 구호안에 \"굶주림이 협상칩이냐\" 비판",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514110120514jxmh.jpg",
+        "url": "https://v.daum.net/v/20250514110120000",
+        "original_url": "https://v.daum.net/v/20250514110120000"
+      },
+      {
+        "title": "이재명 51%, 김문수 31%, 이준석 8%[한국갤럽]",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/khan/20250514115932943fcvn.jpg",
+        "url": "https://v.daum.net/v/20250514115931242",
+        "original_url": "https://v.daum.net/v/20250514115931242"
+      },
+      {
+        "title": "[르포] 남태평양 참치 찾던 드론, 남해서 정찰기로 변신",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514120152941cxdc.jpg",
+        "url": "https://v.daum.net/v/20250514120152477",
+        "original_url": "https://v.daum.net/v/20250514120152477"
+      },
+      {
+        "title": "“푸틴 나오나?”…우크라·러 전쟁발발 후 첫 美중재 직접협상",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/munhwa/20250514111714924rrzc.jpg",
+        "url": "https://v.daum.net/v/20250514111712956",
+        "original_url": "https://v.daum.net/v/20250514111712956"
+      },
+      {
+        "title": "\"끔찍하고 무례한 테러\"…600년 유적지 '남성 성기' 낙서에 페루 발칵",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/akn/20250514105849605bsyk.png",
+        "url": "https://v.daum.net/v/20250514105848803",
+        "original_url": "https://v.daum.net/v/20250514105848803"
+      },
+      {
+        "title": "美中 '관세휴전' 했지만…글로벌 공급망 '붕괴 직전'까지 몰렸다",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/Edaily/20250514111805857revj.jpg",
+        "url": "https://v.daum.net/v/20250514111803005",
+        "original_url": "https://v.daum.net/v/20250514111803005"
+      },
+      {
+        "title": "[르포] 해상 표적에 시속 100㎞ 돌진…\"자폭 성공\" 해군의 섬뜩한 무전",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/moneytoday/20250514120007910bryo.gif",
+        "url": "https://v.daum.net/v/20250514120005266",
+        "original_url": "https://v.daum.net/v/20250514120005266"
+      },
+      {
+        "title": "3년만에 러·우 회담 임박…美·유럽 채찍 공조로 전면휴전 시도",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514113238104vfxm.jpg",
+        "url": "https://v.daum.net/v/20250514113237975",
+        "original_url": "https://v.daum.net/v/20250514113237975"
+      },
+      {
+        "title": "\"BTS 있던 자리에 계엄군이...\" 영국인들이 본 한국의 '두 얼굴'",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/ohmynews/20250514093303367dytb.jpg",
+        "url": "https://v.daum.net/v/20250514093301950",
+        "original_url": "https://v.daum.net/v/20250514093301950"
+      },
+      {
+        "title": "美‧中, 관세 대폭 인하 합의…한·일 관세 협상 장기화 가능성 ↑",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/nongmin/20250514134612173snye.jpg",
+        "url": "https://v.daum.net/v/20250514134610336",
+        "original_url": "https://v.daum.net/v/20250514134610336"
+      },
+      {
+        "title": "노숙인 섬기는 탈북민 목사의 행복한 동행",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/nocut/20250514134802938zbfx.jpg",
+        "url": "https://v.daum.net/v/20250514134800389",
+        "original_url": "https://v.daum.net/v/20250514134800389"
+      },
+      {
+        "title": "명품도 해킹에 뚫렸다···디올 \"전화번호·메일주소 등 유출\" 공지",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/seouleconomy/20250514122232212fdgo.png",
+        "url": "https://v.daum.net/v/20250514122230038",
+        "original_url": "https://v.daum.net/v/20250514122230038"
+      },
+      {
+        "title": "600년 유적지에 '남성 성기' 낙서 테러…\"심각한 무례\" 페루 발칵",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/joongang/20250514082726152pxpe.jpg",
+        "url": "https://v.daum.net/v/20250514082724449",
+        "original_url": "https://v.daum.net/v/20250514082724449"
+      },
+      {
+        "title": "조희대 특검·탄핵 검토하는 민주당…법조계 \"사법부 장악 시도\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514133019311jbyh.jpg",
+        "url": "https://v.daum.net/v/20250514133019657",
+        "original_url": "https://v.daum.net/v/20250514133019657"
+      },
+      {
+        "title": "이란-영·프·독, 16일 이스탄불 회담…이란 핵·제재 복원 협상",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514092616427npdj.jpg",
+        "url": "https://v.daum.net/v/20250514092616597",
+        "original_url": "https://v.daum.net/v/20250514092616597"
+      },
+      {
+        "title": "러-우 이스탄불 회담, 장관급 참석할 듯…美도 루비오 국무 파견",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514092315706xrth.jpg",
+        "url": "https://v.daum.net/v/20250514092314476",
+        "original_url": "https://v.daum.net/v/20250514092314476"
+      },
+      {
+        "title": "중국, 영국과 미국 간 무역합의 비판…“3자 겨냥 무역 조치는 독소조항”",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kbs/20250514130007167djix.jpg",
+        "url": "https://v.daum.net/v/20250514121217836",
+        "original_url": "https://v.daum.net/v/20250514121217836"
+      },
+      {
+        "title": "우주청 찾은 김문수 \"2조원? 마중물 확실히…과학기술 대통령 될 것\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/moneytoday/20250514132135315acvp.jpg",
+        "url": "https://v.daum.net/v/20250514131755249",
+        "original_url": "https://v.daum.net/v/20250514131755249"
+      },
+      {
+        "title": "‘무인자폭병기’된 보트가 北 함선 막는다...실험 나선 해군",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/chosun/20250514132655971nomp.jpg",
+        "url": "https://v.daum.net/v/20250514123753240",
+        "original_url": "https://v.daum.net/v/20250514123753240"
+      },
+      {
+        "title": "남·북 ‘전투드론 전쟁’ 불붙었다",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/munhwa/20250514120119554dklk.jpg",
+        "url": "https://v.daum.net/v/20250514120119433",
+        "original_url": "https://v.daum.net/v/20250514120119433"
+      },
+      {
+        "title": "김정은, 러 파병 경험 과시…길리슈트 저격병 보며 \"전쟁준비 완성\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/joongang/20250514120552583yyhg.jpg",
+        "url": "https://v.daum.net/v/20250514120551669",
+        "original_url": "https://v.daum.net/v/20250514120551669"
+      },
+      {
+        "title": "美 \"中, 우주 핵미사일 능력 급성장…러시아 능가할 것\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/akn/20250514133912730hwkx.jpg",
+        "url": "https://v.daum.net/v/20250514133912008",
+        "original_url": "https://v.daum.net/v/20250514133912008"
+      },
+      {
+        "title": "대형산불 지역 특별관리...'마을순찰대' 전담 배치해 대피 지원",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/fnnewsi/20250514120047754dlli.jpg",
+        "url": "https://v.daum.net/v/20250514120047371",
+        "original_url": "https://v.daum.net/v/20250514120047371"
+      },
+      {
+        "title": "\"그게 국민을 위한 길인가\"…대법원, '보복입법'에 반대 의견",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/Edaily/20250514131150415rawk.jpg",
+        "url": "https://v.daum.net/v/20250514121550915",
+        "original_url": "https://v.daum.net/v/20250514121550915"
+      },
+      {
+        "title": "“비트코인, 지금이라도?”…이재명·김문수 가상자산 공약 영향은 [뉴스+]",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/segye/20250514133457440gcnl.png",
+        "url": "https://v.daum.net/v/20250514133457830",
+        "original_url": "https://v.daum.net/v/20250514133457830"
+      },
+      {
+        "title": "트럼프, 사우디서 850조 유치…시리아·이란엔 “영원한 적 없다”",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250514110649342",
+        "original_url": "https://v.daum.net/v/20250514110649342"
+      },
+      {
+        "title": "핵무력 강화하는 北…\"속도 빠르다\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kedtv/20250514114312089htft.jpg",
+        "url": "https://v.daum.net/v/20250514114311607",
+        "original_url": "https://v.daum.net/v/20250514114311607"
+      },
+      {
+        "title": "이재명 \"선박제조 시스템 고도화…AI·로봇으로 생산성 향상\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514131107427egvu.jpg",
+        "url": "https://v.daum.net/v/20250514131107957",
+        "original_url": "https://v.daum.net/v/20250514131107957"
+      },
+      {
+        "title": "中, '美와 무역합의' 英 비판…\"다른 국가 겨냥해선 안돼\"",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/sbscnbc/20250514115104262hopk.jpg",
+        "url": "https://v.daum.net/v/20250514114803837",
+        "original_url": "https://v.daum.net/v/20250514114803837"
+      },
+      {
+        "title": "이재명 51% 김문수 31% 이준석 8%… 보수 단일화 반대 43% [한국갤럽]",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/chosunbiz/20250514134556523qgny.jpg",
+        "url": "https://v.daum.net/v/20250514134554323",
+        "original_url": "https://v.daum.net/v/20250514134554323"
+      },
+      {
+        "title": "'탄핵이 필요한 거죠' 尹 풍자 가수 불송치…KTV 고소 취소",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514131923403lctd.jpg",
+        "url": "https://v.daum.net/v/20250514131923311",
+        "original_url": "https://v.daum.net/v/20250514131923311"
+      },
+      {
+        "title": "충북 자영업자 한 달 사이 2천 명 감소",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/551762-Ul13sr0/20250514110837914paar.png",
+        "url": "https://v.daum.net/v/20250514104845244",
+        "original_url": "https://v.daum.net/v/20250514104845244"
+      },
+      {
+        "title": "“작은 체구, 어디서 그런 힘이”…사막서 쓰러진 낙타 구한 중국女 ‘화제’",
+        "time": "2025-05-14T04:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/mk/20250514133607385twcu.png",
+        "url": "https://v.daum.net/v/20250514133604886",
+        "original_url": "https://v.daum.net/v/20250514133604886"
+      },
+      {
+        "title": "\"자유무역 선도국 英-韓, 지금은 비즈니스 함께할 최적의 시기\"",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/moneytoday/20250514133704181oiry.jpg",
+        "url": "https://v.daum.net/v/20250514133702917",
+        "original_url": "https://v.daum.net/v/20250514133702917"
+      },
+      {
+        "title": "마크롱, 프랑스 핵무기 해외 배치 시사...독일-폴란드와 논의",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/fnnewsi/20250514132836271ubtt.jpg",
+        "url": "https://v.daum.net/v/20250514132836609",
+        "original_url": "https://v.daum.net/v/20250514132836609"
+      },
+      {
+        "title": "트럼프, 시리아 제재 전격 해제 발표…“영원한 적은 없다”며 이란엔 핵협상 압박",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/khan/20250514132808849bdpb.png",
+        "url": "https://v.daum.net/v/20250514132807595",
+        "original_url": "https://v.daum.net/v/20250514132807595"
+      },
+      {
+        "title": "멕시코 마약카르텔 一家, 형량 협상 위해 ‘미국행’",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250514115117976",
+        "original_url": "https://v.daum.net/v/20250514115117976"
+      },
+      {
+        "title": "카타르선 휴전협상, 가자선 공습… ‘두 얼굴의 이스라엘’",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/munhwa/20250514115132622tfxt.jpg",
+        "url": "https://v.daum.net/v/20250514115131984",
+        "original_url": "https://v.daum.net/v/20250514115131984"
+      },
+      {
+        "title": "[뉴스1 PICK]미얀마 군정, 학교에 폭탄 투하...학생 등 20여명 사망",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514103015121ztak.jpg",
+        "url": "https://v.daum.net/v/20250514103013183",
+        "original_url": "https://v.daum.net/v/20250514103013183"
+      },
+      {
+        "title": "“이슬람 전사들의 4억불 선물”... 트럼프 카타르 전용기 수락에 비난 확산",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/chosun/20250514125827049ufbv.jpg",
+        "url": "https://v.daum.net/v/20250514125243515",
+        "original_url": "https://v.daum.net/v/20250514125243515"
+      },
+      {
+        "title": "“트럼프, ‘중국 견제’ 초점 맞추며 주한미군 전략 유연성 확대 원할 것”",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kukminilbo/20250514115315394gpgk.jpg",
+        "url": "https://v.daum.net/v/20250514115313050",
+        "original_url": "https://v.daum.net/v/20250514115313050"
+      },
+      {
+        "title": "中·아세안·중동 주요국, 이달말 말레이서 다자주의 협력 모색",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514134406571zfui.jpg",
+        "url": "https://v.daum.net/v/20250514134406232",
+        "original_url": "https://v.daum.net/v/20250514134406232"
+      },
+      {
+        "title": "베선트 美 재무 “韓, 대선 시작전 좋은 관세협상안 제안”… 속도전 압박",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250514115811207",
+        "original_url": "https://v.daum.net/v/20250514115811207"
+      },
+      {
+        "title": "미국 인도태평양안보연구소 창립 행사",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514090330988atwu.jpg",
+        "url": "https://v.daum.net/v/20250514090330655",
+        "original_url": "https://v.daum.net/v/20250514090330655"
+      },
+      {
+        "title": "“美가 놓친 AI 블랙박스”…中 딥시크, 실리콘밸리 판도 흔든다",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/chosunbiz/20250514113736086hzji.jpg",
+        "url": "https://v.daum.net/v/20250514113733291",
+        "original_url": "https://v.daum.net/v/20250514113733291"
+      },
+      {
+        "title": "폭염이 바꾼 소비…인도는 지금 에어컨 열풍",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kbs/20250514125438397wczg.jpg",
+        "url": "https://v.daum.net/v/20250514125435554",
+        "original_url": "https://v.daum.net/v/20250514125435554"
+      },
+      {
+        "title": "\"주문 폭주에 야근 필수\"…관세 전쟁 완화에 中 공장들 '함박 웃음'",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/akn/20250514132649022nvbz.jpg",
+        "url": "https://v.daum.net/v/20250514132648552",
+        "original_url": "https://v.daum.net/v/20250514132648552"
+      },
+      {
+        "title": "노무현·문재인이 홀대했던 문화, 이재명이 주목한 이유",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/pressian/20250514115906495xclj.jpg",
+        "url": "https://v.daum.net/v/20250514115903232",
+        "original_url": "https://v.daum.net/v/20250514115903232"
+      },
+      {
+        "title": "美무역대표 \"10% 기본관세는 유지…중국엔 좀 더 높게\"",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514121352453ljug.jpg",
+        "url": "https://v.daum.net/v/20250514121350886",
+        "original_url": "https://v.daum.net/v/20250514121350886"
+      },
+      {
+        "title": "中, 대미 관세 125%서 10%로 인하 조치 시행",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/newsis/20250514133641110khll.jpg",
+        "url": "https://v.daum.net/v/20250514133641904",
+        "original_url": "https://v.daum.net/v/20250514133641904"
+      },
+      {
+        "title": "인도, 긴장 지역 카슈미르서 반군과 총격전…3명 사살",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kbs/20250514111202051hzmh.jpg",
+        "url": "https://v.daum.net/v/20250514110841439",
+        "original_url": "https://v.daum.net/v/20250514110841439"
+      },
+      {
+        "title": "눈 깜빡이지 못해서···중국 80대 시각장애인, 본인 명의 휴대전화 개통 실패",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/khan/20250514111037916sjej.jpg",
+        "url": "https://v.daum.net/v/20250514111036546",
+        "original_url": "https://v.daum.net/v/20250514111036546"
+      },
+      {
+        "title": "미국, 29년 연속 북한 '대테러 비협력국' 지정",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/NEWS1/20250514120826672bquo.jpg",
+        "url": "https://v.daum.net/v/20250514120826745",
+        "original_url": "https://v.daum.net/v/20250514120826745"
+      },
+      {
+        "title": "트럼프의 ‘통일’ 언급에 대만 충격…‘中에 대만 팔아먹나?’",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kukminilbo/20250514131215143bxtk.jpg",
+        "url": "https://v.daum.net/v/20250514131213988",
+        "original_url": "https://v.daum.net/v/20250514131213988"
+      },
+      {
+        "title": "'땡큐 트럼프'…머스크·젠슨 황, 중동 시장 선점 나서",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/yonhap/20250514111523532fijj.jpg",
+        "url": "https://v.daum.net/v/20250514111523835",
+        "original_url": "https://v.daum.net/v/20250514111523835"
+      },
+      {
+        "title": "“한국 대선, 일본에도 영향…사회분단 극복 위한 논의 기대”",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/kbs/20250514115747742tpsx.jpg",
+        "url": "https://v.daum.net/v/20250514115417086",
+        "original_url": "https://v.daum.net/v/20250514115417086"
+      },
+      {
+        "title": "美 정보국, \"中, 10년 내 우주궤도 핵미사일 수십발 보유 가능성\" 경고",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/fnnewsi/20250514123051033rvvo.jpg",
+        "url": "https://v.daum.net/v/20250514123049146",
+        "original_url": "https://v.daum.net/v/20250514123049146"
+      },
+      {
+        "title": "“이스라엘 관광객 서약서는 정부 책임” 대사관 항의 맞받은 일본 게스트하우스",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/khan/20250514125618223mmtw.jpg",
+        "url": "https://v.daum.net/v/20250514125616573",
+        "original_url": "https://v.daum.net/v/20250514125616573"
+      },
+      {
+        "title": "초조해진 일본...중국·영국, 대미 ‘관세 협상 성과’에 불안감 점증",
+        "time": "2025-05-14T04:50:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202505/14/hani/20250514095509192ivih.jpg",
+        "url": "https://v.daum.net/v/20250514094014279",
+        "original_url": "https://v.daum.net/v/20250514094014279"
+      }
+    ]
   }
 ]
