@@ -24932,6 +24932,20 @@
     "date": "2025년 05월 29일 목요일",
     "articles": [
       {
+        "title": "하와이 킬라우에아 화산, 용암 분수 1000피트 높이로 솟아올라",
+        "time": "2025-05-29T16:30:52+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXlUMGRwZDFkemJGUm1UWEE1VFJDbkFSaXVBaWdCTWdOQkF5SQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibEFVX3lxTE5KaU9USlNWWVpqUzhuRkxlbmFpbFdMOGhSTXdBdHdtb19OdFJBVXFVazZZWF9ST2ZrbGxJTm93c2UxUkJFNXVpQlNlSm9TN3JMVXJDUXVPRXNWUnA4Y1RPY1F1bHpDNVZvYWt4UQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibEFVX3lxTE5KaU9USlNWWVpqUzhuRkxlbmFpbFdMOGhSTXdBdHdtb19OdFJBVXFVazZZWF9ST2ZrbGxJTm93c2UxUkJFNXVpQlNlSm9TN3JMVXJDUXVPRXNWUnA4Y1RPY1F1bHpDNVZvYWt4UQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "4명 탑승 해군 초계기, 포항공항 근처 추락…이륙 9분 만에",
+        "time": "2025-05-29T15:56:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXZZM3B1TUhoYVlrTkRaRnBaVFJDOEFSaU1BaWdCTWdNQmdBWQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiZEFVX3lxTFBWU0hUUF90bmF0Rk5XY2pOb0VONXNQb1QtQjRjcHd0VlpvT0tCbk43M3paZ0V5Rkt5a3VZenVJWEJCTE1IQ09mQXlwRkQycXNFMjRTTk9LZWZvWFpvN0d6eE9Jb2E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZEFVX3lxTFBWU0hUUF90bmF0Rk5XY2pOb0VONXNQb1QtQjRjcHd0VlpvT0tCbk43M3paZ0V5Rkt5a3VZenVJWEJCTE1IQ09mQXlwRkQycXNFMjRTTk9LZWZvWFpvN0d6eE9Jb2E?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "“중국보다 미국” “뒤통수 칠 땐 언제고”…미 국방의 ‘샹그릴라 대화’ 데뷔전",
         "time": "2025-05-29T15:16:00+00:00",
         "img": "/api/attachments/CC8iK0NnNWtTRGxPWlhsTmVHSllTakpTVFJDdUFSaWlBaWdCTWdZOVk0b3lzUVU=-w100-h100-p-df",
@@ -24944,6 +24958,41 @@
         "img": "/api/attachments/CC8iMkNnNUtNMEZJU25oaFdEZGtibUZIVFJEQ0FSaURBaWdCTWd1UklZU0tyU1UxdGdqVnFR=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiZEFVX3lxTE9WN0VmZTNzRFNJbEJFakwtTnYxMlB5VVlYWGJTQUxHX2NvNkFHamt5RnFRVXN2SHhNckluTkJaXzlsVER1MEV3dTNudjM3R0Fjd3dFMVJaejg5X1BzSEtsNnpQdlM?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiZEFVX3lxTE9WN0VmZTNzRFNJbEJFakwtTnYxMlB5VVlYWGJTQUxHX2NvNkFHamt5RnFRVXN2SHhNckluTkJaXzlsVER1MEV3dTNudjM3R0Fjd3dFMVJaejg5X1BzSEtsNnpQdlM?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "스위스 마을 90% 덮친 빙하 붕괴...실종 1명에 그친 건 기적이 아니었다",
+        "time": "2025-05-29T15:03:24+00:00",
+        "img": "/api/attachments/CC8iK0NnNVZSek5TTnpJMVVtVnZaVlZXVFJDR0FoajBBeWdLTWdhdGtvSnZ2UUk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxQelVJY04ySDJ6WjY1dUt3UWQ3cmtidjhnakozQlAzckIzbGJFX1JhS1R0bko1cC16em5SX0F1b3FiZ2lfWkMtdzk4WktIR0VsWHVpNXJJZnR0WlVfcnd0eTllcDczMVJjaVNSMlpvb201NVdRV2hMcFp6MXlTY1VUQWRlemxRQUlJUkc0czBjX2s2TEYzVzFHVkhvOVBZUdIBsgFBVV95cUxONHdpTDNjVGhtVlRad19PcWJPQzktaFM4UFhndlZOVURlRGxpV2laOVdjN2l1ZFVWOGR5LVZRY1pEbURLR1BWUU94MEdEV3Q5amxpWHNTZlhOZ0JOOWdtZTlkU3NncHZrZGthNnQ3UVY2THU1c1laWnMxZkVBWnBUNjlnSmhSeGpOV0RRWnBHRlVha0pKMUt3eGttejIwLU81eWZWY1dRNnh1Z09sUVRBYXdB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxQelVJY04ySDJ6WjY1dUt3UWQ3cmtidjhnakozQlAzckIzbGJFX1JhS1R0bko1cC16em5SX0F1b3FiZ2lfWkMtdzk4WktIR0VsWHVpNXJJZnR0WlVfcnd0eTllcDczMVJjaVNSMlpvb201NVdRV2hMcFp6MXlTY1VUQWRlemxRQUlJUkc0czBjX2s2TEYzVzFHVkhvOVBZUdIBsgFBVV95cUxONHdpTDNjVGhtVlRad19PcWJPQzktaFM4UFhndlZOVURlRGxpV2laOVdjN2l1ZFVWOGR5LVZRY1pEbURLR1BWUU94MEdEV3Q5amxpWHNTZlhOZ0JOOWdtZTlkU3NncHZrZGthNnQ3UVY2THU1c1laWnMxZkVBWnBUNjlnSmhSeGpOV0RRWnBHRlVha0pKMUt3eGttejIwLU81eWZWY1dRNnh1Z09sUVRBYXdB?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "소련 비밀 군사기지서 옛 기후변화 증거 포착 [우주서 본 지구]",
+        "time": "2025-05-29T14:54:23+00:00",
+        "img": "/api/attachments/CC8iI0NnNWpTV295T1hKZlVXVkdhRUU1VFJDcEFSaXFBaWdCTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTFB3YnVleF90S1A3MDJ3SUlqTVg1VDNkTEwtVW4wdjBBTjdSc3RERjlqdXRSOXJPS3R1cVhFUGRhcjY5cTJGckpheV9ncjhBaUhaOFpubjF3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTFB3YnVleF90S1A3MDJ3SUlqTVg1VDNkTEwtVW4wdjBBTjdSc3RERjlqdXRSOXJPS3R1cVhFUGRhcjY5cTJGckpheV9ncjhBaUhaOFpubjF3?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "네타냐후 “이란핵, 혼자 치겠다”에, 트럼프 “협상 중...매우 부적절” 막아",
+        "time": "2025-05-29T14:33:37+00:00",
+        "img": "/api/attachments/CC8iI0NnNDBXR0p3Y3pWdU5XZEVUVkZFVFJDUkF4ajhCU2dLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxORVV0amozeE9BeWtIRkxuT05jeVhxeTByeDF3MUtmNHlkT2xKdllvTEVZYmdkS2pNOVh3dG5CUENMdmNrZ0FlOHJaVFVGYjdWZm5ZdmFVMk1MQjVFUlhJbFVZcWNfZFdtVkE4RFNvYWEzbnd2MWs2a0UwTmhwejBVbUVuSUVKalczT2ZKTWpiMGNZWTVxaTVVcVdQU1FnQdIBsgFBVV95cUxOWk56bktMMlN5ZEpseVNfYVFMSVdFejhZYkU1SGQ3anBEWlhBR083MFZPQXpTT0RUbUozaWt6Tl8xbnNnUEN5cktuWkgyeC15YVZFZklMa1pGVFhudHBEWVBIYmZxNU5JUktiMVJDdXI4c215b0JuOU9NOFNlbzNzZXpXaXFYcFBKeW9VY0o3Nm5zaWZVd1JPTndvYmxubmIxWHZSMk9uZHRXdktaVUtBSnR3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxORVV0amozeE9BeWtIRkxuT05jeVhxeTByeDF3MUtmNHlkT2xKdllvTEVZYmdkS2pNOVh3dG5CUENMdmNrZ0FlOHJaVFVGYjdWZm5ZdmFVMk1MQjVFUlhJbFVZcWNfZFdtVkE4RFNvYWEzbnd2MWs2a0UwTmhwejBVbUVuSUVKalczT2ZKTWpiMGNZWTVxaTVVcVdQU1FnQdIBsgFBVV95cUxOWk56bktMMlN5ZEpseVNfYVFMSVdFejhZYkU1SGQ3anBEWlhBR083MFZPQXpTT0RUbUozaWt6Tl8xbnNnUEN5cktuWkgyeC15YVZFZklMa1pGVFhudHBEWVBIYmZxNU5JUktiMVJDdXI4c215b0JuOU9NOFNlbzNzZXpXaXFYcFBKeW9VY0o3Nm5zaWZVd1JPTndvYmxubmIxWHZSMk9uZHRXdktaVUtBSnR3?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] 포항 남구서 해군 군용기 추락...경찰 현장 확인 중",
+        "time": "2025-05-29T14:13:39+00:00",
+        "img": "/api/attachments/CC8iK0NnNHpUbTVIYVVwZlN6TjRVbUpxVFJDUkF4ajhCU2dLTWdhWm81UnF0UVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMihgFBVV95cUxOQjFvc1FsNGwyRlJvMGV1b3dqOXFEWjdVb2RfMTNpZkZDbUdCZ2h4SUQ1bm8zc0NjQkRuVkl5OFNKb3lvdXowSUNjZmx1Yjh1ZUVFRm5nUWxHQjYzSmc3bUk5T3JsS01qWDZJWF9PYXlUbVQ5c2RVN0pndFRZdUczQ2ctc1R0QdIBmgFBVV95cUxQWlZsM3lxZnA2UlFFdjZLcHltWnhVNGFkaXlXdEJvVU9KRnZvNWdfdndzUi1vbEJUNm9FalpuNGpVek5zVGlqUkk1cjRLWWJKYnZWLU1faDNwT2NmZHhhM1lmWFhhVTM5N0pDZHJXOTcwUW5Zd0tHLXU0TnJxajlSSEJQV0FuWUdqcGc0MVJCUUNfb3A0NFZwOFpR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMihgFBVV95cUxOQjFvc1FsNGwyRlJvMGV1b3dqOXFEWjdVb2RfMTNpZkZDbUdCZ2h4SUQ1bm8zc0NjQkRuVkl5OFNKb3lvdXowSUNjZmx1Yjh1ZUVFRm5nUWxHQjYzSmc3bUk5T3JsS01qWDZJWF9PYXlUbVQ5c2RVN0pndFRZdUczQ2ctc1R0QdIBmgFBVV95cUxQWlZsM3lxZnA2UlFFdjZLcHltWnhVNGFkaXlXdEJvVU9KRnZvNWdfdndzUi1vbEJUNm9FalpuNGpVek5zVGlqUkk1cjRLWWJKYnZWLU1faDNwT2NmZHhhM1lmWFhhVTM5N0pDZHJXOTcwUW5Zd0tHLXU0TnJxajlSSEJQV0FuWUdqcGc0MVJCUUNfb3A0NFZwOFpR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "안철수 “이대로 가면 전가족 전과자·범죄혐의자 대통령 가족 탄생해”",
+        "time": "2025-05-29T13:18:36+00:00",
+        "img": "/api/attachments/CC8iI0NnNXZRVkZETFhWbFUybDJYMDlyVFJETkFoajBBeWdLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE1LZW1mYVZrUWNmQTJ3a29ubXFMbUJaYlRJVWRVeWl5Q25URGRFV2ZoSUxTVDFOUUhXT29lTzZHdGtYOHlwUjd5eVBDajRPME1zNGFyOHJn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE1LZW1mYVZrUWNmQTJ3a29ubXFMbUJaYlRJVWRVeWl5Q25URGRFV2ZoSUxTVDFOUUhXT29lTzZHdGtYOHlwUjd5eVBDajRPME1zNGFyOHJn?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "미 국무장관, 중국 유학생들 특정해 “비자 취소 신속히 집행”",
@@ -25021,6 +25070,13 @@
         "img": "/api/attachments/CC8iI0NnNDJka2hLYW5sbVJrbGpNR3RrVFJDb0FSaXNBaWdCTWdB=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMid0FVX3lxTE5OLWVLcjFHQjhwcTY4aEtPSjBqR2VyOG9rQ2NpWGg3ZUtER1VtVWEtb09lQTZaOHkydlk1SEpPU3pwSXpHLW9YaXhWVlh0aExTSEZ1Zm5VY19aQWQ0TllhdUdIQmtxZ0NDcG9aQi1YejE4dVN5eW1Z0gF3QVVfeXFMT3UwNHZTdXE1Y09OSjFfZlVqSVV2TEltM2VEV0pKV1AwWWQyV2FOeDlMakZEWTloM0g3cXc1N1I5bnlUQmwxNWtSRFdWSlg3NHpyUVc3S3NzNGVWLUtmbTRzQUxVeEtEdDBRdmRTQk9DQ0RRVWtsT0E?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMid0FVX3lxTE5OLWVLcjFHQjhwcTY4aEtPSjBqR2VyOG9rQ2NpWGg3ZUtER1VtVWEtb09lQTZaOHkydlk1SEpPU3pwSXpHLW9YaXhWVlh0aExTSEZ1Zm5VY19aQWQ0TllhdUdIQmtxZ0NDcG9aQi1YejE4dVN5eW1Z0gF3QVVfeXFMT3UwNHZTdXE1Y09OSjFfZlVqSVV2TEltM2VEV0pKV1AwWWQyV2FOeDlMakZEWTloM0g3cXc1N1I5bnlUQmwxNWtSRFdWSlg3NHpyUVc3S3NzNGVWLUtmbTRzQUxVeEtEdDBRdmRTQk9DQ0RRVWtsT0E?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "트럼프 글로벌 관세전쟁, ‘취임 전’으로 리셋됐다",
+        "time": "2025-05-29T10:06:47+00:00",
+        "img": "/api/attachments/CC8iK0NnNWlTM1p0YldoMFJVeDZlVjlUVFJEWkFoaThCU2dLTWdZSlI1UW1KZ2s=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiUkFVX3lxTE10TnlBd3NBU0w2WnNLbHllZG5FdmJiMmF2bGlhX1kyTFVwN05odlI5c284RGhjcE1aaFFfWWZsS0RBVDJhM1Z1MFhOWlRCYXlzWnc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE10TnlBd3NBU0w2WnNLbHllZG5FdmJiMmF2bGlhX1kyTFVwN05odlI5c284RGhjcE1aaFFfWWZsS0RBVDJhM1Z1MFhOWlRCYXlzWnc?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "트럼프 “푸틴, 2주 안에 행동하라”…사실상 최후통첩",
@@ -25133,6 +25189,13 @@
         "img": "/api/attachments/CC8iK0NnNVdRMm90WTJSbVYxOXVjVU01VFJDTEF4amlCQ2dLTWdZTlFZem9JQWc=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiVkFVX3lxTE5YYjJPd2tBeld1dmlYVzF1bldFanpoTHl6UVA1bFhnRmlLV1d0elVlbE4za3hXcVl6dDRCUWVYMkd3dVQzM1I3Nmp0RG10UTY0ajdIR3B3?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE5YYjJPd2tBeld1dmlYVzF1bldFanpoTHl6UVA1bFhnRmlLV1d0elVlbE4za3hXcVl6dDRCUWVYMkd3dVQzM1I3Nmp0RG10UTY0ajdIR3B3?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[팩트 다이브] ‘사드=주한미군 방어용’, 틀린 주장 아니다",
+        "time": "2025-05-28T16:21:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNXFhRjlRYUhaNlFrRTFUMTk1VFJDdUFSaWlBaWdCTWdtTlVacjFJS214U1FJ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE1LSV9rRlM0LWJEN3ZpOXV1aWNNRGlJYzE4Vy1UN2k2TXNQemdzTjF0bnJOUnJNUnhRS2I1RWVYeGdyWEdHUm9nQy1sVEdUdGxvcHRTTDh5bHNFd2d5dUJWanBxc3lIUnM5WGc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE1LSV9rRlM0LWJEN3ZpOXV1aWNNRGlJYzE4Vy1UN2k2TXNQemdzTjF0bnJOUnJNUnhRS2I1RWVYeGdyWEdHUm9nQy1sVEdUdGxvcHRTTDh5bHNFd2d5dUJWanBxc3lIUnM5WGc?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "‘내란’ 혐의 출국금지 한덕수 “김문수 지지하며 내일 사전투표”",
