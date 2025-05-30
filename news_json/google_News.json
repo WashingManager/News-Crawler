@@ -25714,11 +25714,39 @@
     "date": "2025년 05월 30일 금요일",
     "articles": [
       {
+        "title": "대만 지진 5.3규모 발생",
+        "time": "2025-05-30T18:13:18+00:00",
+        "img": "/api/attachments/CC8iJ0NnNUNaa3hIV0dSS1NHdExUMEZUVFJDNkFSaVBBaWdCTWdPUmN3UQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibkFVX3lxTE5hbk9QcVBheDk2MzRJenNyVG1lM2lrdVotMGQ5X2N5WW9ZNWxxXy1FUWtlRVltbm9qOVlvcWx4SVVGZmFhZmhOQlNjeklzVFNCYkdva0ZtNWVFT3UtVTFJRXVXX3lzVHF2VjN6YnBR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibkFVX3lxTE5hbk9QcVBheDk2MzRJenNyVG1lM2lrdVotMGQ5X2N5WW9ZNWxxXy1FUWtlRVltbm9qOVlvcWx4SVVGZmFhZmhOQlNjeklzVFNCYkdva0ZtNWVFT3UtVTFJRXVXX3lzVHF2VjN6YnBR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보]이재명 \"이준석, 댓글 표현 과장·왜곡…사법 제재 이뤄져야\"",
+        "time": "2025-05-30T17:26:42+00:00",
+        "img": "/api/attachments/CC8iK0NnNVJiRUZ4U1RKRFNIVk9aWGhKVFJDMkF4aTlCU2dLTWdhWms1UkxOUWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiZEFVX3lxTE5jVkRVRjI4THNOemNqcWZDVzVuZWZqRFI0bmlPbG5PQ0dScGpaTElBYTcyWlVRRTFzcDBWVThUd25QcmktZGY2V1IzQ09hVzVSZlZIMzNSTnlZdlpZT29nLTRtUlfSAXhBVV95cUxPMWNibU9oT3ZfeEZESlloQjE4clR1SjVNdXhIZXhNRDctbzFzTmZYLUxheUFGWEROaEEwMEFWV1Y0d2xtRzRoQ2M5YXlIMjM4SGdEbWtpdGQ2Wm5wRFpwVkhlSTh2YjRnMG9RYy1ONk9KbE9XekxLWGI?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZEFVX3lxTE5jVkRVRjI4THNOemNqcWZDVzVuZWZqRFI0bmlPbG5PQ0dScGpaTElBYTcyWlVRRTFzcDBWVThUd25QcmktZGY2V1IzQ09hVzVSZlZIMzNSTnlZdlpZT29nLTRtUlfSAXhBVV95cUxPMWNibU9oT3ZfeEZESlloQjE4clR1SjVNdXhIZXhNRDctbzFzTmZYLUxheUFGWEROaEEwMEFWV1Y0d2xtRzRoQ2M5YXlIMjM4SGdEbWtpdGQ2Wm5wRFpwVkhlSTh2YjRnMG9RYy1ONk9KbE9XekxLWGI?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "이칠구 경북도의원 \"포항지진 항소심 판결은 반역사적…대법원 상고 총력 대응\"",
+        "time": "2025-05-30T16:46:18+00:00",
+        "img": "/api/attachments/CC8iK0NnNTZXRGR5VlRreWJVSktVQzFIVFJEMkJCam5BeWdLTWdhWlpJekpMUVk=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYkFVX3lxTE1QUWI4UExyZEF5VVA3aDBlZ0VvWXRMQ0dkVnRZQnZYM1VPOGplMzYwN0VCOEk5cnVQR0RmMlh5cHNkTGJlVlZUdnJmUXhlakEzX0ZvRkYzVmplczJSWC01eWJn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYkFVX3lxTE1QUWI4UExyZEF5VVA3aDBlZ0VvWXRMQ0dkVnRZQnZYM1VPOGplMzYwN0VCOEk5cnVQR0RmMlh5cHNkTGJlVlZUdnJmUXhlakEzX0ZvRkYzVmplczJSWC01eWJn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "아시아안보회의 개막… 중국 국방장관은 왜 불참했을까",
         "time": "2025-05-30T16:36:00+00:00",
         "img": "/api/attachments/CC8iK0NnNVVTME5CVkZndFVHMVdVWEpPVFJDM0FSaVRBaWdCTWdZcE5wYnRuUWs=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTFA2Vnk4U0ozbGt6MmtWZEJBUTU5SG9PYjhvVk1EMTJoa2QyRkFDREZ0NUVvVlQ1V0dvYkJtV3NjOU9pd0tZejg0WlVMOHBrWTBjRmVyR04tbmNhd9IBX0FVX3lxTE1meUo5OEstaGhRc2t6cTdMV1VGdWxOUmtMZ3ZtTHhpT1YzMDdVdmxKWDhhYkNMejU5a0d4UUpyLTZMdlNUV0VtUTE3VUFQMzlORG9rMEQ1aDZUQVJEWkFn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFA2Vnk4U0ozbGt6MmtWZEJBUTU5SG9PYjhvVk1EMTJoa2QyRkFDREZ0NUVvVlQ1V0dvYkJtV3NjOU9pd0tZejg0WlVMOHBrWTBjRmVyR04tbmNhd9IBX0FVX3lxTE1meUo5OEstaGhRc2t6cTdMV1VGdWxOUmtMZ3ZtTHhpT1YzMDdVdmxKWDhhYkNMejU5a0d4UUpyLTZMdlNUV0VtUTE3VUFQMzlORG9rMEQ1aDZUQVJEWkFn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "경북대 방사선과학연구소, KOLAS 국제공인시험기관 인정 획득",
+        "time": "2025-05-30T15:51:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNVdjM1I0WXpCTVRuWlhZbHBGVFJEUkF4aVRCU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE1MdFVCM0Rnd0R0VDRyUGZrWVdvRVVBWC1UMmcwWmNXdkx2SVp1ZVpRMmUwZWdTczBGREtlVWF3TWprUW9CNktFUFl0NlJEQjR5dkNMaFo3TzRPdw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE1MdFVCM0Rnd0R0VDRyUGZrWVdvRVVBWC1UMmcwWmNXdkx2SVp1ZVpRMmUwZWdTczBGREtlVWF3TWprUW9CNktFUFl0NlJEQjR5dkNMaFo3TzRPdw?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "딘딘, 반전 선행…국내외 산불 지진·식물 나눔 행사 동참 (로또)",
@@ -25742,11 +25770,25 @@
         "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE9wWV95cE5iZHYwR3Fra0JLc1ZQYkE0OV9NTjE2SE02ZTg2TFVSbGUyWW5hc1g2dlMtbXFXQkJjeE82UmVxcEdCZVh5ZTdTZjJtT240NElyeHdrSmN1R1E?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "후쿠시마 오염수 방류에 맞불놨던 中, 日 수산물 수입 재개한다",
+        "time": "2025-05-30T14:53:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNTFkalJITjNSeVRrTTRPWE5GVFJDV0F4amlCQ2dLTWdrQklKQWxuaWdlU0FJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTE1DekhOTXNyenRGNDNfUzhEVERDU0JCZ2hULURaZkExdC1TNzR6NTdMaWgwQ2lWZDB1WFJjVW4tbFdtUlZwVGxSV3NsLWl0Xy1taGxhMVZhT3VyNFF4VjlqSQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE1DekhOTXNyenRGNDNfUzhEVERDU0JCZ2hULURaZkExdC1TNzR6NTdMaWgwQ2lWZDB1WFJjVW4tbFdtUlZwVGxSV3NsLWl0Xy1taGxhMVZhT3VyNFF4VjlqSQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "경북대 방사선과학연구소, KOLAS 국제공인시험기관 인정 획득",
         "time": "2025-05-30T14:47:58+00:00",
         "img": "/api/attachments/CC8iK0NnNHdNa0ZVZEV4ME5rZHJjR2MxVFJERUF4aUFCU2dLTWdZQmNKYnhyQWc=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiYkFVX3lxTE1SNm96SDhGTmlzbGNWcTB0NF84RVQ0M09DTVdCZ0FIcDI2bC01eGlmLXljZ0E0TnlhMTk2Z1lxVy0xeThuVlBsYlQ4MjY0SEVOSjVkcDZOS25XaTNYVFRmbUJn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiYkFVX3lxTE1SNm96SDhGTmlzbGNWcTB0NF84RVQ0M09DTVdCZ0FIcDI2bC01eGlmLXljZ0E0TnlhMTk2Z1lxVy0xeThuVlBsYlQ4MjY0SEVOSjVkcDZOS25XaTNYVFRmbUJn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "중동 3국도 “이스라엘의 이란 핵시설 공격 반대”, 트럼프와 ‘공감’",
+        "time": "2025-05-30T14:46:22+00:00",
+        "img": "/api/attachments/CC8iI0NnNUlNelZrTVZGUFUxUkVVVTFFVFJDdUFSaWlBaWdCTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMic0FVX3lxTE9pQk4tQnJzVjhleTJidU9QV2QwZUdWbGoxblhLWmJOdmw5Y2pvT2E2dXpoQzFWTXFHcGFPa3l6QlFYSlZXSnhVeFhnM0FPT3JsclBZWmZ6NGRydkdKRnFxcHh5SGJSWTJCUVRxOHdMMlZJMzg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMic0FVX3lxTE9pQk4tQnJzVjhleTJidU9QV2QwZUdWbGoxblhLWmJOdmw5Y2pvT2E2dXpoQzFWTXFHcGFPa3l6QlFYSlZXSnhVeFhnM0FPT3JsclBZWmZ6NGRydkdKRnFxcHh5SGJSWTJCUVRxOHdMMlZJMzg?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "자살폭탄 테러로 피살... ‘2만명’ 사망케한 러군 지휘관의 최후",
@@ -25824,6 +25866,13 @@
         "img": "/api/attachments/CC8iK0NnNWlXVWQxT0RVNWRIVTROMjB3VFJDdUF4amhCQ2dLTWdZQmNKYlJyQWc=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiU0FVX3lxTE1IRDRqZTlPZmg3MHVRbXBoVUhHYy1JXzhBVFdTcTZQbEI3cld0bWx2LXUyOHI0LTR3U2pGM0VBZjFPZHE1bjIydEFjUDF3YXlWOTNj?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE1IRDRqZTlPZmg3MHVRbXBoVUhHYy1JXzhBVFdTcTZQbEI3cld0bWx2LXUyOHI0LTR3U2pGM0VBZjFPZHE1bjIydEFjUDF3YXlWOTNj?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "러시아, 종전 협상 중 우크라 새 공세…\"평화협상 진정성 의문\"",
+        "time": "2025-05-30T10:32:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNWhiWEJrV0ZkR1ZuTllOMjFJVFJERUF4aW5CU2dLTWdhaEFaQU1GUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiUkFVX3lxTE9zNVoxTUVtNW1PR3EwUGp2TVl1R0hZeWFkQjA3cGNjbGtSZGdMSlFrZDBXdFp3U1ZfNjZHMUNhRG5aM0VQWjFSRC1fQzhReUMyQlE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE9zNVoxTUVtNW1PR3EwUGp2TVl1R0hZeWFkQjA3cGNjbGtSZGdMSlFrZDBXdFp3U1ZfNjZHMUNhRG5aM0VQWjFSRC1fQzhReUMyQlE?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "경북대 방사선과학연, KOLAS서 '국제공인시험기관 인정'",
@@ -25929,6 +25978,13 @@
         "img": "/api/attachments/CC8iK0NnNU5ZV2QwUTNSdFlVaDJibUYzVFJDM0FSaVRBaWdCTWdZOU1wWVVIUWs=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMic0FVX3lxTFBwVFd3NGQxV1hjQkNXVUNScnFtaTBWbDBmbi1xU1l3bHNFNVU3T29jWjBEaTd1VnFMd3psMVBWWi1obVd1emQyU25lTTlzNklfNTVlT0ltUHZjOWJpdmotY2NYVUxEU0V6VU55Yzg0V2JmZ1U?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMic0FVX3lxTFBwVFd3NGQxV1hjQkNXVUNScnFtaTBWbDBmbi1xU1l3bHNFNVU3T29jWjBEaTd1VnFMd3psMVBWWi1obVd1emQyU25lTTlzNklfNTVlT0ltUHZjOWJpdmotY2NYVUxEU0V6VU55Yzg0V2JmZ1U?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "“설마 미사일이?” 도쿄 ‘대규모 폭발’ 아비규환…“이게 왜 여기에” [포착]",
+        "time": "2025-05-30T06:00:00+00:00",
+        "img": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.seoul.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "url": "https://news.google.com/read/CBMif0FVX3lxTFBpVm5DcGpITC1lZ2dtR3Vha2FGMzI3Mnc2SDJYR25fVDRFTVd5dlE1a1ItQ1h5RGNsZUxmcWZRU19yWXQ4ZGRHa091dnJqZEM3WjIyWHVDcmZNdE9jaFl1b0VVYXJIdEVOLVYwX3l0RFhBRGtCTGRRTEg5cTVWOG8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMif0FVX3lxTFBpVm5DcGpITC1lZ2dtR3Vha2FGMzI3Mnc2SDJYR25fVDRFTVd5dlE1a1ItQ1h5RGNsZUxmcWZRU19yWXQ4ZGRHa091dnJqZEM3WjIyWHVDcmZNdE9jaFl1b0VVYXJIdEVOLVYwX3l0RFhBRGtCTGRRTEg5cTVWOG8?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "\"쓰러진 20대 아내 심장 사라져\" 황당 사건에 '영국 발칵'",
