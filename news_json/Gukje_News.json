@@ -3605,5 +3605,31 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3288048"
       }
     ]
+  },
+  {
+    "date": "2025년 05월 31일 토요일",
+    "articles": [
+      {
+        "title": "[속보] 60~70대 남성 '기름통 들고 탑승'...5호선 화재 진압 '운행 재개'",
+        "time": "2025-05-31T10:20:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3288218_3403340_1832_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3288218",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3288218"
+      },
+      {
+        "title": "[속보] 지하철 5호선 마포역서 방화 추정 화재....용의자 체포",
+        "time": "2025-05-31T09:50:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3288210_3403322_4954_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3288210",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3288210"
+      },
+      {
+        "title": "[속보] 서울 지하철 5호선 여의나루~마포역 화재 '승객 대피'",
+        "time": "2025-05-31T09:25:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202505/3288205_3403313_2558_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3288205",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3288205"
+      }
+    ]
   }
 ]
