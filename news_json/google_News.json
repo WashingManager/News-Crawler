@@ -42249,6 +42249,13 @@
     "date": "2025년 06월 23일 월요일",
     "articles": [
       {
+        "title": "일본 가고시마 해역서 규모 5.0 지진",
+        "time": "2025-06-24T00:54:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNU5UVE5GVW0xU1ZFaEpjVTVWVFJDQkJCaldCQ2dLTWdPNUl4dw=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxQTjhXQ0pGT3JiN3JNVnNwR2JuWjNJbExacV9sMVpqLXZBTDA2NkI2a016NllEMUhlMnR4RWhOWG8xZkxZeWlFcWpYQ2duWXZra0VQbmlyR01XSUkycVd0RXBoUXk5eXpfMnpsTGZMM2tSTV80dTNyaE9mclBpbmlMSlhjVFFiSzgyc1NYSXp5ZzRiclBOUGY1dlcwcjFoZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxQTjhXQ0pGT3JiN3JNVnNwR2JuWjNJbExacV9sMVpqLXZBTDA2NkI2a016NllEMUhlMnR4RWhOWG8xZkxZeWlFcWpYQ2duWXZra0VQbmlyR01XSUkycVd0RXBoUXk5eXpfMnpsTGZMM2tSTV80dTNyaE9mclBpbmlMSlhjVFFiSzgyc1NYSXp5ZzRiclBOUGY1dlcwcjFoZw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[이슈클립] '하루 지진 100번'…日 만화가 \"7월 5일 대재앙\" 예언 재조명 (영상)",
         "time": "2025-06-24T00:03:00+00:00",
         "img": "/api/attachments/CC8iK0NnNTVkMFpLWkdkc1ZsQnRRekJSVFJDcUF4amlCQ2dLTWdZUk5JREpxUVk=-w100-h100-p-df-rw",
@@ -42275,6 +42282,20 @@
         "img": "/api/attachments/CC8iK0NnNDBlV2RQZW1STVNWRnpXamcyVFJDM0FSaVRBaWdCTWdZQmtJWWtQZ1k=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTE5WblNQd3Z5cWgtQ3ZmVENOc1l4YjhMMXZOMlZYSjZ0X3YxdXMwcTJjYVlOZUtxS3p1SkNwSEhPVmJRYkNuWTdZZWpNX1IyLW5XdlJCUVJLZFEtZw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE5WblNQd3Z5cWgtQ3ZmVENOc1l4YjhMMXZOMlZYSjZ0X3YxdXMwcTJjYVlOZUtxS3p1SkNwSEhPVmJRYkNuWTdZZWpNX1IyLW5XdlJCUVJLZFEtZw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "미국·이스라엘 “포르도 핵시설, 손상 심각하지만 완전 파괴 아냐”",
+        "time": "2025-06-23T21:49:00+00:00",
+        "img": "/api/attachments/CC8iMkNnNW5ZM2huWDJabldXcGlTMVp0VFJDeEFSaWRBaWdCTWdzQkFJQWcwLUVjZzFvUGN3=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTE8yTXNFZ3N4MWo4QTJ4UTFFcFJidnpmS2xBWGswRmdEbEZjUEtjdl9TSy1qdm1nbklRLWJVVnRaZDRFUjNyd1hCd0JnWmJEQmxXQlBISVRXemFRRXRJRnZoN2VVR2wtMmIyd2xkTmhaRQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTE8yTXNFZ3N4MWo4QTJ4UTFFcFJidnpmS2xBWGswRmdEbEZjUEtjdl9TSy1qdm1nbklRLWJVVnRaZDRFUjNyd1hCd0JnWmJEQmxXQlBISVRXemFRRXRJRnZoN2VVR2wtMmIyd2xkTmhaRQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "‘계엄 요건 안돼’ 증언에... 尹 “군인들 얘기 다 맞는 것 아냐”",
+        "time": "2025-06-23T21:18:31+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNka3d6U0dWRE9ITlpTbXd3VFJDUkF4ajhCU2dLTWdhQk5aTE5LUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMihwFBVV95cUxQeGMxRmZSQUZsSy1ZWGxjbjJCUlJxdDI4eU1VMHVfTXFwZjIxWUNQQ3JHeFRwVDcxUWhLLVpmcGdFTnJoaHdjSjVXYkhwYm4xSlRReExLMzJtR2NMTW91RTlhX05UeWQzZ2hWNEFVQnVzWnpZZnRmNmV5azZfdmIyWFMyc0JnV1HSAZsBQVVfeXFMTVpMdWVXMDE5Xy1aY0I2dVFLcVNGN3NEZkg1a2JqcEVSTFduVWpCT2xsNzBPWjVucEd1eGk1Y0R0Z3ZIWEstSWhyaFVkVHdkR3lFelJvVG9zX0VsZXIzOVR6alU1dExyMk9YOW9oWXV5cVVJS3BPT1UwWlZlanRmblFtSGFBd2MtNFlDZmI3UEIwSVRDNDZLdHNvRjQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMihwFBVV95cUxQeGMxRmZSQUZsSy1ZWGxjbjJCUlJxdDI4eU1VMHVfTXFwZjIxWUNQQ3JHeFRwVDcxUWhLLVpmcGdFTnJoaHdjSjVXYkhwYm4xSlRReExLMzJtR2NMTW91RTlhX05UeWQzZ2hWNEFVQnVzWnpZZnRmNmV5azZfdmIyWFMyc0JnV1HSAZsBQVVfeXFMTVpMdWVXMDE5Xy1aY0I2dVFLcVNGN3NEZkg1a2JqcEVSTFduVWpCT2xsNzBPWjVucEd1eGk1Y0R0Z3ZIWEstSWhyaFVkVHdkR3lFelJvVG9zX0VsZXIzOVR6alU1dExyMk9YOW9oWXV5cVVJS3BPT1UwWlZlanRmblFtSGFBd2MtNFlDZmI3UEIwSVRDNDZLdHNvRjQ?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "'가스 방출량 급증'…日, 규슈 신모에다케 분화 경계 상향",
@@ -42319,6 +42340,20 @@
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxPZ1ZZVGhpWTYwaXZCUE1jWUpoM2I4bTVBdFRhWmVaTlJmVWFoMWo1Q3U4dkZOTFhJVHFJWFh6NllvVUcxVVR2UFEtUVcyaUoyVFdzZERrSXdzczBDR0VqbWNVT1lyMmt2TnkwMTdHNEFuOHZBeGJqNkNUWFhrOVJjSDlCQ004Y01QWlpGSWJBTzZqdEdDWHNabkhzbndMQdIBsgFBVV95cUxQMF8xY3FENkc2RXI1eGVzdjUxSzdSd19pWjYzNm5mUkRwaFJlcEp0SUVHVng4bEtrVUc2SVM5Vlc5ZWhmVWYwSU9aczdqcV9UY2UwdUFJbHF3Wi1IYWlYSWtROEgyOHQ0Y3BZUEFJSEt1OV93eGtoMXlCTHo1cVkzTVVoYjhKNEhodkl6cm9hVjRGS2xDb3hzVzhSVzIwNUtwSGk4VGhZQ0JNc0RrWm9RSmRR?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "“일본 수입식품 방사능 검사 결과 투명하게 공개”",
+        "time": "2025-06-23T18:49:48+00:00",
+        "img": "/api/attachments/CC8iMkNnNXNlRmxmZDB4aFREUnBYemxqVFJDN0FSaU5BaWdCTWdzTkJJQm9CaXhrWjlxZU5R=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiaEFVX3lxTE1aSHEySTQzS1RNX0RiWlJENHVQa013dkJ0Y3NiY3JzMC1rc0tJaHJTQWdUS24xTkUtNGhvVjNUeUN6LU82SXc4S05GdTNKWmJVQlVYUmt2UG03NTlheno4dUswRmIwc1l4?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiaEFVX3lxTE1aSHEySTQzS1RNX0RiWlJENHVQa013dkJ0Y3NiY3JzMC1rc0tJaHJTQWdUS24xTkUtNGhvVjNUeUN6LU82SXc4S05GdTNKWmJVQlVYUmt2UG03NTlheno4dUswRmIwc1l4?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "화요일 장마전선 북상으로 전국에 비…덥고 습한 '무더위'",
+        "time": "2025-06-23T17:35:16+00:00",
+        "img": "/api/attachments/CC8iK0NnNDFMV3hLTlVaVGIwTjJUSGhXVFJDN0F4aTBCU2dLTWdZQmdJYUZ1UVE=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE9tM3c5MFpnX20zSFRVdTcxMDVZMElaVzZZblYzbFgwZkdoQmRVSTZzc1dnZ1hBd1VILUhFMkpxN25zZDBWVmJXc1V4SDluc2RRQnlieDhrVXNSZ03SAWBBVV95cUxPM3FlWDM3d2l4dTN6WnhmMjlyYmV2RXJ0RWpWUEFlWFVjS2tXc1VRZVUyVzhOVmE2TENVSnVMdmZpeEFlTEg5OVM3SXRGeW85RHFzYVotX3ZqMTFuOFpldWU?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9tM3c5MFpnX20zSFRVdTcxMDVZMElaVzZZblYzbFgwZkdoQmRVSTZzc1dnZ1hBd1VILUhFMkpxN25zZDBWVmJXc1V4SDluc2RRQnlieDhrVXNSZ03SAWBBVV95cUxPM3FlWDM3d2l4dTN6WnhmMjlyYmV2RXJ0RWpWUEFlWFVjS2tXc1VRZVUyVzhOVmE2TENVSnVMdmZpeEFlTEg5OVM3SXRGeW85RHFzYVotX3ZqMTFuOFpldWU?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "무협+십이지 기반, 화산의 딸 개발사 신작 '달의 딸' 발표",
         "time": "2025-06-23T17:29:10+00:00",
         "img": "/api/attachments/CC8iL0NnNURZazk1Y3pGaVNFeFJYMEo1VFJEUEFoallCQ2dLTWdtRklJVHNGYXQ1MVFB=-w100-h100-p-df",
@@ -42333,11 +42368,25 @@
         "original_url": "https://news.google.com/read/CBMickFVX3lxTFAwcDg3Q25hb0xObTJ1MXF2UjV4OG5sQTRzbEtEUEpOTWJLM3I0aUlCNk1NLXhMNFdCX1Bqb092dGpBT2JXNE91SkpuOVBkOTl5ZFZETjFfVGRKakVHTDk0RWNMOXk5bGRTM3JkYlVCS0c1dw?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "여야, 2차 추경안 처리 협상 또 결렬…내일 다시 논의하기로",
+        "time": "2025-06-23T17:23:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXlUV3RyWDIxTVJVNXBXR1F4VFJDdUFSaWlBaWdCTWdhRk1aZ0Vrd28=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE9nNE9VRHRwS1Jqb3ZJOGhoXzVVVGFULVZmN1lseTFLRGQyZ1FwYjVINUEwWnZGb3dGN1NIYlFFTmxkQXdSMmpQbVZxV3JfR0VORGJmSEJNX3IxaWRmYTlaeTgwYi1QbzBINWVfLTdxM3ppRk8w?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE9nNE9VRHRwS1Jqb3ZJOGhoXzVVVGFULVZmN1lseTFLRGQyZ1FwYjVINUEwWnZGb3dGN1NIYlFFTmxkQXdSMmpQbVZxV3JfR0VORGJmSEJNX3IxaWRmYTlaeTgwYi1QbzBINWVfLTdxM3ppRk8w?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "난카이대지진 우려 속에도 일본 찾는 한국인 역대 최고",
         "time": "2025-06-23T17:19:50+00:00",
         "img": "/api/attachments/CC8iK0NnNUZTa2h4VjJScmJ6TlFXQzFHVFJDM0FSaVRBaWdCTWdZQk1JU0t6QU0=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMibEFVX3lxTE85N3FzVElrSm11WXRXYjhQY2lVQVRubVdXUW9wSXZFdTBlMUZvRDhtc2x4dEJtSzdlZFNmb29iU0piOWI5aG94bTdhVFUwQ3VOYkdHeHNCRklIVDN3UkJzUElhYlRfNmI2bEhzNA?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMibEFVX3lxTE85N3FzVElrSm11WXRXYjhQY2lVQVRubVdXUW9wSXZFdTBlMUZvRDhtc2x4dEJtSzdlZFNmb29iU0piOWI5aG94bTdhVFUwQ3VOYkdHeHNCRklIVDN3UkJzUElhYlRfNmI2bEhzNA?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "대통령실 \"나토 회의에 李대통령 대신 위성락 안보실장 참석\"",
+        "time": "2025-06-23T17:12:05+00:00",
+        "img": "/api/attachments/CC8iK0NnNDRkbXBSZERsdVYwYzFlbWhDVFJEVEF4aVJCU2dLTWdhdE5JU3ZIUWs=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTFBMS3BxZU9DNjJUSDJWMHc0OVpwNmdfeHp4Y0NoVklGUWo0MWdES29xeHpVbDBGTnVFTWRjcUhTZnNJS3MxcFVDNTl5Zl9EQVhCbjN5R3lZQTV1Z03SAWBBVV95cUxNTlY3YzVOOVYtODk3ZWFmMkE1dHZEZzM1ZDZBX0NGTFdkbVFvQXFKaXFudzIxQVZTbmpKQjVmUHFSWkx5Q3A0bUYxckY2dmpxX1ljZFVyRlFqV2RHZklibTc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFBMS3BxZU9DNjJUSDJWMHc0OVpwNmdfeHp4Y0NoVklGUWo0MWdES29xeHpVbDBGTnVFTWRjcUhTZnNJS3MxcFVDNTl5Zl9EQVhCbjN5R3lZQTV1Z03SAWBBVV95cUxNTlY3YzVOOVYtODk3ZWFmMkE1dHZEZzM1ZDZBX0NGTFdkbVFvQXFKaXFudzIxQVZTbmpKQjVmUHFSWkx5Q3A0bUYxckY2dmpxX1ljZFVyRlFqV2RHZklibTc?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "“뭘 도울까” 네타냐후 묻자, 트럼프 “이란 방공망 뚫어달라”",
@@ -42380,6 +42429,13 @@
         "img": "/api/attachments/CC8iL0NnNUNSbWhDWjFjM1dXaFpWM1pvVFJDNUFSaVFBaWdCTWdtbFJJRE9uV2x6V2dB=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMidEFVX3lxTE1aWGYta0NpSXEza2pqU0k4UjZLaUstSzlOT19OZFAzSTRxUWJlbTJXNDA0ZFZ3cjVyNTFCQl9NTnVoamZQOTR0alBxaU5FcWtpV3dLQnk5aG9zX3VMbG0xTGpfbzhlR2U3VUNwV0lTUFh5Zmdr?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMidEFVX3lxTE1aWGYta0NpSXEza2pqU0k4UjZLaUstSzlOT19OZFAzSTRxUWJlbTJXNDA0ZFZ3cjVyNTFCQl9NTnVoamZQOTR0alBxaU5FcWtpV3dLQnk5aG9zX3VMbG0xTGpfbzhlR2U3VUNwV0lTUFh5Zmdr?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "핵시설 손상 얼마나?…IAEA “외부 방사능 증가는 없어”",
+        "time": "2025-06-23T15:25:00+00:00",
+        "img": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.kbs.co.kr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "url": "https://news.google.com/read/CBMiZkFVX3lxTE9Oc0RGdWR5QTlkWHZHVl9UVFVicE82TDZtbEI1NmRHMHFwaDEtdzd2X3RTb2JLeEIwTDJDSXBfdzlWOVhadXhuWlhGUXljZFVZa0xqYnRuTm4tNE9Mb3ROZlk5MFgtQQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZkFVX3lxTE9Oc0RGdWR5QTlkWHZHVl9UVFVicE82TDZtbEI1NmRHMHFwaDEtdzd2X3RTb2JLeEIwTDJDSXBfdzlWOVhadXhuWlhGUXljZFVZa0xqYnRuTm4tNE9Mb3ROZlk5MFgtQQ?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "하메네이 “이스라엘 응징” 페제시키안 “미국에 대가를”···이란, 보복 수위는 ‘고심’",
@@ -42655,6 +42711,13 @@
         "original_url": "https://news.google.com/read/CBMia0FVX3lxTFB1LWE2WlVfTk9XQjV1TWJEWkNWUXJpTHZGS2hjU3E0Z3R1VzJpb2lpYWdHOEk2VWFPb3d4OVczcFRneHVXZHc2RUFDX01fNXlVQkFQRE5lUE43QUZYeHdIZHYzd2tZS3lmWFZF0gFmQVVfeXFMTXNwWTBSVnh0eWZfLWFaOEotaVl3QVdGNWdTTU9pTVBLd2xTeVp3VTN6alZWSjFZUGZOWE9NeHVDMDBBQnZjZFNXQllCeGpsQjU4ZTJUektuOVlEaC16X2RWdmhveXN3?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "IAEA 수장 \"포르도 지하 상황 몰라…방사능 유출 확인 안돼\"",
+        "time": "2025-06-23T06:20:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVlTakl4U0Vwa1Z6Vk5TMkpHVFJDWEF4amlCQ2dLTWdhdFFvb1RuUWM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE9aZ1lDeXA2UTBMblAyXzJBb1Q1SC1MM3padUoyZE9NZG4xenIyX1ZGX2puWk0ybERBTlRyS0kxLV9BLTFsSGh6TGFXcUhMMWNpWVdR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE9aZ1lDeXA2UTBMblAyXzJBb1Q1SC1MM3padUoyZE9NZG4xenIyX1ZGX2puWk0ybERBTlRyS0kxLV9BLTFsSGh6TGFXcUhMMWNpWVdR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "핵시설 공습에 \"방사능 증가 없어\"…IAEA 긴급이사회",
         "time": "2025-06-23T05:58:00+00:00",
         "img": "/api/attachments/CC8iK0NnNTFjVWcyWnpkMWIydGFSbkpIVFJEWEFoamlCQ2dLTWdhSlFZNG5JUWc=-w100-h100-p-df-rw",
@@ -42753,6 +42816,13 @@
         "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE1UTzBGalVwbXhZaFpIQ1dBeWlOdWMwNm5xWG1GeVRoRGplRWNPWG8tV1hKS0E4U1lmZm9sZHN4Y3dYMThxUmhzRGxQUWxGdG5CdURjMlJB?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "[속보] IAEA, 미 이란 핵시설 타격에 \"방사능 수준 상승 보고 없어\"",
+        "time": "2025-06-22T14:21:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNVRaVmt3UmpoQk1rSnROalp4VFJDZkF4ampCU2dLTWdrQklJaVVGS2ZROVFB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE5GMU04X01vekNCM1VXcW1zekhldjVvcXV4dEkycUE3OFI0el9DbC1iVVMxbWRKYnV5VzZtQUM2QVlFOFltX1BVbkZwLTVkTkdvNm5oZ09nZ1FMb251dUJtVWN0S1NxczNWelHSAWZBVV95cUxOWHlDT3FaS3JVQks1Qk9wTEdvcm9rX3I3WTUzRFlXN0ZTSWpOelMwTGszdEVBb25uMjRtSnllQklzRFJBVnlsODN5c2dKN18zZHNPT1ZaWlFzSnFxXzVUanItd1hfMkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE5GMU04X01vekNCM1VXcW1zekhldjVvcXV4dEkycUE3OFI0el9DbC1iVVMxbWRKYnV5VzZtQUM2QVlFOFltX1BVbkZwLTVkTkdvNm5oZ09nZ1FMb251dUJtVWN0S1NxczNWelHSAWZBVV95cUxOWHlDT3FaS3JVQks1Qk9wTEdvcm9rX3I3WTUzRFlXN0ZTSWpOelMwTGszdEVBb25uMjRtSnllQklzRFJBVnlsODN5c2dKN18zZHNPT1ZaWlFzSnFxXzVUanItd1hfMkE?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "북한 해주 남동쪽 해역서 규모 2.0 지진 발생",
         "time": "2025-06-22T14:12:28+00:00",
         "img": "/api/attachments/CC8iI0NnNTBUalJQWjNkdmRrUTVReTF2VFJEUUFSanpBU2dCTWdB=-w100-h100-p-df",
@@ -42786,6 +42856,13 @@
         "img": "/api/attachments/CC8iI0NnNDRRVTVIV2pkTldGQTNZemQ0VFJDQkJCaldCQ2dLTWdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTFBjYmxjUG5BSzl1SnpVRjJ6Zlc4emowbmVVaHpSSlZyY0FIa3VlM2Q1N3B0czBVekp0N3l0U0JLNXNpSVRrT0JXX3N0N3FVc1Z2Ml9paWxCR0JTeFXSAWBBVV95cUxPWDNWLWloWHRNRnNSTlRlR1Q0MDBZMFZ2bE85dWM3OENiYXNpcE1URExvUzEyVmY4Q1RnRkUycVlTbVlVTW5BZkF1T050TEliTmhXZDNpYm9BcW5rQTN3eW4?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFBjYmxjUG5BSzl1SnpVRjJ6Zlc4emowbmVVaHpSSlZyY0FIa3VlM2Q1N3B0czBVekp0N3l0U0JLNXNpSVRrT0JXX3N0N3FVc1Z2Ml9paWxCR0JTeFXSAWBBVV95cUxPWDNWLWloWHRNRnNSTlRlR1Q0MDBZMFZ2bE85dWM3OENiYXNpcE1URExvUzEyVmY4Q1RnRkUycVlTbVlVTW5BZkF1T050TEliTmhXZDNpYm9BcW5rQTN3eW4?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "기상청 \"북한 함경북도 길주 북서쪽서 2.1 지진…자연지진\"",
+        "time": "2025-06-22T12:43:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVFXR2w1ZUY5SVgwaFZRbWxCVFJDc0F4ajBBeWdLTWdZeEFKYVpqQXc=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE5tVEZZNTd6SDFIUHBGX1RudGloaWJJeXhVS05Ia1o3LVJrYzZiMmMxRllBVXE4OHEwQUduUGFXVFJWa3BQbUJFSjJEcFdIdmZXVUhR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE5tVEZZNTd6SDFIUHBGX1RudGloaWJJeXhVS05Ia1o3LVJrYzZiMmMxRllBVXE4OHEwQUduUGFXVFJWa3BQbUJFSjJEcFdIdmZXVUhR?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "이명현 순직해병특검 \"윤석열, 수사 다 이뤄지고 마지막에 소환\"",
