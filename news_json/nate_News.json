@@ -138840,5 +138840,983 @@
         "original_url": "https://news.nate.com/view/20250623n10678"
       }
     ]
+  },
+  {
+    "date": "2025년 06월 24일 화요일",
+    "articles": [
+      {
+        "title": "트럼프 \"이스라엘-이란 휴전 합의\" 중동 긴장 완화에 코스피 상승 '탄력'…'불개미' 오늘도 달리나 [투자360]",
+        "time": "2025-06-24T08:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/rcv.YNA.20250623.PYH2025062319070001300_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n06346",
+        "original_url": "https://news.nate.com/view/20250624n06346"
+      },
+      {
+        "title": "[뉴욕 브리핑] 이란 미사일에도 웃은 美증시…트럼프 \"전쟁 끝났다\"",
+        "time": "2025-06-24T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/di/2025/06/24/71d0e81afa5122d4699ed96335e829c2_thumb.png",
+        "url": "https://news.nate.com/view/20250624n06299",
+        "original_url": "https://news.nate.com/view/20250624n06299"
+      },
+      {
+        "title": "관광공사, 생성형 AI 속 왜곡된 한국 이미지 바로잡는다",
+        "time": "2025-06-24T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/AKR20250624034100030_01_i.jpg",
+        "url": "https://news.nate.com/view/20250624n06263",
+        "original_url": "https://news.nate.com/view/20250624n06263"
+      },
+      {
+        "title": "부산 부산진구 한 아파트서 화재…1명 사망 1명 부",
+        "time": "2025-06-24T08:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/06/24/AKR20250624085756523_01_i.jpg",
+        "url": "https://news.nate.com/view/20250624n06375",
+        "original_url": "https://news.nate.com/view/20250624n06375"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란 휴전, 영원히 갈 것…미국-중동 위대한 날\"",
+        "time": "2025-06-24T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/06/24/2025062408505555286_1.jpg",
+        "url": "https://news.nate.com/view/20250624n06267",
+        "original_url": "https://news.nate.com/view/20250624n06267"
+      },
+      {
+        "title": "문형배 \"가장 먼저 확정된 문장은\"…탄핵 결정문 비하인드 [소셜픽]",
+        "time": "2025-06-24T08:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/06/24/20250624083026892001.jpg",
+        "url": "https://news.nate.com/view/20250624n06165",
+        "original_url": "https://news.nate.com/view/20250624n06165"
+      },
+      {
+        "title": "이란의 공격 직전 항공기 치운 미국…위성에 찍힌 '약속 대련'",
+        "time": "2025-06-24T08:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/06/24/AKR20250624085227231_01_i.jpg",
+        "url": "https://news.nate.com/view/20250624n06200",
+        "original_url": "https://news.nate.com/view/20250624n06200"
+      },
+      {
+        "title": "카타르 \"'이스라엘과 휴전' 이란 동의 확보\"",
+        "time": "2025-06-24T08:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/06/24/news_1750723073_1513966_m_1.jpeg",
+        "url": "https://news.nate.com/view/20250624n06030",
+        "original_url": "https://news.nate.com/view/20250624n06030"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 완전한 휴전 합의…24시간 후 공식 종전\"",
+        "time": "2025-06-24T08:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/06/24/4239d724-e1ff-4358-8c02-499257980dbb.jpg",
+        "url": "https://news.nate.com/view/20250624n03601",
+        "original_url": "https://news.nate.com/view/20250624n03601"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 휴전 합의\"…이란 고위관계자 \"휴전 동의 확인\"",
+        "time": "2025-06-24T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/06/24/b2dcb24e-a4ec-4b29-bcfe-bdca1cfae07f.jpg",
+        "url": "https://news.nate.com/view/20250624n03662",
+        "original_url": "https://news.nate.com/view/20250624n03662"
+      },
+      {
+        "title": "[속보]트럼프 \"이스라엘·이란 휴전 영원히 지속될 것 기대\"",
+        "time": "2025-06-24T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750722964652_219991_0.png",
+        "url": "https://news.nate.com/view/20250624n06289",
+        "original_url": "https://news.nate.com/view/20250624n06289"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란 휴전 영원히 지속될 것\"",
+        "time": "2025-06-24T08:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7355109_high.jpg",
+        "url": "https://news.nate.com/view/20250624n06344",
+        "original_url": "https://news.nate.com/view/20250624n06344"
+      },
+      {
+        "title": "美부통령 \"이란, 핵무기 못만들어…우리가 장비 파괴했기 때문\"",
+        "time": "2025-06-24T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PAP20250624070901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n05710",
+        "original_url": "https://news.nate.com/view/20250624n05710"
+      },
+      {
+        "title": "카이로 무사히 도착한 이스라엘 한인동포들",
+        "time": "2025-06-24T08:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PYH2025062402190001300_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n06357",
+        "original_url": "https://news.nate.com/view/20250624n06357"
+      },
+      {
+        "title": "위성에 찍힌 '약속대련'…미국, 이란 공습받을 군기지 싹 비웠다",
+        "time": "2025-06-24T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PAF20250620053401009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n05426",
+        "original_url": "https://news.nate.com/view/20250624n05426"
+      },
+      {
+        "title": "[속보] \"네타냐후, 트럼프와 통화서 '이란이 공격 멈추면 휴전 동의'\"",
+        "time": "2025-06-24T08:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250624n06394",
+        "original_url": "https://news.nate.com/view/20250624n06394"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 12시간 동안 완전한 휴전 합의\"",
+        "time": "2025-06-24T08:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/06/24/cz_1750722725441_428202_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04004",
+        "original_url": "https://news.nate.com/view/20250624n04004"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘-이란 휴전 영원히 지속될 걸로 기대\"",
+        "time": "2025-06-24T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/rcv.YNA.20250624.PRU20250624057401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n06155",
+        "original_url": "https://news.nate.com/view/20250624n06155"
+      },
+      {
+        "title": "트럼프 2기, 北 국가비상사태 대상으로 재지정…\"비상한 위협\"",
+        "time": "2025-06-24T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/06/24/kuk20250624000012.640x.0.jpg",
+        "url": "https://news.nate.com/view/20250624n06142",
+        "original_url": "https://news.nate.com/view/20250624n06142"
+      },
+      {
+        "title": "미 부통령 \"이란, 핵무기 못 만들어…우리가 장비 파괴했기 때문\"",
+        "time": "2025-06-24T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/06/24/202084668_700.jpg",
+        "url": "https://news.nate.com/view/20250624n06139",
+        "original_url": "https://news.nate.com/view/20250624n06139"
+      },
+      {
+        "title": "\"24시간 후 '이스라엘-이란 전쟁' 종식\"…트럼프, 휴전 선언",
+        "time": "2025-06-24T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/06/24/ZA.40905609.1.jpg",
+        "url": "https://news.nate.com/view/20250624n03808",
+        "original_url": "https://news.nate.com/view/20250624n03808"
+      },
+      {
+        "title": "트럼프 \"이란, 카타르 미군기지 공격 사전 통보…전쟁 끝낼 시점\"\"",
+        "time": "2025-06-24T08:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/06/24/53_17507155803399_20250624500194.jpg",
+        "url": "https://news.nate.com/view/20250624n02595",
+        "original_url": "https://news.nate.com/view/20250624n02595"
+      },
+      {
+        "title": "美 부통령 \"우리가 이란 핵무기 장비 파괴\" 주장",
+        "time": "2025-06-24T08:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/06/24/2025062408441082646_1750722250_0028296742.jpg",
+        "url": "https://news.nate.com/view/20250624n05962",
+        "original_url": "https://news.nate.com/view/20250624n05962"
+      },
+      {
+        "title": "[자막뉴스] 이란 보복 공격 직후 전면 휴전?…트럼프가 올린 글",
+        "time": "2025-06-24T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/06/24/202506240748511788_t.jpg",
+        "url": "https://news.nate.com/view/20250624n05220",
+        "original_url": "https://news.nate.com/view/20250624n05220"
+      },
+      {
+        "title": "로이터 \"이란 고위 관리, 휴전 동의 확인\"…카타르가 중재한 듯",
+        "time": "2025-06-24T08:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/06/24/25eac53f-344b-4695-8fdf-86cce9d83f41.jpg",
+        "url": "https://news.nate.com/view/20250624n05961",
+        "original_url": "https://news.nate.com/view/20250624n05961"
+      },
+      {
+        "title": "美 매체 \"트럼프, 자신에게 딴지 거는 공화당 하원의원 몰아내려 해\"",
+        "time": "2025-06-24T08:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750722425378_139304_0.jpg",
+        "url": "https://news.nate.com/view/20250624n06002",
+        "original_url": "https://news.nate.com/view/20250624n06002"
+      },
+      {
+        "title": "[속보] 이란 고위당국자 \"이란, 이스라엘과의 휴전에 동의\" <로이터>",
+        "time": "2025-06-24T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/06/24/02.22579247.1.jpg",
+        "url": "https://news.nate.com/view/20250624n04649",
+        "original_url": "https://news.nate.com/view/20250624n04649"
+      },
+      {
+        "title": "[속보] 카타르 \"이란, 이스라엘과 휴전 동의\"",
+        "time": "2025-06-24T08:43:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250624n05665",
+        "original_url": "https://news.nate.com/view/20250624n05665"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란 휴전 영원할 것…세계에 멋진 날\"",
+        "time": "2025-06-24T08:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250623_0001874645_web.jpg",
+        "url": "https://news.nate.com/view/20250624n05970",
+        "original_url": "https://news.nate.com/view/20250624n05970"
+      },
+      {
+        "title": "트럼프 \"이란·이스라엘, 완전한 휴전 합의\"",
+        "time": "2025-06-24T08:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/06/24/ch_1750722184823_13358_0.jpg",
+        "url": "https://news.nate.com/view/20250624n03628",
+        "original_url": "https://news.nate.com/view/20250624n03628"
+      },
+      {
+        "title": "[속보]트럼프 \"이스라엘·이란 휴전…24시간 후 '12일 전쟁' 종식\"",
+        "time": "2025-06-24T08:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750722307024_833702_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04012",
+        "original_url": "https://news.nate.com/view/20250624n04012"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 완전한 휴전 합의…24시간 뒤 전쟁 종식\"",
+        "time": "2025-06-24T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/06/24/202506240845130207_t.jpg",
+        "url": "https://news.nate.com/view/20250624n06109",
+        "original_url": "https://news.nate.com/view/20250624n06109"
+      },
+      {
+        "title": "[속보]이스라엘 \"이란 공격 없다면 휴전에 동의\"-로이터",
+        "time": "2025-06-24T08:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/06/24/mt_1750722124962_675154_0.jpg",
+        "url": "https://news.nate.com/view/20250624n05779",
+        "original_url": "https://news.nate.com/view/20250624n05779"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 전면 휴전 합의…24시간 후 종전\"",
+        "time": "2025-06-24T08:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/06/24/202084651_700.jpg",
+        "url": "https://news.nate.com/view/20250624n04169",
+        "original_url": "https://news.nate.com/view/20250624n04169"
+      },
+      {
+        "title": "이스라엘-이란 휴전 합의…'트럼프 제안-카타르 설득' 통했다",
+        "time": "2025-06-24T08:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/06/24/131868179.1.jpg",
+        "url": "https://news.nate.com/view/20250624n03670",
+        "original_url": "https://news.nate.com/view/20250624n03670"
+      },
+      {
+        "title": "\"카타르, 美요청으로 이스라엘-이란 휴전 중재\"",
+        "time": "2025-06-24T08:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750721946568_856064_0.jpg",
+        "url": "https://news.nate.com/view/20250624n05715",
+        "original_url": "https://news.nate.com/view/20250624n05715"
+      },
+      {
+        "title": "\"AI가 '디지털 격차' 만들어…AI 데이터센터 美·中·EU 집중\"",
+        "time": "2025-06-24T08:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PRU20250606109401009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n05659",
+        "original_url": "https://news.nate.com/view/20250624n05659"
+      },
+      {
+        "title": "[속보] 카타르 총리 \"이스라엘과 휴전, 이란 동의 얻어내\"<로이터>",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/news-p.v1.20250621.136ce9ac0b504c8381ba36a903493586_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n05602",
+        "original_url": "https://news.nate.com/view/20250624n05602"
+      },
+      {
+        "title": "\"기숙사 창 밖으로 미사일 떨어졌다\"…한국 유학생의 생생한 '이스라엘 탈출기' 화제",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/06/24/202506231932476288_l.jpg",
+        "url": "https://news.nate.com/view/20250624n01301",
+        "original_url": "https://news.nate.com/view/20250624n01301"
+      },
+      {
+        "title": "[속보]트럼프 \"이스라엘 이란 12일 전쟁 끝났다\" 선언",
+        "time": "2025-06-24T08:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/06/24/202008121338318034_l.jpg",
+        "url": "https://news.nate.com/view/20250624n04010",
+        "original_url": "https://news.nate.com/view/20250624n04010"
+      },
+      {
+        "title": "백혈병 완치 11세 소녀, 병원 실수로 사망…美 법원 판단은?",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750721765823_109651_0.jpg",
+        "url": "https://news.nate.com/view/20250624n05592",
+        "original_url": "https://news.nate.com/view/20250624n05592"
+      },
+      {
+        "title": "[속보]트럼프 \"이스라엘, 이란 휴전 합의\"",
+        "time": "2025-06-24T08:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/06/24/202008121338318034_l.jpg",
+        "url": "https://news.nate.com/view/20250624n03572",
+        "original_url": "https://news.nate.com/view/20250624n03572"
+      },
+      {
+        "title": "\"토끼 보러 가자\" 7세 여아 유인…성폭행 살해한 中 20대 사형 집행",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/06/24/202506231747024326_l.jpg",
+        "url": "https://news.nate.com/view/20250624n01273",
+        "original_url": "https://news.nate.com/view/20250624n01273"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 24시간 후 '12일 전쟁' 완전한 휴전 합의\"",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/06/24/2GU74BL62A_10.jpg",
+        "url": "https://news.nate.com/view/20250624n03506",
+        "original_url": "https://news.nate.com/view/20250624n03506"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란 완전 휴전 합의…24시간 뒤 전쟁 종식\"",
+        "time": "2025-06-24T08:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/06/24/AKR20250624072556031_01_i.jpg",
+        "url": "https://news.nate.com/view/20250624n03867",
+        "original_url": "https://news.nate.com/view/20250624n03867"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전하고 전면적인 휴전 합의\"",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/06/24/2025062401001954200118091.jpg",
+        "url": "https://news.nate.com/view/20250624n04535",
+        "original_url": "https://news.nate.com/view/20250624n04535"
+      },
+      {
+        "title": "이란, 카타르 미군 기지 공격…사상자 없어",
+        "time": "2025-06-24T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/06/24/news-p.v1.20250624.3cd2efc62f224943b6ac1887af91c337_P1.png",
+        "url": "https://news.nate.com/view/20250624n02354",
+        "original_url": "https://news.nate.com/view/20250624n02354"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란 휴전 합의…24시간 후 종전\"",
+        "time": "2025-06-24T08:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/06/24/1487694_687251_3412.jpg",
+        "url": "https://news.nate.com/view/20250624n05541",
+        "original_url": "https://news.nate.com/view/20250624n05541"
+      },
+      {
+        "title": "[속보] 로이터 \"이란 고위당국자, 이스라엘과의 휴전에 동의\"",
+        "time": "2025-06-24T08:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/06/24/20250624503474.jpg",
+        "url": "https://news.nate.com/view/20250624n05540",
+        "original_url": "https://news.nate.com/view/20250624n05540"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 전면 휴전 합의…24시간 후 공식 종전\"",
+        "time": "2025-06-24T08:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2025/06/24/1233454_1434585_3319.jpg",
+        "url": "https://news.nate.com/view/20250624n05534",
+        "original_url": "https://news.nate.com/view/20250624n05534"
+      },
+      {
+        "title": "트럼프 \"24시간 후 세계가 이스라엘·이란 전쟁 휴전 축하할 것\"",
+        "time": "2025-06-24T08:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/06/24/202506240207239942_l.jpg",
+        "url": "https://news.nate.com/view/20250624n04601",
+        "original_url": "https://news.nate.com/view/20250624n04601"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘·이란, 휴전 합의…24시간 후 공식 종전\"",
+        "time": "2025-06-24T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/06/24/2025061810123759975_1750209157_0028296451.jpg",
+        "url": "https://news.nate.com/view/20250624n03612",
+        "original_url": "https://news.nate.com/view/20250624n03612"
+      },
+      {
+        "title": "이란 외무 만난 푸틴 \"미 공격, 정당성 없는 침공\"···이란 지원은 '글쎄'",
+        "time": "2025-06-24T08:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/06/24/news-p.v1.20250624.d53700387f484d34a5efd7568266ea15_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n05486",
+        "original_url": "https://news.nate.com/view/20250624n05486"
+      },
+      {
+        "title": "[속보]트럼프 \"전면 휴전 합의 24시간 후 종전\"…이란 휴전 동의",
+        "time": "2025-06-24T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/06/24/news-p.v1.20250624.7156a31b893a471ca84fb5567919d326_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04675",
+        "original_url": "https://news.nate.com/view/20250624n04675"
+      },
+      {
+        "title": "[속보] 트럼프 \"24시간 후 이스라엘-이란 '12일간 전쟁' 공식 종식\"",
+        "time": "2025-06-24T08:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/news-p.v1.20250624.08ee50223dd946d99e1a66654a89a0c6_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04613",
+        "original_url": "https://news.nate.com/view/20250624n04613"
+      },
+      {
+        "title": "이란 타격 후 '감사' '평화' '생명' 외친 트럼프…노벨평화상 의식?",
+        "time": "2025-06-24T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/06/24/ch_1750721464726_602222_0.jpg",
+        "url": "https://news.nate.com/view/20250624n03726",
+        "original_url": "https://news.nate.com/view/20250624n03726"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘-이란 전면 휴전 합의…24시간 뒤 전쟁 종료\"",
+        "time": "2025-06-24T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/06/24/53_17507170986271_20250624500239.jpg",
+        "url": "https://news.nate.com/view/20250624n03745",
+        "original_url": "https://news.nate.com/view/20250624n03745"
+      },
+      {
+        "title": "'중재국' 카타르 \"'이스라엘과 휴전' 관련 이란 동의 확보\"",
+        "time": "2025-06-24T08:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/06/24/PS25062400169.jpg",
+        "url": "https://news.nate.com/view/20250624n05469",
+        "original_url": "https://news.nate.com/view/20250624n05469"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전한 휴전에 합의했다\"",
+        "time": "2025-06-24T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/06/24/321984_1750721303.jpg",
+        "url": "https://news.nate.com/view/20250624n05358",
+        "original_url": "https://news.nate.com/view/20250624n05358"
+      },
+      {
+        "title": "미군에 발사한 미사일 14발, 이란 \"美에 받은 만큼만 되돌려 줬다\"",
+        "time": "2025-06-24T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/06/24/ch_1750721470709_950362_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04215",
+        "original_url": "https://news.nate.com/view/20250624n04215"
+      },
+      {
+        "title": "러 공습 피해 건물 앞 지나는 키이우 주민들",
+        "time": "2025-06-24T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250623_0000440614_web.jpg",
+        "url": "https://news.nate.com/view/20250624n05351",
+        "original_url": "https://news.nate.com/view/20250624n05351"
+      },
+      {
+        "title": "러 공격으로 불길 치솟는 키이우",
+        "time": "2025-06-24T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250623_0000440601_web.jpg",
+        "url": "https://news.nate.com/view/20250624n05350",
+        "original_url": "https://news.nate.com/view/20250624n05350"
+      },
+      {
+        "title": "트럼프 \"24시간 후 전 세계 이스라엘‧이란간 전쟁 공식 종식 보게 될 것\"",
+        "time": "2025-06-24T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/06/24/kuk20250624000010.800x.0.jpg",
+        "url": "https://news.nate.com/view/20250624n05345",
+        "original_url": "https://news.nate.com/view/20250624n05345"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘-이란, 완전한 휴전 합의…전쟁 종료\" [지금이뉴스]",
+        "time": "2025-06-24T08:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/06/24/202506240725006870_t.jpg",
+        "url": "https://news.nate.com/view/20250624n04007",
+        "original_url": "https://news.nate.com/view/20250624n04007"
+      },
+      {
+        "title": "[속보] \"이란 고위 당국자, 휴전에 동의\"",
+        "time": "2025-06-24T08:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250624n05128",
+        "original_url": "https://news.nate.com/view/20250624n05128"
+      },
+      {
+        "title": "'체면치레용 보복 공격' 뒤 외교 전환…장기전은 이란 체제에도 부담",
+        "time": "2025-06-24T08:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/06/24/53_17507179788694_20250623504072.jpg",
+        "url": "https://news.nate.com/view/20250624n02331",
+        "original_url": "https://news.nate.com/view/20250624n02331"
+      },
+      {
+        "title": "[뉴스UP] \"24시간 내 완전 종식\"…보복 공격 직후 전면 휴전?",
+        "time": "2025-06-24T08:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/06/24/202506240813128014_t.jpg",
+        "url": "https://news.nate.com/view/20250624n05326",
+        "original_url": "https://news.nate.com/view/20250624n05326"
+      },
+      {
+        "title": "[속보]이란 고위당국자 \"이란, 이스라엘과의 휴전에 동의\"",
+        "time": "2025-06-24T08:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/06/24/news-p.v1.20250624.3aeef7d4014d468f995e1041e9d5070c_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n05065",
+        "original_url": "https://news.nate.com/view/20250624n05065"
+      },
+      {
+        "title": "나토 정상회의 개최 헤이그에서 철통 보안 '오렌지 방패' 작전…트럼프 방탄 차량 '비스트' 도착",
+        "time": "2025-06-24T08:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/06/24/202506240821211523_t.jpg",
+        "url": "https://news.nate.com/view/20250624n05204",
+        "original_url": "https://news.nate.com/view/20250624n05204"
+      },
+      {
+        "title": "나토, 정상회의 앞두고 미국의 이란 공격 놓고 내분 조짐",
+        "time": "2025-06-24T08:29:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250624n05338",
+        "original_url": "https://news.nate.com/view/20250624n05338"
+      },
+      {
+        "title": "[속보] 이란 고위당국자 \"이란, 이스라엘과의 휴전에 동의\"<로이터>",
+        "time": "2025-06-24T08:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/06/24/SSC_20250618233758_V.jpg",
+        "url": "https://news.nate.com/view/20250624n04930",
+        "original_url": "https://news.nate.com/view/20250624n04930"
+      },
+      {
+        "title": "[속보] 이란 고위당국자 \"이란, 이스라엘과의 휴전에 동의\"",
+        "time": "2025-06-24T08:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/06/24/2025061610035551534_1750035835_0028296619.jpg",
+        "url": "https://news.nate.com/view/20250624n04863",
+        "original_url": "https://news.nate.com/view/20250624n04863"
+      },
+      {
+        "title": "이란-미국 약속 대련, 암호화폐 상승폭 늘려…리플 8%↑(종합)",
+        "time": "2025-06-24T08:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7357361_high.jpg",
+        "url": "https://news.nate.com/view/20250624n05050",
+        "original_url": "https://news.nate.com/view/20250624n05050"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 전면 휴전 합의…24시간 후 공식 종전\"(종합)",
+        "time": "2025-06-24T08:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PAP20250622163701009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n04477",
+        "original_url": "https://news.nate.com/view/20250624n04477"
+      },
+      {
+        "title": "트럼프 \"이-이 완전한 휴전 합의\"…양국 발표는 아직(상보)",
+        "time": "2025-06-24T08:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7355965_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04270",
+        "original_url": "https://news.nate.com/view/20250624n04270"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란 휴전 합의\"",
+        "time": "2025-06-24T08:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/06/24/202084609_700.jpg",
+        "url": "https://news.nate.com/view/20250624n03663",
+        "original_url": "https://news.nate.com/view/20250624n03663"
+      },
+      {
+        "title": "[속보] \"트럼프·밴스, 카타르 국왕과 이스라엘·이란 휴전안 논의\" <로이터>",
+        "time": "2025-06-24T08:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/news-p.v1.20250624.136d16e3ec3c42b9820fe10b3a876fb7_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04994",
+        "original_url": "https://news.nate.com/view/20250624n04994"
+      },
+      {
+        "title": "트럼프 \"이란-이스라엘 완전한 휴전 합의\"",
+        "time": "2025-06-24T08:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/06/24/202084646_700.jpg",
+        "url": "https://news.nate.com/view/20250624n04884",
+        "original_url": "https://news.nate.com/view/20250624n04884"
+      },
+      {
+        "title": "[속보]카타르 총리 \"이스라엘과 휴전에 대한 이란 동의 얻어내\"",
+        "time": "2025-06-24T08:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750720625892_298572_0.png",
+        "url": "https://news.nate.com/view/20250624n04894",
+        "original_url": "https://news.nate.com/view/20250624n04894"
+      },
+      {
+        "title": "[속보] \"이란 고위관계자, 이스라엘과 휴전 동의 확인\" -로이터",
+        "time": "2025-06-24T08:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7353111_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04952",
+        "original_url": "https://news.nate.com/view/20250624n04952"
+      },
+      {
+        "title": "\"이란-이스라엘 휴전, 미국이 제안하고 카타르가 중재\"-로이터",
+        "time": "2025-06-24T08:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/06/24/2025062408141426755_1.jpg",
+        "url": "https://news.nate.com/view/20250624n05028",
+        "original_url": "https://news.nate.com/view/20250624n05028"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘·이란, 완전한 휴전 합의\"",
+        "time": "2025-06-24T08:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/06/24/SSC_20250622092650_V.jpg",
+        "url": "https://news.nate.com/view/20250624n03739",
+        "original_url": "https://news.nate.com/view/20250624n03739"
+      },
+      {
+        "title": "이란 고위 관계자도 이란-이스라엘 휴전 확인",
+        "time": "2025-06-24T08:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/06/24/PS25062400129.jpg",
+        "url": "https://news.nate.com/view/20250624n04836",
+        "original_url": "https://news.nate.com/view/20250624n04836"
+      },
+      {
+        "title": "[속보] 이란 고위당국자 \"이스라엘과의 휴전에 동의\"<로이터>",
+        "time": "2025-06-24T08:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/06/24/news_1750720143_1513956_m_1.png",
+        "url": "https://news.nate.com/view/20250624n04810",
+        "original_url": "https://news.nate.com/view/20250624n04810"
+      },
+      {
+        "title": "'엉클 샘' 그림 파손하는 튀르키예 시위대",
+        "time": "2025-06-24T08:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250624_0000441071_web.jpg",
+        "url": "https://news.nate.com/view/20250624n04653",
+        "original_url": "https://news.nate.com/view/20250624n04653"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘과 이란, 휴전 합의\" 주장",
+        "time": "2025-06-24T08:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/06/24/2025062407332582481_1750718005_0028296511.jpg",
+        "url": "https://news.nate.com/view/20250624n04041",
+        "original_url": "https://news.nate.com/view/20250624n04041"
+      },
+      {
+        "title": "[속보] \"트럼프·밴스, 카타르 국왕과 이스라엘·이란 휴전안 논의\" 로이터",
+        "time": "2025-06-24T08:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PAP20250622160101009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n04691",
+        "original_url": "https://news.nate.com/view/20250624n04691"
+      },
+      {
+        "title": "[속보] 이란 고위당국자 \"이란, 이스라엘과의 휴전에 동의\"로이터",
+        "time": "2025-06-24T08:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PRU20250619106001009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n04621",
+        "original_url": "https://news.nate.com/view/20250624n04621"
+      },
+      {
+        "title": "이스라엘-이란 휴전…밴스 미 부통령 \"이란 중요한 교훈 얻었길\"",
+        "time": "2025-06-24T08:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/06/24/92990151-48f3-40f8-b7c3-7877d4f69d11.jpg",
+        "url": "https://news.nate.com/view/20250624n04738",
+        "original_url": "https://news.nate.com/view/20250624n04738"
+      },
+      {
+        "title": "[속보] 이란 고위 당국자 \"이란, 이스라엘과의 휴전에 동의\"",
+        "time": "2025-06-24T08:09:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250624n04776",
+        "original_url": "https://news.nate.com/view/20250624n04776"
+      },
+      {
+        "title": "[속보]\"이란, 미국 제안한 이스라엘과 휴전 동의 확인\"-로이터",
+        "time": "2025-06-24T08:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/06/24/2025062408042337502_1.jpg",
+        "url": "https://news.nate.com/view/20250624n04711",
+        "original_url": "https://news.nate.com/view/20250624n04711"
+      },
+      {
+        "title": "美 \"24시간 후 이스라엘·이란 간 '12일간의 전쟁' 공식 종식\"",
+        "time": "2025-06-24T08:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/06/24/news_1750719824_1513953_m_1.jpeg",
+        "url": "https://news.nate.com/view/20250624n04670",
+        "original_url": "https://news.nate.com/view/20250624n04670"
+      },
+      {
+        "title": "[속보] 트럼프 \"24시간 후 이스라엘·이란 12일 전쟁 끝날 것\"",
+        "time": "2025-06-24T08:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250624n03847",
+        "original_url": "https://news.nate.com/view/20250624n03847"
+      },
+      {
+        "title": "[속보] 카타르 총리 \"이스라엘과 휴전에 대한 이란 동의 얻어내\"로이터",
+        "time": "2025-06-24T08:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PEP20221218018001009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n04692",
+        "original_url": "https://news.nate.com/view/20250624n04692"
+      },
+      {
+        "title": "반미·반이스라엘 구호 외치는 튀르키예 시위대",
+        "time": "2025-06-24T08:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250624_0000441061_web.jpg",
+        "url": "https://news.nate.com/view/20250624n04646",
+        "original_url": "https://news.nate.com/view/20250624n04646"
+      },
+      {
+        "title": "미국 의존 벗어나야…EU-캐나다 안보협정 체결",
+        "time": "2025-06-24T08:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/06/24/53_17507192938362_20250624500228.jpg",
+        "url": "https://news.nate.com/view/20250624n03584",
+        "original_url": "https://news.nate.com/view/20250624n03584"
+      },
+      {
+        "title": "카타르 국방부, \"이란 발사 미사일 19기중 하나만 미군기지 도착…피해 적어\"",
+        "time": "2025-06-24T08:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250619_0000430900_web.jpg",
+        "url": "https://news.nate.com/view/20250624n04536",
+        "original_url": "https://news.nate.com/view/20250624n04536"
+      },
+      {
+        "title": "[뉴스초점] 트럼프 \"24시간 후 이스라엘-이란간 전쟁 공식 종식\"",
+        "time": "2025-06-24T07:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/06/24/321903_1750719081.jpg",
+        "url": "https://news.nate.com/view/20250624n04343",
+        "original_url": "https://news.nate.com/view/20250624n04343"
+      },
+      {
+        "title": "미사일 공격 귀띔한뒤 쏜 이란…트럼프 \"14발 중 13발 요격\"",
+        "time": "2025-06-24T07:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/06/24/f44fc398-f957-4265-a070-4f31501a43c6.jpg",
+        "url": "https://news.nate.com/view/20250624n01641",
+        "original_url": "https://news.nate.com/view/20250624n01641"
+      },
+      {
+        "title": "\"국제법 위반이냐 아니냐\"…美 이란 공습 놓고 서방 의견충돌",
+        "time": "2025-06-24T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7357336_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04402",
+        "original_url": "https://news.nate.com/view/20250624n04402"
+      },
+      {
+        "title": "이란, 美에 '약속대련' 보복…트럼프 \"미리 알려줘 감사\"[뉴스쏙:속]",
+        "time": "2025-06-24T07:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/06/24/202506240752300788_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04479",
+        "original_url": "https://news.nate.com/view/20250624n04479"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란 완전한 휴전 합의…24시간 후 공식 종식\"",
+        "time": "2025-06-24T07:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20250425_0000283013_web.jpg",
+        "url": "https://news.nate.com/view/20250624n04323",
+        "original_url": "https://news.nate.com/view/20250624n04323"
+      },
+      {
+        "title": "이란, 카타르 미군기지 향해 미사일 14발 쐈다",
+        "time": "2025-06-24T07:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/06/24/ch_1750719064889_592795_0.jpg",
+        "url": "https://news.nate.com/view/20250624n00824",
+        "original_url": "https://news.nate.com/view/20250624n00824"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전 휴전 합의…'12일간의 전쟁' 끝났다\"",
+        "time": "2025-06-24T07:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/rcv.YNA.20250622.PRU20250622178301009_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04154",
+        "original_url": "https://news.nate.com/view/20250624n04154"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란 '12일 전쟁' 종전 합의…수년간 중동 파괴했을 전쟁 끝나\"",
+        "time": "2025-06-24T07:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/06/24/news-p.v1.20250624.e99b71dbe5934e9a87bdf143b3a737bb_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04175",
+        "original_url": "https://news.nate.com/view/20250624n04175"
+      },
+      {
+        "title": "트럼프 \"완전한 휴전 합의\"…이란-이스라엘은 '묵묵부답'",
+        "time": "2025-06-24T07:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/06/24/rcv.YNA.20250624.PRU20250624057401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04471",
+        "original_url": "https://news.nate.com/view/20250624n04471"
+      },
+      {
+        "title": "이스라엘-이란 갈등에 불안감…트럼프 지지율 41%로 최저",
+        "time": "2025-06-24T07:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7354098_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04455",
+        "original_url": "https://news.nate.com/view/20250624n04455"
+      },
+      {
+        "title": "\"日 대지진 전조?\" 사흘간 295회 지진 발생…공포감 확산",
+        "time": "2025-06-24T07:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/06/24/news_1750719275_1513946_m_1.jpeg",
+        "url": "https://news.nate.com/view/20250624n04415",
+        "original_url": "https://news.nate.com/view/20250624n04415"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전 휴전 합의…'12일 전쟁' 끝났다\"",
+        "time": "2025-06-24T07:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/06/24/mt_1750719184398_482731_0.jpg",
+        "url": "https://news.nate.com/view/20250624n03999",
+        "original_url": "https://news.nate.com/view/20250624n03999"
+      },
+      {
+        "title": "나토 정상회의 개막…32개국 '트럼프 2기' 집권 뒤 한자리 모여",
+        "time": "2025-06-24T07:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/06/24/202005220_700.jpg",
+        "url": "https://news.nate.com/view/20250624n04428",
+        "original_url": "https://news.nate.com/view/20250624n04428"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 완전 휴전 합의…'12일간의 전쟁' 곧 종료\"",
+        "time": "2025-06-24T07:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/06/24/20250624073906035001.png",
+        "url": "https://news.nate.com/view/20250624n04260",
+        "original_url": "https://news.nate.com/view/20250624n04260"
+      },
+      {
+        "title": "이란, 미군기지 공습 전 '사전통보'…트럼프 \"평화의 시간\"",
+        "time": "2025-06-24T07:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/06/24/20250624073827536001.png",
+        "url": "https://news.nate.com/view/20250624n04236",
+        "original_url": "https://news.nate.com/view/20250624n04236"
+      },
+      {
+        "title": "트럼프 2기, 북한 국가비상사태 대상으로 재지정…\"북핵, 특별한 위협\"",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/06/24/news-p.v1.20250624.cea4514bf1964e1db9b8e5a208d73e71_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n04285",
+        "original_url": "https://news.nate.com/view/20250624n04285"
+      },
+      {
+        "title": "'한밤의 해머' 이란 핵시설 공습작전…실제 피해 놓곤 분분",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/06/24/20250624074258979001.png",
+        "url": "https://news.nate.com/view/20250624n04276",
+        "original_url": "https://news.nate.com/view/20250624n04276"
+      },
+      {
+        "title": "[포토] 영국 국왕과 악수하는 젤렌스키 대통령",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7357259_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04287",
+        "original_url": "https://news.nate.com/view/20250624n04287"
+      },
+      {
+        "title": "[포토] 오스트리아 방문한 젤렌스키 대통령",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7357231_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04288",
+        "original_url": "https://news.nate.com/view/20250624n04288"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘·이란, 완전한 휴전 합의···'12일간의 전쟁' 끝났다\"",
+        "time": "2025-06-24T07:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/06/24/news-p.v1.20250624.4bd453ba1d90445bb7d1a59fd8d6562c_P1.png",
+        "url": "https://news.nate.com/view/20250624n03733",
+        "original_url": "https://news.nate.com/view/20250624n03733"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전한 휴전 합의…24시간 후 전쟁 종료\"",
+        "time": "2025-06-24T07:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/06/24/17507186116859d893237b8.jpg",
+        "url": "https://news.nate.com/view/20250624n04230",
+        "original_url": "https://news.nate.com/view/20250624n04230"
+      },
+      {
+        "title": "[포토]美 공군기지 향하다 요격된 이란 미사일 잔해",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7357288_high.jpg",
+        "url": "https://news.nate.com/view/20250624n04283",
+        "original_url": "https://news.nate.com/view/20250624n04283"
+      },
+      {
+        "title": "트럼프 \"24시간 후 '이스라엘·이란 전쟁' 공식 종식\"",
+        "time": "2025-06-24T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/06/24/news-p.v1.20250624.2ef61bf14f124de5a08e6733d7b80816_P1.png",
+        "url": "https://news.nate.com/view/20250624n04280",
+        "original_url": "https://news.nate.com/view/20250624n04280"
+      },
+      {
+        "title": "IAEA \"이란 포르도 핵시설, 벙커버스터에 심각한 피해 받았을 것\"",
+        "time": "2025-06-24T07:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/06/24/mt_1750718705164_685759_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04069",
+        "original_url": "https://news.nate.com/view/20250624n04069"
+      },
+      {
+        "title": "[속보] 트럼프 \"이란-이스라엘 휴전 후 12일 전쟁 종식…세계 환영할 것\"",
+        "time": "2025-06-24T07:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750718584330_215004_0.png",
+        "url": "https://news.nate.com/view/20250624n03879",
+        "original_url": "https://news.nate.com/view/20250624n03879"
+      },
+      {
+        "title": "트럼프 \"이스라엘-이란, 완전하고 전면적인 휴전 합의\" 주장",
+        "time": "2025-06-24T07:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/06/24/PAP20250622157901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250624n03989",
+        "original_url": "https://news.nate.com/view/20250624n03989"
+      },
+      {
+        "title": "트럼프 \"이스라엘과 이란, 24시간 후 12일 전쟁 종료\"",
+        "time": "2025-06-24T07:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/06/24/202584421750718300.jpg",
+        "url": "https://news.nate.com/view/20250624n04171",
+        "original_url": "https://news.nate.com/view/20250624n04171"
+      },
+      {
+        "title": "트럼프 \"이란-이스라엘, 완전한 휴전 합의…24시간 후 전쟁 종료\"",
+        "time": "2025-06-24T07:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/06/24/7354788_high.jpg",
+        "url": "https://news.nate.com/view/20250624n03891",
+        "original_url": "https://news.nate.com/view/20250624n03891"
+      },
+      {
+        "title": "트럼프 \"이스라엘·이란, 완전하고 전면적인 휴전 합의\"",
+        "time": "2025-06-24T07:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/06/24/202506240733524094_0.jpg",
+        "url": "https://news.nate.com/view/20250624n04072",
+        "original_url": "https://news.nate.com/view/20250624n04072"
+      },
+      {
+        "title": "나토 \"GDP 5% 국방비 예외없어\"…트럼프 성과 될까",
+        "time": "2025-06-24T07:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750717806675_704980_0.jpg",
+        "url": "https://news.nate.com/view/20250624n02626",
+        "original_url": "https://news.nate.com/view/20250624n02626"
+      },
+      {
+        "title": "[속보] 트럼프 \"24시간 후 이스라엘‧이란간 '12일간의 전쟁' 공식 종식\"",
+        "time": "2025-06-24T07:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/06/24/kuk202405160139.680x.0.jpg",
+        "url": "https://news.nate.com/view/20250624n03978",
+        "original_url": "https://news.nate.com/view/20250624n03978"
+      },
+      {
+        "title": "[속보]트럼프 \"이스라엘-이란 정전 합의…'12일 전쟁' 종료\"",
+        "time": "2025-06-24T07:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/06/24/news-p.v1.20250624.86d3b20febd24588b996306aaeccdc9a_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n03955",
+        "original_url": "https://news.nate.com/view/20250624n03955"
+      },
+      {
+        "title": "[속보] 카타르 국방부 \"이란 미사일 19기 중 한개만 미군기지 도착\"",
+        "time": "2025-06-24T07:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/06/24/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250624n03990",
+        "original_url": "https://news.nate.com/view/20250624n03990"
+      },
+      {
+        "title": "[속보] 트럼프 \"24시간 후 이스라엘-이란간 '12일간의 전쟁' 공식 종식\"",
+        "time": "2025-06-24T07:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/06/24/news-p.v1.20250616.b85fca3c6db1418ab96aa4d11bacae3c_P1.png",
+        "url": "https://news.nate.com/view/20250624n03836",
+        "original_url": "https://news.nate.com/view/20250624n03836"
+      },
+      {
+        "title": "\"미국인 84%, 미·이란 갈등 심화 우려···트럼프 지지율 최저치\"",
+        "time": "2025-06-24T07:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/06/24/news-p.v1.20250624.bbad2a6991b7456ebe4745d6b26119b3_P1.jpg",
+        "url": "https://news.nate.com/view/20250624n03963",
+        "original_url": "https://news.nate.com/view/20250624n03963"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘-이란, 완전한 휴전 합의\"",
+        "time": "2025-06-24T07:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/06/24/ZK.40895974.1.jpg",
+        "url": "https://news.nate.com/view/20250624n03567",
+        "original_url": "https://news.nate.com/view/20250624n03567"
+      },
+      {
+        "title": "[속보] 트럼프 \"이스라엘-이란, 완전 휴전 합의…'12일 전쟁' 끝났다\"",
+        "time": "2025-06-24T07:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/06/24/b9dc7c80-a862-4075-a184-12f78d36a06e.jpg",
+        "url": "https://news.nate.com/view/20250624n03913",
+        "original_url": "https://news.nate.com/view/20250624n03913"
+      },
+      {
+        "title": "트럼프 \"미국인 사상자 없다…공격 사전통보한 이란에 감사\"",
+        "time": "2025-06-24T07:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/06/24/20250624502789.png",
+        "url": "https://news.nate.com/view/20250624n03912",
+        "original_url": "https://news.nate.com/view/20250624n03912"
+      },
+      {
+        "title": "[속보] 美 트럼프 \"이스라엘과 이란, 완전환 휴전 합의\"",
+        "time": "2025-06-24T07:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/06/24/202574861750717480.jpg",
+        "url": "https://news.nate.com/view/20250624n03900",
+        "original_url": "https://news.nate.com/view/20250624n03900"
+      },
+      {
+        "title": "[속보]트럼프 \"24시간 뒤 이스라엘·이란 12일간 전쟁 공식 종식\"",
+        "time": "2025-06-24T07:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/06/24/ae_1750717626076_796588_0.png",
+        "url": "https://news.nate.com/view/20250624n03884",
+        "original_url": "https://news.nate.com/view/20250624n03884"
+      },
+      {
+        "title": "이스라엘·이란 휴전 합의에 비트코인 상승, 10만 5000달러대",
+        "time": "2025-06-24T08:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/06/24/PS25062400158.jpg",
+        "url": "https://news.nate.com/view/20250624n05230",
+        "original_url": "https://news.nate.com/view/20250624n05230"
+      },
+      {
+        "title": "美국무부 고위관리 \"딥시크, 중국 군·정보기관 지원…사용자 정보도 넘겨\"",
+        "time": "2025-06-24T08:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/06/24/PS25062400124.jpg",
+        "url": "https://news.nate.com/view/20250624n04571",
+        "original_url": "https://news.nate.com/view/20250624n04571"
+      }
+    ]
   }
 ]
