@@ -170279,5 +170279,444 @@
         "original_url": "https://news.nate.com/view/20250706n05913"
       }
     ]
+  },
+  {
+    "date": "2025년 07월 07일 월요일",
+    "articles": [
+      {
+        "title": "\"머니무브 탄력땐 연내 3400도 가능\" ···코스피 '이재명 랠리' 계속 갈 수 있을까 [AI 프리즘*주식투자자 뉴스]",
+        "time": "2025-07-07T08:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/07/07/2GV9A2IEVQ_1.jpg",
+        "url": "https://news.nate.com/view/20250707n05581",
+        "original_url": "https://news.nate.com/view/20250707n05581"
+      },
+      {
+        "title": "韓제이엘케이-日마루베니그룹 자회사, 유통 계약 체결…일본 AI 시장 공략",
+        "time": "2025-07-07T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/07/ae_1751846168941_278789_0.png",
+        "url": "https://news.nate.com/view/20250707n05518",
+        "original_url": "https://news.nate.com/view/20250707n05518"
+      },
+      {
+        "title": "한·영 FTA 5차 개선 협상…서비스·투자·디지털무역 등 16개 분과 논의",
+        "time": "2025-07-07T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/07/07/news-p.v1.20250121.4d3a2c8d582640ea982beb31f1db13ba_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n05524",
+        "original_url": "https://news.nate.com/view/20250707n05524"
+      },
+      {
+        "title": "[경북문화관광공사 소식] 대만 타이난시와 문화관광 협력 확대 방안 논의",
+        "time": "2025-07-07T08:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fr/2025/07/07/art_695187_1751804144.jpg",
+        "url": "https://news.nate.com/view/20250707n05550",
+        "original_url": "https://news.nate.com/view/20250707n05550"
+      },
+      {
+        "title": "美텍사스 홍수 사망자 71명으로 늘어…트럼프, 재난지역 선포",
+        "time": "2025-07-07T08:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2025/07/07/1239400_1439623_5212.jpg",
+        "url": "https://news.nate.com/view/20250707n05377",
+        "original_url": "https://news.nate.com/view/20250707n05377"
+      },
+      {
+        "title": "러, 트럼프-푸틴 불화 속 이란에 \"돕겠다\" 밀착",
+        "time": "2025-07-07T08:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/07/07/AKR20250707021700009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250707n05535",
+        "original_url": "https://news.nate.com/view/20250707n05535"
+      },
+      {
+        "title": "트럼프 \"12개국 또는 15개국에 '관세레터'…9일까지 협상 마무리\"",
+        "time": "2025-07-07T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/07/07/5a185ff5-d581-4e32-b930-f0285052fcce.jpg",
+        "url": "https://news.nate.com/view/20250707n05119",
+        "original_url": "https://news.nate.com/view/20250707n05119"
+      },
+      {
+        "title": "트럼프 \"9일까지 대부분 협상 마무리…관세 서한 아니면 합의\"(종합)",
+        "time": "2025-07-07T08:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/07/07/PAP20250707119301009_P2.jpg",
+        "url": "https://news.nate.com/view/20250707n05383",
+        "original_url": "https://news.nate.com/view/20250707n05383"
+      },
+      {
+        "title": "[속보] 트럼프 \"9일까지 대부분 협상 마무리…관세 서한 아니면 합의\"",
+        "time": "2025-07-07T08:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/07/07/202088827_700.jpg",
+        "url": "https://news.nate.com/view/20250707n05503",
+        "original_url": "https://news.nate.com/view/20250707n05503"
+      },
+      {
+        "title": "트럼프 \"7~9일, 12개국 또는 15개국 관세율 서한 발송\"…한국 포함 가능성",
+        "time": "2025-07-07T08:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/07/07/2025070701000590900034331.jpg",
+        "url": "https://news.nate.com/view/20250707n05212",
+        "original_url": "https://news.nate.com/view/20250707n05212"
+      },
+      {
+        "title": "미 텍사스 홍수 사망자 80명으로 늘어···트럼프, 재난지역 선포",
+        "time": "2025-07-07T08:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/07/news-p.v1.20250707.076a85fdc9b1492db37ea2c05bd8ec4b_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n03941",
+        "original_url": "https://news.nate.com/view/20250707n03941"
+      },
+      {
+        "title": "'中·러 정상 불참' 브릭스 정상회의, 美 이란 타격·관세 비판",
+        "time": "2025-07-07T08:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/07/ae_1751845565279_335022_0.jpg",
+        "url": "https://news.nate.com/view/20250707n01868",
+        "original_url": "https://news.nate.com/view/20250707n01868"
+      },
+      {
+        "title": "\"터무니 없는 일이다\" 머스크 아메리카당 창당에 트럼프 대통령 일갈",
+        "time": "2025-07-07T08:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/07/202507070715102230_l.jpg",
+        "url": "https://news.nate.com/view/20250707n03360",
+        "original_url": "https://news.nate.com/view/20250707n03360"
+      },
+      {
+        "title": "韓, 오늘 '트럼프 관세 레터' 받나…美, 협상 시한 3주 연장할 듯",
+        "time": "2025-07-07T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/07/ae_1751844664857_558290_0.jpg",
+        "url": "https://news.nate.com/view/20250707n02250",
+        "original_url": "https://news.nate.com/view/20250707n02250"
+      },
+      {
+        "title": "미 텍사스 폭우 사망자 최소 70명…재난 지역 선포",
+        "time": "2025-07-07T08:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/07/07/202088828_700.jpg",
+        "url": "https://news.nate.com/view/20250707n02342",
+        "original_url": "https://news.nate.com/view/20250707n02342"
+      },
+      {
+        "title": "[속보] 트럼프 \"12∼15개국에 7일 관세 서한 발송할 수 있어\"",
+        "time": "2025-07-07T08:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/07/07/news-p.v1.20250707.f60ab70dfd6c42629f7a096e50b60338_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n03453",
+        "original_url": "https://news.nate.com/view/20250707n03453"
+      },
+      {
+        "title": "[속보] 트럼프 \"12∼15개국에 7일~9일 서한 발송할 수도\"",
+        "time": "2025-07-07T08:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/07/07/news-p.v1.20250703.2881657dd5934cc6ba46a2660966a92a_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n02694",
+        "original_url": "https://news.nate.com/view/20250707n02694"
+      },
+      {
+        "title": "'중러 정상 불참' 브릭스 정상회의, 미 이란 타격·관세 규탄···\"세계질서 위협\"",
+        "time": "2025-07-07T08:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/07/news-p.v1.20250707.b2a57e475ace455f86bdddeb2515a033_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n04403",
+        "original_url": "https://news.nate.com/view/20250707n04403"
+      },
+      {
+        "title": "中 쇼핑몰서 '오징어 게임' 불법 굿즈 판매 논란…서경덕 교수 \"콘텐트 도둑질\"",
+        "time": "2025-07-07T08:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/07/07/22db41af-561b-4a71-983d-aefb1cce5a82.jpg",
+        "url": "https://news.nate.com/view/20250707n04189",
+        "original_url": "https://news.nate.com/view/20250707n04189"
+      },
+      {
+        "title": "[포토] 기자들과 만난 도널드 트럼프 미국 대통령",
+        "time": "2025-07-07T08:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7379357_high.jpg",
+        "url": "https://news.nate.com/view/20250707n04066",
+        "original_url": "https://news.nate.com/view/20250707n04066"
+      },
+      {
+        "title": "[속보] 이스라엘군, 레바논 동부와 남부에도 6일 밤 공습 재개",
+        "time": "2025-07-07T08:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/07/202507040726451493_l.jpg",
+        "url": "https://news.nate.com/view/20250707n03998",
+        "original_url": "https://news.nate.com/view/20250707n03998"
+      },
+      {
+        "title": "[포토] 트럼프 대통령과 네타냐후 총리",
+        "time": "2025-07-07T08:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7379342_high.jpg",
+        "url": "https://news.nate.com/view/20250707n04067",
+        "original_url": "https://news.nate.com/view/20250707n04067"
+      },
+      {
+        "title": "[속보] 트럼프, 머스크의 '신당 창당'에 \"터무니없는 일\"",
+        "time": "2025-07-07T08:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/07/202507040726451493_l.jpg",
+        "url": "https://news.nate.com/view/20250707n04021",
+        "original_url": "https://news.nate.com/view/20250707n04021"
+      },
+      {
+        "title": "[속보] 네타냐후 워싱턴으로 출발 \"중동 평화 위한 위대한 기회\"",
+        "time": "2025-07-07T08:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/07/202507040726451493_l.jpg",
+        "url": "https://news.nate.com/view/20250707n03984",
+        "original_url": "https://news.nate.com/view/20250707n03984"
+      },
+      {
+        "title": "서안지구 팔 주민 검문하는 이스라엘 병사",
+        "time": "2025-07-07T07:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20250706_0000471986_web.jpg",
+        "url": "https://news.nate.com/view/20250707n03712",
+        "original_url": "https://news.nate.com/view/20250707n03712"
+      },
+      {
+        "title": "트럼프 \"가자 지구 전쟁 이번 주 휴전 협상 타결 가능성\"",
+        "time": "2025-07-07T08:04:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250707n03874",
+        "original_url": "https://news.nate.com/view/20250707n03874"
+      },
+      {
+        "title": "트럼프 \"머스크 창당? 탈선한 열차처럼 통제 불능\"",
+        "time": "2025-07-07T07:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/07/07/PS25070700095.jpg",
+        "url": "https://news.nate.com/view/20250707n03725",
+        "original_url": "https://news.nate.com/view/20250707n03725"
+      },
+      {
+        "title": "美 홍수 사망자 71명으로 늘어…트럼프, 텍사스 재난지역 선포",
+        "time": "2025-07-07T07:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/07/07/news-p.v1.20250707.2a2a11939688471292a979df6bf72bb5_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n03760",
+        "original_url": "https://news.nate.com/view/20250707n03760"
+      },
+      {
+        "title": "서안지구 팔 주민 몸수색하는 이스라엘 병사",
+        "time": "2025-07-07T07:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20250706_0000471982_web.jpg",
+        "url": "https://news.nate.com/view/20250707n03710",
+        "original_url": "https://news.nate.com/view/20250707n03710"
+      },
+      {
+        "title": "[속보]이스라엘-하마스, 1차 휴전협상 결론없이 종료",
+        "time": "2025-07-07T07:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/07/07/PS25070700094.jpg",
+        "url": "https://news.nate.com/view/20250707n03669",
+        "original_url": "https://news.nate.com/view/20250707n03669"
+      },
+      {
+        "title": "이스라엘, 예멘 후티반군 장악 항구 폭격…\"이란처럼 다룰 것\"",
+        "time": "2025-07-07T07:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7062675_high.jpg",
+        "url": "https://news.nate.com/view/20250707n03611",
+        "original_url": "https://news.nate.com/view/20250707n03611"
+      },
+      {
+        "title": "네타냐후 '60일 휴전' 논의차 미국行…\"하마스 가자통치 제거\"",
+        "time": "2025-07-07T07:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7379342_high.jpg",
+        "url": "https://news.nate.com/view/20250707n03555",
+        "original_url": "https://news.nate.com/view/20250707n03555"
+      },
+      {
+        "title": "한국 정부, 美 차량 운반선 입항료 부과에 '신중 재검토' 요청",
+        "time": "2025-07-07T07:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/07/07/2025070707113542493_1751839895_0028359252.jpg",
+        "url": "https://news.nate.com/view/20250707n03255",
+        "original_url": "https://news.nate.com/view/20250707n03255"
+      },
+      {
+        "title": "[자막뉴스] 텍사스 '돌발 홍수'에 사망자 급증…트럼프 정부 '역풍' 위기",
+        "time": "2025-07-07T07:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/07/202507070730125919_t.jpg",
+        "url": "https://news.nate.com/view/20250707n03345",
+        "original_url": "https://news.nate.com/view/20250707n03345"
+      },
+      {
+        "title": "여성 동료 '집 열쇠' 복제해 몰래 20회 이상 드나든 日 남성 체포",
+        "time": "2025-07-07T07:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/07/07/news-p.v1.20250707.f9c93f9e6e0f4b0c9f02e1c83e32c290_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n03358",
+        "original_url": "https://news.nate.com/view/20250707n03358"
+      },
+      {
+        "title": "중국·EU 통상갈등 격화…프랑스 재무 \"깡패가 애들 괴롭혀\"",
+        "time": "2025-07-07T07:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/07/07/news-p.v1.20250707.70e4f178794d428c9fb436fe2b19933e_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n03261",
+        "original_url": "https://news.nate.com/view/20250707n03261"
+      },
+      {
+        "title": "러, 우크라 동부 진격…도네츠크·하르키우 마을 2곳 추가 점령",
+        "time": "2025-07-07T07:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7254968_high.jpg",
+        "url": "https://news.nate.com/view/20250707n03455",
+        "original_url": "https://news.nate.com/view/20250707n03455"
+      },
+      {
+        "title": "美텍사스 홍수 사망자 78명으로 늘어…트럼프, 재난지역 선포",
+        "time": "2025-07-07T07:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/07/07/news-p.v1.20250707.30b56a02e0ad4c7dbb282ac7799a888e_P1.jpg",
+        "url": "https://news.nate.com/view/20250707n02905",
+        "original_url": "https://news.nate.com/view/20250707n02905"
+      },
+      {
+        "title": "美 텍사스 홍수 사망자 최소 80명…트럼프, 재난지역 선포(종합)",
+        "time": "2025-07-07T07:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20250706_0000470270_web.jpg",
+        "url": "https://news.nate.com/view/20250707n03241",
+        "original_url": "https://news.nate.com/view/20250707n03241"
+      },
+      {
+        "title": "미 텍사스 홍수 사망자 71명으로 늘어…트럼프, 재난지역 선포",
+        "time": "2025-07-07T07:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/07/07/202088732_700.jpg",
+        "url": "https://news.nate.com/view/20250707n03029",
+        "original_url": "https://news.nate.com/view/20250707n03029"
+      },
+      {
+        "title": "[속보] 트럼프,머스크 신당 창당 \"터무니없는 일…12∼15개국에 7일 관세 서한 발송\"",
+        "time": "2025-07-07T07:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/07/07/2025070706483442442_1751838516_0028359141.jpg",
+        "url": "https://news.nate.com/view/20250707n02534",
+        "original_url": "https://news.nate.com/view/20250707n02534"
+      },
+      {
+        "title": "美 관세서한 임박에 안보실장 긴급방미…\"협상 중요 국면\"(종합)",
+        "time": "2025-07-07T07:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7379304_high.jpg",
+        "url": "https://news.nate.com/view/20250707n00654",
+        "original_url": "https://news.nate.com/view/20250707n00654"
+      },
+      {
+        "title": "美텍사스 홍수로 71명 사망…트럼프, 재난지역 선포",
+        "time": "2025-07-07T07:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/07/07/2025070707063042479_1751839591_0028359207.jpg",
+        "url": "https://news.nate.com/view/20250707n02968",
+        "original_url": "https://news.nate.com/view/20250707n02968"
+      },
+      {
+        "title": "정부, 美 '車운반선 입항료'에 \"對中 조치에 부담…韓 제외돼야\"",
+        "time": "2025-07-07T07:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/07/7261276_high.jpg",
+        "url": "https://news.nate.com/view/20250707n02291",
+        "original_url": "https://news.nate.com/view/20250707n02291"
+      },
+      {
+        "title": "[속보] 트럼프 \"12∼15개국에 7일 관세 서한 발송 가능성\"",
+        "time": "2025-07-07T06:54:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250707n02673",
+        "original_url": "https://news.nate.com/view/20250707n02673"
+      },
+      {
+        "title": "美 텍사스에 기습 폭우…어린이 등 50여 명 참변",
+        "time": "2025-07-07T06:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/07/353725_1751835836.jpg",
+        "url": "https://news.nate.com/view/20250707n02709",
+        "original_url": "https://news.nate.com/view/20250707n02709"
+      },
+      {
+        "title": "[속보]  트럼프 \"12~15개국에 7일 관세 서한 발송 가능성\"",
+        "time": "2025-07-07T06:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/07/07/kuk202405160139.680x.0.jpg",
+        "url": "https://news.nate.com/view/20250707n02703",
+        "original_url": "https://news.nate.com/view/20250707n02703"
+      },
+      {
+        "title": "[속보]트럼프, 머스크의 '신당 창당'에 \"터무니없는 일\"",
+        "time": "2025-07-07T06:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/07/ae_1751838724341_199277_0.png",
+        "url": "https://news.nate.com/view/20250707n02646",
+        "original_url": "https://news.nate.com/view/20250707n02646"
+      },
+      {
+        "title": "[속보]트럼프 \"12~15개국에 7일 관세 서한 발송할 수 있어\"",
+        "time": "2025-07-07T06:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/07/ae_1751838545375_972266_0.png",
+        "url": "https://news.nate.com/view/20250707n02573",
+        "original_url": "https://news.nate.com/view/20250707n02573"
+      },
+      {
+        "title": "美텍사스 홍수 사망자 71명으로 늘어…트럼프, 재난지역 선포(종합)",
+        "time": "2025-07-07T06:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/07/07/PRU20250706243601009_P2.jpg",
+        "url": "https://news.nate.com/view/20250707n01849",
+        "original_url": "https://news.nate.com/view/20250707n01849"
+      },
+      {
+        "title": "미국 텍사스 폭우 사망자 78명…안이한 대처 비판",
+        "time": "2025-07-07T06:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/07/202507070637502774_t.jpg",
+        "url": "https://news.nate.com/view/20250707n02538",
+        "original_url": "https://news.nate.com/view/20250707n02538"
+      },
+      {
+        "title": "미국 텍사스 폭우 사망자 69명…트럼프, 재난지역 선포",
+        "time": "2025-07-07T06:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/07/202507070609517083_t.jpg",
+        "url": "https://news.nate.com/view/20250707n02480",
+        "original_url": "https://news.nate.com/view/20250707n02480"
+      },
+      {
+        "title": "민간기, 트럼프 골프장 '비행제한구역' 침범…F-16 출동",
+        "time": "2025-07-07T06:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/07/353810_1751838269.jpg",
+        "url": "https://news.nate.com/view/20250707n02554",
+        "original_url": "https://news.nate.com/view/20250707n02554"
+      },
+      {
+        "title": "트럼프, 폭우로 대형 인명피해 생긴 텍사스 재난 지역 선포",
+        "time": "2025-07-07T06:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/07/202507070554556463_t.jpg",
+        "url": "https://news.nate.com/view/20250707n01911",
+        "original_url": "https://news.nate.com/view/20250707n01911"
+      },
+      {
+        "title": "\"24시간 내 추가 홍수\" 美 텍사스 홍수 피해 확산…실종 41명·사망 71명",
+        "time": "2025-07-07T06:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/07/07/cz_1751837884328_204312_0.jpg",
+        "url": "https://news.nate.com/view/20250707n02446",
+        "original_url": "https://news.nate.com/view/20250707n02446"
+      },
+      {
+        "title": "브릭스 회의 열린 브라질에서 이란 규탄 집회…교수대·무지개 깃발로 이파네마 해변 뒤덮어",
+        "time": "2025-07-07T06:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/07/202507070627576414_t.jpg",
+        "url": "https://news.nate.com/view/20250707n02349",
+        "original_url": "https://news.nate.com/view/20250707n02349"
+      },
+      {
+        "title": "[속보] 이스라엘군, 레바논 동부와 남부에도 6일밤 공습 재개",
+        "time": "2025-07-07T06:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250707n02285",
+        "original_url": "https://news.nate.com/view/20250707n02285"
+      },
+      {
+        "title": "브릭스, 이란 폭격 '국제법 위반' 규탄…트럼프 관세에도 우려",
+        "time": "2025-07-07T06:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20250707_0000472221_web.jpg",
+        "url": "https://news.nate.com/view/20250707n02370",
+        "original_url": "https://news.nate.com/view/20250707n02370"
+      },
+      {
+        "title": "트럼프, 폭우로 대형 인명피해 발생한 텍사스 재난지역 선포",
+        "time": "2025-07-07T06:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/07/07/kuk20250707000003.800x.0.jpg",
+        "url": "https://news.nate.com/view/20250707n02253",
+        "original_url": "https://news.nate.com/view/20250707n02253"
+      },
+      {
+        "title": "[트럼프 스트레스] 美 \"협상 미합의국엔 8월부터 유예 상호관세율 적용\"",
+        "time": "2025-07-07T06:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/07/07/news_1751836289_1519361_m_1.jpeg",
+        "url": "https://news.nate.com/view/20250707n02236",
+        "original_url": "https://news.nate.com/view/20250707n02236"
+      },
+      {
+        "title": "예멘 반군 \"이스라엘 텔아비브 공항에 미사일 공격\"",
+        "time": "2025-07-07T06:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/07/353754_1751836197.jpg",
+        "url": "https://news.nate.com/view/20250707n02214",
+        "original_url": "https://news.nate.com/view/20250707n02214"
+      },
+      {
+        "title": "[속보] 이스라엘, 예멘의 홍해 항구들과 발전소 폭격하겠다 경고",
+        "time": "2025-07-07T06:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/07/NISI20201211_0000654239_web.jpg",
+        "url": "https://news.nate.com/view/20250707n02202",
+        "original_url": "https://news.nate.com/view/20250707n02202"
+      }
+    ]
   }
 ]
