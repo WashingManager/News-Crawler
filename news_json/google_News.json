@@ -53645,11 +53645,60 @@
     "date": "2025년 07월 07일 월요일",
     "articles": [
       {
+        "title": "\"보름 동안 '1400건' 이상\"···日 도카라 열도, 유례 없는 군발지진에 주민 대피까지",
+        "time": "2025-07-07T21:19:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXBhbVJDTmxGaU5ITnBOUzFEVFJDWEF4amlCQ2dLTWdZUmNwaEpNUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTFBuTlg5amMtczZpOGhGQlR6bktkNF9HeDN6cFFJSWEzREZCVE1QT1JZQXEtNE5IeXY5Y1ktMUltVExVUFNmRy0yaXpkcVRRYWFPajJz?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTFBuTlg5amMtczZpOGhGQlR6bktkNF9HeDN6cFFJSWEzREZCVE1QT1JZQXEtNE5IeXY5Y1ktMUltVExVUFNmRy0yaXpkcVRRYWFPajJz?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "대만 이란현 남쪽서 규모 5.0 지진",
+        "time": "2025-07-07T21:10:53+00:00",
+        "img": "/api/attachments/CC8iK0NnNDJkek5PVGxwTFVWQTBMVXRLVFJEMEF4ajBBeWdLTWdZRk1vcXZ3UVE=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTFBxcmF3UFdnT1RWRUFqNHVadUFnOGp2a0xlYllBcUdJclRRdUNXaUhrNHRzNXdIY2FFaVBCMG9sZ0tLNmxDb29QTzhVRzhWdUh1T2l3LUF6ZWZqT03SAWBBVV95cUxORGY2M1BkVXpmUTBrUElXdi0yX3JuNklCb1NDTUxfSkhidmdGMUg1c2tpYzhJSkNCeXFKQllNNElwcnA0WlAyWmNXUDRUNEtBMml3MFdaTjNraEJXV3h1TGE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFBxcmF3UFdnT1RWRUFqNHVadUFnOGp2a0xlYllBcUdJclRRdUNXaUhrNHRzNXdIY2FFaVBCMG9sZ0tLNmxDb29QTzhVRzhWdUh1T2l3LUF6ZWZqT03SAWBBVV95cUxORGY2M1BkVXpmUTBrUElXdi0yX3JuNklCb1NDTUxfSkhidmdGMUg1c2tpYzhJSkNCeXFKQllNNElwcnA0WlAyWmNXUDRUNEtBMml3MFdaTjNraEJXV3h1TGE?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "포항지진 피해자 단체 “상고심 승소 총력”…전원합의체 심리·추가 변론 추진",
+        "time": "2025-07-07T21:03:18+00:00",
+        "img": "/api/attachments/CC8iK0NnNVVSbFpzTURReU1HOXNTVWhaVFJDY0FoallCQ2dLTWdhaFZJaXVJUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTE95QzVFcXhOQkZEYjJLUGxHOTdBTU9rcU9kU0F1eWF6ZmVvUk1DOFNpQllkY0lFTGhMSjV5UXQxS042MWlsR1I1a2toRFRIenRrX1dPeFZwYUFHMFlIUnptOXNIR3k5RDd2ZTJ5dmhoaw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTE95QzVFcXhOQkZEYjJLUGxHOTdBTU9rcU9kU0F1eWF6ZmVvUk1DOFNpQllkY0lFTGhMSjV5UXQxS042MWlsR1I1a2toRFRIenRrX1dPeFZwYUFHMFlIUnptOXNIR3k5RDd2ZTJ5dmhoaw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "38도 폭염에 천5백여 회 지진까지...일본 열도 몸살",
+        "time": "2025-07-07T20:46:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNUpaMUJsT0RoMmRqbHlWRUZ4VFJDZkF4ampCU2dLTWdaQnNZalZQQVU=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE1MMEpFZVJ1NXZwNzFKd1FKZWFrTFkzQ2FvY0w4TTdWWXJaZGZnakhZeW9Cb3prSzg1WXRDTVdvaUc1TmQ0Q1g2Y1JkSEl6al96SWNyZFhBd2Mza3N1TUHSAYMBQVVfeXFMUG9TR2NCbzVRcG90T2xKSmp3MnB6Q0VtNkZxQlZxeDlmOXlXZDhsVWNMNkd2cWduVjdYUldJNXpVbEJHRVNBZWFDTFpPMXR1aW5za0xRamMtOV9DTmttRm15amljYU1iekRMcDFiaU51VWRaV3JBakRlQ0tpTjY0WV9KOVU?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE1MMEpFZVJ1NXZwNzFKd1FKZWFrTFkzQ2FvY0w4TTdWWXJaZGZnakhZeW9Cb3prSzg1WXRDTVdvaUc1TmQ0Q1g2Y1JkSEl6al96SWNyZFhBd2Mza3N1TUHSAYMBQVVfeXFMUG9TR2NCbzVRcG90T2xKSmp3MnB6Q0VtNkZxQlZxeDlmOXlXZDhsVWNMNkd2cWduVjdYUldJNXpVbEJHRVNBZWFDTFpPMXR1aW5za0xRamMtOV9DTmttRm15amljYU1iekRMcDFiaU51VWRaV3JBakRlQ0tpTjY0WV9KOVU?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "인도네시아 화산 분화…발리 오가는 항공기 수십편 취소",
+        "time": "2025-07-07T20:45:01+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXdNMnczV1ZscmJUUnNUekppVFJERUF4aW1CU2dLTWdNbEVBRQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE5WRGd0Zzd4dEkxNFJ5MnhBSURud0stOTIxYUZIMDVJQjVCMHB4TVUwWlBwVE1oeFhzOEIxSzBkT1hxeHQxdUwzUE5qakpWejJTRk5CRVhWS0w1OXc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE5WRGd0Zzd4dEkxNFJ5MnhBSURud0stOTIxYUZIMDVJQjVCMHB4TVUwWlBwVE1oeFhzOEIxSzBkT1hxeHQxdUwzUE5qakpWejJTRk5CRVhWS0w1OXc?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "유네스코서 ‘군함도’ 논의 무산... 의제 채택 표대결서 패배",
+        "time": "2025-07-07T20:29:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNWFXV1UzVkhORlYzbzBXRkpYVFJEOEFSamdBeWdLTWdtWlVvZ3lRZVI2S3dJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMikgFBVV95cUxOeFA0cXRnVTdSSy12ai13dmZSM1A1TWJNRTF2NllOUTFuUC1ybFpGdFI1WFExWklvS1A0SkU2VVRwOHVTM0Y0cFBkMldSMEVNSEFhb2hsVDZvQUpwdmlzTkxmMkdiUXI4Qm15R0lrSlNSR3poUnVXb2x4SDVPblNKdHluUnVQSEdJZndtVmlnUUw5d9IBpgFBVV95cUxPd01GNDRGdG43VkFmanJraEc5Y3NYbDNVWkJWRzB1elg5eEJ0VjVnTjlDOWcyWExOTGJfblV4WFpDUkxtU0tiSTBmejJsLVlON3hlWGtMOE1ha2IwdWlKb0l0TnhXRndoR3FiNWIwNUIzQVh4V3I0UDVWN0pqbGJQWmNNS3JBLWp6S0xLVXFzVWpvdERsT2J0cnRwajItcXRRS0Rtempn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMikgFBVV95cUxOeFA0cXRnVTdSSy12ai13dmZSM1A1TWJNRTF2NllOUTFuUC1ybFpGdFI1WFExWklvS1A0SkU2VVRwOHVTM0Y0cFBkMldSMEVNSEFhb2hsVDZvQUpwdmlzTkxmMkdiUXI4Qm15R0lrSlNSR3poUnVXb2x4SDVPblNKdHluUnVQSEdJZndtVmlnUUw5d9IBpgFBVV95cUxPd01GNDRGdG43VkFmanJraEc5Y3NYbDNVWkJWRzB1elg5eEJ0VjVnTjlDOWcyWExOTGJfblV4WFpDUkxtU0tiSTBmejJsLVlON3hlWGtMOE1ha2IwdWlKb0l0TnhXRndoR3FiNWIwNUIzQVh4V3I0UDVWN0pqbGJQWmNNS3JBLWp6S0xLVXFzVWpvdERsT2J0cnRwajItcXRRS0Rtempn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[속보] 법원, 노상원 추가 구속영장 발부",
         "time": "2025-07-07T20:21:00+00:00",
         "img": "/api/attachments/CC8iI0NnNDVkVWxsT1Rad05WZDVaMWxTVFJDdUFSaWlBaWdCTWdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMickFVX3lxTE01dkVkbUlLcko1RG5KRGY4NHBYMWo1bm1qZTM5VmpYMDJlWlRDd2g2WHFwNzZkV3lreE9wa21OWXZJM0JnZkhxMGhjZEp5TWJIeFNTdXFoM2ZqTXBTWFRiaTQzWlN3LW5aN1QwWFBPQkVnQQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMickFVX3lxTE01dkVkbUlLcko1RG5KRGY4NHBYMWo1bm1qZTM5VmpYMDJlWlRDd2g2WHFwNzZkV3lreE9wa21OWXZJM0JnZkhxMGhjZEp5TWJIeFNTdXFoM2ZqTXBTWFRiaTQzWlN3LW5aN1QwWFBPQkVnQQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "印尼 레워토비 라키라키 화산 폭발…발리-한국 노선 등 항공편 결항",
+        "time": "2025-07-07T20:01:38+00:00",
+        "img": "/api/attachments/CC8iI0NnNURkbkZJYVdjNVQzTm1XWGw1VFJERUF4aW1CU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTFB0Mmo1dml2ajNaUmpkX3RuMlNxcXBqalZiLU0za1dwVTJDOW5veUJBR1YydnA4TzFxTWVGanhMMGRET01SdHdER1RkamhpeDJjaVlCRXlPazFKamVJMkJXLdIBeEFVX3lxTE9DRnNUVVU0RWo5M0xIRElrdmdTb01mVTdlajdRX1B5clNfdmNRQ0ptMEtoTlZIYXcwYmlvLUZRMnczSldCVlZ4azhmRzNCUW1nLVVrVHJZVXUtaXFMMkpZa0U0ODFlaXZmNWFYU3FnMVRHLW1fdk9XQg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTFB0Mmo1dml2ajNaUmpkX3RuMlNxcXBqalZiLU0za1dwVTJDOW5veUJBR1YydnA4TzFxTWVGanhMMGRET01SdHdER1RkamhpeDJjaVlCRXlPazFKamVJMkJXLdIBeEFVX3lxTE9DRnNUVVU0RWo5M0xIRElrdmdTb01mVTdlajdRX1B5clNfdmNRQ0ptMEtoTlZIYXcwYmlvLUZRMnczSldCVlZ4azhmRzNCUW1nLVVrVHJZVXUtaXFMMkpZa0U0ODFlaXZmNWFYU3FnMVRHLW1fdk9XQg?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "이 대통령 미국에 김종인 특사 등 14개국에 특사 파견 검토",
@@ -53764,6 +53813,13 @@
         "original_url": "https://news.google.com/read/CBMikAFBVV95cUxNa3d3ZWdWaTZKVTB4N1BqRWNkTnNKbEhvaGJsUXJoUXBMWHg2RUxMRHFZT3BnSHdKV282WDhybGVNd3h1d05XUE1XellheTZQeGFOTy1TOE1SRzBHVFpTbVdyRmVIQV9PaElNMXdnUjFvMXM2cjJqOEpEakRfYVlKeC1ZME5OT3djczJON2xXWHPSAaQBQVVfeXFMTjFBMWo0MUdRSmc3VXItMnBEVk5yVFczc1pMQjc0N3JUY0JrRF9UZk9zS1FXaTdWckdsaUIyMldyNFZkdkU1MGVLSkNfS2dhbEY1U2I4YVJmQS16clVGVkVobVFNSE5RMDViVnVvVDhPMVQzem1zemUtT2lpSEN1N0FSSFhBSTMxRzJiM0VtUEZRZmM5ajZ6SnRMUnBSN2poODJzdm4?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "\"올해 119번이나 밥 먹으러 갔어요\"…가성비에 '북적북적'",
+        "time": "2025-07-07T14:25:02+00:00",
+        "img": "/api/attachments/CC8iK0NnNUhSM2RyT1VOMVoxSmtXbFEzVFJDdEF4akxCU2dLTWdZQmNJZ2lOUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFB1N1RTTWxZVXAwdkJMZEN3NkNPNW1LbkFJN0hScjNCODBJWXF4UUctbFlvTllaOWY5djY0WkFrelRwRmdFakVuQ2lSdmk5b2lpYWlzaFMwUUpoQdIBVEFVX3lxTE1ISjdnUmlYLVdwTTBBbmZTeU5FS0wwQzlNR2ZHNC1YUG9yYXJlRXctRVNaakFseV92WEt0ODRUeDFzSDRqM1ZsaUs2bWRuQXdYdTA1bg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFB1N1RTTWxZVXAwdkJMZEN3NkNPNW1LbkFJN0hScjNCODBJWXF4UUctbFlvTllaOWY5djY0WkFrelRwRmdFakVuQ2lSdmk5b2lpYWlzaFMwUUpoQdIBVEFVX3lxTE1ISjdnUmlYLVdwTTBBbmZTeU5FS0wwQzlNR2ZHNC1YUG9yYXJlRXctRVNaakFseV92WEt0ODRUeDFzSDRqM1ZsaUs2bWRuQXdYdTA1bg?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "이 대통령, 美 특사에 김종인·이언주 내정",
         "time": "2025-07-07T13:30:00+00:00",
         "img": "/api/attachments/CC8iI0NnNXBSSHBOY1ZwaE4xQjVVSE5FVFJDUkF4ajhCU2dLTWdB=-w350-h175-p-df-rw",
@@ -53825,6 +53881,13 @@
         "img": "/api/attachments/CC8iI0NnNDBWRGh2ZUVKRFdrbFFialJ0VFJEMkFoajBBeWdLTWdB=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiVEFVX3lxTE01QTR4SEZPWjBoVHFHTkhGMVBTaG4zaENSVjB0VmU4bHNtTHBNaVU1eUphVDQzbnZQNzN2LVdxQW9sQWJ0RENKYUhMTjlISWU3N3NhZQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiVEFVX3lxTE01QTR4SEZPWjBoVHFHTkhGMVBTaG4zaENSVjB0VmU4bHNtTHBNaVU1eUphVDQzbnZQNzN2LVdxQW9sQWJ0RENKYUhMTjlISWU3N3NhZQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "'日 대지진' 예언날짜 지났지만...여전히 불안한 주민들 '탈출러시'",
+        "time": "2025-07-07T10:56:41+00:00",
+        "img": "/api/attachments/CC8iK0NnNUhZVGQwUmt0Q2FVc3lRaTExVFJDM0FSaVRBaWdCTWdZUmNwZ3BNUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXEFVX3lxTE9kQWZrY05nNkJJZERpcTFDV093YjRxSFB0bDlnVGEySTc2YVdVdTBMUHVoYW1NSnU5eEM3Y1pWWEpHOWl0NldtcUQxOFZIT20zNW9iTWZnSWNoNEQ3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXEFVX3lxTE9kQWZrY05nNkJJZERpcTFDV093YjRxSFB0bDlnVGEySTc2YVdVdTBMUHVoYW1NSnU5eEM3Y1pWWEpHOWl0NldtcUQxOFZIT20zNW9iTWZnSWNoNEQ3?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "채 상병 특검, ‘VIP 격노설’ 핵심 김계환 전 사령관 소환",
@@ -54072,6 +54135,13 @@
         "original_url": "https://news.google.com/read/CBMicEFVX3lxTE5aZVFWUXdjTU9kZ21wcm15VUtEeVk5VmFGRnlmaUhUQzRRX0tTY3dISjlpS1AwOEVMQWpUd3Z2R2ZwVnVzbkhhNHl1N1Zkd1VPenZzLUpBdFVPMlRXWHUwWEg3TElVcmh2amYwaDRrMk8?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "“여기가 흔들리면 멋있으려나”… 태민, 日지진 발언 사과",
+        "time": "2025-07-06T17:27:02+00:00",
+        "img": "/api/attachments/CC8iI0NnNVpaVUZ2Vm5aTk5qSXRUbWRpVFJDUkF4ajhCU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMigwFBVV95cUxNNnFxN3Vlei1PWE52U3gxQVBWLUZUMzg1YzBFUk5WQ1VGNzVTS1JXVnh0N1NhMmNZUGJNOTVmM01IQXVlaGV2Vy1PNjVEMEVvdi1iUkJCSlZYMVFMQVk1OF9zaHV3SlNSWlhPcmUzUksxTGNONGs4QWd5S2ZDUGxfaDA3QdIBlwFBVV95cUxOYUt5Z0lUM1hZN1FvaGdOR01hM2ZpeUdNWnh4UmNOemx4UGxCVlpoaDNpOGhUNnlxeU85UzdwQ3NVM0FRelRPdnVyZUxPVVRxZlhRdmVvSmxCMFo3b2JTalhLTGtmbi1BSTBsUDRzeUs4UTFySm9valRTT0FCSXN1eGduMVpPR3Q2Y25zMWpJcmQwM0V6SEpV?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMigwFBVV95cUxNNnFxN3Vlei1PWE52U3gxQVBWLUZUMzg1YzBFUk5WQ1VGNzVTS1JXVnh0N1NhMmNZUGJNOTVmM01IQXVlaGV2Vy1PNjVEMEVvdi1iUkJCSlZYMVFMQVk1OF9zaHV3SlNSWlhPcmUzUksxTGNONGs4QWd5S2ZDUGxfaDA3QdIBlwFBVV95cUxOYUt5Z0lUM1hZN1FvaGdOR01hM2ZpeUdNWnh4UmNOemx4UGxCVlpoaDNpOGhUNnlxeU85UzdwQ3NVM0FRelRPdnVyZUxPVVRxZlhRdmVvSmxCMFo3b2JTalhLTGtmbi1BSTBsUDRzeUs4UTFySm9valRTT0FCSXN1eGduMVpPR3Q2Y25zMWpJcmQwM0V6SEpV?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "4호 태풍 ‘다나스’…한반도 폭염 더 심해질 듯",
         "time": "2025-07-06T16:52:15+00:00",
         "img": "/api/attachments/CC8iI0NnNXhUMWxTUm5seVEwNTJRMnQzVFJDMUF4aUFCU2dLTWdB=-w350-h175-p-df",
@@ -54093,6 +54163,13 @@
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9STUdIcUQySzdBUEtRaTZ2b3Z4b2Y5LVctM2NUUVRFcFVnS2tHU1RCNXZnWjV1U0YxR0F3REdXQ0U1UUtSNzdxNkpFMTQ4OVBrSnlmSDF0RktYcTjSAWBBVV95cUxOUFgxRVV5eklFYUx0X2xTSzlTX3R5QkVTbThHenE4b04yWXI4M3A1azFwdGk1Y201RkVkaEd1X2l2TEZ2ZEFxM1BJWEpIZ0g3c0d5Zk40S294QVFZR3ZMdkE?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "日도카라 열도에 규모 5.4 지진…지난달 하순부터 1432회 지진",
+        "time": "2025-07-06T16:25:20+00:00",
+        "img": "/api/attachments/CC8iI0NnNW9OelpVVTNwalgwVlRkM28xVFJDLUF4aXdCU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTFB5My1FVC1ETGxkeTQ3M081RWpRT2FpX2xUblM4TmhTaUQ3VjFSZUNoWUhCY3pGZXVKbWF6OVBDamxkTTZabGhlSFpIaXB6TTJYa0Zacl9pQ0d0MkVRQTZwa9IBeEFVX3lxTE5nWC1RMkxiczJVWFI4M3E4QzNpWWFteG1wSEhMRmlBYTZNZ1ZFVUNFejlkMFhBRG5za2QwUmRlUElhQ2xydFpFNHZyRWE2YlkzOEZzQmlpSlBBQTV6YW9xWWY2cm5HVFpnTDNDZktWMURvYkE4TlhPNQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTFB5My1FVC1ETGxkeTQ3M081RWpRT2FpX2xUblM4TmhTaUQ3VjFSZUNoWUhCY3pGZXVKbWF6OVBDamxkTTZabGhlSFpIaXB6TTJYa0Zacl9pQ0d0MkVRQTZwa9IBeEFVX3lxTE5nWC1RMkxiczJVWFI4M3E4QzNpWWFteG1wSEhMRmlBYTZNZ1ZFVUNFejlkMFhBRG5za2QwUmRlUElhQ2xydFpFNHZyRWE2YlkzOEZzQmlpSlBBQTV6YW9xWWY2cm5HVFpnTDNDZktWMURvYkE4TlhPNQ?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "1432회 '흔들' 유례없는 지진에 결국…주민 대피 나선 日 도카라 열도",
         "time": "2025-07-06T14:50:00+00:00",
         "img": "/api/attachments/CC8iI0NnNHRTbTEzWmt0WVJWVnJWeTFhVFJERUF4aW5CU2dLTWdB=-w100-h100-p-df",
@@ -54100,11 +54177,25 @@
         "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE9aX1VmcE16QkttUnRIZUVwQ0NzNDFkUkNFUEoyWHRNM0Jwb2VsM2RfT3VsZmc0V2tjN29mbFFmWkhPRHZVOWdVaXk3NE1jUWRBYUh0Sy1PVkFlNHdpMFBQTg?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "[전문] 북, 이스라엘이 가자지구를 ‘지상의 지옥’으로 만들어",
+        "time": "2025-07-06T13:40:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNUhUbXhyZUhodExWSTVOR3BtVFJDc0FoakNBeWdLTWdrQlVvWUpKdVhJVXdF=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiQ0FVX3lxTE91NG9TZzVXTG1aNDc2WUpyR3dVelRjNEdqWXNYOUdKWHFqYlAwSHZWYldLR0RFcFRsYTR5Z3prdFNEbW8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiQ0FVX3lxTE91NG9TZzVXTG1aNDc2WUpyR3dVelRjNEdqWXNYOUdKWHFqYlAwSHZWYldLR0RFcFRsYTR5Z3prdFNEbW8?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "日 '대지진 괴담' 당일 규모 5.4 지진…일부 주민 대피",
         "time": "2025-07-06T12:57:54+00:00",
         "img": "/api/attachments/CC8iI0NnNVdVbUpoTjJvNVRFeDFObVpZVFJDM0FSaVRBaWdCTWdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiWEFVX3lxTE1CR0M3VUpNUU9WWXhLT1VIV0cwcThTZ281aTNISEs4M1NkLVA5Sml1YkNrSjhRQ1FuOXVjSGpmVW43ZXc2aWpraFBVTmRWQXNaWEotMTJqbU4?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWEFVX3lxTE1CR0M3VUpNUU9WWXhLT1VIV0cwcThTZ281aTNISEs4M1NkLVA5Sml1YkNrSjhRQ1FuOXVjSGpmVW43ZXc2aWpraFBVTmRWQXNaWEotMTJqbU4?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "'대지진설' 당일에 발생한 지진…일 기상청 \"아무런 관계 없어\"",
+        "time": "2025-07-05T20:13:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNW9RVWh4YTNkQ2RGRjJaM1JDVFJEUkFoallCQ2dLTWdrQkVZelZqT2k0YlFF=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVEFVX3lxTFBtV3B0d3lNcmowblBWT1hmMnZqVkhoUkVubDZZWlMzaFhKNDd1SENVTG13MGFCWVNSUlp4RXZvSFl0VUVKSUlxOWR3cmRFN1F3ZV9pdA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVEFVX3lxTFBtV3B0d3lNcmowblBWT1hmMnZqVkhoUkVubDZZWlMzaFhKNDd1SENVTG13MGFCWVNSUlp4RXZvSFl0VUVKSUlxOWR3cmRFN1F3ZV9pdA?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "지진 1000회 나더니…日규슈 화산서 연기 5000ｍ 치솟았다",
