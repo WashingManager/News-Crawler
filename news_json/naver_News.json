@@ -314336,5 +314336,802 @@
         "summary": ""
       }
     ]
+  },
+  {
+    "date": "2025년 07월 08일 화요일",
+    "articles": [
+      {
+        "title": "'방송3법 통과' 설왕설래에 민주당 \"이재명 대통령도 공감\"",
+        "time": "2025-07-08T11:50:07",
+        "img": "https://imgnews.pstatic.net/image/047/2025/07/08/0002480110_001_20250708115007328.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/047/0002480110",
+        "original_url": "https://n.news.naver.com/mnews/article/047/0002480110",
+        "summary": "'방송3법에 당정 같은 입장' 강조... 진성준 \"이 대통령, '국민께 방송 돌려드린다는 취지 잘 구현' 평가\""
+      },
+      {
+        "title": "[人사이더] 권성동 “급작스런 安 ‘철수 작전’ 배경 속속 드러나”",
+        "time": "2025-07-08T11:36:17",
+        "img": "https://imgnews.pstatic.net/image/029/2025/07/08/0002966791_002_20250708113709082.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002966791",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002966791",
+        "summary": ""
+      },
+      {
+        "title": "‘보수책사’ 윤여준 “李대통령 밑에서 수석했으면 얼마나 좋았을까”",
+        "time": "2025-07-08T11:35:14",
+        "img": "https://imgnews.pstatic.net/image/021/2025/07/08/0002721122_002_20250708113514589.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721122",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721122",
+        "summary": ""
+      },
+      {
+        "title": "‘액상담배’로 한국에 신종마약 풀려던 국제조직, 국정원에 딱 걸렸다",
+        "time": "2025-07-08T11:35:06",
+        "img": "https://imgnews.pstatic.net/image/009/2025/07/08/0005521331_001_20250708113506872.gif?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005521331",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005521331",
+        "summary": ""
+      },
+      {
+        "title": "[속보] 주진우 “이진숙, 제자 논문 베끼다 오타까지…간 큰 도둑질”",
+        "time": "2025-07-08T11:30:12",
+        "img": "https://imgnews.pstatic.net/image/666/2025/07/08/0000077703_001_20250708113012111.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/666/0000077703",
+        "original_url": "https://n.news.naver.com/mnews/article/666/0000077703",
+        "summary": "“표절해도 문제 제기할 수 없는, 힘없는 제자만 노린 것”\n“이진숙, 교육부 장관 감당 못해…당장 사퇴하라”"
+      },
+      {
+        "title": "조갑제 \"김문수, 지금은 이재명 흔들지 말고 도와줘야…윤석열 세력과 싸우라\"",
+        "time": "2025-07-08T11:29:08",
+        "img": "https://imgnews.pstatic.net/image/002/2025/07/08/0002396174_001_20250708112908980.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/002/0002396174",
+        "original_url": "https://n.news.naver.com/mnews/article/002/0002396174",
+        "summary": ""
+      },
+      {
+        "title": "14개국 특사 추진…美 김종인·日 정세균·中 박병석 거론",
+        "time": "2025-07-08T11:28:34",
+        "img": "https://imgnews.pstatic.net/image/277/2025/07/08/0005619350_001_20250708112910497.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005619350",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005619350",
+        "summary": "李, 특사파견 외교 복원 시도\n대미특사단장에 이언주 유력\n김민석 '10X3 플랜(Plan)' 추진 \"공직사회 응원단장될 것\""
+      },
+      {
+        "title": "“한국만 없어 항공모함”…해군, 야심 찬 계획 세웠다는데",
+        "time": "2025-07-08T11:23:09",
+        "img": "https://imgnews.pstatic.net/image/009/2025/07/08/0005521320_001_20250708112309250.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005521320",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005521320",
+        "summary": ""
+      },
+      {
+        "title": "관세협상 운명의 3주…전문가 \"정상회담으로 패키지딜 이끌어야\"",
+        "time": "2025-07-08T11:55:20",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356719_001_20250708115616802.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356719",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356719",
+        "summary": "\"정상회담 통해 큰 틀 합의 먼저 이뤄야…더 양보해야 할 수도\"\n\"트럼프, 홍보용 치적 요구한 것…베트남 사례 벤치마킹 필요\""
+      },
+      {
+        "title": "트럼프, 한국부터 때렸다…한미협상 3주 더",
+        "time": "2025-07-08T11:41:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/374/0000450296",
+        "original_url": "https://n.news.naver.com/mnews/article/374/0000450296",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 ‘관세서한’서 캐나다·멕시코 빠진 이유",
+        "time": "2025-07-08T11:37:07",
+        "img": "https://imgnews.pstatic.net/image/018/2025/07/08/0006060203_001_20250708113707967.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006060203",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006060203",
+        "summary": "캐나다·멕시코, 90일 상호관세 유예 대상 아니었던 국가\n25% 관세 고스란히 적용받고 있어\n캐나다, 미와 무역협상 중…멕시코, USMCA 조기개정 추진"
+      },
+      {
+        "title": "“車 관세는 협상 대상 아냐“...한국 자동차 수출 타격 장기화",
+        "time": "2025-07-08T11:32:14",
+        "img": "https://imgnews.pstatic.net/image/023/2025/07/08/0003915724_001_20250708113214144.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003915724",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003915724",
+        "summary": ""
+      },
+      {
+        "title": "\"미국으로 다 옮긴다\"…車 '탈한국' 대책 시급[美 관세 위기②]",
+        "time": "2025-07-08T11:31:00",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250331_0001804699_web_20250331060859_20250708115314885.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349477",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349477",
+        "summary": "현대차그룹, 메타플랜트 아메리카 준공 뒤 가동\n미국 내 다른 공장들도 생산량 높이며 관세 대응\n울산 공장 가동 중단 등 국내에서도 여파 현실화\n'탈한국' 막기 위해 세제·노동·입지 개선 목소리"
+      },
+      {
+        "title": "車 부품 유예 2년뿐…'관세 시한폭탄' 터진다[美 관세 위기①]",
+        "time": "2025-07-08T11:30:00",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250701_0020871038_web_20250701132944_20250708115117187.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349474",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349474",
+        "summary": "25% 고관세, 완성차 수출에 직격탄\nSUV·제네시스 등 가격 경쟁력 약화\n車부품 관세 유예 2년, 2027년 종료\n하니스·배터리 등 고부가 품목 타격\n현지 생산 검토해도 비용·인력 부담\n정부, 통상협상·지원 조속 마련해야"
+      },
+      {
+        "title": "“고기 없어도 맛있어”… 독일 MZ, ‘이 韓食’에 푹 빠졌다",
+        "time": "2025-07-08T10:01:14",
+        "img": "https://imgnews.pstatic.net/image/346/2025/07/08/0000094262_001_20250708100114430.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/346/0000094262",
+        "original_url": "https://n.news.naver.com/mnews/article/346/0000094262",
+        "summary": ""
+      },
+      {
+        "title": "[날씨] 폭염도 비상, 동해안 완화‥오후~밤 내륙 또 소나기",
+        "time": "2025-07-08T09:50:48",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/214/0001434880",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001434880",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 ‘관세 책사’ 애플 겨냥... “아이폰 탈중국 속도 느려”... 미국 생산 압박",
+        "time": "2025-07-08T11:42:10",
+        "img": "https://imgnews.pstatic.net/image/021/2025/07/08/0002721139_002_20250708114210240.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721139",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721139",
+        "summary": "‘트럼프 관세 책사’ 나바로, 팀 쿡 애플 CEO 지목 비판"
+      },
+      {
+        "title": "LA 한복판서 장갑차·소총 무장 군인들이 이민자 단속···도시 전역에 ‘불안감’",
+        "time": "2025-07-08T11:40:10",
+        "img": "https://imgnews.pstatic.net/image/032/2025/07/08/0003381244_001_20250708115007310.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003381244",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003381244",
+        "summary": "“오늘은 공원, 내일은 또 어디?”\n캐런 배스 시장 “너무 충격적”"
+      },
+      {
+        "title": "美, 우크라이나 무기 지원 재개…\"더 많은 방어용 무기 보낼 것\"",
+        "time": "2025-07-08T11:36:57",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/PEP20240612050401009_P4_20250708113712821.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015494112",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015494112",
+        "summary": ""
+      },
+      {
+        "title": "美 “품목에 상호관세 합산 안해…48시간내 여러 합의 발표”",
+        "time": "2025-07-08T11:31:14",
+        "img": "https://imgnews.pstatic.net/image/016/2025/07/08/0002496391_001_20250708113114152.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002496391",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002496391",
+        "summary": ""
+      },
+      {
+        "title": "日총리, 트럼프 관세 25% 부과에 “안이한 타협 피할 것”",
+        "time": "2025-07-08T11:26:21",
+        "img": "https://imgnews.pstatic.net/image/016/2025/07/08/0002496364_001_20250708112621647.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002496364",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002496364",
+        "summary": ""
+      },
+      {
+        "title": "\"불안해서 발리 비행기 예약하겠나\"…인도네시아 화산, 2주 만에 또 폭발",
+        "time": "2025-07-08T11:19:07",
+        "img": "https://imgnews.pstatic.net/image/011/2025/07/08/0004506436_001_20250708111907788.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004506436",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004506436",
+        "summary": ""
+      },
+      {
+        "title": "美 텍사스 홍수 사망자 100명 넘어…트럼프의 기상청 등 축소 책임 공방",
+        "time": "2025-07-08T11:11:48",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000475470_web_20250708101537_20250708113115286.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349341",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349341",
+        "summary": "트럼프·백악관 대변인 “100년에 한 번 있을 돌발 홍수” 자연재난 규모 탓\n척 슈머 의원 “기상청 관측소 인력 부족이 인명 피해에 미친 영향 조사” 촉구\n백악관, 연방재난관리청(FEMA) 폐지 재고 질문에 “계속될 정책 논의” 답변"
+      },
+      {
+        "title": "\"韓관세에 화학제품 수입 타격\" 美서도 우려",
+        "time": "2025-07-08T11:11:36",
+        "img": "https://imgnews.pstatic.net/image/277/2025/07/08/0005619329_001_20250708112214866.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005619329",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005619329",
+        "summary": "ICIS \"벤젠·톨루엔·혼합 자일렌\n韓이 美최대 공급국\"\n美는 구조적 생산 못하는 분야"
+      },
+      {
+        "title": "英 부유세 도입 논란 점화…세수 확보 vs 대규모 자본 유출",
+        "time": "2025-07-08T11:08:20",
+        "img": "https://imgnews.pstatic.net/image/011/2025/07/08/0004506429_001_20250708110820608.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004506429",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004506429",
+        "summary": "노동당 前 대표 부유세 도입 주장\n재정적자 확대로 세수 확보 비상\n“연 110억 파운드 수입 증대 예상”\n노동당 ‘부자때리기’에 자본 탈출"
+      },
+      {
+        "title": "푸틴에 실망한 트럼프, 우크라 무기지원 중단 1주 만에 \"더 줄게\"",
+        "time": "2025-07-08T10:52:59",
+        "img": "https://imgnews.pstatic.net/image/008/2025/07/08/0005218429_001_20250708111612590.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005218429",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005218429",
+        "summary": "4일 푸틴과 통화, 평화협상 불응에 \"실망\""
+      },
+      {
+        "title": "푸틴에 실망한 트럼프 \"우크라에 추가 무기 지원…방어 능력 강화해야\"",
+        "time": "2025-07-08T10:47:08",
+        "img": "https://imgnews.pstatic.net/image/123/2025/07/08/0002363184_001_20250708104708739.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/123/0002363184",
+        "original_url": "https://n.news.naver.com/mnews/article/123/0002363184",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 휴전 깨졌나…후티, '무역동맥' 홍해 상선 이틀연속 공격",
+        "time": "2025-07-08T10:41:29",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/PEP20250628038801009_P4_20250708104213602.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493792",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493792",
+        "summary": ""
+      },
+      {
+        "title": "'박정희 동상' 조명한 日 매체 \"논란의 뿌리는 일본\"",
+        "time": "2025-07-08T10:34:39",
+        "img": "https://imgnews.pstatic.net/image/277/2025/07/08/0005619281_001_20250708103512278.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005619281",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005619281",
+        "summary": "\"보수-진보진영 간 역사 인식 차이 극명해\"\n\"과거 둘러싼 평가-해석…韓사회 양분화\""
+      },
+      {
+        "title": "네타냐후 “노벨평화상 후보로 트럼프 추천… 이 순간에도 평화 만들어\"",
+        "time": "2025-07-08T10:30:08",
+        "img": "https://imgnews.pstatic.net/image/023/2025/07/08/0003915705_001_20250708112811840.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003915705",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003915705",
+        "summary": ""
+      },
+      {
+        "title": "한일에 25% 관세 예고한 트럼프 속내는? \"美에 직접 투자하면 인허가 절차 신속히 완료\"",
+        "time": "2025-07-08T10:27:13",
+        "img": "https://imgnews.pstatic.net/image/002/2025/07/08/0002396159_001_20250708102713247.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/002/0002396159",
+        "original_url": "https://n.news.naver.com/mnews/article/002/0002396159",
+        "summary": ""
+      },
+      {
+        "title": "대만, 다음달 日 원폭투하 80주년 기념식 첫 참석…日·中 마찰 가능성",
+        "time": "2025-07-08T10:23:53",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20240809_0001381060_web_20240809125346_20250708102449069.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349129",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349129",
+        "summary": "일본내 외교사절단·유엔대표사무소 국가·지역 초청, 대만 해당 안돼\n히로시마 “인류 공존과 번영 정신에 대만 제외 이유 없어” 참가 수락\n日·中 개선 분위기 악영향 전망…“대만 참가 직급에 따라 달라질 수도”"
+      },
+      {
+        "title": "관세협상 잘하면 또 유예 가능성, 트럼프 “조정 가능”",
+        "time": "2025-07-08T10:22:22",
+        "img": "https://imgnews.pstatic.net/image/029/2025/07/08/0002966757_002_20250708102308299.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002966757",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002966757",
+        "summary": "트럼프 “맘에 드는 제안하면 8월 1일 관세부과도 조정 가능”\n8월 1일 전 협상 잘하면 관세율 내릴 가능성도 열려 있어"
+      },
+      {
+        "title": "[전문]\"친애하는 이재명 대통령\" 트럼프 대통령 관세 서한",
+        "time": "2025-07-08T10:20:07",
+        "img": "https://imgnews.pstatic.net/image/469/2025/07/08/0000874708_001_20250708112407240.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000874708",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000874708",
+        "summary": "발신자 도널드 트럼프, 수신자 이재명\n'8월 1일부터 韓제품 25% 상호관세'"
+      },
+      {
+        "title": "이스라엘, 폭격 도운 트럼프 노벨평화상 추천 \"평화 기여\"",
+        "time": "2025-07-08T10:17:14",
+        "img": "https://imgnews.pstatic.net/image/014/2025/07/08/0005373926_001_20250708101714003.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005373926",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005373926",
+        "summary": "이스라엘 네타냐후 총리, 이란 폭격 이후 첫 백악관 방문\n노벨평화상 후보로 트럼프 추천한다고 밝혀. 세계 평화 기여\n지난달 파키스탄도 트럼프 추천, 우크라는 추천 철회"
+      },
+      {
+        "title": "\"AI 처리까지 韓 리전에서 합니다\"…구글 '소버린 클라우드' 전략 고삐",
+        "time": "2025-07-08T11:22:25",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20230823_0000432991_web_20230823190124_20250708114518287.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349385",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349385",
+        "summary": "'구글 클라우드 데이 서울' 개최…국내 AI 혁신 지원 위한 비전 공유\n서울 리전에 AI 워크로드 처리·고객 데이터 저장할 수 있는 옵션 신설 \n지기성 사장 \"탁월한 고객 경험을 창출하도록 적극 지원할 것\""
+      },
+      {
+        "title": "엔비디아 AI, 러시아 드론에 탑재 정황…우크라이나 \"완전 자율 타격 체계 작동\"",
+        "time": "2025-07-08T10:13:13",
+        "img": "https://imgnews.pstatic.net/image/092/2025/07/08/0002381164_001_20250708101313419.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002381164",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002381164",
+        "summary": "회수된 드론 내부서 '젯슨 오린' AI 확인…GPS 교란 속 표적 식별·타격까지 수행"
+      },
+      {
+        "title": "폭탄 터진 듯 희뿌연 화산재가…위성으로 포착한 인니 화산 폭발 [지구를 보다]",
+        "time": "2025-07-08T10:06:16",
+        "img": "https://imgnews.pstatic.net/image/081/2025/07/08/0003555850_001_20250708100616415.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/081/0003555850",
+        "original_url": "https://n.news.naver.com/mnews/article/081/0003555850",
+        "summary": ""
+      },
+      {
+        "title": "빙하 녹으면 화산 폭발한다…\"지구 기후재난 더 심각\"",
+        "time": "2025-07-08T09:56:18",
+        "img": "https://imgnews.pstatic.net/image/092/2025/07/08/0002381156_001_20250708105808756.gif?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002381156",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002381156",
+        "summary": "美 연구진  \"빙하 녹으며 무게 감소, 마그마 압력 증가해 화산 폭발\""
+      },
+      {
+        "title": "'샤오미 연동앱' 같은 와이파이만 써도 '전부 해킹'… 인도 이어 美 CISA  보안 '고위험'",
+        "time": "2025-07-08T09:50:07",
+        "img": "https://imgnews.pstatic.net/image/138/2025/07/08/0002200182_001_20250708095007275.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/138/0002200182",
+        "original_url": "https://n.news.naver.com/mnews/article/138/0002200182",
+        "summary": ""
+      },
+      {
+        "title": "애플, 메타에 AI 수장 빼앗겼다…\"AI 조직 대수술 불가피\"",
+        "time": "2025-07-08T09:42:20",
+        "img": "https://imgnews.pstatic.net/image/092/2025/07/08/0002381148_001_20250708095216081.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002381148",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002381148",
+        "summary": "파운데이션 모델 팀 이끈 루밍 팡, 메타로 이직…AI 인재 이탈 가속화 될 듯"
+      },
+      {
+        "title": "日 이시바, 이임 앞둔 박철희 대사 만나 “이재명정부와 협력 계속”",
+        "time": "2025-07-08T12:04:12",
+        "img": "https://imgnews.pstatic.net/image/022/2025/07/08/20250708508197_20250708120412720.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004049819",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004049819",
+        "summary": ""
+      },
+      {
+        "title": "또 마음 바뀐 트럼프? 우크라에 무기 지원 재개",
+        "time": "2025-07-08T12:01:10",
+        "img": "https://imgnews.pstatic.net/image/021/2025/07/08/0002721184_002_20250708120110442.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721184",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721184",
+        "summary": ""
+      },
+      {
+        "title": "일본에는 24→25% 인상 통지···이시바 “새 기한 향해 협상”",
+        "time": "2025-07-08T12:01:08",
+        "img": "https://imgnews.pstatic.net/image/032/2025/07/08/0003381250_001_20250708120108281.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003381250",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003381250",
+        "summary": ""
+      },
+      {
+        "title": "제일 먼저 공개된 韓·日 서한…“美 요구 거부로 협상 교착” 분석도",
+        "time": "2025-07-08T11:59:11",
+        "img": "https://imgnews.pstatic.net/image/020/2025/07/08/0003646505_001_20250708120109316.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003646505",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003646505",
+        "summary": ""
+      },
+      {
+        "title": "日이시바, 美관세 \"안이한 타협 안할 것…국익 지키겠다\"",
+        "time": "2025-07-08T11:59:08",
+        "img": "https://imgnews.pstatic.net/image/079/2025/07/08/0004042579_001_20250708115908377.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004042579",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004042579",
+        "summary": "여당 내부 격앙된 반응…\"강한 분노\"\n이시바 총리, 종합대책본부 회의 개최…대응책 마련 분주"
+      },
+      {
+        "title": "호주 총리, 15일께 방중…다윈항 운영권 회수 논의 예정",
+        "time": "2025-07-08T11:56:08",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20241119_0020600211_web_20241119015610_20250708115710698.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349556",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349556",
+        "summary": "中 랜드브리지 99년 임대 중…\"민감한 외교 사안 부상\""
+      },
+      {
+        "title": "일본 5월 경상수지 32조원 흑자…4개월 연속 플러스",
+        "time": "2025-07-08T11:49:47",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/AKR20250708085100073_01_i_P4_20250708115023296.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015494170",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015494170",
+        "summary": ""
+      },
+      {
+        "title": "美트럼프 서한에 日도 긴급 '종합대책본부 회의'…이시바 \"국익 지키며 협상\"(종합)",
+        "time": "2025-07-08T11:48:15",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250702_0000461309_web_20250702152147_20250708114916522.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349544",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349544",
+        "summary": "이시바 \"사실상 (관세 발효) 보류…협의 기한 연장한 것\""
+      },
+      {
+        "title": "日, 8월1일까지 美와 합의 가능할까…\"참의원選 결과에 달려\"",
+        "time": "2025-07-08T11:32:25",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250702_0000461390_web_20250702183516_20250708113318201.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349479",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349479",
+        "summary": "日언론 분석…\"선거 결과로 정치 기반 불안정하면 협상 영향 불가피\""
+      },
+      {
+        "title": "이스라엘 스파이 의심까지…이란 정권, 아프간 난민 대거 추방",
+        "time": "2025-07-08T11:30:42",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/PAF20250706062301009_P4_20250708113129216.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015494070",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015494070",
+        "summary": ""
+      },
+      {
+        "title": "日이시바, 美관세 \"안이한 타협 피할 것\"…새 시한에 합의 모색",
+        "time": "2025-07-08T11:10:13",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/AKR20250708075100073_01_i_P4_20250708111114191.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493952",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493952",
+        "summary": ""
+      },
+      {
+        "title": "美 방문한 네타냐후 “노벨평화상 후보로 트럼프 추천”",
+        "time": "2025-07-08T11:08:17",
+        "img": "https://imgnews.pstatic.net/image/020/2025/07/08/0003646486_001_20250708112013953.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003646486",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003646486",
+        "summary": ""
+      },
+      {
+        "title": "[오늘 트럼프는] \"한국에 8월1일부터 25% 상호관세 부과\"",
+        "time": "2025-07-08T11:59:00",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356735_001_20250708115909670.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356735",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356735",
+        "summary": ""
+      },
+      {
+        "title": "트럼피즘 시한폭탄… 한국 ‘긴장’ 일본 ‘당혹’ EU “막판협상”",
+        "time": "2025-07-08T11:55:10",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721174",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721174",
+        "summary": "■ ‘관세서한’에 전세계 대응분주\n\n日 “관세 1%P 더올라” 당국 비판\n이시바, 각료회의 열며 진화나서\n\n서한 피해간 EU, 9일까지 협상\n“원칙적 수준 합의, 마지막 단계”\n\n브릭스 “제 발에 총쏘기” 반발"
+      },
+      {
+        "title": "네타냐후 \"팔레스타인과 평화 원하지만…우리 위협할 국가 안돼\"",
+        "time": "2025-07-08T11:54:19",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356711_001_20250708115515399.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356711",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356711",
+        "summary": "'두 국가 해법' 질문에 \"하마스 국가는 이스라엘 파괴할 플랫폼\""
+      },
+      {
+        "title": "트럼프 ‘이민자 추방’ 재가동… 중미 출신 8만명에 “나가라”",
+        "time": "2025-07-08T11:49:18",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721147",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721147",
+        "summary": "25년 유지 ‘임시보호지위’ 종료\n60일 유예기간 이후 출국 통보\nLA에선 군대 동원 대규모 단속"
+      },
+      {
+        "title": "캠프간 쌍둥이·구조나선 70대·휴가갔던 일가족이… 텍사스 홍수 104명 사망",
+        "time": "2025-07-08T11:49:16",
+        "img": "https://imgnews.pstatic.net/image/021/2025/07/08/0002721146_002_20250708115118057.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721146",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721146",
+        "summary": "여학생 캠프 참가자 27명 포함\n70대 운영자, 빗물 휩쓸려 참변\n‘석유재벌’ 헌트 증손녀도 사망\n車 출근 중 수위 올라 숨지기도\n\n기상청 감원 영향 책임공방도"
+      },
+      {
+        "title": "'관세 폭탄 유예' 축배 이르다…협상 전략 마련 분주한 대통령실",
+        "time": "2025-07-08T11:49:13",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356688_001_20250708115011453.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356688",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356688",
+        "summary": "안보실장 급파 효과?…日관세 1%P 추가 상향 비하면 일부 성과\n'진검 협상' 이제 시작…대통령실 주재 관계부처 총력전"
+      },
+      {
+        "title": "에콰도르 19세 국회의원, 회의중 낙서로 징계 위기",
+        "time": "2025-07-08T11:49:13",
+        "img": "https://imgnews.pstatic.net/image/021/2025/07/08/0002721145_002_20250708114913802.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721145",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721145",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 \"8월부터 한국에 25% 상호관세 부과\"",
+        "time": "2025-07-08T11:42:31",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356651_001_20250708114404013.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356651",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356651",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 \"韓에 8월부터 상호관세 25%\"…사실상 유예 연장",
+        "time": "2025-07-08T11:42:31",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356649_001_20250708114358578.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356649",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356649",
+        "summary": ""
+      },
+      {
+        "title": "[포토] 노벨평화상 추천서 살펴보는 트럼프",
+        "time": "2025-07-08T11:41:29",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356631_001_20250708114209506.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356631",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356631",
+        "summary": ""
+      },
+      {
+        "title": "동물권 단체 항의 시위에도 열린 스페인 투우 경기 [뉴시스Pic]",
+        "time": "2025-07-08T12:00:31",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000475330_web_20250708103351_20250708120218997.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349567",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349567",
+        "summary": ""
+      },
+      {
+        "title": "'해임' 러시아 교통장관 스스로 목숨 끊어…배경·시점 등 불분명",
+        "time": "2025-07-08T11:05:05",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0001887078_web_20250708104442_20250708112817781.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349305",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349305",
+        "summary": "오전 해임 발표, 오후엔 사망 확인\n해임, 항공마비 책임·부패 등 추측\n'해임발표 전에 이미 사망' 보도도"
+      },
+      {
+        "title": "트럼프 \"우크라이나, 심하게 공격받아…무기 지원 재개할 것\"",
+        "time": "2025-07-08T11:03:27",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000475514_web_20250708090509_20250708112324695.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349301",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349301",
+        "summary": "국방부 '재고 부족' 이유로 중단 일주일만\n푸틴엔 \"전혀 만족하지 않아\" 거듭 실망감\n트럼프, 젤렌스키에 \"지원 중단 지시 안 했다\""
+      },
+      {
+        "title": "피 흘리며 뒤엉킨 남녀…스페인 산페르민 축제서 '투우 반대' 시위",
+        "time": "2025-07-08T10:59:48",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250705_0000469255_web_20250705202100_20250708110019786.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349279",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349279",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 \"우크라 무기 공급, 반드시 재개\"…러, 휴전 조건 거듭 제시",
+        "time": "2025-07-08T10:53:09",
+        "img": "https://imgnews.pstatic.net/image/119/2025/07/08/0002976733_001_20250708105609949.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0002976733",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0002976733",
+        "summary": "러 \"우크라, 비무장하고 모든 제재 해제하라…서방 간섭 없어야\""
+      },
+      {
+        "title": "반려견 없었으면…스위스 빙하 틈새 8m 아래로 떨어진 주인 구한 치와와",
+        "time": "2025-07-08T10:26:12",
+        "img": "https://imgnews.pstatic.net/image/009/2025/07/08/0005521245_001_20250708102612582.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005521245",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005521245",
+        "summary": ""
+      },
+      {
+        "title": "\"EU, 美에 '10% 관세 유지, 항공기·주류 예외 인정' 제안\"",
+        "time": "2025-07-08T10:15:04",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20220719_0001044686_web_20220719095103_20250708103313936.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349088",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349088",
+        "summary": "EU 집행위 \"트럼프 서한 안받을것\"\n철강·제약 실패한 듯…車 일부 여지"
+      },
+      {
+        "title": "유럽의회 극우진영, EU집행위원장에 반기…불신임안 상정",
+        "time": "2025-07-08T10:03:56",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/PAF20250708053701009_P4_20250708100429400.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493652",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493652",
+        "summary": ""
+      },
+      {
+        "title": "유럽계 금융그룹 ING, 정혜연 한국 대표 선임",
+        "time": "2025-07-08T09:44:34",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/AKR20250708048700008_01_i_P4_20250708094518887.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493587",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493587",
+        "summary": ""
+      },
+      {
+        "title": "'한낮 42도' 폭염 그리스 \"야외노동자 한낮 작업 중단\" 긴급조치",
+        "time": "2025-07-08T09:29:07",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356094_001_20250708092928109.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356094",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356094",
+        "summary": "폭염 기간 낮 12시~오후 5시 휴식 의무화"
+      },
+      {
+        "title": "폴란드, 獨에 국경통제 맞대응…흉악범죄에 반이민 정서 고조",
+        "time": "2025-07-08T09:23:23",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356069_001_20250708092426846.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356069",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356069",
+        "summary": "獨, 이민자 돌려보내자 폴란드 불안…자유로운 이동 보장 '솅겐조약' 약화 우려 커져"
+      },
+      {
+        "title": "\"젤렌스키, 트럼프 통화하며 '친민주당' 주미대사 경질 약속\"",
+        "time": "2025-07-08T09:20:44",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/AKR20250708037300009_01_i_P4_20250708092118721.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493478",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493478",
+        "summary": ""
+      },
+      {
+        "title": "'美 코로나19 백신 정보 해킹' 수배령 中남성, 伊공항서 체포",
+        "time": "2025-07-08T09:15:38",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356026_001_20250708091619916.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356026",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356026",
+        "summary": "美FBI \"코로나 백신 첩보작전 中해커팀 소속\""
+      },
+      {
+        "title": "트럼프·네타냐후 비공개 회동…‘신 가자 구상’ 재확인",
+        "time": "2025-07-08T11:49:32",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002721154",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002721154",
+        "summary": "팔레스타인인 이주계획 등 논의\n트럼프 노벨평화상 후보 추천도"
+      },
+      {
+        "title": "‘미국 주도’ 가자 지원단체, 주민 통제 수용시설 건설 계획 세웠나",
+        "time": "2025-07-08T11:36:17",
+        "img": "https://imgnews.pstatic.net/image/028/2025/07/08/0002754894_001_20250708114009754.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002754894",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002754894",
+        "summary": "로이터, 지난 2월 작성된 제안서 입수해 보도\n이스라엘 국방 “가자 남부에 주민 수용지역 설치 지시”"
+      },
+      {
+        "title": "[포토] 백악관을 방문한 베냐민 네타냐후 이스라엘 총리",
+        "time": "2025-07-08T11:34:54",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008356606_001_20250708113512366.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008356606",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008356606",
+        "summary": ""
+      },
+      {
+        "title": "미국, 시리아 과도정부 핵심 무장세력 테러단체서 해제",
+        "time": "2025-07-08T11:32:47",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/AKR20250708079800009_01_i_P4_20250708113330672.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015494091",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015494091",
+        "summary": ""
+      },
+      {
+        "title": "美·이스라엘 세번째 정상회담…네타냐후 \"트럼프, 노벨평화상 받아야\"",
+        "time": "2025-07-08T10:21:14",
+        "img": "https://imgnews.pstatic.net/image/119/2025/07/08/0002976703_001_20250708102114421.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0002976703",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0002976703",
+        "summary": "이스라엘·하마스, 도하 1차 협상 결렬…\"입장차 뚜렷\""
+      },
+      {
+        "title": "끝없는 전쟁범죄…이스라엘, 전체 가자주민 남부 강제이주 추진",
+        "time": "2025-07-08T10:08:52",
+        "img": "https://imgnews.pstatic.net/image/001/2025/07/08/PAP20250708032001009_P4_20250708100923508.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015493660",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015493660",
+        "summary": ""
+      },
+      {
+        "title": "네타냐후 \"트럼프를 노벨평화상 후보로…추천서 보내\"",
+        "time": "2025-07-08T10:05:28",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000475517_web_20250708090554_20250708102929744.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349062",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349062",
+        "summary": "\"이란에 역사적 승리, 아브라함 협정 확대 공로\""
+      },
+      {
+        "title": "네타냐후, 트럼프에 아부? 노벨평화상 후보로 추천",
+        "time": "2025-07-08T09:49:11",
+        "img": "https://imgnews.pstatic.net/image/029/2025/07/08/0002966726_002_20250708095008156.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002966726",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002966726",
+        "summary": ""
+      },
+      {
+        "title": "예고없이 미사일 쏜 남자가 노벨평화상?…네타냐후, 후보에 트럼프 추천",
+        "time": "2025-07-08T09:27:15",
+        "img": "https://imgnews.pstatic.net/image/009/2025/07/08/0005521205_001_20250708094713968.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005521205",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005521205",
+        "summary": ""
+      },
+      {
+        "title": "예멘 반군 “6일 홍해에서 상선 공격···선박 완전 침몰”",
+        "time": "2025-07-08T08:31:10",
+        "img": "https://imgnews.pstatic.net/image/032/2025/07/08/0003381204_001_20250708102512264.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003381204",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003381204",
+        "summary": ""
+      },
+      {
+        "title": "인질 석방·종전 촉구하는 이스라엘 시위대",
+        "time": "2025-07-08T08:10:57",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000474524_web_20250708081057_20250708081216221.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013348748",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013348748",
+        "summary": ""
+      },
+      {
+        "title": "미-이스라엘 회담 앞두고 인질 석방 촉구하는 사람들",
+        "time": "2025-07-08T08:10:57",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000474516_web_20250708081057_20250708081122371.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013348747",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013348747",
+        "summary": ""
+      },
+      {
+        "title": "[속보]삼성전자 “반도체, 재고 충당 및 AI칩 대중 제재에 이익 하락”",
+        "time": "2025-07-08T07:54:57",
+        "img": "https://imgnews.pstatic.net/image/029/2025/07/08/0002966688_002_20250708075511697.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002966688",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002966688",
+        "summary": ""
+      },
+      {
+        "title": "[포토] \"팔레스타인 연대\" 이스라엘·미국 규탄 집회",
+        "time": "2025-07-08T07:46:58",
+        "img": "https://imgnews.pstatic.net/image/421/2025/07/08/0008355838_001_20250708074711937.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008355838",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008355838",
+        "summary": ""
+      },
+      {
+        "title": "트럼프-네타냐후, 백악관서 가자 휴전 등 비공개 논의",
+        "time": "2025-07-08T07:45:50",
+        "img": "https://imgnews.pstatic.net/image/029/2025/07/08/0002966685_002_20250708074617576.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002966685",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002966685",
+        "summary": ""
+      },
+      {
+        "title": "“도시 점령당한 줄”… 美 LA 공원에 나타난 무장군인, 무슨 일",
+        "time": "2025-07-08T11:53:08",
+        "img": "https://imgnews.pstatic.net/image/023/2025/07/08/0003915726_001_20250708115308136.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003915726",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003915726",
+        "summary": ""
+      },
+      {
+        "title": "“이스라엘 스파이 의심”…이란 정권, 아프간 난민 대거 추방",
+        "time": "2025-07-08T11:47:34",
+        "img": "https://imgnews.pstatic.net/image/056/2025/07/08/0011984831_001_20250708115310358.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0011984831",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0011984831",
+        "summary": ""
+      },
+      {
+        "title": "네타냐후 \"트럼프, 노벨평화상 후보로 추천\"",
+        "time": "2025-07-08T11:37:06",
+        "img": "https://imgnews.pstatic.net/image/053/2025/07/08/0000051024_001_20250708113706999.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/053/0000051024",
+        "original_url": "https://n.news.naver.com/mnews/article/053/0000051024",
+        "summary": ""
+      },
+      {
+        "title": "[자막뉴스] 관세율 통보한 트럼프의 서한…일본과 비교해 보니 '복붙'?",
+        "time": "2025-07-08T11:28:15",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/055/0001273261",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001273261",
+        "summary": ""
+      },
+      {
+        "title": "트럼프 \"韓에 내달 1일부터 25% 상호관세 부과\" 앞으로 상황은? [HK영상]",
+        "time": "2025-07-08T11:23:12",
+        "img": "https://imgnews.pstatic.net/image/015/2025/07/08/0005154864_001_20250708112312249.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005154864",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005154864",
+        "summary": ""
+      },
+      {
+        "title": "브릭스, '관세 위협' 트럼프 겨냥 \"황제 필요 없다\"",
+        "time": "2025-07-08T11:23:07",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000757390",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000757390",
+        "summary": ""
+      },
+      {
+        "title": "트럼프, 韓·日에 '25% 관세 폭탄'…WSJ \"동맹국에 부적절 대우\" 비판",
+        "time": "2025-07-08T11:16:56",
+        "img": "https://imgnews.pstatic.net/image/003/2025/07/08/NISI20250708_0000475514_web_20250708090509_20250708114120538.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013349368",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013349368",
+        "summary": "美, 韓·日 수입품에 25% 관세 부과 통보\n자동차·반도체 등 주력 품목 타격 우려\n무역 불확실성에 기업 투자 위축 전망"
+      },
+      {
+        "title": "트럼프 \"한국 상호관세 25%…8월 1일부터 부과\"",
+        "time": "2025-07-08T11:16:07",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000757383",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000757383",
+        "summary": ""
+      }
+    ]
   }
 ]
