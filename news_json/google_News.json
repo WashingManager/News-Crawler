@@ -56696,6 +56696,20 @@
     "date": "2025년 07월 11일 금요일",
     "articles": [
       {
+        "title": "[자막뉴스] 지진에 흔들린 일본 열도...이번엔 폭우로 '난리통' / YTN",
+        "time": "2025-07-12T03:06:59+00:00",
+        "img": "/api/attachments/CC8iL0NnNW1WR3BLTlhFemVHeFhUMDVVVFJDZkF4ampCU2dLTWdrQkFJQ2tIdWxKdHdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMigANBVV95cUxQV2tINFdWRnBfS2ZOdDJTVm9pdWlPU3RjQmJrZGVGbHg5blRRX2dOc3hVbGJ2eHVqUTFiX2htRkNkdmcwb2dneExkQWx2b01rckd3U0dfc2pGVGFucXN2Y1hDZWtHMnozV0lwYW5LczRWYTNPdDA3MHcwZmV0SDRkZW5aQUdNSlRKaTk2NTl2WlFqMWRtbUpiZW50cVVyeTJkVVNkRHFUVnY2R0VoWFVoZUwzM2E0bVJjOFYzeDd5UmExMXVlSXh2bTBUa1R1Q052NHUxN3l6aUl0LVRwZGtGSXdpLUM4NV94dGJlbzdKWmlSeklhSGY5X2RtUXlRUXdrUllnWkUyLXN2MkNEWmtBLVROUlBESk9JM1B5amx3N1NZT2VHVlZLR1NTQTEwVU85d1pwallOOVBBSkNWVTU4YTg5VUd5MzdwOUY4NHNraGJRcDdsTm5vNDJXVnQwMnVKQnN4SThuNnJsNDF0QUxsd0lGbUpNSkhOUjhNY2NQOGo?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMigANBVV95cUxQV2tINFdWRnBfS2ZOdDJTVm9pdWlPU3RjQmJrZGVGbHg5blRRX2dOc3hVbGJ2eHVqUTFiX2htRkNkdmcwb2dneExkQWx2b01rckd3U0dfc2pGVGFucXN2Y1hDZWtHMnozV0lwYW5LczRWYTNPdDA3MHcwZmV0SDRkZW5aQUdNSlRKaTk2NTl2WlFqMWRtbUpiZW50cVVyeTJkVVNkRHFUVnY2R0VoWFVoZUwzM2E0bVJjOFYzeDd5UmExMXVlSXh2bTBUa1R1Q052NHUxN3l6aUl0LVRwZGtGSXdpLUM4NV94dGJlbzdKWmlSeklhSGY5X2RtUXlRUXdrUllnWkUyLXN2MkNEWmtBLVROUlBESk9JM1B5amx3N1NZT2VHVlZLR1NTQTEwVU85d1pwallOOVBBSkNWVTU4YTg5VUd5MzdwOUY4NHNraGJRcDdsTm5vNDJXVnQwMnVKQnN4SThuNnJsNDF0QUxsd0lGbUpNSkhOUjhNY2NQOGo?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "경기도, 가축전염병 선제 대응, 민관 방역체계 강화",
+        "time": "2025-07-11T22:28:38+00:00",
+        "img": "/api/attachments/CC8iK0NnNVpWVzFzY2tRNVVVSnlSRGhDVFJEb0FoamdBeWdLTWdZRnNJcEd3Z1U=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiUkFVX3lxTE1oM0hody1Pc09LVnF3bmg5dmQ2cTVNc2xYbTVJa1VhS1FUelRsbkFoNloxejJ1cE9pUU1Bc3RUdXc2QUktWVoyekUyQ0VOa1FiV1E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE1oM0hody1Pc09LVnF3bmg5dmQ2cTVNc2xYbTVJa1VhS1FUelRsbkFoNloxejJ1cE9pUU1Bc3RUdXc2QUktWVoyekUyQ0VOa1FiV1E?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "\"섬이 찢어졌다\"…日 도카라 열도, 지진 1600회에 '북동쪽으로'",
         "time": "2025-07-11T21:26:13+00:00",
         "img": "/api/attachments/CC8iK0NnNUdSWGd5TlhoTGVraE9UblI1VFJDZkF4ampCU2dLTWdhQmdZS2wyQUk=-w100-h100-p-df",
@@ -56717,6 +56731,13 @@
         "original_url": "https://news.google.com/read/CBMijgFBVV95cUxNUmZLNlZON3dkNWVmMWN3cEFqa0txUVdhbGx0VWtBWGpjLWZtQkxDaXlhQVRjQko3LTFCcVh3REJ4RFdlb0dxRWNGUU5DRE9RLU55QXVGemtqRXlLZzFLdmhPLWFVc2tFbVF5TDZSNGRfVDlEZllYS0dEZmMtSFdXSUNVNHhtWkZqZGY3aTJ30gGiAUFVX3lxTE9fWUMySHpIWWZNMXBZMnRfdkNXOE5DY01BMzl4NFg0cHJQc3IwcEpkcHNocTJMS0NYb0l4YXZ2TXdkV3FrX1RUd2VJTmhKR0hHN2I2bV9VZnJRMkkyOEt3X0d3QlplcVcwcnJvaHNneUVFcDluNDg3LUxTckpueGdaWE9OdVZMM3B0dk93NXVXcFctNldCNG1ubmVHcG5ObDhRQQ?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "교황청 대사관서도 수차례 폭발음…러, 우크라 키이우에 공습",
+        "time": "2025-07-11T19:50:35+00:00",
+        "img": "/api/attachments/CC8iK0NnNTBTMHh4WDJaaGNqWXhVa052VFJDRkF4aThCU2dLTWdZRlVZelZyQWc=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiUkFVX3lxTE1adFlTZEhMbm1FZWNzUlQ5dTUySURPODlMTmdkV3pPUms4V0pENDhWR2VBRWlucDRMQlBXRkJwN2gzM2hKM3BlWFhPWlRMSUVlV0E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE1adFlTZEhMbm1FZWNzUlQ5dTUySURPODlMTmdkV3pPUms4V0pENDhWR2VBRWlucDRMQlBXRkJwN2gzM2hKM3BlWFhPWlRMSUVlV0E?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[자막뉴스] 지진에 흔들린 일본 열도…이번엔 폭우로 '난리통'",
         "time": "2025-07-11T19:25:00+00:00",
         "img": "/api/attachments/CC8iL0NnNXBORFl5Y2tkSFMwTkNOVlowVFJEWEFoamlCQ2dLTWdrQkFJQ2tIaWxTdHdB=-w100-h100-p-df",
@@ -56736,6 +56757,13 @@
         "img": "/api/attachments/CC8iK0NnNUlSMXB2Wm1kdU5XWm5ZME0xVFJEMUF4amtCQ2dLTWdhSlpJcU9OUVU=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE9wRU1QQ0NrZFUyV2JSMUU1aGVKZW9tMTV2dENVRFNNeFdIY2R1UjVwSnJyc2dhTXFUaHMwM0VqSjhTNWpxazNMSS1ocnFzZkpPdURPaWx0SWlqTTjSAWBBVV95cUxOZUZnNVRGaTE1d1FSOWhXcjJUcF9ScWZOV3lSU2dnanpxeWhyMGF1V1pJRUF5bWpmeWU1YXJ1Tm80ZnJpV1RPV19qLVlISldOSXE4VjN5dHc3dlR2M21lUGY?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9wRU1QQ0NrZFUyV2JSMUU1aGVKZW9tMTV2dENVRFNNeFdIY2R1UjVwSnJyc2dhTXFUaHMwM0VqSjhTNWpxazNMSS1ocnFzZkpPdURPaWx0SWlqTTjSAWBBVV95cUxOZUZnNVRGaTE1d1FSOWhXcjJUcF9ScWZOV3lSU2dnanpxeWhyMGF1V1pJRUF5bWpmeWU1YXJ1Tm80ZnJpV1RPV19qLVlISldOSXE4VjN5dHc3dlR2M21lUGY?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "트럼프 “남은 국가들 15~20% 관세 내야”…캐나다엔 35% 서한",
+        "time": "2025-07-11T17:35:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHpVMUJNT1dsQ1JqZzVaa1ZTVFJERUF4aW5CU2dLTWdZcFpZcXZxUWM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTE5WTFJLQkt2eVZoMURTVDdWMC1pUWxLM05SMHpRb2tubi1LNzdSQUVPT092SGhUVDZFQ3V4aEFTeEg3eFVrUnp6NjA0anZxYXhHR3pXODljcktuMUE3V09xeEhZOFZ5a2M4bVFTTDVLaw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTE5WTFJLQkt2eVZoMURTVDdWMC1pUWxLM05SMHpRb2tubi1LNzdSQUVPT092SGhUVDZFQ3V4aEFTeEg3eFVrUnp6NjA0anZxYXhHR3pXODljcktuMUE3V09xeEhZOFZ5a2M4bVFTTDVLaw?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "'1700번 지진' 日, 이번엔 역대급 폭우…\"맨홀 뚜껑 날아가\"",
@@ -56764,6 +56792,13 @@
         "img": "/api/attachments/CC8iK0NnNDVlR1p0Y3kxeGJrVnNWRzlXVFJDZUF4aUFCU2dLTWdZaHBKS051UVk=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiUkFVX3lxTFByNWJPX0xrOEphdklUMUVXd21jTTgxRHF6YUt0VFlweWJ0eGktU0dqYU9oWFp1NFgxWFl2UzJBUV9sWjFJcGNVek8wUHJHMDVtMEE?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiUkFVX3lxTFByNWJPX0xrOEphdklUMUVXd21jTTgxRHF6YUt0VFlweWJ0eGktU0dqYU9oWFp1NFgxWFl2UzJBUV9sWjFJcGNVek8wUHJHMDVtMEE?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "미국 싱크탱크 보고서 \"주한미군, 대만 분쟁 시 역할해야\"",
+        "time": "2025-07-11T16:15:29+00:00",
+        "img": "/api/attachments/CC8iL0NnNUtkMmQ2TFRWaU1YbFZVa3RSVFJDZkF4ampCU2dLTWdrQmNKQklxdWRNN1FF=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE9DYzlPVkk3T0ZQXy1zZzZ5VVd0RC1GeGs4UjBVTE5IQW9rZDM2LWZEZzlmWE9EOW5pNVRoeE5LaTRGXzhsUl9YZWs3YjFDSlFoaDlXUGZ1UEVmS2VGWVJWZmxOMkEzRnJpbDNXNi1OU0xCLXRC0gF0QVVfeXFMTnFIc1ZVZ01hMGpMbmFJWnZUd180elJ0R0lzdHZVSVZKZTVRRE9mX20wdTR4ZDU4NmdLb2Y3NTFMa3M1QllzMUpRSkFtN1U4aEh1b0ZpeS1nWkJLZF85YV9mRHVGWm5lakxkQ3psekEwajdsb2s?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE9DYzlPVkk3T0ZQXy1zZzZ5VVd0RC1GeGs4UjBVTE5IQW9rZDM2LWZEZzlmWE9EOW5pNVRoeE5LaTRGXzhsUl9YZWs3YjFDSlFoaDlXUGZ1UEVmS2VGWVJWZmxOMkEzRnJpbDNXNi1OU0xCLXRC0gF0QVVfeXFMTnFIc1ZVZ01hMGpMbmFJWnZUd180elJ0R0lzdHZVSVZKZTVRRE9mX20wdTR4ZDU4NmdLb2Y3NTFMa3M1QllzMUpRSkFtN1U4aEh1b0ZpeS1nWkJLZF85YV9mRHVGWm5lakxkQ3psekEwajdsb2s?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "경기도, ‘상반기 가축전염병 지역예찰협의회’ 개최…현장 중심 방역정책 등 대응방안 논의",
@@ -56829,6 +56864,20 @@
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxNb00zQlR3aHYzdzhHS01fU29PRGt0VlNvRExaS3ZHN0drM0lxdTk2RHpGVzRFdlNlVVZjNm5TeEF4Z1FybjZXRndJN0ttWWdKbUt0LU0yVDZQWlpONG5abkhqX1FVRUZIYlhKRmdxSVJQVWk5eGJVb19Jb1FNMm02YmdzRlAwQzZBcE9RaGh6and3LUNPS1QtelBSQ0JOd9IBsgFBVV95cUxQNlhxaW1pbFYyNXB3cnl4MFlLVjRHTU9icVBjUktQX0FIYjc5YXhUak5mR0Jfdk91dFRwU0pCQlIxYzRNTU50RmN5blM0U0diZkdMRnZaTE5aano0ek9pRFlnYVNpTjE1eEJuMEpnUWVHSWwtQ3BqeVcyUUJ0cHhnekpsMEhuN2JQMkd5QVFzay11UnBjNkhwU0h1UnBSbXJDX1FPUmRFU19TOXMwR2d6Smxn?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
+        "title": "\"출생 시민권 못 받는다?\" 트럼프 행정명령, 美 법원서 제동-Xinhua",
+        "time": "2025-07-11T14:31:30+00:00",
+        "img": "/api/attachments/CC8iK0NnNXVka3RaZFU5dWNrSkpjbkZMVFJDM0FSaVRBaWdCTWdZdEZZek9sUW8=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE0tTXh0QW1scGYwNXJkSDE4UUR5ckVfdFBSMDV1TlhZM1pRUFdFNHVlamV0M3VtaDdGdkduRkxkNURMNmRETGpOVjNDQ2pGdk44TW52blZRSjlJR29xWktWV1F0dlhzck1Sa1gxRE1kTm9xWGhC?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE0tTXh0QW1scGYwNXJkSDE4UUR5ckVfdFBSMDV1TlhZM1pRUFdFNHVlamV0M3VtaDdGdkduRkxkNURMNmRETGpOVjNDQ2pGdk44TW52blZRSjlJR29xWktWV1F0dlhzck1Sa1gxRE1kTm9xWGhC?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "李 대통령, 문체부 장관 최휘영·국토부 장관 김윤덕 지명",
+        "time": "2025-07-11T14:27:41+00:00",
+        "img": "/api/attachments/CC8iL0NnNU9aamt6ZFRJMVVWTmpUbXN4VFJDcUF4alFCU2dLTWdtSllaTFZyS2V4NndF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE1yQmZqVzVXdkpTMWlhSzV4R0x1aVVJMEhhQVNUUm5heFI0VTV4Um1KVnp3aFhIVFJLeDdMOEFqeVZNNVlOS3FwZEllOGtTR190clh2UkxyTnZBd9IBVEFVX3lxTE5HOEZTcHh6QUZfamdtVmszdXRmRE9STlZ6MEtFR3dWTVAzeDU4Tmx5Z1BZMFdmMDg0dktnalZNMUo3bWpnaThwRG95LU52TWFUU1pCbA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE1yQmZqVzVXdkpTMWlhSzV4R0x1aVVJMEhhQVNUUm5heFI0VTV4Um1KVnp3aFhIVFJLeDdMOEFqeVZNNVlOS3FwZEllOGtTR190clh2UkxyTnZBd9IBVEFVX3lxTE5HOEZTcHh6QUZfamdtVmszdXRmRE9STlZ6MEtFR3dWTVAzeDU4Tmx5Z1BZMFdmMDg0dktnalZNMUo3bWpnaThwRG95LU52TWFUU1pCbA?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "'케이팝 데몬 헌터스'가 한미일 외교장관회의에 등장한 이유는",
         "time": "2025-07-11T14:16:07+00:00",
         "img": "/api/attachments/CC8iK0NnNTNibVZFYlZWd00yaHZOazFHVFJDbUF4alhCU2dLTWdZSllKU3FKUWc=-w350-h175-p-df",
@@ -56883,6 +56932,13 @@
         "img": "/api/attachments/CC8iL0NnNVhkalZDVGtoRFRIZFNhWEpYVFJDM0FSaVRBaWdCTWdrRnNJYUd6aU11a0FF=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiWEFVX3lxTE10UkFKZnI1T0Raa0g1NXFKRURQUWtPSHh6alphdWJhV2JadHhsQm5WcmFCYWZTLWxCSGNlQnVlY1BWTjUwSDZSSTBXQllIRnI1eVdVbEJrN2o?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWEFVX3lxTE10UkFKZnI1T0Raa0g1NXFKRURQUWtPSHh6alphdWJhV2JadHhsQm5WcmFCYWZTLWxCSGNlQnVlY1BWTjUwSDZSSTBXQllIRnI1eVdVbEJrN2o?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "오늘 북가주 해안에서 규모 3.1 지진 발생",
+        "time": "2025-07-11T12:19:50+00:00",
+        "img": "/api/attachments/CC8iJ0NnNWZWVmRCT0dobE9Hc3dYelJTVFJEZ0FoaW5CaWdLTWdNQkFndw=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiX0FVX3lxTE8tX1ExdWFIc3pialp2QTBfVEJGbEpWWlVKbE5RZExIRlZCcnZnWjZfWjNwS0tQa3gwUHFvTWRCVFRYaG5ibGRUZU1kRlBuZFJXbnJLc29LTXlYZ19rOEZn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiX0FVX3lxTE8tX1ExdWFIc3pialp2QTBfVEJGbEpWWlVKbE5RZExIRlZCcnZnWjZfWjNwS0tQa3gwUHFvTWRCVFRYaG5ibGRUZU1kRlBuZFJXbnJLc29LTXlYZ19rOEZn?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "中이 두려워하는 美 B-52 전개, 한미일 연합훈련",
@@ -56946,6 +57002,13 @@
         "img": "/api/attachments/CC8iK0NnNUpaMVF3U200NGFFbDVSMHhKVFJDOUF4aXhCU2dLTWdZZHRKQ05QUVk=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiUkFVX3lxTFBXMzBZRXdGU0hUNDF3ZzEwMmxrSTRBaGgzem5PZUdHNWRGTVlsOGp6OU4tOWdiR05DVWxNRGJzNF96Ti1WTW1VakIyNE5qQTRCV1E?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiUkFVX3lxTFBXMzBZRXdGU0hUNDF3ZzEwMmxrSTRBaGgzem5PZUdHNWRGTVlsOGp6OU4tOWdiR05DVWxNRGJzNF96Ti1WTW1VakIyNE5qQTRCV1E?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "中 세계 최경량 제어장치 탑재 '사이보그 꿀벌' 개발…지진 생존자 탐색 가능",
+        "time": "2025-07-11T10:31:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHhXbkJrY0cxWWNEaFhaMlIyVFJDVEJSalJBeWdLTWdZZE1JVHJJQVk=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTFBqbHVOd0dTU18tdzllWkQzSnE2YUFZcmRYaUNSRjRxV2pialk0SHRBcHpWdWdYQ2xGenF0VFFpR0x5UUlBN0Fad1BxTHZsU2VRaU1F?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTFBqbHVOd0dTU18tdzllWkQzSnE2YUFZcmRYaUNSRjRxV2pialk0SHRBcHpWdWdYQ2xGenF0VFFpR0x5UUlBN0Fad1BxTHZsU2VRaU1F?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[속보] 트럼프 “8월 1일부터 캐나다에 35% 상호 관세 부과”",
@@ -57072,6 +57135,13 @@
         "img": "/api/attachments/CC8iK0NnNVJUMk4yU1RsRU5WbFhhbVpXVFJDR0FoajBBeWdLTWdhbE5JS3RwUVE=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMif0FVX3lxTE4yUU5xTVpvdkl6WFNfZ0tES3FlRHdXNWx3Y3V5X1JwZ2ZEeUlsOUdPT2N2aUtFVHYtY1hSSDZidjkxSXlyX3NJV0ZsSGtiZldXWWtQaDlNU0hubVJ5ZWtwVGxlYmZwdURaLVhod29SUHZGMTdNUEZkZW4wR2dRb0HSAZMBQVVfeXFMT0RkT2NYc3JqclFjdmVJdjhheG1HRmowTVFsaEw2MFVVZHQydU12eFZDWk8wX0JEM19NalkxZDJpNmJMOUNPcGViSU5XTGJkQjA0cUNXcDdZWEVwb2FmbjZySi1LWXJGUWhEU0RmdDBTYkI4SU8zaHpZLWhlQmpweUY1YzZYN2dzQV94QTZ1NGxRaVRj?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMif0FVX3lxTE4yUU5xTVpvdkl6WFNfZ0tES3FlRHdXNWx3Y3V5X1JwZ2ZEeUlsOUdPT2N2aUtFVHYtY1hSSDZidjkxSXlyX3NJV0ZsSGtiZldXWWtQaDlNU0hubVJ5ZWtwVGxlYmZwdURaLVhod29SUHZGMTdNUEZkZW4wR2dRb0HSAZMBQVVfeXFMT0RkT2NYc3JqclFjdmVJdjhheG1HRmowTVFsaEw2MFVVZHQydU12eFZDWk8wX0JEM19NalkxZDJpNmJMOUNPcGViSU5XTGJkQjA0cUNXcDdZWEVwb2FmbjZySi1LWXJGUWhEU0RmdDBTYkI4SU8zaHpZLWhlQmpweUY1YzZYN2dzQV94QTZ1NGxRaVRj?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "이러다 전쟁나나…중국 전투기, 일본 자위대 비행기 30m까지 근접",
+        "time": "2025-07-10T23:26:30+00:00",
+        "img": "/api/attachments/CC8iK0NnNXFhREJyTkRCT1ZuaGZkM1pXVFJDZUF4aUFCU2dLTWdZaHBKS051UVk=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiUEFVX3lxTFBIRzFoUlYyNzBrS1BINlFrSzliVmFxVDZLWjRlSTZsa0ZPR09xMmFsYmJsekFtVnhQV0NtNmE1MXBKTHAzOWxLNV9TQ2lBYks2?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUEFVX3lxTFBIRzFoUlYyNzBrS1BINlFrSzliVmFxVDZLWjRlSTZsa0ZPR09xMmFsYmJsekFtVnhQV0NtNmE1MXBKTHAzOWxLNV9TQ2lBYks2?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[피플&피플]전찬 강릉시 공직수의사 “현장 중심 방역으로 전염병 철통 차단”",
