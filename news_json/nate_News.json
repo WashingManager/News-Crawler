@@ -199950,5 +199950,388 @@
         "original_url": "https://news.nate.com/view/20250721n39525"
       }
     ]
+  },
+  {
+    "date": "2025년 07월 22일 화요일",
+    "articles": [
+      {
+        "title": "[속보] 구윤철·여한구 25일 방미···2+2 협상 재개",
+        "time": "2025-07-22T09:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/22/news-p.v1.20250717.20d3629a88b147a390c85131187b0e8a_P1.jpeg",
+        "url": "https://news.nate.com/view/20250722n05558",
+        "original_url": "https://news.nate.com/view/20250722n05558"
+      },
+      {
+        "title": "[속보] 구윤철 \"통상본부장과 함께 25일 미국과 2+2 협상\"",
+        "time": "2025-07-22T09:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/22/AKR20250722085933352_01_i.jpg",
+        "url": "https://news.nate.com/view/20250722n05638",
+        "original_url": "https://news.nate.com/view/20250722n05638"
+      },
+      {
+        "title": "'윤석열 격노 위증' 김계환 전 사령관 오늘 영장심사···구속기로",
+        "time": "2025-07-22T09:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/22/news-p.v1.20250722.17b9d69afb354fe28f55426ea7757a32_P1.jpeg",
+        "url": "https://news.nate.com/view/20250722n02939",
+        "original_url": "https://news.nate.com/view/20250722n02939"
+      },
+      {
+        "title": "美국방 \"미국·필리핀 방위조약, 태평양 어디서든 적용\"",
+        "time": "2025-07-22T08:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/07/22/ae_1753142224544_276076_0.jpg",
+        "url": "https://news.nate.com/view/20250722n05505",
+        "original_url": "https://news.nate.com/view/20250722n05505"
+      },
+      {
+        "title": "트럼프, 오바마 체포 가짜 영상 또 공유…\"엡스타인 관심 돌리려?\"",
+        "time": "2025-07-22T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/07/22/news-p.v1.20250722.9bc40b7449b84d0bb130d2bda79fb33f_P1.jpg",
+        "url": "https://news.nate.com/view/20250722n05418",
+        "original_url": "https://news.nate.com/view/20250722n05418"
+      },
+      {
+        "title": "방글라데시 공군 훈련기 학교로 추락…학생 등 20명 사망",
+        "time": "2025-07-22T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/22/202507220429251611_t.jpg",
+        "url": "https://news.nate.com/view/20250722n00961",
+        "original_url": "https://news.nate.com/view/20250722n00961"
+      },
+      {
+        "title": "미-EU, 무역협상 난항…로이터 \"철강·알루미늄·자동차 미 관세 완화·철폐 가능성 낮아\"",
+        "time": "2025-07-22T09:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/07/22/2025072201002059800123261.jpg",
+        "url": "https://news.nate.com/view/20250722n05670",
+        "original_url": "https://news.nate.com/view/20250722n05670"
+      },
+      {
+        "title": "유럽 E3와 핵협상 앞둔 이란 외무 \"핵농축 포기할 수 없어\"",
+        "time": "2025-07-22T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7244510_high.jpg",
+        "url": "https://news.nate.com/view/20250722n05310",
+        "original_url": "https://news.nate.com/view/20250722n05310"
+      },
+      {
+        "title": "美재무 \"차기 미중협상서 중국의 러시아 석유 구입 논의할 것\"",
+        "time": "2025-07-22T08:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/07/22/e0a1c5c9-8449-4a4e-bbf9-ea0fc4b6a1d2.jpg",
+        "url": "https://news.nate.com/view/20250722n00579",
+        "original_url": "https://news.nate.com/view/20250722n00579"
+      },
+      {
+        "title": "트럼프 행정부, 마틴 루서 킹 목사 암살 FBI 기록 공개",
+        "time": "2025-07-22T08:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/07/22/202093680_700.jpg",
+        "url": "https://news.nate.com/view/20250722n05111",
+        "original_url": "https://news.nate.com/view/20250722n05111"
+      },
+      {
+        "title": "MS 서버 문서 공유 SW 해킹…\"일부 공격 中 연계 조직 관련\"(종합)",
+        "time": "2025-07-22T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/07/22/PRU20250721197601009_P2.jpg",
+        "url": "https://news.nate.com/view/20250722n05283",
+        "original_url": "https://news.nate.com/view/20250722n05283"
+      },
+      {
+        "title": "인도 히마찰프라데시 폭우로 125명 사망…도로 468곳·급수 시설 676곳 피해",
+        "time": "2025-07-22T08:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/22/202507212009495055_l.jpeg",
+        "url": "https://news.nate.com/view/20250722n05298",
+        "original_url": "https://news.nate.com/view/20250722n05298"
+      },
+      {
+        "title": "트럼프 행정부, 마틴 루터 킹 목사 암살 FBI 기록 공개",
+        "time": "2025-07-22T08:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250722n05188",
+        "original_url": "https://news.nate.com/view/20250722n05188"
+      },
+      {
+        "title": "美 국방 \"미국-필리핀 상호방위조약, 태평양 어디서든 적용된다\"",
+        "time": "2025-07-22T08:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/07/22/a31588ca-5b06-49bf-a5d6-ec6dfcbbfab3.jpg",
+        "url": "https://news.nate.com/view/20250722n04746",
+        "original_url": "https://news.nate.com/view/20250722n04746"
+      },
+      {
+        "title": "\"트럼프 690조원 규모 AI 투자 프로젝트 차질\" <WSJ>",
+        "time": "2025-07-22T08:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/22/AKR20250722083516559_01_i.jpg",
+        "url": "https://news.nate.com/view/20250722n04706",
+        "original_url": "https://news.nate.com/view/20250722n04706"
+      },
+      {
+        "title": "\"트럼프-시진핑, 경주 APEC 계기 정상회담 가능성\"(종합)",
+        "time": "2025-07-22T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7331224_high.jpg",
+        "url": "https://news.nate.com/view/20250722n04342",
+        "original_url": "https://news.nate.com/view/20250722n04342"
+      },
+      {
+        "title": "미 국방장관 \"미국-필리핀 동맹조약, 태평양 어디서든 적용\"…한미 동맹에도 적용될까",
+        "time": "2025-07-22T08:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/22/rcv.YNA.20250722.PRU20250722009001009_P1.jpg",
+        "url": "https://news.nate.com/view/20250722n04210",
+        "original_url": "https://news.nate.com/view/20250722n04210"
+      },
+      {
+        "title": "러 위협에 그날 준비하는 폴란드…전시 행동요령 매뉴얼 만든다",
+        "time": "2025-07-22T08:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/5666036_high.jpg",
+        "url": "https://news.nate.com/view/20250722n04267",
+        "original_url": "https://news.nate.com/view/20250722n04267"
+      },
+      {
+        "title": "[자막뉴스] 우크라 당황할 상황…성능 대반전 벌어진 '러시아 드론'",
+        "time": "2025-07-22T08:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/22/202507220735427959_t.jpg",
+        "url": "https://news.nate.com/view/20250722n03963",
+        "original_url": "https://news.nate.com/view/20250722n03963"
+      },
+      {
+        "title": "프랑스 외무장관과 악수하는 젤렌스키 대통령",
+        "time": "2025-07-22T08:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250722_0000504439_web.jpg",
+        "url": "https://news.nate.com/view/20250722n04190",
+        "original_url": "https://news.nate.com/view/20250722n04190"
+      },
+      {
+        "title": "방글라데시 군 훈련기 학교 추락, 최소 19명 사망",
+        "time": "2025-07-22T08:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250721_0000504238_web.jpg",
+        "url": "https://news.nate.com/view/20250722n03945",
+        "original_url": "https://news.nate.com/view/20250722n03945"
+      },
+      {
+        "title": "[포토] 토머스 배럭 튀르키예 주재 미국 대사 겸 시리아 특사",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405665_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03489",
+        "original_url": "https://news.nate.com/view/20250722n03489"
+      },
+      {
+        "title": "[포토] 착잡한 표정 짓는 젤렌스키 우크라 대통령",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405667_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03490",
+        "original_url": "https://news.nate.com/view/20250722n03490"
+      },
+      {
+        "title": "[포토] 우크라 재건회의서 연설하는 젤렌스키",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405666_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03488",
+        "original_url": "https://news.nate.com/view/20250722n03488"
+      },
+      {
+        "title": "[포토]마르코스 필리핀 대통령 만난 헤그세스 美 국방장관",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405708_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03487",
+        "original_url": "https://news.nate.com/view/20250722n03487"
+      },
+      {
+        "title": "[포토]마르코스 필리핀 대통령 만난 루비오 美 국무장관",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405711_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03484",
+        "original_url": "https://news.nate.com/view/20250722n03484"
+      },
+      {
+        "title": "\"美국채 팔고 금 보유량 늘렸다\" 中 달러의존도 축소··· '실탄 100억弗' 글로벌 PEF 몰려온다 [AI 프리즘*글로벌 투자자 뉴스]",
+        "time": "2025-07-22T07:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/07/22/2GVG5AIKPA_1.jpg",
+        "url": "https://news.nate.com/view/20250722n03480",
+        "original_url": "https://news.nate.com/view/20250722n03480"
+      },
+      {
+        "title": "루마니아, 이스라엘 방공망 구입  3조원대 국방계약 발표",
+        "time": "2025-07-22T07:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250618_0000427129_web.jpg",
+        "url": "https://news.nate.com/view/20250722n03185",
+        "original_url": "https://news.nate.com/view/20250722n03185"
+      },
+      {
+        "title": "합의냐 무역전쟁이냐…한국과 비슷한 목표 내건 유럽, 미국과 협상 난항",
+        "time": "2025-07-22T07:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/07/22/20250722500069.jpg",
+        "url": "https://news.nate.com/view/20250722n01446",
+        "original_url": "https://news.nate.com/view/20250722n01446"
+      },
+      {
+        "title": "이스라엘, 가자지구 인도지원 UN 기구 책임자 비자 연장 거부",
+        "time": "2025-07-22T07:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250720_0000502747_web.jpg",
+        "url": "https://news.nate.com/view/20250722n03352",
+        "original_url": "https://news.nate.com/view/20250722n03352"
+      },
+      {
+        "title": "서방 국가들 러시아에 '50일 내 휴전 합의' 압박···\"러·우 3차 협상 가능성\"",
+        "time": "2025-07-22T07:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/07/22/rcv.YNA.20250722.PRU20250722028401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250722n03283",
+        "original_url": "https://news.nate.com/view/20250722n03283"
+      },
+      {
+        "title": "'50일' 압박에 움직이는 러…\"23일 튀르키예서 3차 협상\"(상보)",
+        "time": "2025-07-22T07:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405667_high.jpg",
+        "url": "https://news.nate.com/view/20250722n00795",
+        "original_url": "https://news.nate.com/view/20250722n00795"
+      },
+      {
+        "title": "헤그세스 미 국방, 우크라 무기 지원 회의 참석",
+        "time": "2025-07-22T07:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250109_0000016855_web.jpg",
+        "url": "https://news.nate.com/view/20250722n03435",
+        "original_url": "https://news.nate.com/view/20250722n03435"
+      },
+      {
+        "title": "美국방, 우크라 군사지원 협의체 참석…\"美, 우크라전 전환점\"",
+        "time": "2025-07-22T07:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/07/22/PRU20250722014501009_P2.jpg",
+        "url": "https://news.nate.com/view/20250722n03165",
+        "original_url": "https://news.nate.com/view/20250722n03165"
+      },
+      {
+        "title": "가족 반대하는 결혼했다고…젊은 부부 '명예살인' 영상에 파키스탄 수사 나서",
+        "time": "2025-07-22T07:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/07/22/202507211440128772_l.jpg",
+        "url": "https://news.nate.com/view/20250722n03119",
+        "original_url": "https://news.nate.com/view/20250722n03119"
+      },
+      {
+        "title": "美국방 \"미국-필리핀 상호방위조약 태평양 어디서든 적용\"",
+        "time": "2025-07-22T07:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7405708_high.jpg",
+        "url": "https://news.nate.com/view/20250722n03038",
+        "original_url": "https://news.nate.com/view/20250722n03038"
+      },
+      {
+        "title": "英 등 25개국, 가자 휴전 촉구…\"이스라엘 구호품 전달 못 믿어\"(종합)",
+        "time": "2025-07-22T07:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7397736_high.jpg",
+        "url": "https://news.nate.com/view/20250722n02735",
+        "original_url": "https://news.nate.com/view/20250722n02735"
+      },
+      {
+        "title": "美국무, 필리핀 대통령 만나 대중 견제 협력 기조 확인",
+        "time": "2025-07-22T07:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250721_0000504330_web.jpg",
+        "url": "https://news.nate.com/view/20250722n02707",
+        "original_url": "https://news.nate.com/view/20250722n02707"
+      },
+      {
+        "title": "LA 투입 美 해병대, 한 달 만에 일부 철수…州정부 \"전원 불필요\" 비판",
+        "time": "2025-07-22T07:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/07/22/cz_1753135805666_261478_0.jpg",
+        "url": "https://news.nate.com/view/20250722n02801",
+        "original_url": "https://news.nate.com/view/20250722n02801"
+      },
+      {
+        "title": "트럼프 오바마 체포 장면 가짜 동영상 유포",
+        "time": "2025-07-22T07:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20170509_0012985706_web.jpg",
+        "url": "https://news.nate.com/view/20250722n02822",
+        "original_url": "https://news.nate.com/view/20250722n02822"
+      },
+      {
+        "title": "\"이스라엘, 가자 주민 존엄성 빼앗아\"…국제사회, 강력 규탄",
+        "time": "2025-07-22T07:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/22/202507220651442949_t.jpg",
+        "url": "https://news.nate.com/view/20250722n02959",
+        "original_url": "https://news.nate.com/view/20250722n02959"
+      },
+      {
+        "title": "트럼프, 스코틀랜드 순방 취재서 WSJ 배제…'엡스타인 의혹' 보복 조치 논란",
+        "time": "2025-07-22T06:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/07/22/cz_1753135144347_259018_0.jpg",
+        "url": "https://news.nate.com/view/20250722n02587",
+        "original_url": "https://news.nate.com/view/20250722n02587"
+      },
+      {
+        "title": "[트럼프 스트레스] 美 \"무역협상 서두르지 않을 것…시기보다는 질이 중요\"",
+        "time": "2025-07-22T06:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/07/22/news_1753134724_1525882_m_1.JPG",
+        "url": "https://news.nate.com/view/20250722n02516",
+        "original_url": "https://news.nate.com/view/20250722n02516"
+      },
+      {
+        "title": "러 공세 속 서방 '50일' 압박…\"23·24일 협상 가능성\"",
+        "time": "2025-07-22T06:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/07/22/202507220614310776_t.jpg",
+        "url": "https://news.nate.com/view/20250722n02432",
+        "original_url": "https://news.nate.com/view/20250722n02432"
+      },
+      {
+        "title": "'트럼프 감세법' 파열음…미국 연방정부 '셧다운' 우려",
+        "time": "2025-07-22T06:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/22/AKR20250722064619145_01_i.jpg",
+        "url": "https://news.nate.com/view/20250722n02461",
+        "original_url": "https://news.nate.com/view/20250722n02461"
+      },
+      {
+        "title": "英·日 등 28개국, '가자 전쟁 종식' 공동성명…\"인류에 대한 수치\"",
+        "time": "2025-07-22T06:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/07/22/cz_1753134424222_472337_0.jpg",
+        "url": "https://news.nate.com/view/20250722n02470",
+        "original_url": "https://news.nate.com/view/20250722n02470"
+      },
+      {
+        "title": "젤렌스키 \"러시아와 23일 튀르키예서 3차 평화 협상\"",
+        "time": "2025-07-22T06:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/07/22/2025072206200278098_1.jpg",
+        "url": "https://news.nate.com/view/20250722n02428",
+        "original_url": "https://news.nate.com/view/20250722n02428"
+      },
+      {
+        "title": "필리핀, 中과 갈등 속 美에 밀착…\"대만 문제 남의 일 아니다\"",
+        "time": "2025-07-22T06:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/07/22/ch_1753134064893_176219_0.jpg",
+        "url": "https://news.nate.com/view/20250722n02133",
+        "original_url": "https://news.nate.com/view/20250722n02133"
+      },
+      {
+        "title": "伊 남부에 45도의 역대급 폭염…전력망 붕괴와 산불 , 열사병 경보",
+        "time": "2025-07-22T06:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250703_0000462183_web.jpg",
+        "url": "https://news.nate.com/view/20250722n02355",
+        "original_url": "https://news.nate.com/view/20250722n02355"
+      },
+      {
+        "title": "이스라엘, 예멘 친이란 후티 반군 근거지 공습",
+        "time": "2025-07-22T06:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/07/22/AKR20250722063008238_01_i.jpg",
+        "url": "https://news.nate.com/view/20250722n02303",
+        "original_url": "https://news.nate.com/view/20250722n02303"
+      },
+      {
+        "title": "북한 주민 상대 해외 라디오 방송 80% 감소",
+        "time": "2025-07-22T06:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/07/22/NISI20250722_0001898841_web.jpg",
+        "url": "https://news.nate.com/view/20250722n02344",
+        "original_url": "https://news.nate.com/view/20250722n02344"
+      },
+      {
+        "title": "중국 이어 두 번째로 사형 집행 많은 '이 나라', 성폭행 男 3명 사형 집행",
+        "time": "2025-07-22T05:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/07/22/news-p.v1.20250721.73372c8a41c54d8daf69934f9f511376_P1.jpg",
+        "url": "https://news.nate.com/view/20250722n01757",
+        "original_url": "https://news.nate.com/view/20250722n01757"
+      },
+      {
+        "title": "미 국방부 \"LA에 배치돼 있던 해병대원 700명 철수\"",
+        "time": "2025-07-22T06:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/07/22/7335828_high.jpg",
+        "url": "https://news.nate.com/view/20250722n02119",
+        "original_url": "https://news.nate.com/view/20250722n02119"
+      },
+      {
+        "title": "구글, 유튜브서 中·러 국영 선전 계정 1만여 개 삭제",
+        "time": "2025-07-22T08:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/07/22/news-p.v1.20250722.af686921351e4ff8aa1db912a41778f5_P1.png",
+        "url": "https://news.nate.com/view/20250722n04818",
+        "original_url": "https://news.nate.com/view/20250722n04818"
+      }
+    ]
   }
 ]
