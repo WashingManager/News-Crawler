@@ -120879,5 +120879,31 @@
         "original_url": "https://n.news.naver.com/article/421/0008397600?sid=104"
       }
     ]
+  },
+  {
+    "date": "2025년 7월 29일 화요일",
+    "articles": [
+      {
+        "title": "네이버",
+        "time": "시간 정보 없음",
+        "img": "https://via.placeholder.com/120x80",
+        "url": "https://naver.me/5HrSQjYO",
+        "original_url": "https://naver.me/5HrSQjYO"
+      },
+      {
+        "title": "[단독]‘특검 불출석’ 尹 측 “주치의 실명 위험 소견”",
+        "time": "2025.07.29. 오후 2:20",
+        "img": "https://imgnews.pstatic.net/image/449/2025/07/29/0000316283_001_20250729155108704.jpg?type=w800",
+        "url": "https://n.news.naver.com/article/449/0000316283",
+        "original_url": "https://n.news.naver.com/article/449/0000316283"
+      },
+      {
+        "title": "[단독] KAI-한화시스템, 전자전기 블록-1 최초 공개 | 비즈한국",
+        "time": "2025.07.28(Mon) 13:47:42",
+        "img": "https://www.bizhankook.com/upload/bk/article/202507/thumb/30029-73306-sample.jpg",
+        "url": "https://share.google/vxSzxi9uGWMOypAZO",
+        "original_url": "https://share.google/vxSzxi9uGWMOypAZO"
+      }
+    ]
   }
 ]
