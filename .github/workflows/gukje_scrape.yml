@@ -43,6 +43,7 @@ jobs:
           git config --global user.email 'action@github.com'
           git add news_json/Gukje_News.json
           git commit -m "Update news_json/Gukje_News.json $(date)" || echo "No changes to commit"
+          git pull origin main --rebase || echo "Nothing to pull or rebase failed"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
