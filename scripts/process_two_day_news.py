@@ -6,6 +6,13 @@ from pathlib import Path
 # 오늘과 어제 날짜 계산 (KST 기준)
 today = datetime.now().strftime('%Y년 %m월 %d일')
 yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y년 %m월 %d일')
+# 요일 포함 형식도 처리
+today_with_day = datetime.now().strftime('%Y년 %m월 %d일 %A').replace('Monday', '월요일').replace('Tuesday', '화요일').replace('Wednesday', '수요일').replace('Thursday', '목요일').replace('Friday', '금요일').replace('Saturday', '토요일').replace('Sunday', '일요일')
+yesterday_with_day = (datetime.now() - timedelta(days=1)).strftime('%Y년 %m월 %d일 %A').replace('Monday', '월요일').replace('Tuesday', '화요일').replace('Wednesday', '수요일').replace('Thursday', '목요일').replace('Friday', '금요일').replace('Saturday', '토요일').replace('Sunday', '일요일')
+
+# 디버깅 로그
+print(f"Today: {today}, Yesterday: {yesterday}")
+print(f"Today with day: {today_with_day}, Yesterday with day: {yesterday_with_day}")
 
 # JSON 파일 처리
 def process_json_files():
@@ -14,20 +21,33 @@ def process_json_files():
     two_day_articles = []
 
     # news_json 폴더의 모든 JSON 파일 읽기
-    for json_file in input_dir.glob('*.json'):
+    json_files = list(input_dir.glob('*.json'))
+    print(f"Found {len(json_files)} JSON files in {input_dir}")
+
+    for json_file in json_files:
         if json_file.name == 'ForTwoDay_News.json':
             continue
+        print(f"Processing {json_file}")
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                if not isinstance(data, list):
+                    print(f"Invalid JSON structure in {json_file}: Expected a list")
+                    continue
                 for group in data:
-                    if group.get('date') in [today, yesterday]:
+                    group_date = group.get('date', '').strip()
+                    # 요일 포함/미포함 모두 처리
+                    normalized_group_date = group_date.split(' ')[0:3]
+                    normalized_group_date = ' '.join(normalized_group_date) if normalized_group_date else ''
+                    print(f"Checking group date: {group_date} (normalized: {normalized_group_date})")
+                    if normalized_group_date in [today, yesterday, today_with_day, yesterday_with_day]:
                         articles = group.get('articles', [])
+                        print(f"Found {len(articles)} articles for date {group_date}")
                         for article in articles:
                             article['source'] = json_file.stem.replace('_News', '')  # 소스 추가
-                            article['date'] = group['date']  # date 필드 추가
+                            article['date'] = group_date  # date 필드 추가
                         two_day_articles.append({
-                            'date': group['date'],
+                            'date': group_date,
                             'articles': articles
                         })
         except Exception as e:
@@ -43,6 +63,8 @@ def process_json_files():
             if url and url not in seen_urls:
                 unique_articles.append(article)
                 seen_urls.add(url)
+            else:
+                print(f"Duplicate URL found: {url}")
         if unique_articles:
             unique_groups.append({
                 'date': group['date'],
@@ -50,7 +72,12 @@ def process_json_files():
             })
 
     # 날짜순 정렬
-    unique_groups.sort(key=lambda x: datetime.strptime(x['date'], '%Y년 %m월 %d일'), reverse=True)
+    def parse_date(date_str):
+        try:
+            return datetime.strptime(' '.join(date_str.split(' ')[0:3]), '%Y년 %m월 %d일')
+        except ValueError:
+            return datetime.min  # 정렬을 위해 최소 날짜 반환
+    unique_groups.sort(key=lambda x: parse_date(x['date']), reverse=True)
 
     # 결과 저장
     try:
