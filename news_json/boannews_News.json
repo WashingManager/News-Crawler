@@ -1,0 +1,111 @@
+[
+  {
+    "date": "2025년 07월 31일 목요일",
+    "articles": [
+      {
+        "title": "[사람과 보안] 이재명 정부 AI 전략을 다시 묻다⑥ “AI가 살상 버튼을 누르는 시대, 인간은 어디에?”",
+        "time": "2025-07-31T13:44:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352690401_8126.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138484&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138484&page=1&kind=2",
+        "summary": "‘타깃 식별→판단→공격’까지 AI가 처리하는 자동 살상 시스템 속속 개발돼터키 카르게(Kargu-2), 이미 2020년에 자율살상무기 전쟁 수행 능력 ‘시연’인간 승인 없이 AI의 민간인 오인 살상 가능성 상존...AI 통제권 강화해야이재명 정부는 AI 정부를 자처한다. 이재명 대통령은 취임 전부터 AI 분야에 깊은 관심을 보였고 경제 재도약과 국가대전환의..."
+      },
+      {
+        "title": "美 페르미 국립 가속기 연구소, MS 쉐어포인트 해킹 침해…기술 유출 우려",
+        "time": "2025-07-31T10:24:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352621004_900.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138472&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138472&page=1&kind=1",
+        "summary": "입자물리학 연구 데이터부터 핵기술까지...다층적 보안 위험 노출MS 쉐어포인트 취약점 악용 전 세계 400곳 기관 기업 피해…美 국가핵안보국도 공격받아[보안뉴스 여이레 기자] 미국 에너지부(DOE) 산하 17개 국립 연구소 중 하나인 페르미 국립 가속기 연구소(페르미랩, Fermi National Accelerator Laboratory)가 최근 마이크로소..."
+      },
+      {
+        "title": "[이원태의 글로벌 AI안보 전략-2] 트럼프의 AI패키지 전략과 한국의 선택, ‘전략적 소버린 AI’",
+        "time": "2025-07-30T15:46:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138921599_3832.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138466&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138466&page=1&kind=1",
+        "summary": "전략적 소버린 AI, 완전한 독립의 포기가 아닌 제한된 자원으로 최대 효과 내는 지혜로운 선택인공지능(AI) 기술의 급속한 발전은 단순한 기술 혁신을 넘어 글로벌 안보 패러다임을 근본적으로 변화시키고 있다. 미국과 중국 간 AI 패권 경쟁이 심화되는 가운데, 각국은 AI를 국가 경쟁력과 안보의 핵심 요소로 인식하며 독자적인 전략을 수립하고 있다. 이러한 글..."
+      },
+      {
+        "title": "SGA솔루션즈, 제로트러스트 통합연동 API 국책과제 선정",
+        "time": "2025-07-31T10:54:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352621004_8624.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138475&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138475&page=1&kind=3",
+        "summary": "과기정통부 지원 ‘클라우드 기반 적응형 보안 아키텍처’ 개발 사업 참여8개 보안기업 컨소시엄 구성…Full-Stack ZTA 기술력 바탕 API 개발 주도[보안뉴스 여이레 기자] SGA솔루션즈가 과학기술정보통신부 지원 하에 정보통신기획평가원(IITP)이 추진하는 국책 과제에 참여한다고 31일 밝혔다.[자료: SGA솔루션즈]SGA솔루션즈는 주관기관인 한국인터..."
+      },
+      {
+        "title": "명지대 방산안보연구소-군사정보발전연구소와 기술교류·인재양성 ‘맞손’",
+        "time": "2025-07-30T15:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138930569_8100.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138463&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138463&page=1&kind=3",
+        "summary": "[보안뉴스 조재호 기자] 명지대학교 방산안보연구소는 군사정보발전연구소와 ‘방산안보 및 군사정보의 발전, 인재양성’을 위한 업무협약을 체결했다고 30일 밝혔다.이번 협약을 통해 두 기관은 △방산안보 및 군사정보 분야의 정보 공유 △전문인력 양성 △연구개발 공동 기획 및 수행 △세미나 등에서 협력할 계획이다. 협약식은 류연승 방산안보연구소장과 조보근 군사정보발..."
+      },
+      {
+        "title": "[AI와 보안] 바이트댄스 AI 코딩 도구 ‘트레이 IDE’, 사용자 감시·데이터 중국 전송 논란 확산",
+        "time": "2025-07-30T14:23:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138939462_3481.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138456&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138456&page=2&kind=1",
+        "summary": "비주얼 스튜디오 코드 대비 3.6배 많은 프로세스 실행…텔레메트리 차단해도 무용지물하드웨어 지문부터 사용패턴까지… 바이트댄스, 틱톡·딥시크 이어 또 데이터 수집 의혹[보안뉴스 여이레 기자] 틱톡 모기업 바이트댄스가 개발한 AI 코딩 도구 ‘트레이(TRAE) IDE’가 사용자 몰래 과도한 개인정보를 수집해 중국 본사 서버로 전송한다는 의혹이 제기됐다.트레이 ..."
+      },
+      {
+        "title": "위성, 드론에서도 안정적 양자 통신 가능해진다...ETRI-KAIST 공동연구 성과",
+        "time": "2025-07-30T09:41:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138845738_2007.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138441&page=2&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138441&page=2&kind=5",
+        "summary": "ETRI-KAIST, ‘측정보정 없는 양자키분배’ 동시검증실용형 QKD시대 앞당겨... 위성·드론 등 이동 환경에서도 안정 통신[보안뉴스 한세희 기자] 위성이나 선박, 드론 같이 끊임없이 이동하는 환경에서도 안정적 양자 보안 통신을 할 수 있는 길이 열렸다.한국전자통신연구원(ETRI)은 KAIST 연구팀과 공동으로 앙자 상태 측정 보정 없이도 안정적으로 양..."
+      },
+      {
+        "title": "[구축사례] 전북 최초로 통합관제센터 구축·운영 ‘완주군 CCTV 통합관제센터’ 탐방記",
+        "time": "2025-07-29T17:12:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/785237112_7.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138409&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138409&page=3&kind=2",
+        "summary": "‘최초’라는 이름에 걸맞게 ‘최고’가 되기 보다 ‘최선’을 다하는 지자체[보안뉴스 엄호식 기자] 전북특별자치도의 중앙에 위치한 완주군은 동서 양단 거리 36㎞, 남북 양단 거리 71㎞로 전주시를 둘러싸고 있다. 동쪽은 진안군, 서쪽은 김제시, 남쪽은 임실군과 정읍시, 북쪽은 익산시와 충청남도 논산시와 금산군에 각각 인접하고 있다. 또한 도시와 농촌이 공존하..."
+      },
+      {
+        "title": "최은수 인텔리빅스 대표 저서 ‘넥스트 AI 비즈니스’, 군장병 AI 필독서로 선정",
+        "time": "2025-07-29T16:37:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/998945230_6211.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138435&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138435&page=3&kind=3",
+        "summary": "국방부, AI 서적 중 유일하게 2025년 상반기 진중문고로 채택[보안뉴스 엄호식 기자] 생성형 비전 AI 전문 기업 인텔리빅스는 최은수 대표가 저술한 ‘넥스트 AI 비즈니스’가 국방부가 선정하는 2025년 상반기 진중문고에 선정돼 전군에 배포됐다고 29일 밝혔다. 이번 선정은 시중에 출간된 수백 권의 AI 관련 실용서 가운데 유일하게 전군 장병의 AI 필..."
+      },
+      {
+        "title": "나스카, 메두사 랜섬웨어 공격으로 400만달러 몸값 요구받아",
+        "time": "2025-07-29T15:45:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/998847794_3174.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138430&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138430&page=3&kind=1",
+        "summary": "3월 말 해킹 발생했으나 뒤늦게 인정…레이스트랙 설계도까지 유출메두사 그룹, 평균 몸값의 10배 요구…다크웹 통한 압박 지속FBI·CISA 사전 경고에도 피해 발생…업계 경각심 확산[보안뉴스 여이레 기자] 전미 스톡 자동차 경주협회(NASCAR·나스카)가 랜섬웨어 그룹 메두사에 의해 해킹 당해 400만달러(약 55억원)의 몸값을 지불할 위기에 처했다. 해커..."
+      },
+      {
+        "title": "KISA, 아태 20개국 생성형 AI 악용 랜섬웨어 모의훈련 주관",
+        "time": "2025-07-29T14:45:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/998952623_7762.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138428&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138428&page=3&kind=2",
+        "summary": "생성형 AI 악용 랜섬웨어 공격 대응, 아태 20개국 26개 팀 참가[보안뉴스 강현주 기자] 아시아 태평양 20개국이 한국인터넷진흥원(KISA·원장 이상중)과 함께 생성형 AI 악용 랜섬웨어 대응 모의훈련을 했다.29일 KISA는 아태침해사고대응팀협의회(APCERT, Asia-Pacific Computer Emergency Response Team)와 생성..."
+      },
+      {
+        "title": "[ISEC 2025 미리보기] 모니터랩, SSE 기반 AIONCLOUD로 제로 트러스트 보안 시장 공략",
+        "time": "2025-07-29T12:58:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/785075968_4226.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138375&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138375&page=3&kind=3",
+        "summary": "AIONCLOUD, WP·SIA·SRA 등 다양한 보안 기능을 클라우드 Edge 기반으로 통합 제공[보안뉴스 원병철 기자] 모니터랩(대표 이광후)은 고성능 애플리케이션 프록시 기술과 다양한 보안 솔루션 개발·운영 역량을 바탕으로 국내 1위 웹 방화벽 기업으로 자리매김했으며, 최근에는 클라우드 딜리버리 영역으로 사업을 확장해 클라우드 네트워크 보안 플랫폼 A..."
+      },
+      {
+        "title": "KT, 딥페이크 음성 보이스피싱 실시간 걸러낸다...AI 기반 보이스피싱 탐지 고도화",
+        "time": "2025-07-29T12:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/998847794_7618.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138422&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138422&page=3&kind=3",
+        "summary": "[3줄 요약]1. KT는 딥페이크 합성 음성을 이용한 보이스피싱을 실시간 탐지하도록 AI 보이스피싱 탐지서비스를 고도화했다.2. 개인정보위와 과기정통부, 과학수사연구소와 협력해 개인정보 규제를 지키면서 보이스피싱 범죄자의 음성을 학습했다.3. 갤럭시S 23 이상 단말기에서 사용 가능하며, 후후 앱을 설치하면 통신사 상관 없이 이용할 수 있다.[보안뉴스 여이..."
+      }
+    ]
+  }
+]
