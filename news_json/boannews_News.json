@@ -107,5 +107,74 @@
         "summary": "[3줄 요약]1. KT는 딥페이크 합성 음성을 이용한 보이스피싱을 실시간 탐지하도록 AI 보이스피싱 탐지서비스를 고도화했다.2. 개인정보위와 과기정통부, 과학수사연구소와 협력해 개인정보 규제를 지키면서 보이스피싱 범죄자의 음성을 학습했다.3. 갤럭시S 23 이상 단말기에서 사용 가능하며, 후후 앱을 설치하면 통신사 상관 없이 이용할 수 있다.[보안뉴스 여이..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 01일 금요일",
+    "articles": [
+      {
+        "title": "[카드뉴스] 우크라이나 해커, 러시아 드론 공급사 ‘Gaskar Group’ 사이버 공격",
+        "time": "2025-08-01T16:27:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=138508&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138508&page=1&kind=1",
+        "summary": "[지진솔 기자(digital@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>"
+      },
+      {
+        "title": "[AI와 보안] AI 결합 펑크섹 랜섬웨어, 무료 복호화 도구 공개로 무력화…보안 위협은 여전",
+        "time": "2025-08-01T08:10:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352775312_1304.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138496&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138496&page=1&kind=1",
+        "summary": "펑크섹 랜섬웨어, 공격에 AI 활용…전 세계 113개 기업·기관 공격사이버 공격, AI 접목해 급속한 진화…보안 대응 과제로 남아[보안뉴스 여이레 기자] 공격 과정에 AI 기술을 결합해 4개월 간 세계 113개 기업 및 기관에 피해를 입힌 펑크섹 랜섬웨어가 무료 복호화 도구 공개로 무력화됐다. 하지만 펑크섹처럼 사이버 공격에 AI 기술을 접목하는 사례가 잦..."
+      },
+      {
+        "title": "SKT, 실용적 AI 강화한 양자암호 5G폰 ‘갤럭시 퀀텀6’ 출시",
+        "time": "2025-08-01T10:01:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/353068432_7322.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138499&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138499&page=1&kind=3",
+        "summary": "‘서클 투 서치’, ‘제미나이 라이브’, ‘베스트 얼굴’ 등 AI 기능 더해[보안뉴스 강현주 기자] SK텔레콤(대표이사 CEO 유영상)은 AI 기능을 강화한 양자암호 5G 스마트폰 ‘갤럭시 퀀텀6’를 1일 정식 출시한다고 밝혔다.갤럭시 퀀텀6는  양자난수생성칩셋(QRNG)을 탑재한 스마트폰이다. 양자보안으로 앱과 단말 내 인증 정보 및 외장메모리 데이터까지..."
+      },
+      {
+        "title": "SGA솔루션즈, 제로트러스트 통합연동 API 국책과제 선정",
+        "time": "2025-07-31T10:54:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352621004_8624.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138475&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138475&page=2&kind=3",
+        "summary": "과기정통부 지원 ‘클라우드 기반 적응형 보안 아키텍처’ 개발 사업 참여8개 보안기업 컨소시엄 구성…Full-Stack ZTA 기술력 바탕 API 개발 주도[보안뉴스 여이레 기자] SGA솔루션즈가 과학기술정보통신부 지원 하에 정보통신기획평가원(IITP)이 추진하는 국책 과제에 참여한다고 31일 밝혔다.[자료: SGA솔루션즈]SGA솔루션즈는 주관기관인 한국인터..."
+      },
+      {
+        "title": "美 페르미 국립 가속기 연구소, MS 쉐어포인트 해킹 침해…기술 유출 우려",
+        "time": "2025-07-31T10:24:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352621004_900.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138472&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138472&page=2&kind=1",
+        "summary": "입자물리학 연구 데이터부터 핵기술까지...다층적 보안 위험 노출MS 쉐어포인트 취약점 악용 전 세계 400곳 기관 기업 피해…美 국가핵안보국도 공격받아[보안뉴스 여이레 기자] 미국 에너지부(DOE) 산하 17개 국립 연구소 중 하나인 페르미 국립 가속기 연구소(페르미랩, Fermi National Accelerator Laboratory)가 최근 마이크로소..."
+      },
+      {
+        "title": "[이원태의 글로벌 AI안보 전략-2] 트럼프의 AI패키지 전략과 한국의 선택, ‘전략적 소버린 AI’",
+        "time": "2025-07-30T15:46:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138921599_3832.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138466&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138466&page=2&kind=1",
+        "summary": "전략적 소버린 AI, 완전한 독립의 포기가 아닌 제한된 자원으로 최대 효과 내는 지혜로운 선택인공지능(AI) 기술의 급속한 발전은 단순한 기술 혁신을 넘어 글로벌 안보 패러다임을 근본적으로 변화시키고 있다. 미국과 중국 간 AI 패권 경쟁이 심화되는 가운데, 각국은 AI를 국가 경쟁력과 안보의 핵심 요소로 인식하며 독자적인 전략을 수립하고 있다. 이러한 글..."
+      },
+      {
+        "title": "명지대 방산안보연구소-군사정보발전연구소와 기술교류·인재양성 ‘맞손’",
+        "time": "2025-07-30T15:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138930569_8100.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138463&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138463&page=3&kind=3",
+        "summary": "[보안뉴스 조재호 기자] 명지대학교 방산안보연구소는 군사정보발전연구소와 ‘방산안보 및 군사정보의 발전, 인재양성’을 위한 업무협약을 체결했다고 30일 밝혔다.이번 협약을 통해 두 기관은 △방산안보 및 군사정보 분야의 정보 공유 △전문인력 양성 △연구개발 공동 기획 및 수행 △세미나 등에서 협력할 계획이다. 협약식은 류연승 방산안보연구소장과 조보근 군사정보발..."
+      },
+      {
+        "title": "[AI와 보안] 바이트댄스 AI 코딩 도구 ‘트레이 IDE’, 사용자 감시·데이터 중국 전송 논란 확산",
+        "time": "2025-07-30T14:23:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/138939462_3481.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138456&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138456&page=3&kind=1",
+        "summary": "비주얼 스튜디오 코드 대비 3.6배 많은 프로세스 실행…텔레메트리 차단해도 무용지물하드웨어 지문부터 사용패턴까지… 바이트댄스, 틱톡·딥시크 이어 또 데이터 수집 의혹[보안뉴스 여이레 기자] 틱톡 모기업 바이트댄스가 개발한 AI 코딩 도구 ‘트레이(TRAE) IDE’가 사용자 몰래 과도한 개인정보를 수집해 중국 본사 서버로 전송한다는 의혹이 제기됐다.트레이 ..."
+      }
+    ]
   }
 ]
