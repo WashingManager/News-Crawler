@@ -176,5 +176,26 @@
         "summary": "비주얼 스튜디오 코드 대비 3.6배 많은 프로세스 실행…텔레메트리 차단해도 무용지물하드웨어 지문부터 사용패턴까지… 바이트댄스, 틱톡·딥시크 이어 또 데이터 수집 의혹[보안뉴스 여이레 기자] 틱톡 모기업 바이트댄스가 개발한 AI 코딩 도구 ‘트레이(TRAE) IDE’가 사용자 몰래 과도한 개인정보를 수집해 중국 본사 서버로 전송한다는 의혹이 제기됐다.트레이 ..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 02일 토요일",
+    "articles": [
+      {
+        "title": "[ISEC 2025 미리보기] 한드림넷 VIPM-USM, 머신러닝·AI 기반 통합 위협분석 시스템",
+        "time": "2025-08-02T09:32:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/785101597_4678.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138389&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138389&page=1&kind=3",
+        "summary": "단일화된 통합 플랫폼을 통한 보안 위협 탐지 및 대응[보안뉴스 원병철 기자] 한드림넷(대표 서현원)은 국내 대표 네트워크 장비, 솔루션 제공 기업으로 보안 스위치 ‘서브게이트(SubGate)’를 중심으로 다양한 유무선 네트워크 장비와 네트워크 보안 솔루션을 제공하고 있다. 한드림넷은 최근 3년 연속 정보통신, 정보화 담당 공무원 등 대한민국 공공기관 IT ..."
+      },
+      {
+        "title": "[사람과 보안] 이재명 정부 AI 전략을 다시 묻다⑥ “AI가 살상 버튼을 누르는 시대, 인간은 어디에?”",
+        "time": "2025-07-31T13:44:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/07/352690401_8126.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138484&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138484&page=2&kind=2",
+        "summary": "‘타깃 식별→판단→공격’까지 AI가 처리하는 자동 살상 시스템 속속 개발돼터키 카르게(Kargu-2), 이미 2020년에 자율살상무기 전쟁 수행 능력 ‘시연’인간 승인 없이 AI의 민간인 오인 살상 가능성 상존...AI 통제권 강화해야이재명 정부는 AI 정부를 자처한다. 이재명 대통령은 취임 전부터 AI 분야에 깊은 관심을 보였고 경제 재도약과 국가대전환의..."
+      }
+    ]
   }
 ]
