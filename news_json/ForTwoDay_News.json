@@ -2673,6 +2673,24 @@
     "date": "2025년 08월 03일 일요일",
     "articles": [
       {
+        "title": "'화산재 기둥 6000m' 캄차카반도서 수백년 만에 화산 분화…지진 때문?",
+        "time": "2025-08-04T07:45:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNWlhblpMYm1OeVpFZG9SakZoVFJDbUJCaXRCQ2dLTWdhVkFZcjJsQXM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTE1ZV2JLTC1YLUJOVnRYNmhRaFBtS0xDMXF1WXZEd1d3QTJGcThYY052QTdCQ1dBM3hOTURsSnV2ek5La1o5N2Rvd2lad0VaREJmLWE3bm0zVTlKTXlpX3N4Vw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE1ZV2JLTC1YLUJOVnRYNmhRaFBtS0xDMXF1WXZEd1d3QTJGcThYY052QTdCQ1dBM3hOTURsSnV2ek5La1o5N2Rvd2lad0VaREJmLWE3bm0zVTlKTXlpX3N4Vw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 03일 일요일"
+      },
+      {
+        "title": "초강진 이어 6000m 치솟았다…600년 잠자던 화산 폭발",
+        "time": "2025-08-04T07:41:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNURFJEVlVWeVYwbDZZWEZFVFJDZkF4ampCU2dLTWdZaFpJTE9OUU0=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE03N0Y0WnNfVlNmWFZXYVF6RVZQV3d5QzJJUXVnOWdXY2hnamxyanU5bU9rR18ycnY0WUt3aWFDOHR4VzRCRTJCYkdYSHp1bVlVOTBTZkJiZDRXVDZmNWQxdU05N2RWNGd2TmfSAWZBVV95cUxQM2FDWnV2dGd6YnJNM0dRQVZGOFMxYkp4LXMyOU5XRXVVb0FVUHlUUVBhSkItVFRvQjFKS3FaRnRtUW91cFYyeWg1c0x2bEF2TUlZSEV2UmR0aGJ1RXNCVmdSNjN3aHc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE03N0Y0WnNfVlNmWFZXYVF6RVZQV3d5QzJJUXVnOWdXY2hnamxyanU5bU9rR18ycnY0WUt3aWFDOHR4VzRCRTJCYkdYSHp1bVlVOTBTZkJiZDRXVDZmNWQxdU05N2RWNGd2TmfSAWZBVV95cUxQM2FDWnV2dGd6YnJNM0dRQVZGOFMxYkp4LXMyOU5XRXVVb0FVUHlUUVBhSkItVFRvQjFKS3FaRnRtUW91cFYyeWg1c0x2bEF2TUlZSEV2UmR0aGJ1RXNCVmdSNjN3aHc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 03일 일요일"
+      },
+      {
         "title": "[지구촌 한줄뉴스](종합) 잠자던 캄차카 화산 수백년 만에 분화·미 보잉 방산 부문 4일부터 파업 돌입·워런 버핏의 버크셔 현금비축 중단·우크라전 발발 후 러시아 병사들 HIV 감염 2000% 폭증·우크라 대통령실 전 부실장 독일 자택 압색·영국 가자지구 중환자 아동 300명",
         "time": "2025-08-04T06:30:00+00:00",
         "img": "/api/attachments/CC8iK0NnNDFWRGhIZGtsWFQwNXNPVkpWVFJDR0JCalFCQ2dLTWdhSklvNnRzUVk=-w100-h100-p-df",
@@ -4168,6 +4186,15 @@
         "img": "",
         "url": "https://www.fnnews.com/news/202508040646555987",
         "original_url": "https://www.fnnews.com/news/202508040646555987",
+        "source": "Fn",
+        "date": "2025년 08월 03일 일요일"
+      },
+      {
+        "title": "‘화산재 기둥 6000m’ 캄차카반도서 수백년 만에 화산 분화…지진 때문?",
+        "time": "2025-08-04T07:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508040737076791",
+        "original_url": "https://www.fnnews.com/news/202508040737076791",
         "source": "Fn",
         "date": "2025년 08월 03일 일요일"
       }
@@ -9578,6 +9605,69 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/kbs/20250804065906054oxmr.jpg",
         "url": "https://v.daum.net/v/20250804065904577",
         "original_url": "https://v.daum.net/v/20250804065904577",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "'차세대 전투기' 수주에도…보잉 방산 부문, 29년만의 파업",
+        "time": "2025-08-03T22:57:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/moneytoday/20250804075103006xumr.jpg",
+        "url": "https://v.daum.net/v/20250804074347235",
+        "original_url": "https://v.daum.net/v/20250804074347235",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "트럼프 39% 관세 폭탄 맞은 스위스, 부랴부랴 \"협상안 수정\"",
+        "time": "2025-08-03T22:56:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/Edaily/20250804074606881dtpr.jpg",
+        "url": "https://v.daum.net/v/20250804074604266",
+        "original_url": "https://v.daum.net/v/20250804074604266",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "성북구, 고향사랑기부제 기금사업 아이디어 공모",
+        "time": "2025-08-03T22:56:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/munhwa/20250804074805330fdzl.jpg",
+        "url": "https://v.daum.net/v/20250804074804307",
+        "original_url": "https://v.daum.net/v/20250804074804307",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "[통일전망대] 북한의 세계유산‥'금강산·개성·고구려고분'",
+        "time": "2025-08-03T22:56:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/imbc/20250804074605673fcsc.jpg",
+        "url": "https://v.daum.net/v/20250804074604269",
+        "original_url": "https://v.daum.net/v/20250804074604269",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "캐나다 내각장관 \"트럼프-카니 며칠 내 전화통화 예상\"",
+        "time": "2025-08-03T22:55:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/NEWS1/20250804074326619fijk.jpg",
+        "url": "https://v.daum.net/v/20250804074326230",
+        "original_url": "https://v.daum.net/v/20250804074326230",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "70대 시아버지, 미국 결혼식장서 며느리에 총격 가해 살해",
+        "time": "2025-08-03T22:55:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/moneyweek/20250804074348214vvld.jpg",
+        "url": "https://v.daum.net/v/20250804074346233",
+        "original_url": "https://v.daum.net/v/20250804074346233",
+        "source": "daum",
+        "date": "2025년 08월 03일 Sunday"
+      },
+      {
+        "title": "이스라엘군의 민간인 공격에 가자지구 주민 3일 하루 75명 피살",
+        "time": "2025-08-03T22:55:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/04/newsis/20250804075244312euxt.jpg",
+        "url": "https://v.daum.net/v/20250804075244379",
+        "original_url": "https://v.daum.net/v/20250804075244379",
         "source": "daum",
         "date": "2025년 08월 03일 Sunday"
       }
