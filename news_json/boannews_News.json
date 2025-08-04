@@ -210,5 +210,26 @@
         "summary": "EDR이 강화된 엔드포인트 지킴이라면 XDR은 전체를 조율하는 지휘자EDR/XDR에 대한 사용자 설문조사EDR/XDR 전문기업 집중분석: 안랩, 쿼드마이너, 팔로알토 네트웍스, 스텔라사이버, 이글루코퍼레이션[보안뉴스 원병철 기자] 2013년 가트너의 안톤 추바킨(Anton Chuvakin)이 ‘ETDR; Endpoint Threat Detection and..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 04일 월요일",
+    "articles": [
+      {
+        "title": "러시아 해커 ‘털라’, 러시아 보안 기업 사칭해 대사관 해킹",
+        "time": "2025-08-04T13:19:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994275034_9878.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138524&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138524&page=1&kind=1",
+        "summary": "‘털라’ 그룹, 러시아 ISP 활용해 외교공관 인터넷 트래픽 조작카스퍼스키 사칭·AI 기반 MFA 우회 공격악성코드 ‘아폴로섀도우’로 암호 해제, 민감 정보 탈취[보안뉴스 여이레 기자] 러시아 해킹 그룹이 인터넷 서비스 제공업체(ISP)를 이용해 주 러시아 외국 대사관을 대상으로 대규모 사이버 첩보 활동을 벌이고 있는 것으로 드러났다. 이들은 이 과정에서 ..."
+      },
+      {
+        "title": "“평범한 사진인 줄 알았는데 해킹”…‘RoKRAT’, 스테가노그래피·파일리스 공격으로 진화",
+        "time": "2025-08-04T11:14:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994213510_7572.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138521&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138521&page=1&kind=1",
+        "summary": "RoKRAT LNK 파일, 다단계 셸코드·스테가노그래피로 변신파일리스·스테가노그래피 기법, 시그니처 기반 보안 솔루션 탐지 방해[보안뉴스 여이레 기자] 악성코드 ‘RoKRAT’이 다단계 암호화된 셸코드 삽입과 함께 사진 파일 내에 악성코드를 은닉하는 스테가노그래피를 결합해 탐지를 회피하는 방식으로 진화했다.지니언스 시큐리티 센터(GSC)는 최근 북한 해커조..."
+      }
+    ]
   }
 ]
