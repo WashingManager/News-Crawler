@@ -10716,6 +10716,42 @@
   },
   {
     "date": "2025년 08월 11일 월요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "산불 진압하는 스페인 소방관들",
+        "time": "2025-08-11T11:38:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3347213_3470075_3813_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3347213",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3347213"
+      },
+      {
+        "title": "지진 생존자 이송하는 튀르키예 구조대원들",
+        "time": "2025-08-11T10:29:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3347085_3469937_2810_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3347085",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3347085"
+      },
+      {
+        "title": "튀르키예 서부 지진 강타, 1명 사망·수십명 부상",
+        "time": "2025-08-11T10:22:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3347064_3469924_2230_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3347064",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3347064"
+      },
+      {
+        "title": "알자지라, 이스라엘 가자 공습으로 기자 5명 사망",
+        "time": "2025-08-11T09:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3346945_3469816_712_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3346945",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3346945"
+      },
+      {
+        "title": "에콰도르 나이트클럽 밖에서 총격, 10명 사상",
+        "time": "2025-08-11T10:53:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3347112_3469967_4855_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3347112",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3347112"
+      }
+    ]
   }
 ]
