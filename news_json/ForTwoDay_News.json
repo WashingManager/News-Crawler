@@ -298,11 +298,29 @@
     "date": "2025년 08월 11일 월요일",
     "articles": [
       {
+        "title": "튀르키예 지진, 최소 30명 사상",
+        "time": "2025-08-11T18:32:51+00:00",
+        "img": "/api/attachments/CC8iK0NnNVVOamRvTmpneFdVZExXaloxVFJEZkFoaXBCU2dLTWdZSjJJVEZ5Z00=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE1VcEkwS29yelphMUpoc1RpcW5OWnZDRXo2Q1dPaU9UREVwbTBTY2ZVX1hMbGxrWVJMS3IyMGVFR0pZRDRpSFJEQVh2SGV4ejZjbW1GajZldmNkQdIBVEFVX3lxTE40RUIxZkxvanByeDlrMXpxNWFFdWJuQ1gtSmhuNmVDdnBBMTA4M09ESFp6TzJtcV9McVB1RjdoX24zdEk4UThMUEJvTm5JVXJuRUlhZg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE1VcEkwS29yelphMUpoc1RpcW5OWnZDRXo2Q1dPaU9UREVwbTBTY2ZVX1hMbGxrWVJMS3IyMGVFR0pZRDRpSFJEQVh2SGV4ejZjbW1GajZldmNkQdIBVEFVX3lxTE40RUIxZkxvanByeDlrMXpxNWFFdWJuQ1gtSmhuNmVDdnBBMTA4M09ESFp6TzJtcV9McVB1RjdoX24zdEk4UThMUEJvTm5JVXJuRUlhZg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
         "title": "튀르키예 서부에 여진 237회…1명 사망, 건물 16채 붕괴",
         "time": "2025-08-11T18:02:52+00:00",
         "img": "/api/attachments/CC8iL0NnNVhUM28zYUVWMWRrUTNVRzFrVFJERUF4aW1CU2dLTWdtSlE0cUpJU2xjYndF=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE5pS2wydHpDX056VU9SMFhNWUw2R0FRdkNYWlY4bkFQY3NnMVFuTkFMc3NQOVptZmVtamE5SUxYNFFjMkFUVktUVTZrbWliTnpsT3FCYmUzZlZfWDjSAWBBVV95cUxOa0pqQlA0eF9lUjlNaUJrNnpzVmxyNFFZeE4wYzFsRXdESGhlSmFqZllLM3lLakVYTlNyT1VfbTE3cTdwbFRTaFRjY3RXeEljVS0zLVNBREtLa3ZyT1k0YTY?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE5pS2wydHpDX056VU9SMFhNWUw2R0FRdkNYWlY4bkFQY3NnMVFuTkFMc3NQOVptZmVtamE5SUxYNFFjMkFUVktUVTZrbWliTnpsT3FCYmUzZlZfWDjSAWBBVV95cUxOa0pqQlA0eF9lUjlNaUJrNnpzVmxyNFFZeE4wYzFsRXdESGhlSmFqZllLM3lLakVYTlNyT1VfbTE3cTdwbFRTaFRjY3RXeEljVS0zLVNBREtLa3ZyT1k0YTY?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "붉은 용암 내뿜는 화산 위에 번개가 번쩍!",
+        "time": "2025-08-11T17:58:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNUVkVzVmZW0xdU9XWTVVRzFEVFJDT0FSallBU2dLTWdhbFZZYnVxUVU=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMilAFBVV95cUxOZGg4NlpZbHF1RF80c3F0cnFXMVFUblpObndpMTF2UzhDdUxxQnR6Y0wzNVpuaHlONDhqT1VHS0JvUnpmbDUwTE1WRGt1UHpLdXN1c2lxQnZUWjhHYS1IVkJkTmdmemlteTQyaE5ZcVBmcnFIMnpOT2ZkZHVTMEhlTXlaZlptc0xkcEtqdDliU0RuTTVK?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMilAFBVV95cUxOZGg4NlpZbHF1RF80c3F0cnFXMVFUblpObndpMTF2UzhDdUxxQnR6Y0wzNVpuaHlONDhqT1VHS0JvUnpmbDUwTE1WRGt1UHpLdXN1c2lxQnZUWjhHYS1IVkJkTmdmemlteTQyaE5ZcVBmcnFIMnpOT2ZkZHVTMEhlTXlaZlptc0xkcEtqdDliU0RuTTVK?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 11일 월요일"
       },
@@ -375,6 +393,15 @@
         "img": "/api/attachments/CC8iK0NnNVdPR2RmTTAwdGVYbFNPWFoxVFJDUkF4ajhCU2dLTWdZRklJUGwxZ0k=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMingFBVV95cUxQN2FLU0s5U3owaS0ySnF2NG9yeGFkNHJKTVlCREt0eVRwUy1NM3J0UEtjTjBVb0JLQnNtOU8tWlpNUUU5amRUZXJxWUluaUE2ejhSd1hITC1ZNXRqZXQ0eWRSWS1BMkFIZk5NVzBoOHhWWlJyY3puTWpVZWN0QjB2UGJBbWVIY0F0NVRlZVZpMFhlUWRMRTUtSjBLTzZpd9IBsgFBVV95cUxQT1pZcHpFWDJ2OGktd2c4b0tMX01qMWUzdG5GWGhoNnZpUHRzdXZDUjBpQjZIUUNQUTg4U21iNEJjOVdKYm9hYmZnN1o2UEc4TktDVVpxMlJJcTZfZEhlcms2LVJjZnliOGxfbXRWQThJaHhKSG05Mk84ZTZxMDlzbFpUQUxEZkR5TVMxY0tVaUN5Q0JycnRmSm1YejhCYUpma09YSUlmellyZVBHdFhoaFZB?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxQN2FLU0s5U3owaS0ySnF2NG9yeGFkNHJKTVlCREt0eVRwUy1NM3J0UEtjTjBVb0JLQnNtOU8tWlpNUUU5amRUZXJxWUluaUE2ejhSd1hITC1ZNXRqZXQ0eWRSWS1BMkFIZk5NVzBoOHhWWlJyY3puTWpVZWN0QjB2UGJBbWVIY0F0NVRlZVZpMFhlUWRMRTUtSjBLTzZpd9IBsgFBVV95cUxQT1pZcHpFWDJ2OGktd2c4b0tMX01qMWUzdG5GWGhoNnZpUHRzdXZDUjBpQjZIUUNQUTg4U21iNEJjOVdKYm9hYmZnN1o2UEc4TktDVVpxMlJJcTZfZEhlcms2LVJjZnliOGxfbXRWQThJaHhKSG05Mk84ZTZxMDlzbFpUQUxEZkR5TVMxY0tVaUN5Q0JycnRmSm1YejhCYUpma09YSUlmellyZVBHdFhoaFZB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "[속보] 조국 부부·윤미향·조희연 사면... 광복절 2188명 특별사면",
+        "time": "2025-08-11T16:01:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNW5WMGt6VFROcmJrSlBla3R0VFJDUkF4ajhCU2dLTWdB=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMihwFBVV95cUxQSldwcUFsUlBSUDlSU1hwWXA3ZDY2TWxfSnYweVNyY1I5STR2QWJ0ZmRZNDl1UXpaMzlOdzVFZkUxVk9ubzBudFp0LVRWcGNpb2ZPbHJkdkJ4em1MdlN0SGJzdUtPbW94b0Fya2dJY2E0TGMwTklsQzkyRDM3b3FEYWJHWHM3dHfSAZsBQVVfeXFMT1luSEYzTVVtWGlVcjVwVFBLZWZUc3VyYi1TV0xCOEN5Tml4ZWp6OVY0UUhYcHV4dzRmVU9iYnY0UVFHSmJ5V19zbzZsOFJQY3lyUHQwaW5KSDlHNEtqSnp4Z2MzVFFFLVpLYTNLT1BzUjMzSVRMXzc2a2Y1QlhDYk5yaVBPWVkyaVRhU1Q4NElwVlZEYml2VkMwYVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMihwFBVV95cUxQSldwcUFsUlBSUDlSU1hwWXA3ZDY2TWxfSnYweVNyY1I5STR2QWJ0ZmRZNDl1UXpaMzlOdzVFZkUxVk9ubzBudFp0LVRWcGNpb2ZPbHJkdkJ4em1MdlN0SGJzdUtPbW94b0Fya2dJY2E0TGMwTklsQzkyRDM3b3FEYWJHWHM3dHfSAZsBQVVfeXFMT1luSEYzTVVtWGlVcjVwVFBLZWZUc3VyYi1TV0xCOEN5Tml4ZWp6OVY0UUhYcHV4dzRmVU9iYnY0UVFHSmJ5V19zbzZsOFJQY3lyUHQwaW5KSDlHNEtqSnp4Z2MzVFFFLVpLYTNLT1BzUjMzSVRMXzc2a2Y1QlhDYk5yaVBPWVkyaVRhU1Q4NElwVlZEYml2VkMwYVE?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 11일 월요일"
       },
@@ -780,6 +807,15 @@
         "img": "/api/attachments/CC8iK0NnNDBlRGt0ZFVoR01WUkVkV2cyVFJDZkF4ampCU2dLTWdZQmNJd3BPZ1k=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiYEFVX3lxTE5uNnRRaUpieTU3WFV2UlhEa1B5S2hJbjdfbUxhLWpCZkNhZWJLMTBPUVd1M0hiWnZ4VVRlZFdtSFlqdndSWHhfeGFxdTBGdXJLOTRGVVdubF9JdTlwMzVOaw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE5uNnRRaUpieTU3WFV2UlhEa1B5S2hJbjdfbUxhLWpCZkNhZWJLMTBPUVd1M0hiWnZ4VVRlZFdtSFlqdndSWHhfeGFxdTBGdXJLOTRGVVdubF9JdTlwMzVOaw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "튀르키예 서부 규모 6.0 지진…이스탄불서도 진동 느껴",
+        "time": "2025-08-11T04:26:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHdRVGhmWjJveFJEUkhVWHB4VFJDZkF4ampCU2dLTWdZQkFJYnhQQU0=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE5tRmZEVkdRamdrQ0tKdF9BOEoxSnk1SzlLalFRcFpUa29JRnQwbGxTdGFMenVBTU1OdEp4azBpYURsUFdwSl84Y2NGcUllWFRWdnZDbTF2enZaNmxPZ3JGc1hMaGFNRGNoTFHSAWZBVV95cUxOYlhSREx1aHdFWTViOHFvX2tSaFVhSnVBd2FtTnYxMThQTVBNQlY0eTBOVWhiLUdzd241X2dpU1hUWHpVa1MyRHNWTm42a1dyYUMwR09zRlk4b01CUHFrSDF0dlljYVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE5tRmZEVkdRamdrQ0tKdF9BOEoxSnk1SzlLalFRcFpUa29JRnQwbGxTdGFMenVBTU1OdEp4azBpYURsUFdwSl84Y2NGcUllWFRWdnZDbTF2enZaNmxPZ3JGc1hMaGFNRGNoTFHSAWZBVV95cUxOYlhSREx1aHdFWTViOHFvX2tSaFVhSnVBd2FtTnYxMThQTVBNQlY0eTBOVWhiLUdzd241X2dpU1hUWHpVa1MyRHNWTm42a1dyYUMwR09zRlk4b01CUHFrSDF0dlljYVE?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 11일 월요일"
       },
@@ -3287,6 +3323,42 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/11/2025081101000890800053381.jpg",
         "url": "https://news.nate.com/view/20250811n32667",
         "original_url": "https://news.nate.com/view/20250811n32667",
+        "source": "nate",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "트럼프, 이민자 이어 '노숙자·범죄와의 전쟁'선포",
+        "time": "2025-08-11T18:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/11/1493438_692733_524.png",
+        "url": "https://news.nate.com/view/20250811n33499",
+        "original_url": "https://news.nate.com/view/20250811n33499",
+        "source": "nate",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "에콰도르 나이트클럽서 총격으로 8명 사망·3명부상",
+        "time": "2025-08-11T18:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/11/1493433_692728_490.png",
+        "url": "https://news.nate.com/view/20250811n33472",
+        "original_url": "https://news.nate.com/view/20250811n33472",
+        "source": "nate",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "트럼프·푸틴 만나는 알래스카서 서방 군사훈련 중",
+        "time": "2025-08-11T18:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/11/PAF20250809062601009_P2.jpg",
+        "url": "https://news.nate.com/view/20250811n33461",
+        "original_url": "https://news.nate.com/view/20250811n33461",
+        "source": "nate",
+        "date": "2025년 08월 11일 월요일"
+      },
+      {
+        "title": "튀르키예 서부에 여진 237회…1명 사망, 건물 16채 붕괴",
+        "time": "2025-08-11T18:49:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250811n33341",
+        "original_url": "https://news.nate.com/view/20250811n33341",
         "source": "nate",
         "date": "2025년 08월 11일 월요일"
       }
@@ -13345,6 +13417,105 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/ned/20250811180640453gmir.jpg",
         "url": "https://v.daum.net/v/20250811180639324",
         "original_url": "https://v.daum.net/v/20250811180639324",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "안보도 '거래의 대상'···AI 칩 中수출 허용하고 수익",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/seouleconomy/20250811185913479necm.jpg",
+        "url": "https://v.daum.net/v/20250811174104303",
+        "original_url": "https://v.daum.net/v/20250811174104303",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "日규슈 기록적인 비…구마모토현 ‘최고 수준’ 대피령",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/kbs/20250811185339143udca.jpg",
+        "url": "https://v.daum.net/v/20250811185126570",
+        "original_url": "https://v.daum.net/v/20250811185126570",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "트럼프·푸틴 만나는 알래스카서 서방 군사훈련 중",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/yonhap/20250811185533193yaqx.jpg",
+        "url": "https://v.daum.net/v/20250811185533684",
+        "original_url": "https://v.daum.net/v/20250811185533684",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "김영록 지사, 김 총리 등에 전남도 핵심 현안 건의 광폭 행보",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/nocut/20250811190003786gqxb.jpg",
+        "url": "https://v.daum.net/v/20250811190000760",
+        "original_url": "https://v.daum.net/v/20250811190000760",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "경북도, 상반기 저출생 극복 사업 2600억 집행",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250811185537685",
+        "original_url": "https://v.daum.net/v/20250811185537685",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "“중국과 연을 끊겠습니다”…트럼프 해임 압박에 백악관 달려간 인텔CEO",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/mk/20250811184502641yykm.png",
+        "url": "https://v.daum.net/v/20250811184501390",
+        "original_url": "https://v.daum.net/v/20250811184501390",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "日규슈에 기록적인 비…구마모토에 최고 수준 대피령",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/yonhap/20250811184520369rcef.jpg",
+        "url": "https://v.daum.net/v/20250811184520412",
+        "original_url": "https://v.daum.net/v/20250811184520412",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "튀르키예 서부에 여진 237회...1명 사망, 건물 16채 붕괴",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250811184800467",
+        "original_url": "https://v.daum.net/v/20250811184800467",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "남중국해서 필리핀 해경선 쫓던 중국 해경선, 자국 군함과 충돌",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250811184504398",
+        "original_url": "https://v.daum.net/v/20250811184504398",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "日 고이즈미 농림수산상 “韓, 수산물 수입규제 철폐해달라”",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/dt/20250811184958445svvq.jpg",
+        "url": "https://v.daum.net/v/20250811184956521",
+        "original_url": "https://v.daum.net/v/20250811184956521",
+        "source": "daum",
+        "date": "2025년 08월 11일 Monday"
+      },
+      {
+        "title": "트럼프, 오바마 초상화 재배치로 모욕…\"구석으로 치워라\"",
+        "time": "2025-08-11T10:00:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/11/NEWS1/20250811184313899vpqi.jpg",
+        "url": "https://v.daum.net/v/20250811184312346",
+        "original_url": "https://v.daum.net/v/20250811184312346",
         "source": "daum",
         "date": "2025년 08월 11일 Monday"
       }
