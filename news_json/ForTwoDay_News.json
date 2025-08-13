@@ -52,6 +52,16 @@
         "summary": "",
         "source": "skyDaily",
         "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "한·베트남 국방장관회담…초계함 제3차 양도 약정 체결",
+        "time": "2025-08-12T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=282132",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=282132",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 08월 13일 수요일"
       }
     ]
   },
@@ -154,11 +164,29 @@
     "date": "2025년 08월 13일 수요일",
     "articles": [
       {
+        "title": "트럼프 발표 하루 만에‥워싱턴DC 곳곳 주방위군 배치 시작",
+        "time": "2025-08-13T12:14:01+00:00",
+        "img": "/api/attachments/CC8iL0NnNUhNbVp6ZVdkTlpUSmZkM1ZVVFJDZkF4ampCU2dLTWdrQmtJNEtycWNla0FF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE9EUVVUQ3liTWpnQWFFY0VHSFp0TkZJOFBoVG5OR0xyOWtrRWQzWDZ1Zm5NcFZGTl92eEpwNld1OWppNDhFT1h3Z3dpbklyZGlJNWVmUV9NV3ZLNDFtRDdzTGkxM2Z5VlhSVnhzTXUwMVJlRmJJ0gF0QVVfeXFMTXRHWmtfcUZLLVA4d1JTRUxtbkVsbG9DdktubWhBeklrNFJyLUVzQUJ5bjkwYllZajRfS1BQbVYxOTdoT09CeUVtU2RZVy0wSzJNS1JtYlM1NGhPdkUyQ2kyeVc4eWZyWEw3cVg5OHNqYXV5NTY?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE9EUVVUQ3liTWpnQWFFY0VHSFp0TkZJOFBoVG5OR0xyOWtrRWQzWDZ1Zm5NcFZGTl92eEpwNld1OWppNDhFT1h3Z3dpbklyZGlJNWVmUV9NV3ZLNDFtRDdzTGkxM2Z5VlhSVnhzTXUwMVJlRmJJ0gF0QVVfeXFMTXRHWmtfcUZLLVA4d1JTRUxtbkVsbG9DdktubWhBeklrNFJyLUVzQUJ5bjkwYllZajRfS1BQbVYxOTdoT09CeUVtU2RZVy0wSzJNS1JtYlM1NGhPdkUyQ2kyeVc4eWZyWEw3cVg5OHNqYXV5NTY?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
         "title": "하띤성, 치쿤구니아 전염병 예방 위해 '방패' 설치",
         "time": "2025-08-13T11:53:42+00:00",
         "img": "/api/attachments/CC8iL0NnNTNlSE5pVmtwaU0yOVdZblUzVFJDM0FSaVRBaWdCTWdrQklwQ3B0U1k5d3dJ=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMifEFVX3lxTFBsNWI5SExEcGx6QzdNNmpjUkwtYm40Rzl2SGZfVUU5TTduM1FkdlpXM3hQeE53SkM3Ml85NWJXNjYyQkN2MlBRMUwxcGIwTjA3dGcyZ05HNnJQdTlmNUlXdzBMUHJiT3BiMkV1bGJkc1RaRFgyV3dqblNXVFQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMifEFVX3lxTFBsNWI5SExEcGx6QzdNNmpjUkwtYm40Rzl2SGZfVUU5TTduM1FkdlpXM3hQeE53SkM3Ml85NWJXNjYyQkN2MlBRMUwxcGIwTjA3dGcyZ05HNnJQdTlmNUlXdzBMUHJiT3BiMkV1bGJkc1RaRFgyV3dqblNXVFQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "준비시간 촉박한 트럼프·푸틴 회담, 결국 앵커리지 미군기지서",
+        "time": "2025-08-13T11:35:14+00:00",
+        "img": "/api/attachments/CC8iL0NnNTBVMGxoVkdseVVGWTVURlJqVFJETkFoajBBeWdLTWdrTklwS21saW85cGdJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMifkFVX3lxTE8zTXZMTWc0WW5GUjVoY25vTnZ4aURaSGN0OHBOdWpJVU1SUlJ4UUNKLWJfTllzWWxoWUZWMGtxTzFxbUdrd0gyUVA3ZmVwekU3MnNYTHNxVmJvYUFHM1BJZEVYYlJUQzYtU2JneVotbkNNVFFZcjN6dzduOHN4d9IBYEFVX3lxTE1KY0JkajE0VGNEUm4tM0hrYVVfVV9qWjNkQmN1dl9LbEZyQ3ZVZ0FIV0VQZTdMZFZGalR4OTdzeUsxcHNUZEtWTk9HcVpVRl9UcnA2alpUMzQxVldZaElNNA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMifkFVX3lxTE8zTXZMTWc0WW5GUjVoY25vTnZ4aURaSGN0OHBOdWpJVU1SUlJ4UUNKLWJfTllzWWxoWUZWMGtxTzFxbUdrd0gyUVA3ZmVwekU3MnNYTHNxVmJvYUFHM1BJZEVYYlJUQzYtU2JneVotbkNNVFFZcjN6dzduOHN4d9IBYEFVX3lxTE1KY0JkajE0VGNEUm4tM0hrYVVfVV9qWjNkQmN1dl9LbEZyQ3ZVZ0FIV0VQZTdMZFZGalR4OTdzeUsxcHNUZEtWTk9HcVpVRl9UcnA2alpUMzQxVldZaElNNA?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 13일 수요일"
       },
@@ -186,6 +214,15 @@
         "img": "/api/attachments/CC8iK0NnNUVYMDlsUXpCalpsUnRNbHBwVFJEZ0F4aUFCU2dLTWdZQmdJS3NMUVk=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiZEFVX3lxTFBjWWx5V2x3cGs1OVZRZG1rOFdlRlpaSUh4ZkUwLVZjRzZYMkY1T0JHdmJFd3kxMmszOVNLaTVraHk1UmdsampDWlZSeTNZUEF6UmUweGV3VTFkSUdzekFlRFZOZFY?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiZEFVX3lxTFBjWWx5V2x3cGs1OVZRZG1rOFdlRlpaSUh4ZkUwLVZjRzZYMkY1T0JHdmJFd3kxMmszOVNLaTVraHk1UmdsampDWlZSeTNZUEF6UmUweGV3VTFkSUdzekFlRFZOZFY?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "14년 8개월간 미국서 中 OLED 퇴출...삼디 기술 탈취 미국서 제동",
+        "time": "2025-08-13T09:00:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNTZMVXMyY21wYVJuZENhVU5GVFJDUkF4ajhCU2dLTWdZcFpZck9LUVk=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMigwFBVV95cUxQbXgzdERjRGN1OVFfOUNOZl9QVmY3eWl1a2RLaElQZVJPYmJXb1pIdkV6Q3NHV3RWbElpQlBweExqUUxYOWoxMl9oSU9NUHhSeG4xRlhQZG95LVpQQUJMM2tUWFhHQXpsdmJldnpIc1VvQlFhc1RqbUhCQldtMzJfQ2hTa9IBlwFBVV95cUxQSE1pa2RHdmNIQXgzcUtvNHlrV1M1eXFYOEN4cUs0TzFUZGVFcFJ3eGpXWDR5RnoybzhmRFQ5d3FqSllSTmlPNm90aWo1aEdLSG51Sm9jUTA4bmQ5bjB6V0o3aHoyZWJfcFFSbXBlcG02MGtiYktORzlLT1NQYWxTc21Qb25RNFpUazhKellDNDdGck54d3ZJ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMigwFBVV95cUxQbXgzdERjRGN1OVFfOUNOZl9QVmY3eWl1a2RLaElQZVJPYmJXb1pIdkV6Q3NHV3RWbElpQlBweExqUUxYOWoxMl9oSU9NUHhSeG4xRlhQZG95LVpQQUJMM2tUWFhHQXpsdmJldnpIc1VvQlFhc1RqbUhCQldtMzJfQ2hTa9IBlwFBVV95cUxQSE1pa2RHdmNIQXgzcUtvNHlrV1M1eXFYOEN4cUs0TzFUZGVFcFJ3eGpXWDR5RnoybzhmRFQ5d3FqSllSTmlPNm90aWo1aEdLSG51Sm9jUTA4bmQ5bjB6V0o3aHoyZWJfcFFSbXBlcG02MGtiYktORzlLT1NQYWxTc21Qb25RNFpUazhKellDNDdGck54d3ZJ?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 13일 수요일"
       },
@@ -1820,6 +1857,78 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/13/7129388_high.jpg",
         "url": "https://news.nate.com/view/20250813n17666",
         "original_url": "https://news.nate.com/view/20250813n17666",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "트럼프 발표 하루 만에…워싱턴D.C. 주방위군 배치",
+        "time": "2025-08-13T13:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/13/AKR20250813134712042_01_i.jpg",
+        "url": "https://news.nate.com/view/20250813n19531",
+        "original_url": "https://news.nate.com/view/20250813n19531",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "트럼프 발표 하루 만에 워싱턴DC에 주방위군 배치",
+        "time": "2025-08-13T13:39:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250813n19100",
+        "original_url": "https://news.nate.com/view/20250813n19100",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "중국군 \"미군 이지스 구축함 남중국해 침입…퇴거했다\"",
+        "time": "2025-08-13T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/13/news-p.v1.20250813.9123bc00a22d46f1a7e9a828283b8f85_P1.jpg",
+        "url": "https://news.nate.com/view/20250813n19045",
+        "original_url": "https://news.nate.com/view/20250813n19045",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"트럼프·푸틴 회담 장소, 앵커리지 미군기지로 확정\"<CNN>",
+        "time": "2025-08-13T13:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/13/AKR20250813133634376_01_i.jpg",
+        "url": "https://news.nate.com/view/20250813n19011",
+        "original_url": "https://news.nate.com/view/20250813n19011",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "[포착] \"우크라, 무너지고 있다\"…러軍, 그물로 만든 '드론 방어망' 뚫고 진격",
+        "time": "2025-08-13T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/08/13/SSC_20250813134500_V.jpg",
+        "url": "https://news.nate.com/view/20250813n19508",
+        "original_url": "https://news.nate.com/view/20250813n19508",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "트럼프에 뺨맞고 '놓은 손' 잡는 중국-인도, 직항 노선 부활 수순",
+        "time": "2025-08-13T13:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/08/13/mt_1755060427438_547683_0.jpg",
+        "url": "https://news.nate.com/view/20250813n19343",
+        "original_url": "https://news.nate.com/view/20250813n19343",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"미국 경제에 몰려올 공포\" 진단에…길길이 날뛰는 트럼프 [지금이뉴스]",
+        "time": "2025-08-13T13:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/08/13/202508131331305314_t.jpg",
+        "url": "https://news.nate.com/view/20250813n19392",
+        "original_url": "https://news.nate.com/view/20250813n19392",
+        "source": "nate",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "美 전문가들 \"25일 한미 정상회담, 한미동맹에 중대 변곡점 될 수도\"",
+        "time": "2025-08-13T13:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/13/cz_1755060124626_308204_0.jpg",
+        "url": "https://news.nate.com/view/20250813n19229",
+        "original_url": "https://news.nate.com/view/20250813n19229",
         "source": "nate",
         "date": "2025년 08월 13일 수요일"
       }
@@ -3607,6 +3716,296 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "“내란 누명 들러리” 직격 vs. “내란의 강 건너야”.. 나경원·조경태, 특검 앞 보수권력 결전 돌입",
+        "time": "2025-08-13T13:30:12",
+        "img": "https://imgnews.pstatic.net/image/661/2025/08/13/0000059962_001_20250813133614542.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/661/0000059962",
+        "original_url": "https://n.news.naver.com/mnews/article/661/0000059962",
+        "summary": "나경원 “허구의 내란 프레임, 보수 숙청 공범 될 수 없다”\n조경태 “尹 옹호론으론 총선 불가능.. 강은 반드시 건너야”",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "美전문가 \"李-트럼프 회담, 한미동맹에 중대 변곡점될수도\"",
+        "time": "2025-08-13T13:21:27",
+        "img": "https://imgnews.pstatic.net/image/448/2025/08/13/2025081390138_0_20250813132509228.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/448/0000549356",
+        "original_url": "https://n.news.naver.com/mnews/article/448/0000549356",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "장동혁 “尹 부부 구속‥ 정치보복, 광란의 권력 파티”",
+        "time": "2025-08-13T13:06:19",
+        "img": "https://imgnews.pstatic.net/image/022/2025/08/13/20250813509527_20250813130619684.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004059658",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004059658",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "[속보] 시민단체 “비전향장기수 안학섭, 20일 판문점 통해 북한갈 것”…통일부 “인도적 접근”",
+        "time": "2025-08-13T13:01:45",
+        "img": "https://imgnews.pstatic.net/image/029/2025/08/13/0002975165_002_20250813130512041.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002975165",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002975165",
+        "summary": "안씨 만난 통일부 고위관계자 “인도적 관점서 접근…송환 추진은 미정”",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "北 호응했다더니…대남 확성기 40여대 중 1대만 철거",
+        "time": "2025-08-13T12:56:31",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/13/0003461703_001_20250813135410133.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003461703",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003461703",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "[투자 일기예보] 美, 中 OLED 기업 15년간 퇴출...'역대급 승소' 국내 디스플레이 불기둥",
+        "time": "2025-08-13T13:48:31",
+        "img": "https://imgnews.pstatic.net/image/215/2025/08/13/A202508131005_1_20250813134908184.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/215/0001219939",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001219939",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "中 OLED 미국 퇴출 소식에…LG디스플레이, 20% 강세[핫종목]",
+        "time": "2025-08-13T13:43:46",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/13/0008426321_001_20250813134417778.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008426321",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008426321",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "한화 김동선, 북한산 파라스파라 서울 인수… 새 리조트 이름은 ‘안토’",
+        "time": "2025-08-13T13:42:13",
+        "img": "https://imgnews.pstatic.net/image/366/2025/08/13/0001100018_001_20250813135308216.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001100018",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001100018",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"인앤아웃, 덤벼\" K버거 롯데리아 美본토 상륙…LA 1호점 오프런 행렬",
+        "time": "2025-08-13T13:33:37",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/13/NISI20250813_0001917289_web_20250813111242_20250813133425673.gif?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013419782",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013419782",
+        "summary": "소프트오프닝 첫날 4시간 운영…500명 이상 방문\n한국의 맛 조합한 불고기·새우 버거 현지서 '인기'",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "韓, 탄소합금 후판 전기요금 상계관세…국제무역법원 1심 승소",
+        "time": "2025-08-13T13:11:13",
+        "img": "https://imgnews.pstatic.net/image/029/2025/08/13/0002975166_002_20250813131215762.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002975166",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002975166",
+        "summary": "CIT “철강업 전기 사용량 많다는 걸로 불균형 성립하지 않아”",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "수도권 내일 새벽까지 폭우…인천·경기북부 200mm↑ 비 [오후날씨 꿀팁]",
+        "time": "2025-08-13T12:26:35",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012008136",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012008136",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "체코 대통령, 달라이 라마 접견에 중국 ‘발끈’…“악질적 도발”",
+        "time": "2025-08-13T13:20:16",
+        "img": "https://imgnews.pstatic.net/image/028/2025/08/13/0002760915_001_20250813132409888.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002760915",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002760915",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"트럼프, 푸틴 공작에 놀아날 것...우크라 종전은 물 건너가\"",
+        "time": "2025-08-13T11:17:22",
+        "img": "https://imgnews.pstatic.net/image/052/2025/08/13/202508131117220827_t_20250813130816991.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/052/0002232261",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002232261",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "KAIST, ‘생성AI’ 국가 R&D 핵심기술 개발 주도",
+        "time": "2025-08-13T11:38:12",
+        "img": "https://imgnews.pstatic.net/image/016/2025/08/13/0002513925_001_20250813113812855.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002513925",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002513925",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "한국계 日교토국제고, 올해도 여름 고시엔 16강 진출 쾌거",
+        "time": "2025-08-13T13:55:51",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/13/NISI20240823_0001418740_web_20240823141842_20250813135621852.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013419879",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013419879",
+        "summary": "2년 연속 16강 진출",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "인도 모디, 유엔 총회 때 트럼프와 회담 추진…\"관세 협상\"",
+        "time": "2025-08-13T13:55:20",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/13/0008426372_001_20250813135618596.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008426372",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008426372",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "중국군 “미군 이지스 구축함 남중국해 침입…퇴거했다”",
+        "time": "2025-08-13T13:37:08",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/13/0003389260_001_20250813133708991.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003389260",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003389260",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "필리핀 해경선 무리하게 추격하더니…같은 편끼리 ‘쾅’, 중국군함의 굴욕",
+        "time": "2025-08-13T13:35:07",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/13/0005540843_001_20250813133507800.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005540843",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005540843",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "中 \"대만, 美관세 무릎 꿇으면 출구 없어…양안 경협 강화해야\"",
+        "time": "2025-08-13T13:11:20",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/13/0008426243_001_20250813131216026.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008426243",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008426243",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "美인권보고서 \"北, 사형·강압으로 유지\"…'김씨 정권' 체제 비판 줄여",
+        "time": "2025-08-13T13:52:01",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/13/0003461713_001_20250813135310066.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003461713",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003461713",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"영·프·독, 이란 제재 재부과 준비\"…핵 협상 압박 강화",
+        "time": "2025-08-13T13:19:41",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/13/NISI20250630_0000456750_web_20250630135150_20250813135320944.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013419729",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013419729",
+        "summary": "FT \"유엔에 서한…협상 조치 없으면 스냅백 발동\"\n이란 \"법적 근거 없어…美와 직접 협상은 할 수도\"",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "트럼프 발표 하루 만에…워싱턴D.C. 주방위군 배치",
+        "time": "2025-08-13T13:48:12",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/13/AKR20250813134712042_01_i_20250813134812440.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000770205",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000770205",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "트럼프에 뺨맞고 '놓은 손' 잡는 중국-인도, 직항 노선 부활 수순",
+        "time": "2025-08-13T13:42:48",
+        "img": "https://imgnews.pstatic.net/image/008/2025/08/13/0005235465_001_20250813134711218.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005235465",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005235465",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "美 전문가들 “25일 한미 정상회담, 한미동맹에 중대 변곡점 될 수도”",
+        "time": "2025-08-13T13:42:08",
+        "img": "https://imgnews.pstatic.net/image/366/2025/08/13/0001100017_001_20250813134208160.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001100017",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001100017",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"트럼프·푸틴 회담 장소, 앵커리지 미군기지로 확정\"<CNN>",
+        "time": "2025-08-13T13:37:11",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/13/AKR20250813133634376_01_i_20250813133711866.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000770199",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000770199",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "\"밴스, 고 홈\"…업무·휴가지 영국서 시위 맞닥뜨린 미 부통령",
+        "time": "2025-08-13T13:28:16",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/13/AKR20250813132719664_01_i_20250813132816646.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000770192",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000770192",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "스미스소니언 전시에 개입하는 백악관…\"대통령 지시 따르는지 확인\"",
+        "time": "2025-08-13T13:26:11",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/13/AKR20250813132545261_01_i_20250813132611525.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000770191",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000770191",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "[글로벌D리포트] 북한 체제 비판 '쏙' 빠지고…분량도 절반으로?",
+        "time": "2025-08-13T13:15:25",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/055/0001283581",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001283581",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "중국 관광지서 20대 남성 흉기 휘둘러… 1명 사망·1명 부상",
+        "time": "2025-08-13T13:12:45",
+        "img": "https://imgnews.pstatic.net/image/417/2025/08/13/0001095197_001_20250813131309052.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/417/0001095197",
+        "original_url": "https://n.news.naver.com/mnews/article/417/0001095197",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 13일 수요일"
       }
     ]
   },
@@ -5320,6 +5719,15 @@
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3349396",
         "source": "Gukje",
         "date": "2025년 08월 13일 수요일"
+      },
+      {
+        "title": "[속보] 고양 국도 39호선 파주방향·개나리 주유소 앞 '차량 통제'",
+        "time": "2025-08-13T13:48:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3349436_3472538_4850_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3349436",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3349436",
+        "source": "Gukje",
+        "date": "2025년 08월 13일 수요일"
       }
     ]
   },
@@ -5872,6 +6280,186 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/yonhap/20250813115415184jyzm.jpg",
         "url": "https://v.daum.net/v/20250813115415518",
         "original_url": "https://v.daum.net/v/20250813115415518",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "[글로벌+] 독일 정계 강타한 '중동 가자 지구 전쟁 여파', 새 내각 지지율 하락",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/dgmbc/20250813133918021kryt.jpg",
+        "url": "https://v.daum.net/v/20250813133913294",
+        "original_url": "https://v.daum.net/v/20250813133913294",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "한화 김동선, 북한산 파라스파라 서울 인수… 새 리조트 이름은 ‘안토’",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/chosunbiz/20250813134237602ushv.jpg",
+        "url": "https://v.daum.net/v/20250813134236412",
+        "original_url": "https://v.daum.net/v/20250813134236412",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "중국 관광지서 20대 남성 흉기 휘둘러… 1명 사망·1명 부상",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/moneyweek/20250813131417856ttos.jpg",
+        "url": "https://v.daum.net/v/20250813131415415",
+        "original_url": "https://v.daum.net/v/20250813131415415",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "특검 \"박정훈 대령 구속영장, 군검사 여러명이 나눠 작성\"",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/THEFACT/20250813133317541jhos.jpg",
+        "url": "https://v.daum.net/v/20250813133314046",
+        "original_url": "https://v.daum.net/v/20250813133314046",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "극지연구소, 북극서 지구 스스로 온난화 늦추는 자연 복원력 확인",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/551719-ORAHujo/20250813132245035pfso.png",
+        "url": "https://v.daum.net/v/20250813132243662",
+        "original_url": "https://v.daum.net/v/20250813132243662",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "“내란 누명 들러리” 직격 vs. “내란의 강 건너야”.. 나경원·조경태, 특검 앞 보수권력 결전 돌입",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/jibs/20250813132929335tvxb.jpg",
+        "url": "https://v.daum.net/v/20250813132927911",
+        "original_url": "https://v.daum.net/v/20250813132927911",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "“트럼프 짜증낼라”…英, EU에 ‘유럽 패싱’ 비판 자제 당부",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/donga/20250813120526034rdvs.jpg",
+        "url": "https://v.daum.net/v/20250813120126778",
+        "original_url": "https://v.daum.net/v/20250813120126778",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "일제 때 '전북사람·독립영웅', 영상으로 태어났다",
+        "time": "2025-08-13T04:47:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/inews24/20250813134457792yhpf.jpg",
+        "url": "https://v.daum.net/v/20250813134456508",
+        "original_url": "https://v.daum.net/v/20250813134456508",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "\"트럼프·푸틴 회담 장소, 앵커리지 미군기지로 확정\"<CNN>",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/newsy/20250813133806058mnrq.jpg",
+        "url": "https://v.daum.net/v/20250813133805248",
+        "original_url": "https://v.daum.net/v/20250813133805248",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "체코 대통령, 달라이 라마 접견에 중국 ‘발끈’…“악질적 도발”",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/hani/20250813132115397mues.jpg",
+        "url": "https://v.daum.net/v/20250813132114619",
+        "original_url": "https://v.daum.net/v/20250813132114619",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "김정은-푸틴 통화…광복절 앞두고 \"전민항쟁의 승리\"[데일리 북한]",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/NEWS1/20250813134014668kuuf.jpg",
+        "url": "https://v.daum.net/v/20250813134014329",
+        "original_url": "https://v.daum.net/v/20250813134014329",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "美 전문가들 “25일 한미 정상회담, 한미동맹에 중대 변곡점 될 수도”",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/chosunbiz/20250813134240798yjvh.jpg",
+        "url": "https://v.daum.net/v/20250813134240419",
+        "original_url": "https://v.daum.net/v/20250813134240419",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "트럼프 발표 하루 만에 워싱턴DC에 주방위군 배치",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250813133603165",
+        "original_url": "https://v.daum.net/v/20250813133603165",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "중국군 “미군 이지스 구축함 남중국해 침입…퇴거했다”",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/khan/20250813133739240zmec.jpg",
+        "url": "https://v.daum.net/v/20250813133737236",
+        "original_url": "https://v.daum.net/v/20250813133737236",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "\"밴스, 고 홈\"…업무·휴가지 영국서 시위 맞닥뜨린 미 부통령",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/newsy/20250813132838209grlc.jpg",
+        "url": "https://v.daum.net/v/20250813132838891",
+        "original_url": "https://v.daum.net/v/20250813132838891",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "北 호응했다더니…대남 확성기 40여대 중 1대만 철거",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/joongang/20250813125841745hzvw.jpg",
+        "url": "https://v.daum.net/v/20250813125840077",
+        "original_url": "https://v.daum.net/v/20250813125840077",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "알래스카 '먹구름'…진격 확대 푸틴, 발빼는 美 \"듣는 자리\"",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/NEWS1/20250813125300309kwhx.jpg",
+        "url": "https://v.daum.net/v/20250813125300000",
+        "original_url": "https://v.daum.net/v/20250813125300000",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "트럼프에 뺨맞고 '놓은 손' 잡는 중국-인도, 직항 노선 부활 수순",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/moneytoday/20250813134419310zpqi.jpg",
+        "url": "https://v.daum.net/v/20250813134418485",
+        "original_url": "https://v.daum.net/v/20250813134418485",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "[뉴스in뉴스] ‘돈 되는’ 대통령직?…트럼프, 얼마나 벌었나",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/kbs/20250813125530256fibg.png",
+        "url": "https://v.daum.net/v/20250813125526029",
+        "original_url": "https://v.daum.net/v/20250813125526029",
+        "source": "daum",
+        "date": "2025년 08월 13일 Wednesday"
+      },
+      {
+        "title": "트럼프 입맛 맞춘 인권보고서…영국·독일엔 박하고, 북한·엘살바도르·이스라엘 등엔 비판 축소",
+        "time": "2025-08-13T04:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/13/khan/20250813124657733eeaz.png",
+        "url": "https://v.daum.net/v/20250813124656905",
+        "original_url": "https://v.daum.net/v/20250813124656905",
         "source": "daum",
         "date": "2025년 08월 13일 Wednesday"
       }
