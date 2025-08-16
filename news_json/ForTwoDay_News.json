@@ -82,12 +82,30 @@
         "original_url": "https://www.fnnews.com/news/202508161307270349",
         "source": "Fn",
         "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "푸틴, 알래스카 회담 후 추코트카 방문… 美 F-22 전투기 호위 받아",
+        "time": "2025-08-16T16:01:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508161556590215",
+        "original_url": "https://www.fnnews.com/news/202508161556590215",
+        "source": "Fn",
+        "date": "2025년 08월 16일 토요일"
       }
     ]
   },
   {
     "date": "2025년 08월 16일 토요일",
     "articles": [
+      {
+        "title": "[속보] 충남 당진 서남서쪽서 규모 2.3 지진 발생",
+        "time": "2025-08-16T14:44:45+00:00",
+        "img": "/api/attachments/CC8iJ0NnNWlUamN4T0RreFMyeDJjbFJ1VFJEMEF4ajBBeWdLTWdORklDZw=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiUEFVX3lxTE1ybjJnM0gwel9oZ2EyM29ucGxJY2Y1ZjJIbTJmajZBTzJxeGNqRXgxd1JJRk9xQzZ3ZmZQa0RsWkhzaFBXNG1CTE03bkFLdzhR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUEFVX3lxTE1ybjJnM0gwel9oZ2EyM29ucGxJY2Y1ZjJIbTJmajZBTzJxeGNqRXgxd1JJRk9xQzZ3ZmZQa0RsWkhzaFBXNG1CTE03bkFLdzhR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 16일 토요일"
+      },
       {
         "title": "일본 정부, 한국 조사선 독도 주변 해양조사에 강력 항의",
         "time": "2025-08-16T14:40:00+00:00",
@@ -103,6 +121,15 @@
         "img": "/api/attachments/CC8iI0NnNUdXbTlTWXpNdFgxQmFUa2g0VFJDUkF4ajhCU2dLTWdB=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMingFBVV95cUxORmhlZF9Bb05nVHFiNnJqVnRYekdqMk8wcm5rZ2V4QTVpYXN3THdTdURueURMLW1LSkJubkdqYmxQY2Z2OEJVdFd6NHM3d2F1Z0J0VXpVdU1LRWV6X3dfcnRaWU9qOHdxWlJNNXg0Wi1kWUtGQm9XSFpaYmR6STVONWdjVWxYUlBRZEk0T1VheVMtZTV5QzJNLTZBUW5pd9IBsgFBVV95cUxPbkdFR2ptdDlGY3puRklSeUpTZ2JaNDBnMDdFRmNnNkpHeEtwRTJhdGlXUnppaEtGMVljUjdOS0U0NlhMUjJJUW96THFHaGZVUTBKbW1JMlFaNlN3czNzNHd1UE9FUmExbndQVncxMXQtMnViaDhBOWZ3Q2thRlpkOE5aSUpadGJ4MjlpbmpFMEhxUkFyMGNmenBhZVh0bFJIeG56YjltRlV4TFRVTV9wbGxn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxORmhlZF9Bb05nVHFiNnJqVnRYekdqMk8wcm5rZ2V4QTVpYXN3THdTdURueURMLW1LSkJubkdqYmxQY2Z2OEJVdFd6NHM3d2F1Z0J0VXpVdU1LRWV6X3dfcnRaWU9qOHdxWlJNNXg0Wi1kWUtGQm9XSFpaYmR6STVONWdjVWxYUlBRZEk0T1VheVMtZTV5QzJNLTZBUW5pd9IBsgFBVV95cUxPbkdFR2ptdDlGY3puRklSeUpTZ2JaNDBnMDdFRmNnNkpHeEtwRTJhdGlXUnppaEtGMVljUjdOS0U0NlhMUjJJUW96THFHaGZVUTBKbW1JMlFaNlN3czNzNHd1UE9FUmExbndQVncxMXQtMnViaDhBOWZ3Q2thRlpkOE5aSUpadGJ4MjlpbmpFMEhxUkFyMGNmenBhZVh0bFJIeG56YjltRlV4TFRVTV9wbGxn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "“중국, 트럼프 임기내 대만 침공없다”···트럼프, 시진핑과의 대화 공개",
+        "time": "2025-08-16T14:02:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVplbGgzTnpKMlFVWjBXSFo2VFJERUF4aW1CU2dLTWdZVllwSUtyUWM=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFB3TVQtVXMtWjVSeVVWQVZDb1ZiZ0tiT2FjbjBXQ1BuWXB1OGlMa3pmczVHNFFxX0xiM2FvNGJyWGFqN1lzVEFWVUNSZ3RJSkYxVGp4c2gyM1c3d9IBX0FVX3lxTE9pemh2VlJael9qMzA4S3BVNllOcjVRZHZMX2RXdTl2UXh5dTdvQlY2Ql9CRlBieW1VcTlvRzJqUUh0RHZiQ1VQS3NWdG5vd21EaGNid1ZKWjAzVENTeFdz?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFB3TVQtVXMtWjVSeVVWQVZDb1ZiZ0tiT2FjbjBXQ1BuWXB1OGlMa3pmczVHNFFxX0xiM2FvNGJyWGFqN1lzVEFWVUNSZ3RJSkYxVGp4c2gyM1c3d9IBX0FVX3lxTE9pemh2VlJael9qMzA4S3BVNllOcjVRZHZMX2RXdTl2UXh5dTdvQlY2Ql9CRlBieW1VcTlvRzJqUUh0RHZiQ1VQS3NWdG5vd21EaGNid1ZKWjAzVENTeFdz?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 16일 토요일"
       },
@@ -3791,6 +3818,249 @@
         "original_url": "https://news.nate.com/view/20250816n06893",
         "source": "nate",
         "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "[속보] \"젤렌스키, 이르면 18일 방미…트럼프와 정상회담\"",
+        "time": "2025-08-16T16:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/08/16/02.22579247.1.jpg",
+        "url": "https://news.nate.com/view/20250816n07696",
+        "original_url": "https://news.nate.com/view/20250816n07696",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프 \"시진핑, 내 임기 동안은 대만 침공 안 한다 약속\"",
+        "time": "2025-08-16T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/08/16/ZA.41414505.1.jpg",
+        "url": "https://news.nate.com/view/20250816n07450",
+        "original_url": "https://news.nate.com/view/20250816n07450",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "美 트럼프 정부, 철강·알루미늄 '50% 관세' 대상 확대…18일 발효",
+        "time": "2025-08-16T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/08/16/kuk20250816000076.800x.0.jpg",
+        "url": "https://news.nate.com/view/20250816n07569",
+        "original_url": "https://news.nate.com/view/20250816n07569",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "'휴전 노딜' 트럼프 \"합의, 젤렌스키에 달려\"…대러 제재 '유보적'",
+        "time": "2025-08-16T15:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2025/08/16/2508160831519690_w.jpg",
+        "url": "https://news.nate.com/view/20250816n07360",
+        "original_url": "https://news.nate.com/view/20250816n07360",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "올여름 태풍 실종?…'극한 폭염'이 태풍 막았다",
+        "time": "2025-08-16T16:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/16/AKR20250816163251378_01_i.jpg",
+        "url": "https://news.nate.com/view/20250816n07794",
+        "original_url": "https://news.nate.com/view/20250816n07794",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프 \"시진핑, 내 임기에 대만 침공 안 한다고 약속했다\"",
+        "time": "2025-08-16T16:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mw/2025/08/16/2025081615552243875_1.jpg",
+        "url": "https://news.nate.com/view/20250816n07632",
+        "original_url": "https://news.nate.com/view/20250816n07632",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "육군 17사단, 폭우 피해 인천·김포에 병력·장비 투입…수해 복구 '구슬땀'",
+        "time": "2025-08-16T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/08/16/01.41415761.1.jpg",
+        "url": "https://news.nate.com/view/20250816n07583",
+        "original_url": "https://news.nate.com/view/20250816n07583",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "김용현 경호처장 때 '北 무인기 작전' 동향파악…내란특검 정황 포착",
+        "time": "2025-08-16T16:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/16/6904758_high.jpg",
+        "url": "https://news.nate.com/view/20250816n07582",
+        "original_url": "https://news.nate.com/view/20250816n07582",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "[속보] 젤렌스키 \"트럼프·푸틴과 3자회담 지지…18일 방미\"",
+        "time": "2025-08-16T16:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/16/7443693_high.jpg",
+        "url": "https://news.nate.com/view/20250816n07773",
+        "original_url": "https://news.nate.com/view/20250816n07773",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "[속보] \"젤렌스키, 트럼프 만나러 이르면 18일 방미\"",
+        "time": "2025-08-16T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/16/7401756_high.jpg",
+        "url": "https://news.nate.com/view/20250816n07659",
+        "original_url": "https://news.nate.com/view/20250816n07659",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "'노딜' 트럼프-푸틴, 스테이크 오찬 생략한 채 종료",
+        "time": "2025-08-16T16:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/16/ae_1755329764658_856834_0.jpg",
+        "url": "https://news.nate.com/view/20250816n07828",
+        "original_url": "https://news.nate.com/view/20250816n07828",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "'노딜' 트럼프-푸틴 대좌, 준비된 오찬도 생략한 채 종료",
+        "time": "2025-08-16T16:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/16/AKR20250816031800009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250816n07738",
+        "original_url": "https://news.nate.com/view/20250816n07738",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "중국·인도 18일 특별 대표회담…5년만에 국경무역 재개 물꼬 트이나",
+        "time": "2025-08-16T16:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/08/16/2025081615335124349_1.jpg",
+        "url": "https://news.nate.com/view/20250816n07688",
+        "original_url": "https://news.nate.com/view/20250816n07688",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프·푸틴, \"2020년 美 대선 조작됐다\" 의견 일치",
+        "time": "2025-08-16T16:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/16/cz_1755329464901_856535_0.jpg",
+        "url": "https://news.nate.com/view/20250816n07758",
+        "original_url": "https://news.nate.com/view/20250816n07758",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "우크라, 트럼프·푸틴 만남에 \"아무런 변화 없어…회담 실패\" 비판",
+        "time": "2025-08-16T16:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/08/16/PS25081600286.jpg",
+        "url": "https://news.nate.com/view/20250816n07655",
+        "original_url": "https://news.nate.com/view/20250816n07655",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프, 푸틴과 회담 후 젤렌스키·나토 정상과 장시간 통화",
+        "time": "2025-08-16T16:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/16/7446308_high.jpg",
+        "url": "https://news.nate.com/view/20250816n07619",
+        "original_url": "https://news.nate.com/view/20250816n07619",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프 \"시진핑, 내 임기 동안 대만 침공 안 한다고 말해\"",
+        "time": "2025-08-16T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/08/16/SSC_20250204175718_V.jpg",
+        "url": "https://news.nate.com/view/20250816n07612",
+        "original_url": "https://news.nate.com/view/20250816n07612",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "러 크렘린궁, 미러 정상회담에 \"매우 긍정적\"",
+        "time": "2025-08-16T16:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/16/NISI20250816_0000561150_web.jpg",
+        "url": "https://news.nate.com/view/20250816n07610",
+        "original_url": "https://news.nate.com/view/20250816n07610",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "멜라니아, 트럼프 통해 푸틴에 서한…'우크라 아동납치' 문제 언급",
+        "time": "2025-08-16T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/08/16/132196584.3.jpg",
+        "url": "https://news.nate.com/view/20250816n07379",
+        "original_url": "https://news.nate.com/view/20250816n07379",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프 \"시진핑, 대만 침공 내 임기엔 절대 안 한다고 했다\"",
+        "time": "2025-08-16T16:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/16/news-p.v1.20250816.f3537c45bb6f4610bac0d7171b860dc8_P1.jpg",
+        "url": "https://news.nate.com/view/20250816n07529",
+        "original_url": "https://news.nate.com/view/20250816n07529",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "우크라 휴전 전망 '안갯속'…결국 실속은 푸틴?",
+        "time": "2025-08-16T16:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/16/457691_1755328294.jpg",
+        "url": "https://news.nate.com/view/20250816n07555",
+        "original_url": "https://news.nate.com/view/20250816n07555",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "\"푸틴, 정보전 승리\"…美 환대에 복잡한 우크라",
+        "time": "2025-08-16T16:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/16/AKR20250816161152329_01_i.jpg",
+        "url": "https://news.nate.com/view/20250816n07539",
+        "original_url": "https://news.nate.com/view/20250816n07539",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "휴전엔 '노딜' 트럼프·푸틴, \"2020년 美대선은 부정선거\" 한뜻",
+        "time": "2025-08-16T16:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/16/PEP20250816113901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250816n07516",
+        "original_url": "https://news.nate.com/view/20250816n07516",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "푸틴, 러 최동단으로…\"美 전투기 호위\"",
+        "time": "2025-08-16T16:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/16/ae_1755327604545_272131_0.jpg",
+        "url": "https://news.nate.com/view/20250816n07417",
+        "original_url": "https://news.nate.com/view/20250816n07417",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "\"역겹고 쓸모없는 회담\"…우크라, 푸틴 환대에 '심기 불편'",
+        "time": "2025-08-16T16:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/16/news-p.v1.20250816.a1abcdcfd4f344dabb42d435e2f00e76_P1.jpg",
+        "url": "https://news.nate.com/view/20250816n07470",
+        "original_url": "https://news.nate.com/view/20250816n07470",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "푸틴, 알래스카 회담 후 추코트카 방문…美 F-22 전투기 호위 받아",
+        "time": "2025-08-16T16:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/16/202508161545370512_l.jpg",
+        "url": "https://news.nate.com/view/20250816n07435",
+        "original_url": "https://news.nate.com/view/20250816n07435",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "[속보] 러 외교보좌관 \"트럼프-푸틴-젤렌스키 3자 회담 논의되지 않았다\"",
+        "time": "2025-08-16T15:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/16/7139610_high.jpg",
+        "url": "https://news.nate.com/view/20250816n06977",
+        "original_url": "https://news.nate.com/view/20250816n06977",
+        "source": "nate",
+        "date": "2025년 08월 16일 토요일"
       }
     ]
   },
@@ -6901,6 +7171,16 @@
         "summary": "(모스크바=연합뉴스) 최인영 특파원 = 블라디미르 푸틴 러시아 대통령이 미국 알래스카에서 도널드 트럼프 미국 대통령과 정상회담한 뒤 돌아오는 길에 러시아 최동단에 위치한 추코트카 자치구를 방문했다고 타스 통신이 보도했다.\n푸틴 대통령은 16일(현지시간) 실무 방문차 추코트카에 도착해 블라디슬라프 쿠즈네초프 주지사와 만났다.\n추코트카는 러시아에서 가장 동쪽에 있는 지역으로 베링해협을 사이에 두고 알래스카 건너편에 위치한다. 푸틴 대통령은 지난해 이 지역을 대통령 재임 기간 중 처음으로 방문한 바 있다.\n앞서 푸틴 대통령은 15일 알래스카 엘먼도프-리처드슨 군사기지에서 트럼프 대통령과 회담했다. 이 회담은 두 정상이 우크라이나 휴전 문제를 합의할지 주목받았지만, 특별한 성과 발표 없이 종료됐다.\n크렘린궁은 푸틴 대통령의 전용기가 알래스카에서 러시아로 넘어올 때 미국 F-22 전투기의 호위를 받았다고 텔레그램을 통해 밝히고 관련 영상도 공개했다.\n푸틴 대통령 전용기가 이번 정상회담을 위해 러시아에서 미국으로 진입했을 때도 미 스텔스 전투기 4대가 이를 호위한 바 있다.\nF-22 전투기는 푸틴 대통령이 알래스카 기지에 도착해 트럼프 대통령과 만난 활주로에도 도열 돼 있었다. 트럼프 대통령은 활주로에서 푸틴 대통령과 인사한 뒤 자신의 전용 리무진에 푸틴 대통령을 태워 이동하는 파격 대우를 했다.\nabbie@yna.co.kr",
         "source": "yna",
         "date": "2025년 08월 16일 토요일"
+      },
+      {
+        "title": "트럼프, 젤렌스키와 1시간여 통화…푸틴 회담결과 논의",
+        "time": "2025-08-16T16:38:00",
+        "img": "https://img4.yna.co.kr/photo/etc/af/2025/08/07/PAF20250807073301009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250816031500009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250816031500009",
+        "summary": "英·佛·獨 등 유럽 정상들과도 연쇄 통화\n(서울=연합뉴스) 신창용 기자 = 도널드 트럼프 미국 대통령이 볼로디미르 젤렌스키 우크라이나 대통령을 비롯한 유럽 정상들과 연쇄 통화를 통해 미·러 정상회담 결과를 설명했다고 AFP 통신이 16일(현지시간) 보도했다.\n유럽연합(EU) 집행위원회 대변인은 이날 \"트럼프 대통령이 젤렌스키 대통령과 1시간 이상 통화했다\"며 \"이외에도 키어 스타머 영국 총리, 에마뉘엘 마크롱 프랑스 대통령, 프리드리히 메르츠 독일 총리, 마르크 뤼터 북대서양조약기구(NATO·나토) 사무총장, 우르줄라 폰데어라이엔 EU 집행위원장과 통화했다\"고 밝혔다.\n우크라이나 대통령실에 따르면 트럼프 대통령은 젤렌스키 대통령과 먼저 통화한 뒤 다른 유럽 정상들과 대화했다. 백악관 역시 트럼프 대통령의 연쇄 통화 사실을 확인했다.\n이번 연쇄 통화는 트럼프 대통령이 푸틴 대통령과의 정상회담 결과를 직접 설명하고 향후 조치를 논의하기 위한 것이라고 AFP는 분석했다.\n블룸버그통신은 트럼프 대통령이 알래스카 정상회담을 마치고 돌아가는 길에 대통령전용기(에어포스원)에서 통화를 진행했다고 소식통을 인용해 전했다.\n소식통은 유럽 정상들이 트럼프 대통령의 외교적 노력을 환영하면서도 전쟁 당사국인 우크라이나의 젤렌스키 대통령이 참여하는 트럼프-푸틴-젤렌스키 3자 정상회담을 다시 한번 촉구했다고 전했다.\n또한 우크라이나 영토에 대한 결정은 우크라이나에 달려 있으며, 현재의 '접촉선'(현재 전선)이 협상의 출발 지점이 돼야 한다는 점을 재확인했다.\n아울러 유럽 정상들은 우크라이나에 대한 안보 보장이 필요하다는 점을 강조하며, 우크라이나에 대한 군사 지원을 계속하기로 약속했다고 통신은 덧붙였다.\n다만 러시아 국영 TV 채널 베스티는 유리 우샤코프 크렘린궁 외교정책 보좌관의 말을 인용해 이번 미·러 정상회담에서 푸틴-트럼프-젤렌스키 간의 3자 정상회담 개최 논의는 이뤄지지 않았다고 보도했다.\n앞서",
+        "source": "yna",
+        "date": "2025년 08월 16일 토요일"
       }
     ]
   },
@@ -8106,6 +8386,141 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/newsy/20250816153617193zaic.jpg",
         "url": "https://v.daum.net/v/20250816153617171",
         "original_url": "https://v.daum.net/v/20250816153617171",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "김용현 경호처장 때 '北 무인기 작전' 동향파악…내란특검 정황 포착",
+        "time": "2025-08-16T07:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/NEWS1/20250816161612067tngg.jpg",
+        "url": "https://v.daum.net/v/20250816161611557",
+        "original_url": "https://v.daum.net/v/20250816161611557",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "광복절인데 독도 인근 日 순시선 출몰…\"단호하게 대응해야\"",
+        "time": "2025-08-16T07:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/551746-KJTfZ0q/20250816161756833uwhg.jpg",
+        "url": "https://v.daum.net/v/20250816161755574",
+        "original_url": "https://v.daum.net/v/20250816161755574",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "‘광복 80주년’ 기쁠 수만은 없는 유족들…‘日 우키시마호’ 사건이란 [박진영의 뉴스 속 뉴스]",
+        "time": "2025-08-16T07:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/segye/20250816163324777evpr.jpg",
+        "url": "https://v.daum.net/v/20250816163324786",
+        "original_url": "https://v.daum.net/v/20250816163324786",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "트럼프 명령 '워싱턴DC 경찰 통제' 법정 간다",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/ohmynews/20250816160003347roqg.jpg",
+        "url": "https://v.daum.net/v/20250816160001395",
+        "original_url": "https://v.daum.net/v/20250816160001395",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "러 크렘린궁, 미러 정상회담에 \"매우 긍정적\"",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/newsis/20250816161915356xoiq.jpg",
+        "url": "https://v.daum.net/v/20250816161915597",
+        "original_url": "https://v.daum.net/v/20250816161915597",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "푸틴, 러 최동단으로…\"美 전투기 호위\"",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/akn/20250816160114892zxcw.jpg",
+        "url": "https://v.daum.net/v/20250816160113406",
+        "original_url": "https://v.daum.net/v/20250816160113406",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "우크라, 트럼프·푸틴 만남에 \"아무런 변화 없어…회담 실패\" 비판",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/Edaily/20250816162346249kmoh.jpg",
+        "url": "https://v.daum.net/v/20250816162344640",
+        "original_url": "https://v.daum.net/v/20250816162344640",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "우크라 휴전 전망 '안갯속'…결국 실속은 푸틴?",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/newsy/20250816161300987dqoj.jpg",
+        "url": "https://v.daum.net/v/20250816161300514",
+        "original_url": "https://v.daum.net/v/20250816161300514",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "트럼프 \"시진핑, 내 임기에 대만 침공 안 한다고 약속했다\"",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/moneyweek/20250816162116905nscb.jpg",
+        "url": "https://v.daum.net/v/20250816162115616",
+        "original_url": "https://v.daum.net/v/20250816162115616",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "중국·인도 18일 특별 대표회담…5년만에 국경무역 재개 물꼬 트이나",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/moneytoday/20250816162626283ofuy.jpg",
+        "url": "https://v.daum.net/v/20250816162625689",
+        "original_url": "https://v.daum.net/v/20250816162625689",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "\"푸틴, 정보전 승리\"…美 환대에 복잡한 우크라",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/newsy/20250816161407139cznt.jpg",
+        "url": "https://v.daum.net/v/20250816161407526",
+        "original_url": "https://v.daum.net/v/20250816161407526",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "미·러 회담 후 엇갈린 발표…트럼프 \"3자 회담\"·러 \"논의 안 됐다\"(상보)",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/NEWS1/20250816155115183glev.jpg",
+        "url": "https://v.daum.net/v/20250816155113334",
+        "original_url": "https://v.daum.net/v/20250816155113334",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "트럼프, 푸틴과 회담 후 젤렌스키·나토 정상과 장시간 통화",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/NEWS1/20250816162013710dilh.jpg",
+        "url": "https://v.daum.net/v/20250816162012602",
+        "original_url": "https://v.daum.net/v/20250816162012602",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "트럼프·푸틴, “2020년 美 대선 조작됐다” 의견 일치",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/chosunbiz/20250816163138458ufpb.jpg",
+        "url": "https://v.daum.net/v/20250816163138756",
+        "original_url": "https://v.daum.net/v/20250816163138756",
+        "source": "daum",
+        "date": "2025년 08월 16일 Saturday"
+      },
+      {
+        "title": "트럼프 “시진핑, 내 임기 동안 대만 침공 안 한다고 말해”",
+        "time": "2025-08-16T07:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/16/seoul/20250816161944730oewv.jpg",
+        "url": "https://v.daum.net/v/20250816161940601",
+        "original_url": "https://v.daum.net/v/20250816161940601",
         "source": "daum",
         "date": "2025년 08월 16일 Saturday"
       }
