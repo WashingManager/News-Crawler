@@ -1,42 +1,89 @@
 name: Hanmiilbo News Scraper
 on:
   schedule:
-    - cron: '0 10,21 * * *'
+    - cron: '0 10,21 * * *'  # 매일 10시, 21시 (UTC 기준)
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15  # 타임아웃 설정 (15분)
+    
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1  # 최신 커밋만 가져오기 (속도 향상)
+          
       - name: List directory contents
         run: |
           pwd
           ls -la
           ls -la news_json || echo "news_json directory not found"          
-          find . -type f
+          find . -type f -name "*.py" -o -name "*.json" -o -name "*.txt" | head -20
+          
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          
       - name: Run scraper
-        run: python hanmiilbo_Crawler.py
+        run: |
+          echo "스크래핑 시작: $(date)"
+          timeout 600 python hanmiilbo_Crawler.py || echo "스크래핑 완료 또는 타임아웃"
+          echo "스크래핑 종료: $(date)"
         continue-on-error: true
+        
+      - name: Check results
+        run: |
+          if [ -f "news_json/hanmiilbo_News.json" ]; then
+            echo "JSON 파일 존재 확인"
+            wc -l news_json/hanmiilbo_News.json
+            tail -20 news_json/hanmiilbo_News.json
+          else
+            echo "JSON 파일이 생성되지 않음"
+          fi
+          
       - name: Commit and push results
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add news_json/hanmiilbo_News.json
-          git commit -m "Update news_json/hanmiilbo_News.json $(date)" || echo "No changes to commit"
-          git pull origin main --rebase || echo "Nothing to pull or rebase failed"
-          git push
+          git config --local user.name 'GitHub Action'
+          git config --local user.email 'action@github.com'
+          
+          # 변경사항 확인
+          if git diff --quiet news_json/hanmiilbo_News.json; then
+            echo "변경사항 없음"
+          else
+            echo "변경사항 발견, 커밋 진행"
+            git add news_json/hanmiilbo_News.json
+            git commit -m "Update news: $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            # 푸시 시도 (충돌 시 재시도)
+            for i in {1..3}; do
+              if git push; then
+                echo "푸시 성공"
+                break
+              else
+                echo "푸시 실패, 재시도 $i/3"
+                git pull --rebase origin main || git pull --rebase origin master || true
+                sleep 2
+              fi
+            done
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
