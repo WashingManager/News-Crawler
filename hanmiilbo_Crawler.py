@@ -153,11 +153,11 @@ def scrape_page(url, page_num=1):
             
             # 상대 경로를 절대 경로로 변환
             if href.startswith('../'):
-                full_link = f"https://hanmiilbo.kr/news/{href[3:]}"
+                full_link = f"https://hanmiilbo.kr/{href[3:]}"
             elif href.startswith('/'):
                 full_link = f"https://hanmiilbo.kr{href}"
             elif not href.startswith('http'):
-                full_link = f"https://hanmiilbo.kr/news/{href}"
+                full_link = f"https://hanmiilbo.kr/{href}"
             else:
                 full_link = href
             
