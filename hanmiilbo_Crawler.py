@@ -81,11 +81,16 @@ def is_relevant_article(text_content):
 def get_existing_links():
     """기존 저장된 링크들을 가져오기"""
     try:
+        if not os.path.exists(result_filename) or os.stat(result_filename).st_size == 0:
+            print(f"{result_filename} 파일이 없거나 비어 있음. 새로 생성 예정.")
+            return set()
+
         with open(result_filename, 'r', encoding='utf-8') as f:
             data = json.load(f)
         return {article['url'] for day in data for article in day['articles']}
-    except FileNotFoundError:
-        print(f"{result_filename} 파일이 없음. 새로 생성 예정.")
+
+    except (FileNotFoundError, json.JSONDecodeError):
+        print(f"{result_filename} 파일이 없거나 손상됨. 새로 생성 예정.")
         return set()
 
 def extract_article_details(url):
