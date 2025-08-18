@@ -1083,5 +1083,34 @@
         "summary": "[보안뉴스 한세희 기자] 올해 상반기 군 인터넷을 겨냥한 사이버 침해 시도가 9000건을 넘었다. 최근 5년 사이 가장 많은 규모다. 북한에 의한 공격이 대다수인 것으로 보인다.17일 국회 국방위원회 소속 유용원 국민의힘 의원이 사이버작전사령부에 요청해 받은 자료에 따르면, 올해 전반기 군 인터넷 대상 사이버 침해 시도 건수는 총 9262건이었다. 홈페이지..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 18일 월요일",
+    "articles": [
+      {
+        "title": "K-콘텐츠 열풍 불구, 돈은 美·日 차지...IP수출 늘려야",
+        "time": "2025-08-18T16:24:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/352811073_599.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138771&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138771&page=1&kind=1",
+        "summary": "상의, 스토리 중심 IP 전략·IP 펀드·해외 지재권 확보 지원 제안“글로벌 라이센서 톱50에 한국 無...케데헌法 필요”케이팝 데몬 헌터스(케데헌) 지식재산권(IP) 가치가 최대 1조원에 달할 것이라는 전망이 나오는 등 K콘텐츠의 IP 중요성이 강조되고 있지만, 정작 대한민국의 자리는 없다는 지적이 나왔다.대한상공회의소(대한상의)는 최근 ‘새로운 성장 I..."
+      },
+      {
+        "title": "중국 APT 그룹, 대만 웹호스팅 업체 표적 사이버 공격",
+        "time": "2025-08-18T10:27:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/139385814_4351.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138759&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138759&page=1&kind=1",
+        "summary": "맞춤형 도구 ‘SoundBill’·클라우드 인프라 악용해 탐지 회피 고도화UAT-5918 하위조직 추정...VPN·RDP 조합한 지속적 접근 전략 구사[보안뉴스 여이레 기자] 시스코 탈로스 보안연구진은 2022년 이후 대만 웹호스팅 인프라를 표적으로 활발히 공격을 펼쳐 온 중국어권 지능형 위협 그룹(APT) ‘UAT-7237’의 활동을 포착했다고 밝혔다.[..."
+      },
+      {
+        "title": "“재난 상황에도 안정적 서비스” LG유플러스, 방송중계·IPTV 국제인증 획득",
+        "time": "2025-08-17T09:20:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/138932308_9349.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138749&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138749&page=1&kind=3",
+        "summary": "LG유플러스는 방송중계·IPTV 분야 서비스를 총괄하는 안양국사가 글로벌 인증 기관 DNV로부터 업무 연속성 관리 국제표준 ‘ISO22301(BCMS)’ 인증을 획득했다고 17일 밝혔다.재난·재해 상황에서 방송중계 및 IPTV 서비스를 안정적으로 운영할 수 있는 역량을 국제적으로 인정받았다는 설명이다.▲LG유플러스 임직원이 IPTV 서비스 상황을 점검하는 ..."
+      }
+    ]
   }
 ]
