@@ -1,7 +1,6 @@
 name: Hanmiilbo News Scraper
 on:
   schedule:
-    - cron: '0 10,21 * * *'
     - cron: '0 10,21 * * *'  # 매일 10시, 21시 (UTC 기준)
   workflow_dispatch:
 
@@ -17,7 +16,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
           fetch-depth: 1  # 최신 커밋만 가져오기 (속도 향상)
           
       - name: List directory contents
@@ -25,7 +23,6 @@ jobs:
           pwd
           ls -la
           ls -la news_json || echo "news_json directory not found"          
-          find . -type f
           find . -type f -name "*.py" -o -name "*.json" -o -name "*.txt" | head -20
           
       - name: Set up Python
@@ -47,7 +44,6 @@ jobs:
           pip install -r requirements.txt
           
       - name: Run scraper
-        run: python hanmiilbo_Crawler.py
         run: |
           echo "스크래핑 시작: $(date)"
           timeout 600 python hanmiilbo_Crawler.py || echo "스크래핑 완료 또는 타임아웃"
@@ -66,12 +62,6 @@ jobs:
           
       - name: Commit and push results
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add news_json/hanmiilbo_News.json
-          git commit -m "Update news_json/hanmiilbo_News.json $(date)" || echo "No changes to commit"
-          git pull origin main --rebase || echo "Nothing to pull or rebase failed"
-          git push
           git config --local user.name 'GitHub Action'
           git config --local user.email 'action@github.com'
           
