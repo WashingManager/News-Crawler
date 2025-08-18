@@ -221,12 +221,17 @@ def save_to_json(new_articles):
     """JSON 파일에 저장"""
     existing_data = []
     if os.path.exists(result_filename):
-        try:
-            with open(result_filename, 'r', encoding='utf-8') as f:
-                existing_data = json.load(f)
-        except json.JSONDecodeError:
-            print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
-    
+        if os.stat(result_filename).st_size == 0:
+            print(f"{result_filename} 파일이 비어 있음. 새 파일로 초기화.")
+        else:
+            try:
+                with open(result_filename, 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+            except json.JSONDecodeError:
+                print(f"{result_filename} 파일이 손상됨. 새 파일로 초기화.")
+                existing_data = []
+
+    # 오늘 날짜 데이터 찾기
     today_data = next((d for d in existing_data if d['date'] == today), None)
     if today_data:
         # 중복 URL 제거
@@ -235,13 +240,14 @@ def save_to_json(new_articles):
         today_data['articles'].extend(new_articles)
     else:
         existing_data.append({'date': today, 'articles': new_articles})
-    
+
     try:
         with open(result_filename, 'w', encoding='utf-8') as f:
             json.dump(existing_data, f, ensure_ascii=False, indent=2)
         print(f"총 {len(new_articles)}개 기사를 {result_filename}에 저장했습니다.")
     except Exception as e:
         print(f"JSON 저장 실패: {e}")
+
 
 def main():
     global processed_links
