@@ -152,6 +152,15 @@
         "original_url": "https://www.fnnews.com/news/202508201931322498",
         "source": "Fn",
         "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "이 대통령-與 만찬…\"검찰 '수사·기소 분리' 추석 전까지\"",
+        "time": "2025-08-20T22:08:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508202206363296",
+        "original_url": "https://www.fnnews.com/news/202508202206363296",
+        "source": "Fn",
+        "date": "2025년 08월 20일 수요일"
       }
     ]
   },
@@ -437,11 +446,38 @@
     "date": "2025년 08월 20일 수요일",
     "articles": [
       {
+        "title": "NYT “시진핑의 끝없는 측근 숙청은 권력 집착 편집증 반영”",
+        "time": "2025-08-20T21:22:30+00:00",
+        "img": "/api/attachments/CC8iK0NnNDVNMWxRUVU1NGNEazVNMU4zVFJDUkF4ajhCU2dLTWdZdFpZYk5xUWM=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxNUm9GZWRsQ0xsWjZPcmdPaEJNSl9oNUtueDVucFVKSUNfNlZpS3JwaVJfVXBHQURvREd6Mm43Z1laY3l6RnQ2cmFUYjNlaXRNR2E5bDZWZm81MXR5UWNIUk1uT1Nhak9lX3BLNkd0NElpcUZNWVRzRmpmdUJzcTZDWFpaUlJBT3VSWFhpcDJWcW1GcVRtT2FyeC1HYmhtd9IBsgFBVV95cUxNekQ2aGdsSm81eWMxSzlpN21COGtfSEI1c2RCLWdhRmRTZGVBcDlaRjQzeU5aS1dRZG9ZZHV0OUtOZHZnNW9DUnVmSjZDZjIyTkhDZHhlZ0xlTWlQZmExNVlLNmxaZE9XSng3RnhaMGFxZ2RqQ0pCcnBsS0xNN2FNY3BoS2JSTDBKYjdPQkhzLXlRSHpkQlNkVEY2bzVCZEQ5V3pBZ1BOUkpkSFpzQmJMdjBn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxNUm9GZWRsQ0xsWjZPcmdPaEJNSl9oNUtueDVucFVKSUNfNlZpS3JwaVJfVXBHQURvREd6Mm43Z1laY3l6RnQ2cmFUYjNlaXRNR2E5bDZWZm81MXR5UWNIUk1uT1Nhak9lX3BLNkd0NElpcUZNWVRzRmpmdUJzcTZDWFpaUlJBT3VSWFhpcDJWcW1GcVRtT2FyeC1HYmhtd9IBsgFBVV95cUxNekQ2aGdsSm81eWMxSzlpN21COGtfSEI1c2RCLWdhRmRTZGVBcDlaRjQzeU5aS1dRZG9ZZHV0OUtOZHZnNW9DUnVmSjZDZjIyTkhDZHhlZ0xlTWlQZmExNVlLNmxaZE9XSng3RnhaMGFxZ2RqQ0pCcnBsS0xNN2FNY3BoS2JSTDBKYjdPQkhzLXlRSHpkQlNkVEY2bzVCZEQ5V3pBZ1BOUkpkSFpzQmJMdjBn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"美 믿을수 있나\"…우크라전 처리가 깨운 韓·日 금기어 '핵무장'",
+        "time": "2025-08-20T17:56:24+00:00",
+        "img": "/api/attachments/CC8iI0NnNDJaMG96VFVZMFIyaDNlRVpQVFJEMUFoaXZCQ2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE5RMlJUekE0MzMzS3RwVHhTYnRvVDVlWl8wVE9WbHQtdGxsU19mYU0tdEZOcXFGTDl4R0swR2czWXBuUUFqSDV2TXlSUnNHb2ZXU1oxT1d3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE5RMlJUekE0MzMzS3RwVHhTYnRvVDVlWl8wVE9WbHQtdGxsU19mYU0tdEZOcXFGTDl4R0swR2czWXBuUUFqSDV2TXlSUnNHb2ZXU1oxT1d3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
         "title": "태안 빈집서 북한군 추정 탄약통·담뱃갑 발견…군경 합동조사",
         "time": "2025-08-20T17:06:47+00:00",
         "img": "/api/attachments/CC8iI0NnNU5OWGRUUkU5RWRVcDRZbTVoVFJEUUF4aXdCQ2dLTWdB=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiVkFVX3lxTE5rX1RpVVI5S2lRUmxaV2ExUW1qbXJyQ0xrMFBBQjBNak5nUWc2SGhETm8tdVpId01NN1JpVk5fVHNaZzVGbTRMempDZ1hKQkd4em1DQ3JB?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE5rX1RpVVI5S2lRUmxaV2ExUW1qbXJyQ0xrMFBBQjBNak5nUWc2SGhETm8tdVpId01NN1JpVk5fVHNaZzVGbTRMempDZ1hKQkd4em1DQ3JB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'미군 없는' 우크라 안전 보장, 어떻게?… 한국식 완충지대 급부상",
+        "time": "2025-08-20T16:57:32+00:00",
+        "img": "/api/attachments/CC8iK0NnNDFUM2d6UkhWRmFWQTJUazFaVFJDckF4aUFCU2dLTWdhQlk1YWxMUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE95WmtzZ1JMOFgxbmVyZXFaYUd6QUp0T1pQelpYSEQ0QTJaLVZLelRFNE1XS0xldjVfRG5sc2ExelY1b001Qmp5MXdhT1Vpa2phdHpOVXRnT1NyZWIyWFFvcTNJT290UjZQSmc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE95WmtzZ1JMOFgxbmVyZXFaYUd6QUp0T1pQelpYSEQ0QTJaLVZLelRFNE1XS0xldjVfRG5sc2ExelY1b001Qmp5MXdhT1Vpa2phdHpOVXRnT1NyZWIyWFFvcTNJT290UjZQSmc?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 20일 수요일"
       },
@@ -1081,6 +1117,15 @@
         "img": "/api/attachments/CC8iK0NnNUNTbVpVZUZkMk1IRlNkMVYxVFJDUkF4ajhCU2dLTWdZcE00N05NUVk=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMihAFBVV95cUxNS1pZM2VrcjNINnVweWF5MVdBYjZlUGVxalI5TnIzenhuS1c0MDM5Ti1FLWVyeDh0c29qOHY5RTNEYzhjMkc3WjZTb2E1aGpURHR0V3h5eHNhZEYwNFRvX2FOTlAwdnIydVpGMko2SmFYVXpTb1p6ZlEyQWFybW5fU0dLSkTSAZgBQVVfeXFMT0VWdFB4Qmx1dU5SWVoxdmRTU1lldVk3VkZlOXNiZi1kTTN2YTdDNWptVldlODNQbWVFTEZONWljR3lQMWJ0aTIzNTQ3RzVIRG9HYWdFaXJuVGJCSmNqYVV2VWtRQkpwUTNhR2FsYThhWC14V3Vqd2stLVUtOVlTOHJuamVGc3JXbzlqTXZoc3FtbV9EcXBtcE8?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMihAFBVV95cUxNS1pZM2VrcjNINnVweWF5MVdBYjZlUGVxalI5TnIzenhuS1c0MDM5Ti1FLWVyeDh0c29qOHY5RTNEYzhjMkc3WjZTb2E1aGpURHR0V3h5eHNhZEYwNFRvX2FOTlAwdnIydVpGMko2SmFYVXpTb1p6ZlEyQWFybW5fU0dLSkTSAZgBQVVfeXFMT0VWdFB4Qmx1dU5SWVoxdmRTU1lldVk3VkZlOXNiZi1kTTN2YTdDNWptVldlODNQbWVFTEZONWljR3lQMWJ0aTIzNTQ3RzVIRG9HYWdFaXJuVGJCSmNqYVV2VWtRQkpwUTNhR2FsYThhWC14V3Vqd2stLVUtOVlTOHJuamVGc3JXbzlqTXZoc3FtbV9EcXBtcE8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "한수원, 美와 ‘북미-유럽 원전’ 사실상 수주 포기 계약",
+        "time": "2025-08-20T03:00:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNUtWazlzUm5oME0wWmhiVkJ0VFJEVkFSanRBU2dCTWdPQmdBdw=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidkFVX3lxTE01T2Zna0NseVl6R29VSTZneWlodUFLX0QwV1JtNEw4dldnZTQ1V3dTVGtSSFIxbnR2Z2RrLXgyUjNFWHZEa1JleXlKaVB6amdKZmVlTWFLNk8xa0V4M2c1c1NFdklUeVZDX3VUcHFtT2Z4QmhreGfSAWZBVV95cUxONm5ZNzhDMzUtQVRyY1FxYVJzSUsyR0x4ZFl3UXg3WmNjMlVEMDF6ZUxoekdGUVNxd3J4NWRGUlprcFRIRm93ajN4UE9keU14YWZkemlqbHdoemVnZzcxN2xZOGpHeVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidkFVX3lxTE01T2Zna0NseVl6R29VSTZneWlodUFLX0QwV1JtNEw4dldnZTQ1V3dTVGtSSFIxbnR2Z2RrLXgyUjNFWHZEa1JleXlKaVB6amdKZmVlTWFLNk8xa0V4M2c1c1NFdklUeVZDX3VUcHFtT2Z4QmhreGfSAWZBVV95cUxONm5ZNzhDMzUtQVRyY1FxYVJzSUsyR0x4ZFl3UXg3WmNjMlVEMDF6ZUxoekdGUVNxd3J4NWRGUlprcFRIRm93ajN4UE9keU14YWZkemlqbHdoemVnZzcxN2xZOGpHeVE?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 20일 수요일"
       },
@@ -4083,6 +4128,285 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/20/l_2025082101000548600056331.jpg",
         "url": "https://news.nate.com/view/20250820n35876",
         "original_url": "https://news.nate.com/view/20250820n35876",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"폭발하듯 튀어 올랐다\" 백상아리 공격 피한 천운의 호주 서퍼",
+        "time": "2025-08-20T21:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/08/20/99.26734070.1.jpg",
+        "url": "https://news.nate.com/view/20250820n37104",
+        "original_url": "https://news.nate.com/view/20250820n37104",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러 외무 \"러시아 뺀 우크라 안보 논의 '무의미'\"",
+        "time": "2025-08-20T21:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/20/AKR20250820157300099_03_i.jpg",
+        "url": "https://news.nate.com/view/20250820n37146",
+        "original_url": "https://news.nate.com/view/20250820n37146",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "정상회담 추진 중에도…러시아와 우크라이나 폭격 이어가",
+        "time": "2025-08-20T21:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/08/20/8fcc6822-2c0f-4700-8800-0be518243ef6.jpg",
+        "url": "https://news.nate.com/view/20250820n36993",
+        "original_url": "https://news.nate.com/view/20250820n36993",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"러시아 없는 우크라 안보 논의는 무의미\"…러의 띤지걸기",
+        "time": "2025-08-20T21:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/20/NISI20250816_0000561256_web.jpg",
+        "url": "https://news.nate.com/view/20250820n36988",
+        "original_url": "https://news.nate.com/view/20250820n36988",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "아내·두 아들 잔혹 살해…'이스라엘 일가족 납치' 하마스 대원 사살",
+        "time": "2025-08-20T21:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/08/20/36c84433-6e12-45bd-a17d-80900d4c9026.jpg",
+        "url": "https://news.nate.com/view/20250820n37147",
+        "original_url": "https://news.nate.com/view/20250820n37147",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미 \"우크라 공중 지원 검토…한국식 완충지대도 논의\"",
+        "time": "2025-08-20T21:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/20/news-p.v1.20250820.1d7dc33096064c1b9bb91912e0c9c724_P1.jpeg",
+        "url": "https://news.nate.com/view/20250820n36974",
+        "original_url": "https://news.nate.com/view/20250820n36974",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미·러·우 3국 정상회담, 헝가리 부다페스트 개최 유력",
+        "time": "2025-08-20T21:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/20/rcv.YNA.20250820.PUP20250820001801009_P1.jpg",
+        "url": "https://news.nate.com/view/20250820n37300",
+        "original_url": "https://news.nate.com/view/20250820n37300",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'트럼프 폭풍 칭찬' 젤렌스키 정장 만든 디자이너 \"품위 강조\"",
+        "time": "2025-08-20T21:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/20/rcv.YNA.20250820.PAF20250820026101009_P1.jpg",
+        "url": "https://news.nate.com/view/20250820n37168",
+        "original_url": "https://news.nate.com/view/20250820n37168",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "이스라엘 갑자기 예비군 6만명 소집…점령 전쟁 임박 신호?",
+        "time": "2025-08-20T22:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/08/20/a8cde630-24e9-49d9-ac92-b85eaa75ac9d.jpg",
+        "url": "https://news.nate.com/view/20250820n37347",
+        "original_url": "https://news.nate.com/view/20250820n37347",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "호주·이스라엘 '비자취소 사태' 갈등 격화",
+        "time": "2025-08-20T22:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/08/20/20250820515926.jpg",
+        "url": "https://news.nate.com/view/20250820n37358",
+        "original_url": "https://news.nate.com/view/20250820n37358",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "美 국경 장벽에 검은 페인트칠…\"햇볕에 달궈 못 오르게 하라\"",
+        "time": "2025-08-20T21:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/08/20/132220514.1.png",
+        "url": "https://news.nate.com/view/20250820n27323",
+        "original_url": "https://news.nate.com/view/20250820n27323",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "종전 회담 장소 제네바·빈·부다페스트 거론",
+        "time": "2025-08-20T21:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/08/20/20250820515522.jpg",
+        "url": "https://news.nate.com/view/20250820n36413",
+        "original_url": "https://news.nate.com/view/20250820n36413",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "日 내년 극초음속 유도탄 양산 착수…방위성 예산 요구",
+        "time": "2025-08-20T21:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/20/AKR20250820156200073_01_i.jpg",
+        "url": "https://news.nate.com/view/20250820n36795",
+        "original_url": "https://news.nate.com/view/20250820n36795",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "푸틴, 젤렌스키 인정 않는데…양자회담 성사될까",
+        "time": "2025-08-20T21:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/08/20/20250820515247.jpg",
+        "url": "https://news.nate.com/view/20250820n36557",
+        "original_url": "https://news.nate.com/view/20250820n36557",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러·우크라, 정상회담 추진에도 폭격 공방 지속",
+        "time": "2025-08-20T21:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/20/468273_1755692441.jpg",
+        "url": "https://news.nate.com/view/20250820n36748",
+        "original_url": "https://news.nate.com/view/20250820n36748",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "트럼프-푸틴-젤렌스키 3자 회담, 헝가리 부다페스트서 열리나",
+        "time": "2025-08-20T21:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/wh/2025/08/20/1260028_1457104_219.jpg",
+        "url": "https://news.nate.com/view/20250820n36752",
+        "original_url": "https://news.nate.com/view/20250820n36752",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "공동대응 약속·병력 주둔 핵심…\"한반도 모델 논의\"",
+        "time": "2025-08-20T21:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/20/468265_1755692014.jpg",
+        "url": "https://news.nate.com/view/20250820n36616",
+        "original_url": "https://news.nate.com/view/20250820n36616",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미국·EU, 우크라 안전 보장 논의…러 '영토교환 필수\"",
+        "time": "2025-08-20T21:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494521_693765_1850.png",
+        "url": "https://news.nate.com/view/20250820n36607",
+        "original_url": "https://news.nate.com/view/20250820n36607",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "중국-인도, 국경 무역 재개 합의…직항 항공편 연결",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494534_693750_1049.png",
+        "url": "https://news.nate.com/view/20250820n36587",
+        "original_url": "https://news.nate.com/view/20250820n36587",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "이스라엘 국방, '가자시티 장악' 군 계획 승인",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494528_693772_2244.png",
+        "url": "https://news.nate.com/view/20250820n36586",
+        "original_url": "https://news.nate.com/view/20250820n36586",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "스페인 '최악' 산불,폭염으로 피해 급증",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494525_693758_1525.png",
+        "url": "https://news.nate.com/view/20250820n36583",
+        "original_url": "https://news.nate.com/view/20250820n36583",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "튀르키예, 52년 만의 가뭄…기후 난민 현실화",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494518_693771_227.png",
+        "url": "https://news.nate.com/view/20250820n36582",
+        "original_url": "https://news.nate.com/view/20250820n36582",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러 외무, 우크라 안보대책 논의에 \"러시아도 참여해야\"",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/08/20/2025082020242653018_1.jpg",
+        "url": "https://news.nate.com/view/20250820n36571",
+        "original_url": "https://news.nate.com/view/20250820n36571",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미 \"우크라 공중 지원 검토\"…\"한국식 완충지대도 논의\"",
+        "time": "2025-08-20T21:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/08/20/202102741_700.jpg",
+        "url": "https://news.nate.com/view/20250820n36509",
+        "original_url": "https://news.nate.com/view/20250820n36509",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "독일·인니 외교장관 '두 국가 해법' 지지···\"가자지구 갈등 종식 유일 수단\"",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/20/rcv.YNA.20250820.PAF20250820115001009_P1.jpg",
+        "url": "https://news.nate.com/view/20250820n36578",
+        "original_url": "https://news.nate.com/view/20250820n36578",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "[월드 e-브리핑] 일본, 7월 수출 4년 만에 최대 감소…트럼프 '관세여파'",
+        "time": "2025-08-20T21:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/20/1494526_693761_1634.png",
+        "url": "https://news.nate.com/view/20250820n36577",
+        "original_url": "https://news.nate.com/view/20250820n36577",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "美 백악관이 공개한 사진에 유럽 '발끈'…\"너무 굴욕적이다\"",
+        "time": "2025-08-20T21:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/08/20/news_1755691297_1538230_m_1.JPG",
+        "url": "https://news.nate.com/view/20250820n36419",
+        "original_url": "https://news.nate.com/view/20250820n36419",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "젤렌스키 만나면 자국 내 비난, 거부 땐 트럼프 분노…푸틴, 시간 끌기?",
+        "time": "2025-08-20T21:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/20/l_2025082101000563700056851.jpg",
+        "url": "https://news.nate.com/view/20250820n36365",
+        "original_url": "https://news.nate.com/view/20250820n36365",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"종전 협상 응한 푸틴, 군사적 공세 안먹힐 것 대비한 보험\"",
+        "time": "2025-08-20T20:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/20/PCM20250321000070990_P2.jpg",
+        "url": "https://news.nate.com/view/20250820n36312",
+        "original_url": "https://news.nate.com/view/20250820n36312",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러·우 정상회담 후보지만 난무…스위스·헝가리·오스트리아 서로 \"여기 어때\"",
+        "time": "2025-08-20T20:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250820n36309",
+        "original_url": "https://news.nate.com/view/20250820n36309",
+        "source": "nate",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'우크라에 미군 주둔 불가' 못 박은 트럼프 \"공중 지원은 가능\"",
+        "time": "2025-08-20T20:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/20/l_2025082101000549800056811.jpg",
+        "url": "https://news.nate.com/view/20250820n36294",
+        "original_url": "https://news.nate.com/view/20250820n36294",
         "source": "nate",
         "date": "2025년 08월 20일 수요일"
       }
@@ -9855,6 +10179,236 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "우원식, 中 전승절 시진핑·푸틴 옆에 나란히 서나",
+        "time": "2025-08-20T21:52:12",
+        "img": "https://imgnews.pstatic.net/image/053/2025/08/20/0000051841_001_20250820215212518.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/053/0000051841",
+        "original_url": "https://n.news.naver.com/mnews/article/053/0000051841",
+        "summary": "중국 정부, 우원식 의장 공식 초청",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "한국 입국한 빌 게이츠 '함박웃음'…내일 李대통령 만난다",
+        "time": "2025-08-20T21:35:07",
+        "img": "https://imgnews.pstatic.net/image/031/2025/08/20/0000958761_001_20250820215107457.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/031/0000958761",
+        "original_url": "https://n.news.naver.com/mnews/article/031/0000958761",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "野, '전한길 공천' 장동혁 답변에 시끌 \"극우\"↔\"왜곡\"…한동훈, '쇄신파'에 막판 힘 싣기",
+        "time": "2025-08-20T21:18:50",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/448/0000551035",
+        "original_url": "https://n.news.naver.com/mnews/article/448/0000551035",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'비전향장기수 송환' 이슈 부상…남북대화 재개 계기 될까",
+        "time": "2025-08-20T21:13:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000772683",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000772683",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "김여정 “리재명, 역사 바꿀 위인 아니다”…북한, 실명 거론하며 비난",
+        "time": "2025-08-20T20:05:12",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/20/0005544850_001_20250820200512663.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005544850",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005544850",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "잇달아 철수하더니...유럽 원전 시장도 내줬다",
+        "time": "2025-08-20T21:43:31",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002235589",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002235589",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "한국은 15%인데 50% 매긴다고?…미국이 인도에 초고율 관세 협박 이유는",
+        "time": "2025-08-20T21:22:09",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/20/0005544873_001_20250820212209246.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005544873",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005544873",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "폴리티코 \"백악관, 미·러·우 3자회담지 부다페스트 추진\"",
+        "time": "2025-08-20T21:42:15",
+        "img": "https://imgnews.pstatic.net/image/011/2025/08/20/0004523244_001_20250820214215111.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004523244",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004523244",
+        "summary": "\"비밀경호국, 사전준비 착수\"\n베선트, 질문받고 \"가능하다\"",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미 “우크라 공중 지원 검토…한국식 완충지대도 논의”",
+        "time": "2025-08-20T21:39:07",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/20/0005544879_001_20250820215307403.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005544879",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005544879",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미국은 방공 지원·유럽군은 주둔…우크라 휴전에 ‘한국식 완충지대’ 추진되나",
+        "time": "2025-08-20T21:26:13",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/20/0005544875_001_20250820212613465.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005544875",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005544875",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"푸틴, 트럼프에 젤렌스키 만남 장소로 모스크바 제안\"(종합)",
+        "time": "2025-08-20T22:17:54",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/20/AKR20250820138951081_01_i_P4_20250820221828178.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015577022",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015577022",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러 외무 \"유럽 정상들, 백악관서 건설적 평화안 제시 못해\"",
+        "time": "2025-08-20T22:09:21",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/20/0008438890_001_20250820221010346.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008438890",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008438890",
+        "summary": "\"러시아 빠진 안전보장안은 막다른 길일 뿐\"\n\"2022년 이스탄불 합의 초안이 바람직한 모델\"",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "미·러·우 3국 정상회담, 헝가리 부다페스트 개최 유력",
+        "time": "2025-08-20T21:58:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/20/0003390885_001_20250820221308989.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003390885",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003390885",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러 외무 \"러시아 뺀 우크라 안보 논의 '무의미'\"",
+        "time": "2025-08-20T21:51:39",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/20/AKR20250820157300099_03_i_P4_20250820215225299.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015577002",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015577002",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"러시아 없는 우크라 안보 논의는 무의미\"…러의 띤지걸기",
+        "time": "2025-08-20T21:38:59",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/20/NISI20250816_0000561256_web_20250816084343_20250820213914282.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013433036",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013433036",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'트럼프 폭풍 칭찬' 젤렌스키 정장 만든 디자이너 \"품위 강조\"",
+        "time": "2025-08-20T21:34:57",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/20/PAF20250820026101009_P4_20250820213513625.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015576992",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015576992",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "폴란드 동부에 정체불명 비행체 추락폭발…영공침범 없어",
+        "time": "2025-08-20T22:03:13",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/003/0013433057",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013433057",
+        "summary": "\"탄두 미장착의 미끼 드론일 가능성이 높아\"",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"푸틴, 트럼프 종전 외교 응하는 이유?...일종의 보험\"",
+        "time": "2025-08-20T22:07:11",
+        "img": "https://imgnews.pstatic.net/image/660/2025/08/20/0000091341_001_20250820220711940.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/660/0000091341",
+        "original_url": "https://n.news.naver.com/mnews/article/660/0000091341",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "호주·이스라엘 ‘비자취소 사태’ 갈등 격화",
+        "time": "2025-08-20T22:02:19",
+        "img": "https://imgnews.pstatic.net/image/022/2025/08/20/20250820515926_20250820220219571.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004061633",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004061633",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "우크라이나 안전보장안 구체화 착수…트럼프 “미군은 공중 지원”",
+        "time": "2025-08-20T21:55:25",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012012901",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012012901",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "아내·두 아들 잔혹 살해…'이스라엘 일가족 납치' 하마스 대원 사살",
+        "time": "2025-08-20T21:51:07",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/20/0003463249_001_20250820215214702.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003463249",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003463249",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "정상회담 추진 중에도...러시아와 우크라이나 폭격 이어가",
+        "time": "2025-08-20T21:39:02",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/20/0003463247_001_20250820214015702.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003463247",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003463247",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "\"마닐라서 24만원 받고 일본인 총격 피살\"…용의자는 '가이드'",
+        "time": "2025-08-20T21:33:52",
+        "img": "https://imgnews.pstatic.net/image/008/2025/08/20/0005238697_001_20250820215110623.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005238697",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005238697",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 20일 수요일"
       }
     ]
   },
@@ -13640,6 +14194,66 @@
         "summary": "(서울=연합뉴스) 김동찬 기자 = 키움 히어로즈가 '5강 경쟁'에 마음이 급한 KIA 타이거즈를 물리쳤다.\n키움은 20일 광주 기아챔피언스필드에서 열린 2025 신한 SOL뱅크 KBO리그 KIA와 원정 경기에서 6-1로 이겼다.\n최근 2연패 중이던 키움은 37승 4무 76패를 기록하며 여전히 최하위에 머물렀다.\n반면 5강 경쟁에 갈 길이 바쁜 KIA는 이날 패배로 54승 4무 54패, 승률 5할이 됐다.\n3회 KIA는 실책 2개가 겹치며 4점을 헌납했다.\n오선진과 박주홍의 안타로 만든 1사 1, 3루에서 송성문의 적시타로 선취 득점을 올린 키움은 이어진 1사 1, 2루에서 임지열의 내야 안타와 이때 나온 KIA 유격수 박찬호의 송구 실책으로 1점을 보탰다.\n또 계속된 1사 2, 3루에서는 최주환의 1루 땅볼 때 KIA 1루수 오선우의 포구 실책이 나오면서 2, 3루 주자가 모두 홈을 밟아 4-0이 됐다.\nKIA 선발 양현종은 이 4실점 가운데 자책점은 1점뿐이었다.\nKIA는 곧바로 3회말 공격에서 김석환의 솔로 홈런으로 추격했으나 이 득점이 이날 유일한 KIA의 점수였다.\n키움은 8회 이주형의 3루타와 오선진의 희생 플라이로 2점을 더해 6-1로 달아나 승기를 굳혔다.\n키움 선발 투수 라울 알칸타라는 8이닝을 피안타 5개, 사사구 없이 탈삼진 4개를 뽑아내며 1실점으로 막고 시즌 6승을 달성했다.\nemailid@yna.co.kr",
         "source": "yna",
         "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "李대통령-與 만찬…\"수사기소 분리 원칙 檢개혁안 추석前 마련\"",
+        "time": "2025-08-20T22:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/08/20/PYH2025082020260001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820157900001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820157900001",
+        "summary": "\"정부조직법 개정안에 대원칙 담기로…흔들림 없는 檢개혁, 후속조치는 정부 추진\"\n李대통령 \"말보다 결과로 책임지는 자세 중요\"…鄭 \"책임지고 성과내겠다\"\n(서울=연합뉴스) 오규진 기자 = 대통령실과 여당은 20일 검찰개혁 입법과 관련해 수사·기소 분리 대원칙을 추석 전까지 정부조직법 개정안에 담기로 했다.\n더불어민주당 박수현 수석대변인은 이날 이재명 대통령의 여당 지도부 초청 만찬에서 검찰개혁 문제를 논의하고 이런 결론을 냈다고 서면 브리핑에서 전했다\n박 수석대변인은 \"당정대는 이견 없이, 그리고 흔들림 없이 검찰개혁을 추진할 것을 분명하게 확인했다\"며 \"(추석) 이후 후속 조치는 정부가 만반의 준비를 거쳐 계속 추진하기로 했다\"고 설명했다.\n이에 대해 정청래 대표는 \"대통령께 감사드린다\"고 했고, 김병기 원내대표는 \"수사·기소 분리 자체가 대변혁\"이라고 말했다고 한다.\n이 대통령은 \"당과 정부가 원팀으로 협력관계를 유지하면서 국민이 새 정부의 효능감을 느끼시도록 하자\"며 \"말보다 결과로 책임지는 자세가 중요하다. 국민께서 내 삶이 바뀌고 있다는 체감을 하실 수 있도록 혼신의 노력을 다하자\"고 당부했다.\n정 대표는 \"정상외교를 준비하는 바쁜 중에도 초대해 격려해주셔서 감사드린다며 \"집권여당으로서 책임지고 성과를 냄으로써 이재명 정부의 성공을 당이 뒷받침하도록 혼신의 노력을 다하겠다\"고 화답했다.\n이날 만찬 회동은 두 시간 넘게 이어졌으며 대통령실에서는 강훈식 비서실장과 김용범 정책실장, 우상호 정무수석, 김병욱 정무비서관이 배석했다.\n당에서는 정 대표와 김 원내대표, 전현희·한준호·김병주·이언주·황명선·서삼석 최고위원, 한정애 정책위의장, 조승래 사무총장, 이해식 전략기획위원장 등이 참석했다.\nacdc@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "복지소위, '비의료인 문신 시술' 문신사법 제정안 의결",
+        "time": "2025-08-20T21:48:00",
+        "img": "https://img8.yna.co.kr/photo/yna/YH/2025/08/18/PYH2025081813100001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820156300001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820156300001",
+        "summary": "(서울=연합뉴스) 오규진 기자 = 국회 보건복지위원회 법안심사제2소위원회는 20일 비의료인의 문신 시술 행위를 합법화하는 내용의 '문신사법' 제정안을 의결했다.\n문신사법은 국가가 '문신사'라는 직업을 신설해 자격 요건과 면허 취득 요령, 보건 규정, 업무 범위 등을 관리·규제하도록 하는 내용을 골자로 한다.\n문신 시술은 1992년 대법원 판례가 나온 뒤 줄곧 의료행위로 규정됐다.\n헌법재판소도 2023년 문신사 노동조합 '타투유니온'이 의료법 27조 1항이 직업선택의 자유 등을 침해한다며 낸 헌법소원을 재판관 5대 4 의견으로 기각했다.\n다만 최근 문신 시술이 미용 또는 심미적 목적으로 주로 이뤄지고, 시술자도 대부분 의료인이 아니라는 점에서 법과 현실 사이 괴리가 있다는 비판이 나왔다.\n문신 행위에 대한 관리·감독의 법적 근거가 없는 탓에 소비자 피해가 발생할 경우 대응하기 어렵다는 점 역시 문제로 지적됐다.\n2013년 12월 국회 보건복지위원회 소속이었던 김춘진 전 의원이 문신사법 제정안을 발의한 이후 19∼21대 국회에서 관련 법안이 제출됐으나 결실을 보지 못했다.\n박주민 복지위원장은 이날 문신사법 소위 통과 직후 페이스북에 \"변호사 시절부터 부당한 처벌을 받던 문신사들을 변호했고, 20대·21대·22대 국회에서 줄기차게 대표 발의하며 노력해온 끝에 결실의 첫 문을 열었다\"며 환영의 뜻을 나타냈다.\n한편 소위에서는 응급의료기관의 시설, 인력, 장비 등 운영 상황을 공개하도록 하는 응급의료법 개정안과 유전자변형식품에 대한 표기 기준을 강화한 건강기능식품법·식품위생법 개정안 등도 의결했다.\n필수의료 강화 특별법, 공공의대 설립법 등 의료개혁 관련 법안들도 이날 소위에서 논의됐으나 결론을 내지 못하고 계속 심사키로 했다.\nacdc@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "[속보] 李대통령-與 만찬…\"수사기소 분리 원칙 檢개혁안 추석前 마련\"",
+        "time": "2025-08-20T21:39:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/08/20/PYH2025082020240001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820156900001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820156900001",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "러 외무 \"러시아 뺀 우크라 안보 논의 '무의미'\"",
+        "time": "2025-08-20T21:51:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/08/20/AKR20250820157300099_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820157300099",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820157300099",
+        "summary": "\"푸틴·젤렌스키 정상회담, 신중하게 준비돼야\"\n(요하네스버그=연합뉴스) 유현민 특파원 = 세르게이 라브로프 러시아 외무장관은 20일(현지시간) 자국의 참여 없이 우크라이나의 안전 보장을 논의하는 것은 아무 성과가 없을 것이라고 경고했다.\nAFP·로이터통신에 따르면 라브로프 장관은 이날 기자들에게 \"러시아를 빼고 (우크라이나의) 안전 보장을 진지하게 논의하는 것은 '유토피아'(실체 없는 허상)이며 '무의미한 길'\"이라고 말했다.\n그러면서 \"러시아 없이 집단 안보 문제를 해결하려는 제안을 수용할 수 없다\"고 덧붙였다.\n이는 블라디미르 푸틴 러시아 대통령이 지난 15일 알래스카 정상회담에서 우크라이나에 대한 일부 서방의 안전 보장을 수용했다는 도널드 트럼프 미국 대통령의 언급과 사뭇 결이 다르다.\n트럼프 대통령은 지난 18일 우크라이나, 유럽 정상들과 백악관에서 만나 이같이 전했고 이에 미국과 유럽, 우크라이나는 우크라이나 안전 보장 방안 마련을 위한 3자 위원회를 구성하고 협의에 들어갔다.\n라브로프 장관은 트럼프 대통령이 조율하고 있다고 발표한 푸틴·젤렌스키 대통령의 양자회담에 대해서도 신중한 태도를 보였다.\n그는 \"러시아는 어떤 형식의 협상도 준비됐고 대표단의 수준을 높일 수 있다\"면서도 \"양국 정상회담은 이러한 협상의 결실이어야 하며 신중하게 준비돼야 한다\"고 말했다.\n그러면서 \"푸틴 대통령은 지난 18일 트럼프 대통령과 전화통화에서 '우크라이나와 협상 대표단의 수준을 높이는 것을 고려해 보겠다'고만 말했다\"고 주장했다.\n이 역시 푸틴 대통령이 볼로디미르 젤렌스키 우크라이나 대통령과 양자회담에 동의해 조율을 시작했다는 트럼프 대통령의 발언과는 차이가 있다.\nhyunmin623@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "'트럼프 폭풍 칭찬' 젤렌스키 정장 만든 디자이너 \"품위 강조\"",
+        "time": "2025-08-20T21:34:00",
+        "img": "https://img8.yna.co.kr/photo/etc/af/2025/08/20/PAF20250820026101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820156600009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820156600009",
+        "summary": "군복 느낌 없애려 넣은 뒤트임이 '행운의 부적' 돼…\"따뜻한 분위기 조성\"\n(서울=연합뉴스) 오수진 기자 = 볼로디미르 젤렌스키 우크라이나 대통령이 지난 18일(현지시간) 도널드 트럼프 미국 대통령을 만날 때 입은 정장을 만든 디자이너가 젤렌스키 대통령이 품위 있어 보이도록 하고 싶었다는 제작 비화를 공개했다.\n로이터통신은 젤렌스키 대통령 의상 제작을 담당하는 우크라이나 디자이너 빅토르 아니시모우와의 인터뷰를 통해 당시 젤렌스키 대통령이 착용한 의상의 특징과 제작 과정을 19일 보도했다.\n아니시모우는 젤렌스키 대통령이 취임 전 코미디언으로 활동했을 시절부터 인연을 맺어 왔다.\n이후 한동안 연락이 끊겼다가 지난 1월 한 지인으로부터 대통령을 위해 일해달라는 연락을 받았다.\n그는 대통령을 위한 캡슐 컬렉션(소량의 제품을 제작해 선보이는 방식)을 만드는 과정에서 군복을 영감의 원천으로 삼았다.\n지난 2월 트럼프 대통령과의 회담에서 젤렌스키 대통령이 입은 티셔츠 차림의 군복 의상도 그가 제작한 옷 중 하나다.\n아니시모우는 당시 젤렌스키 대통령이 백악관에서 옷차림 때문에 면박을 당한 영상을 봤을 때 복싱 경기의 잽을 맞는 것 같았다며 \"젤렌스키뿐만 아니라 우크라이나 국민을 겨냥한 느낌\"이었다고 털어놨다.\n그는 \"그들은 우리가 어떻게 숨 쉬고 어떻게 사는지 이해하지 못하기 때문에 약간의 절망감을 느꼈다\"라고도 말했다.\n지난 2월과 달리 젤렌스키 대통령은 이번에 깃이 있는 검은색 셔츠와 검은색 재킷을 갖춰 입었다. 이는 전투 현장에서 입는 옷이 아닌 군인들의 정복(正服) 느낌이 더 강했다.\n아니시모우는 군복보다 민간인 복장에 가까운 느낌을 내기 위해 재킷 아래 뒤트임을 넣었다며 이 미묘한 변화가 '행운의 부적'이었다고 생각한다고 전했다.\n실제로 해당 의상을 착용한 젤렌스키 대통령은 지난 2월 그의 '복장 불량'을 지적한 미국 기자에게 \"멋지다\"는 칭찬을 들었고 트럼프 대통령도 \"나도",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
+      },
+      {
+        "title": "시진핑, 집권뒤 두번째 티베트 방문…자치구 60주년 행사 참석(종합)",
+        "time": "2025-08-20T21:44:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/20/AKR20250820154551009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250820154551009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250820154551009",
+        "summary": "\"티베트 불교, 사회주의 적응 인도해야\"…수력·철도 등 인프라 강력 추진 당부\n中·印 5년 만의 관계개선 분위기 속 찾아…21일 라싸에서 경축행사 개최\n(서울=연합뉴스) 권숙희 기자 = 시진핑 중국 국가주석이 20일 시짱(西藏·티베트) 자치구 60주년 행사 참석을 위해 티베트 성도 라싸(拉薩)를 찾았다.\n인도와 국경을 맞댄 티베트에 시 주석이 방문한 것은 집권 이래 두 번째로, 이번 방문은 국경지대에서 무력 충돌을 빚었던 중국과 인도가 5년 만에 관계 개선에 나선 가운데 이뤄졌다.\n20일 중국 관영 신화통신은 시 주석이 이날 낮 전용기를 타고 라싸에 도착했으며 중국 공산당 역사상 최초로 국가주석 자격으로 시짱자치구 설립 기념행사에 참석한다고 보도했다.\n이는 당이 티베트를 매우 중시하며 티베트족 간부와 주민에 세심한 관심을 보인다는 의미라고 신화통신은 설명했다.\n시 주석은 티베트 관리, 현지 주민들의 열렬한 환영 속에 선물로 받은 티베트 전통의 흰색 긴 스카프(하다)를 정장 위에 걸친 채 모습을 드러냈다. 티베트 전통 복장 차림의 주민들은 중국 국기인 오성홍기를 흔들고 전통춤을 추면서 시 주석을 맞이했다.\n시 주석은 이날 티베트자치구 당위원회 등의 업무 보고를 청취하면서 \"티베트의 정치·사회적 안정과 민족 단결, 종교 화합을 유지해야 한다\"라며 \"국가 통용 언어와 문자를 보편화하고 민족 간 교류와 융합을 촉진해야 한다\"고 강조했다.\n이어 \"우리나라 종교의 중국화를 체계적으로 추진하고 종교 사무 관리의 법치화를 강화하라는 요구에 따라 티베트 불교가 사회주의 사회와 서로 적응하도록 인도해야 한다\"고 덧붙였다.\n최근 중국은 티베트의 정신적 지도자인 달라이 라마의 후계 문제를 둘러싸고 대립하고 있다. 90세를 맞은 달라이 라마는 환생에 의한 후계자 제도를 이어가겠다면서 중국 정부가 간섭할 권한이 없다고 했으나 중국은 정부의 승인이 필요하다는 입장이다.\n시 주석은 이날 티베트에서 진행 중인 얄룽창포강(",
+        "source": "yna",
+        "date": "2025년 08월 20일 수요일"
       }
     ]
   },
@@ -16859,6 +17473,96 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/ned/20250820215427325ybco.jpg",
         "url": "https://v.daum.net/v/20250820215426869",
         "original_url": "https://v.daum.net/v/20250820215426869",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "'이태원 참사' 출동 소방관 사망 소식에…李 대통령 \"마음 미어져\"",
+        "time": "2025-08-20T13:39:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/ked/20250820220716833yafh.jpg",
+        "url": "https://v.daum.net/v/20250820220715149",
+        "original_url": "https://v.daum.net/v/20250820220715149",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "우크라이나 안전보장안 구체화 착수…트럼프 “미군은 공중 지원”",
+        "time": "2025-08-20T13:39:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/kbs/20250820221730964cuiu.png",
+        "url": "https://v.daum.net/v/20250820220037023",
+        "original_url": "https://v.daum.net/v/20250820220037023",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "잇달아 철수하더니...유럽 원전 시장도 내줬다",
+        "time": "2025-08-20T13:39:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/YTN/20250820220430770sokj.jpg",
+        "url": "https://v.daum.net/v/20250820220430100",
+        "original_url": "https://v.daum.net/v/20250820220430100",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "중국 공급망 위협에 쩔쩔매지 않도록…정부, 자원개발에 46조 ‘패키지금융’",
+        "time": "2025-08-20T13:39:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/mk/20250820221504831mlpg.jpg",
+        "url": "https://v.daum.net/v/20250820221503249",
+        "original_url": "https://v.daum.net/v/20250820221503249",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "미군, 시리아에서 IS \"고위급 목표 사살\"…올해 2번째 소탕작전",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/moneytoday/20250820222838129juoo.jpg",
+        "url": "https://v.daum.net/v/20250820222836379",
+        "original_url": "https://v.daum.net/v/20250820222836379",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "호주·이스라엘 ‘비자취소 사태’ 갈등 격화",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/segye/20250820220328786xlti.jpg",
+        "url": "https://v.daum.net/v/20250820220328085",
+        "original_url": "https://v.daum.net/v/20250820220328085",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "폴란드 동부서 군용 드론 추락해 폭발",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/yonhap/20250820223314541hjha.jpg",
+        "url": "https://v.daum.net/v/20250820223314424",
+        "original_url": "https://v.daum.net/v/20250820223314424",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "\"푸틴, 트럼프에 젤렌스키 만남 장소로 모스크바 제안\"(종합)",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/yonhap/20250820221924276lqtw.jpg",
+        "url": "https://v.daum.net/v/20250820221924289",
+        "original_url": "https://v.daum.net/v/20250820221924289",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "폴란드 동부에 정체불명 비행체 추락폭발…영공침범 없어",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250820220515114",
+        "original_url": "https://v.daum.net/v/20250820220515114",
+        "source": "daum",
+        "date": "2025년 08월 20일 Wednesday"
+      },
+      {
+        "title": "러 외무 \"유럽 정상들, 백악관서 건설적 평화안 제시 못해\"",
+        "time": "2025-08-20T13:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/20/NEWS1/20250820221056779vigh.jpg",
+        "url": "https://v.daum.net/v/20250820221056205",
+        "original_url": "https://v.daum.net/v/20250820221056205",
         "source": "daum",
         "date": "2025년 08월 20일 Wednesday"
       }
