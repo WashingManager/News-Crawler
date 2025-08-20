@@ -1173,5 +1173,98 @@
         "summary": "맞춤형 도구 ‘SoundBill’·클라우드 인프라 악용해 탐지 회피 고도화UAT-5918 하위조직 추정...VPN·RDP 조합한 지속적 접근 전략 구사[보안뉴스 여이레 기자] 시스코 탈로스 보안연구진은 2022년 이후 대만 웹호스팅 인프라를 표적으로 활발히 공격을 펼쳐 온 중국어권 지능형 위협 그룹(APT) ‘UAT-7237’의 활동을 포착했다고 밝혔다.[..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 20일 수요일",
+    "articles": [
+      {
+        "title": "SGI서울보증 랜섬웨어 푼 금보원 침해위협분석팀 ‘역대급’ 포상",
+        "time": "2025-08-20T16:49:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566978025_1411.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138817&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138817&page=1&kind=2",
+        "summary": "SGI서울보증 랜섬웨어 사태서 대활약한 금용보안원 침해위협분석팀 내부 특별포상 수여“기술적 난관서 적극 소통한 팀원과 조직 구성원에 감사...금융권 디지털 보안 역량 강화 노력할 것”[보안뉴스 조재호 기자] “랜섬웨어를 분석해 암호화 로직 결함을 확인하고, 팀 모두가 밤을 지새워 복호화 도구를 만들어 디스크 복호화 도구의 소요 시간을 단축하기 위한 최적화에..."
+      },
+      {
+        "title": "김수키, 이번엔 주한 외국 대사관 공격...정부부처 이은 잇따른 국가 배후 해킹",
+        "time": "2025-08-20T10:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566805191_8895.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138802&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138802&page=1&kind=1",
+        "summary": "지난 3월부터 최근까지 최소 19건 스피어피싱 공격앞서 김수키 추정 공격자, 대한민국 정부 부처 및 통신사도 공격[보안뉴스 강현주 기자] ‘김수키’로 추정되는 해킹 집단이 대한민국 주요 정부 부처와 통신사를 공격한 데 이어, 한국 주재 유럽 대사관도 공격한 것으로 나타났다.20일 주요 외신들은 정부와 연계된 해킹 그룹 김수키(APT43)가 대한민국 주재 유..."
+      },
+      {
+        "title": "개인정보위, 딥페이크 등 AI 시대 프라이버시 강화 방안 논의",
+        "time": "2025-08-20T16:31:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566906286_9541.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138818&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138818&page=1&kind=2",
+        "summary": "제4차 ‘2025 개인정보 미래포럼’ 개최[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 고학수)는 딥페이크와 딥보이스, 개인정보 국외 이전 등 인공지능(AI) 시대에서 마주하게 되는 개인정보 보호 방안을 논의했다.개인정보위는 20일 서울 명동 소재 포스트타워에서 제4차 ‘2025 개인정보 미래포럼’을 개최했다.이 포럼은 개인정보 분야 의제를 선제적으로 ..."
+      },
+      {
+        "title": "쿠도커뮤니케이션, AI 자연재난 대응 간담회서 CCTV 활용 사례 발표",
+        "time": "2025-08-20T15:42:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566960214_8516.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138815&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138815&page=1&kind=3",
+        "summary": "국내 최초 ICT 규제샌드박스 실증 특례 적용AI CCTV 기반 재난 대응 실증 사업 주도원본데이터 활용 필요성 강조[보안뉴스 엄호식 기자] AI 보안 솔루션 전문 기업 쿠도커뮤니케이션(대표 김용식)은 8월 19일 서울 강남구 도시관제센터에서 열린 ‘AI 기반 자연재난 대응 활성화 간담회’에서 자사의 AI CCTV 기반 재난 대응 실증 사례를 발표했다고 밝..."
+      },
+      {
+        "title": "[ISEC 2025 미리보기] “생성형 AI 데이터 유출은 끝났다”... 컴트루테크놀로지, 보안 시장 판도 바꾼다",
+        "time": "2025-08-20T11:28:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/571568216_884.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138733&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138733&page=1&kind=3",
+        "summary": "생성형 AI 활용과 개인정보 보호를 동시에 잡는 ‘Sphinx AI’, ISEC 2025에서 제시AI 기반 개인정보보호 및 비대면 실명확인 기술도 선봬[보안뉴스 한세희 기자] 보고서 작성, 아이디어 제안, 블로그 초안, 코드 리뷰까지. 이제 생성형 AI 없이 업무를 한다는 건 상상하기 어렵다. 생성형 AI가 제공하는 효율성과 생산성을 무시할 수 없기 때문이..."
+      },
+      {
+        "title": "라이노스, 화재 감지 AI 청소로봇 상용화",
+        "time": "2025-08-20T09:40:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566809576_9095.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138800&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138800&page=1&kind=1",
+        "summary": "이동식 감지 시스템 탑재로 야간·무인 시간대 재난 대응 공백 메워연간 운영비 1억원 절감·청결도 27% 향상·민원 50% 감소기존 산업현장 로봇에도 업그레이드 적용 가능[보안뉴스 엄호식 기자] AI 청소로봇 전문기업 라이노스는 자사 대표 모델인 ‘휠리(Wheelie)’ 시리즈에 이동식 열화상 화재감지 시스템을 옵션으로 결합한 차세대 모델을 상용화했다고 20..."
+      },
+      {
+        "title": "GPS 전파혼신 대비 민관군 합동 훈련 실시",
+        "time": "2025-08-19T14:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/353173275_6979.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138785&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138785&page=2&kind=2",
+        "summary": "평택항 해상에서 발생한 전파혼신 상황에 대응한 실제훈련 실시[보안뉴스 한세희 기자] 정부가 을지연습 기간 중 GPS 전파혼신 대응 합동 모의훈련을 실시했다. 육상뿐 아니라 바다에서 이동하며 전파혼신을 시도하는 상황에 대한 대응도 검증했다.과학기술정보통신부는 19일 실제 GPS 전파혼신 상황을 상정한 모의훈련을 실시했다고 밝혔다.▲배경훈 과기정통부 장관이 1..."
+      },
+      {
+        "title": "[미리보는 IPCON 2025] IP에 AI 적용, 초거대·초집중·압도적여야!",
+        "time": "2025-08-19T11:53:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/353226094_7524.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138788&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138788&page=2&kind=1",
+        "summary": "AI 흉내로는 효과 기대 난망26일 코엑스 ‘IPCON 2025’서 글로벌 실증 사례 제시!“현재 한국서 이뤄지는 정도의 AI 접목으로는 혁신적인 성과를 기대하기 어렵습니다. 보다 초거대 규모의 압도적 AI 적용만이 IP 분야에서 원하는 결과를 얻을 수 있어요.”전사라 이밸류서브 아시아태평양 총괄대표는 기존 레거시 방식의 지식재산(IP) 업무의 획기적 변화..."
+      },
+      {
+        "title": "누리랩, AI 피싱 URL 검출 기술 일본 특허 등록",
+        "time": "2025-08-19T11:18:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/353138310_6584.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138784&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138784&page=2&kind=3",
+        "summary": "AI 기반 유사도 분석 엔진 활용해 URL 자동 분석 및 차단한국·미국·일본 주요 3국 특허 등록 완료해 국내외서 기술력 인정받아[보안뉴스 조재호 기자] 인공지능(AI) 보안 전문기업 누리랩이 ‘AI 알고리즘을 이용한 피싱 사이트 연관 URL 검출 방법 및 장치’ 기술로 일본 특허를 등록했다고 19일 밝혔다.[자료: 누리랩]이번 특허 등록 기술은 누리랩이 ..."
+      },
+      {
+        "title": "기후변화로 더 커진 자연재난...정부, AI로 피해 막는다",
+        "time": "2025-08-19T10:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/353173275_726.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138775&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138775&page=2&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 정부가 자연 재난에 보다 잘 대응하기 위해 인공지능(AI) 활용에 나선다.배경훈 과학기술정보통신부 장관은 19일 서울 강남구 도시관제센터에서 AI 기반 자연재난 대응 활성화 방안을 논의하는 간담회를 열었다.기후 변화로 폭우·폭염 등 극한 기상 상황이 자주 발생하고 자연 재난 피해가 커지는 가운데, AI를 활용한 재난 대응에 대한 관..."
+      },
+      {
+        "title": "K-콘텐츠 열풍 불구, 돈은 美·日 차지...IP수출 늘려야",
+        "time": "2025-08-18T16:24:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/352811073_599.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138771&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138771&page=3&kind=1",
+        "summary": "상의, 스토리 중심 IP 전략·IP 펀드·해외 지재권 확보 지원 제안“글로벌 라이센서 톱50에 한국 無...케데헌法 필요”케이팝 데몬 헌터스(케데헌) 지식재산권(IP) 가치가 최대 1조원에 달할 것이라는 전망이 나오는 등 K콘텐츠의 IP 중요성이 강조되고 있지만, 정작 대한민국의 자리는 없다는 지적이 나왔다.대한상공회의소(대한상의)는 최근 ‘새로운 성장 I..."
+      }
+    ]
   }
 ]
