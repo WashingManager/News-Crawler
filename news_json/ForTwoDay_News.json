@@ -403,6 +403,26 @@
         "summary": "",
         "source": "skyDaily",
         "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "장인식 세계선거기관협의회(A-WEB) 사무총장 ‘서거와 민주주의’강연",
+        "time": "2025-08-21T19:54:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=282944&search=",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=282944&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이재명 대통령, 빌 게이츠 접견",
+        "time": "2025-08-21T20:22:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=282945&search=",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=282945&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 08월 21일 목요일"
       }
     ]
   },
@@ -469,11 +489,56 @@
     "date": "2025년 08월 21일 목요일",
     "articles": [
       {
+        "title": "강화군의회, '방사능 의혹' 유튜버 수사 촉구",
+        "time": "2025-08-21T20:02:36+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXRjMDV1ZG1kNlJsSktOakJLVFJDb0FSaXNBaWdCTWdNQjBBQQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibkFVX3lxTE14MlVMT1AzMVJQbkJaZzBhbjZXZ053dEZrTFNINENLZGwxbFNwOHllTmRCODhoU2NqNDJqNlJzN3NLemxnLVJQSTBvSGtzdXNKRm8xd2FwekhnUV9MNHRDN1pxYWhBZzNwcTB6QlJR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibkFVX3lxTE14MlVMT1AzMVJQbkJaZzBhbjZXZ053dEZrTFNINENLZGwxbFNwOHllTmRCODhoU2NqNDJqNlJzN3NLemxnLVJQSTBvSGtzdXNKRm8xd2FwekhnUV9MNHRDN1pxYWhBZzNwcTB6QlJR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "대만, 자이시 남동쪽서 규모 5.1 지진 발생",
+        "time": "2025-08-21T19:41:48+00:00",
+        "img": "/api/attachments/CC8iJ0NnNUVka0ZKTUZOR05XeGxTM3AxVFJDcUJCaXBCQ2dLTWdNQk1nZw=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9vN3JvMkNiNlJTd1dDMkppMnhJdU1ZRWViOU1VNE05bXpaaTAyMHJQWVZsaVYzcVJuY0pyUTRaOTFtdU1OVjBJZmdlYmRHRXRzSnktQW5lSkhZUdIBXkFVX3lxTE9NUTRKemhkV0haVkU1aUhOTE5EbHZfNEpCUFNrdzVSV002ZngxNlB6UXh3MDRuUUkyT3hKekV4dEt1NXdFSkNDbFQtbUZvN3gyRF9oSlpFTndacm85UFE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE9vN3JvMkNiNlJTd1dDMkppMnhJdU1ZRWViOU1VNE05bXpaaTAyMHJQWVZsaVYzcVJuY0pyUTRaOTFtdU1OVjBJZmdlYmRHRXRzSnktQW5lSkhZUdIBXkFVX3lxTE9NUTRKemhkV0haVkU1aUhOTE5EbHZfNEpCUFNrdzVSV002ZngxNlB6UXh3MDRuUUkyT3hKekV4dEt1NXdFSkNDbFQtbUZvN3gyRF9oSlpFTndacm85UFE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "“불법인지 몰랐다”...제주 해군기지에 드론 띄운 중국인들 적발",
+        "time": "2025-08-21T19:35:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNWtUMnhzY2pKamIxZHphM1J3VFJDUkF4ajhCU2dLTWdNQm9BQQ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiekFVX3lxTFBURGNVYVZrMDhJV0kxN0syWjBTRmg4dno4djd6dDBrbFBEVGc2QlMzUC1TRXJWOUw1S2p5bF8xQjJmcWNxWlllVUF1WlFTSGZIVTQ2MWZjNnBkVHlaSWYwVGY3dVk1MmthczlCRmF5V3luVy01SzBnRXZB0gGOAUFVX3lxTE9zbGozb3h0RnFWU0h5RS1NbUdjMW1DYmdJWlV0TmM2QlR6OFRnSnYxUWpWd21iaTdDUldHUmRVYkRvd2pCUjR1VDQxQmlieE1yengtWWVPcno0NHFnZTFNeW1MWWtnUTZkSTRKNmZPdFB3eklZdkVoQXRuNzRGMXhZdUNYbkk4aUNsNVhnMGc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiekFVX3lxTFBURGNVYVZrMDhJV0kxN0syWjBTRmg4dno4djd6dDBrbFBEVGc2QlMzUC1TRXJWOUw1S2p5bF8xQjJmcWNxWlllVUF1WlFTSGZIVTQ2MWZjNnBkVHlaSWYwVGY3dVk1MmthczlCRmF5V3luVy01SzBnRXZB0gGOAUFVX3lxTE9zbGozb3h0RnFWU0h5RS1NbUdjMW1DYmdJWlV0TmM2QlR6OFRnSnYxUWpWd21iaTdDUldHUmRVYkRvd2pCUjR1VDQxQmlieE1yengtWWVPcno0NHFnZTFNeW1MWWtnUTZkSTRKNmZPdFB3eklZdkVoQXRuNzRGMXhZdUNYbkk4aUNsNVhnMGc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
         "title": "\"대만 자이시 인근서 규모 5.1 지진… 주민들 여진 대비 중\"",
         "time": "2025-08-21T18:49:51+00:00",
         "img": "/api/attachments/CC8iJ0NnNVVhV3BQVEZSYU5GZE1XSFo1VFJEMEF4ajBBeWdLTWdNRk1nbw=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMic0FVX3lxTE9YRnR1YVZRS3YxU3NFMndmUURZVXcySVNIS2hDUEN6TmNQdmpxNW1PVy05bXB4TDZNNDU1eWl2eVAwUE82cXNaNjgyblBBb0xpOEs2UEFWeHJRdlFkdFZnM3Y0QzlsaldxUVF1anAtNDRfOXc?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMic0FVX3lxTE9YRnR1YVZRS3YxU3NFMndmUURZVXcySVNIS2hDUEN6TmNQdmpxNW1PVy05bXB4TDZNNDU1eWl2eVAwUE82cXNaNjgyblBBb0xpOEs2UEFWeHJRdlFkdFZnM3Y0QzlsaldxUVF1anAtNDRfOXc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "방사성 폐기물 탱크 폭발 러시아 ‘키시팀 사고’ 수백 명 사망 [해체되는 원전, 묻혀버린 검증]",
+        "time": "2025-08-21T18:47:38+00:00",
+        "img": "/api/attachments/CC8iK0NnNXJka05YVWxVd1NURktlV05KVFJDbUJSakVBeWdLTWdhaFE0cHN3UVE=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE9WbFpVQ0swb2xjMzAxczMyM2hYeG9VMC0yaGxpdjY0bDFnOFlZMmdXUVI1LWtoaThzTlJNN1JkeFZhczU5QzhfcVEzazI4S1Y3UFVMVkZ3YmVHb1hvQlpfWFM0YWVPY3ZpS2h4MFdPS2pEdFZ5?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE9WbFpVQ0swb2xjMzAxczMyM2hYeG9VMC0yaGxpdjY0bDFnOFlZMmdXUVI1LWtoaThzTlJNN1JkeFZhczU5QzhfcVEzazI4S1Y3UFVMVkZ3YmVHb1hvQlpfWFM0YWVPY3ZpS2h4MFdPS2pEdFZ5?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "조현 외교장관, 일본 건너뛰고 미국행…한미 정상회담 돌발 변수 생겼나",
+        "time": "2025-08-21T18:40:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXJXa1UwVXpacVNFRkZhMEZXVFJDaEF4aUFCU2dLTWdZSlFKeFBuUWs=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTFBieUUwSjlLTjJMS3Z3M3NGYjdYUDlNQ1p5eGNET0x4MHd6X0VVdTdMTUNNU2FGdllSd1JBSzI3d3VYMUtQbnZHeGNRd0hydTViYm5CQV92ajZCb0NPVDFPOXhEN0dJN2lLTGNXdUc2OFF1cDlB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTFBieUUwSjlLTjJMS3Z3M3NGYjdYUDlNQ1p5eGNET0x4MHd6X0VVdTdMTUNNU2FGdllSd1JBSzI3d3VYMUtQbnZHeGNRd0hydTViYm5CQV92ajZCb0NPVDFPOXhEN0dJN2lLTGNXdUc2OFF1cDlB?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 21일 목요일"
       },
@@ -510,6 +575,15 @@
         "img": "/api/attachments/CC8iJ0NnNHlOMVJLYUVOcGFubEtYM3BFVFJEMEF4ajBBeWdLTWdNRk1nbw=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE9PM1A1UUxKQm9qdmN5dVRyYmd4S0lia3lpNEZ4NmFQeDNlQ1lrdC1KQ0FzeDU4M3o5dkoyc3NVTTgtRTJpZVF4cENpSnFMZ0QwV1ZlVlo0b3JvYWfSAWBBVV95cUxPZWxLcHZqT1BjQkVtcmNrVGtxVWZJVXpRUXQ4NkNSbUd5TVZjeGRzc0hmVERiSWZEOEZTVFNWZFltRWxFYlgzWlp2cHlxT0dYUmZCYklCRWlpYWVzSHhxNkk?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9PM1A1UUxKQm9qdmN5dVRyYmd4S0lia3lpNEZ4NmFQeDNlQ1lrdC1KQ0FzeDU4M3o5dkoyc3NVTTgtRTJpZVF4cENpSnFMZ0QwV1ZlVlo0b3JvYWfSAWBBVV95cUxPZWxLcHZqT1BjQkVtcmNrVGtxVWZJVXpRUXQ4NkNSbUd5TVZjeGRzc0hmVERiSWZEOEZTVFNWZFltRWxFYlgzWlp2cHlxT0dYUmZCYklCRWlpYWVzSHhxNkk?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[단독]신혜식 “윤석열 대통령실 행정관들, ‘체포 반대’ 집회 직접 참석”",
+        "time": "2025-08-21T17:43:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNURTRE5HYkZOQ2RqVlRkMHB4VFJERUF4aW1CU2dLTWdrQlFJd0lOZVlzYXdJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE0tNzhrMTZFMlBWZ0VZRXllZW1RNU1jT2M1Y29rYkowQ3E4TjFJcUxMbG1qWC1zbWdvcmlvT0cxd2JWajd3TEJWTHl6endqVHVfZmtNbG9oYzRQd9IBX0FVX3lxTE5lUVNsWmJBMWF0WmE4Y2t3dVBsSjYyQUpZMWZGZlV0R3VYaE03akpabGt2eHRONHliQU1hV3M4MWloc1ozd0c3TVZuMExwUHNkd1hjc0FaX0dELVhBTGJN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE0tNzhrMTZFMlBWZ0VZRXllZW1RNU1jT2M1Y29rYkowQ3E4TjFJcUxMbG1qWC1zbWdvcmlvT0cxd2JWajd3TEJWTHl6endqVHVfZmtNbG9oYzRQd9IBX0FVX3lxTE5lUVNsWmJBMWF0WmE4Y2t3dVBsSjYyQUpZMWZGZlV0R3VYaE03akpabGt2eHRONHliQU1hV3M4MWloc1ozd0c3TVZuMExwUHNkd1hjc0FaX0dELVhBTGJN?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 21일 목요일"
       },
@@ -582,6 +656,15 @@
         "img": "/api/attachments/CC8iI0NnNU9jRzVCY2xjemVuVmlRV3BrVFJEVkF4aU9CU2dLTWdB=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTE11ZF9ULXNZLUtTdHY5Y0Z3Vkx2dEVzVkZWeDhkZ3Q4cnVmelVkcnFEcXRXYXEwZjFTWTR6SjFJaVZ6cHMyR0N4dC1reVZZZ1Q1TlZDeWZQTnYyZ9IBX0FVX3lxTFBkVVRjN3pyeEdkb3kyNXgtZHdJdXZWUHpmMEJjNnFLdW1nXzNGRktHZ1FXeEYyQ1NiNjctaFVmSENnODg3dE5mekZqQ0dJa09CUXEycmREM25TWHJMa3dv?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE11ZF9ULXNZLUtTdHY5Y0Z3Vkx2dEVzVkZWeDhkZ3Q4cnVmelVkcnFEcXRXYXEwZjFTWTR6SjFJaVZ6cHMyR0N4dC1reVZZZ1Q1TlZDeWZQTnYyZ9IBX0FVX3lxTFBkVVRjN3pyeEdkb3kyNXgtZHdJdXZWUHpmMEJjNnFLdW1nXzNGRktHZ1FXeEYyQ1NiNjctaFVmSENnODg3dE5mekZqQ0dJa09CUXEycmREM25TWHJMa3dv?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "유럽, '우크라 안보' 위해 \"루마니아 나토기지에 美F-35 배치 희망\"",
+        "time": "2025-08-21T15:06:19+00:00",
+        "img": "/api/attachments/CC8iK0NnNVRZa2g0TjI1T1NWOU1PREp4VFJDcEF4alNCU2dLTWdZQllJcVJQQVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE5VZEZBRGZhazdnd2ktOTV2SXpVY3Ntd1FLbC1nVlJSVVZwZnJiMkNtQndvUXVZZy00WTl4dFFyczJDS01FVE9rakV3V3BzUEtidjRxVURwNWpLZDTSAWBBVV95cUxPeDdBVThwUXBzSkRxdEU1Y0drY0VPdjdvY2ZuUVNBWXN3OXVTaGg3VWpyNmxvLWFnQTdFZjZLTjJNSUd2LWZ2ZGhrOUZIdU5jYVpDTS0yQ3pjYjZadHFTUmw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE5VZEZBRGZhazdnd2ktOTV2SXpVY3Ntd1FLbC1nVlJSVVZwZnJiMkNtQndvUXVZZy00WTl4dFFyczJDS01FVE9rakV3V3BzUEtidjRxVURwNWpLZDTSAWBBVV95cUxPeDdBVThwUXBzSkRxdEU1Y0drY0VPdjdvY2ZuUVNBWXN3OXVTaGg3VWpyNmxvLWFnQTdFZjZLTjJNSUd2LWZ2ZGhrOUZIdU5jYVpDTS0yQ3pjYjZadHFTUmw?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 21일 목요일"
       },
@@ -726,6 +809,15 @@
         "img": "/api/attachments/CC8iJ0NnNVFhbUZPVVdaU1RYQnFSR2REVFJEU0FoallCQ2dLTWdNQjRBQQ=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMibkFVX3lxTE1PaTBlQW15S0dJTEZaOGJGdExuajhqZzhaTjBsYklGYmtpQS0xLXVRZmVkcXpobEYzS2U5Rm1NdmVJcEFNQzNWRjdWb0Fvb0dWWktJUVpVc1hhNy13WnVqZjFNY0dGRERQR2RZNzZn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMibkFVX3lxTE1PaTBlQW15S0dJTEZaOGJGdExuajhqZzhaTjBsYklGYmtpQS0xLXVRZmVkcXpobEYzS2U5Rm1NdmVJcEFNQzNWRjdWb0Fvb0dWWktJUVpVc1hhNy13WnVqZjFNY0dGRERQR2RZNzZn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "내란 특검, ‘계엄 해제 회의 참석’ 박상우 전 국토부 장관 참고인 조사",
+        "time": "2025-08-21T12:10:02+00:00",
+        "img": "/api/attachments/CC8iK0NnNXFhakZLUTFKamJtSmxTemc0VFJDUkF4ajhCU2dLTWdhdFZZYk9zUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMihwFBVV95cUxNZm9wQ0FaSDhWbjFDa1hxRjhBMGdsMzBuQUNoZUtydTRmTTNwenViZXdqMjNBVGhFdFdFSTN1Q3F5T0UyMkdTUHNDTmE4VmU5THBoR09sZS1qVHRBSC1tdlk5S25FcHdPNHpxX0FfLWlKUDBnb2Q5ZEp3OWp0OEU3WVAwWmlPcGPSAZsBQVVfeXFMTmdSNWEwQWJOQzU5Q3NHSWZxNkRJX2laZUhneEFWN014MGRLNUtlT1JLOThoMDYyYXNqM29QUWhlR3dMd2gtd3pieVBoSnVlU2tJdkp0Wl9BODI3MXNjVjBhQ0xrYTBid2NPeWhqblBTMFAxU2M4eGVaRm9IVV9DOWlsQXU0dXZUV1ZvRkhqaFhVMjhjTmk0RDRUb1k?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMihwFBVV95cUxNZm9wQ0FaSDhWbjFDa1hxRjhBMGdsMzBuQUNoZUtydTRmTTNwenViZXdqMjNBVGhFdFdFSTN1Q3F5T0UyMkdTUHNDTmE4VmU5THBoR09sZS1qVHRBSC1tdlk5S25FcHdPNHpxX0FfLWlKUDBnb2Q5ZEp3OWp0OEU3WVAwWmlPcGPSAZsBQVVfeXFMTmdSNWEwQWJOQzU5Q3NHSWZxNkRJX2laZUhneEFWN014MGRLNUtlT1JLOThoMDYyYXNqM29QUWhlR3dMd2gtd3pieVBoSnVlU2tJdkp0Wl9BODI3MXNjVjBhQ0xrYTBid2NPeWhqblBTMFAxU2M4eGVaRm9IVV9DOWlsQXU0dXZUV1ZvRkhqaFhVMjhjTmk0RDRUb1k?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 21일 목요일"
       },
@@ -3980,6 +4072,123 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/08/21/202508211924166698_t.jpg",
         "url": "https://news.nate.com/view/20250821n37110",
         "original_url": "https://news.nate.com/view/20250821n37110",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "독일 여당도 야당도 \"우크라 파병案에 반대\"…메르츠 총리는 난처한 입장",
+        "time": "2025-08-21T20:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ni/2025/08/21/2501240520495480_w.jpg",
+        "url": "https://news.nate.com/view/20250821n38000",
+        "original_url": "https://news.nate.com/view/20250821n38000",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이재현 CJ회장, 한미 정상회담 경제사절단 참석",
+        "time": "2025-08-21T20:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/21/ae_1755774664560_24918_0.jpg",
+        "url": "https://news.nate.com/view/20250821n37733",
+        "original_url": "https://news.nate.com/view/20250821n37733",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "김윤덕 국토장관 \"이재명 대통령, 청도 열차사고 철저히 진상 파악 지시\"",
+        "time": "2025-08-21T20:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/21/ae_1755774965181_524940_0.jpg",
+        "url": "https://news.nate.com/view/20250821n37840",
+        "original_url": "https://news.nate.com/view/20250821n37840",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "한미 정상회담 앞두고 김정관 장관·여한구 본부장 방미",
+        "time": "2025-08-21T19:59:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/21/cz_1755773944945_559398_0.jpg",
+        "url": "https://news.nate.com/view/20250821n12312",
+        "original_url": "https://news.nate.com/view/20250821n12312",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "아세안 시장에 한 해 34조원 투입한 중국…한국 투자액의 7배 달해",
+        "time": "2025-08-21T19:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/21/news-p.v1.20250821.009a4802dda140ea8380202a54713eb0_P1.jpg",
+        "url": "https://news.nate.com/view/20250821n37117",
+        "original_url": "https://news.nate.com/view/20250821n37117",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "태풍 '링링' 일본 규슈 상륙…22일까지 많은 비 예상",
+        "time": "2025-08-21T20:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/08/21/PS25082101316.jpg",
+        "url": "https://news.nate.com/view/20250821n37987",
+        "original_url": "https://news.nate.com/view/20250821n37987",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "신혜식 \"윤석열 용산 행정관들, '체포 저지' 관저 앞 집회 참석\"",
+        "time": "2025-08-21T20:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/08/21/20250821504204.jpg",
+        "url": "https://news.nate.com/view/20250821n37386",
+        "original_url": "https://news.nate.com/view/20250821n37386",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "美에 자존심 긁힌 中…엔비디아 AI 칩 구매 제동",
+        "time": "2025-08-21T20:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/08/21/20250821515348.jpg",
+        "url": "https://news.nate.com/view/20250821n37562",
+        "original_url": "https://news.nate.com/view/20250821n37562",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "\"이 대통령 인터뷰 깊은 감명\"…일본, '사과' 언급엔 경계",
+        "time": "2025-08-21T20:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/08/21/202103102_700.jpg",
+        "url": "https://news.nate.com/view/20250821n37759",
+        "original_url": "https://news.nate.com/view/20250821n37759",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "트럼프 \"풍력·태양광 사기극, 지원금 폐지\"…美 투자 한국 기업 '불안'",
+        "time": "2025-08-21T20:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/08/21/3489a951-4da1-4a67-858e-f08d52bd9f1a.jpg",
+        "url": "https://news.nate.com/view/20250821n29389",
+        "original_url": "https://news.nate.com/view/20250821n29389",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이스라엘, '가자시티 장악' 공세 개시",
+        "time": "2025-08-21T20:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ob/2025/08/21/1494651_693889_225.png",
+        "url": "https://news.nate.com/view/20250821n37581",
+        "original_url": "https://news.nate.com/view/20250821n37581",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "\"두 국가는 망상\"…가자시티 점령 군사작전 나선 네타냐후[디브리핑]",
+        "time": "2025-08-21T20:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/21/news-p.v1.20250821.6344a707fa364b44b9a58c1cae78e7ce_P1.jpg",
+        "url": "https://news.nate.com/view/20250821n37886",
+        "original_url": "https://news.nate.com/view/20250821n37886",
+        "source": "nate",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "1천700만원에 기밀 넘긴 중국계 美 해군 수병…유죄 평결",
+        "time": "2025-08-21T20:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/21/PGT20250625002801009_P2.jpg",
+        "url": "https://news.nate.com/view/20250821n37673",
+        "original_url": "https://news.nate.com/view/20250821n37673",
         "source": "nate",
         "date": "2025년 08월 21일 목요일"
       }
@@ -10322,6 +10531,266 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[뉴스프라임] 이재명 대통령 '3단계 북핵 해법' 첫 언급…북 반응 보일까",
+        "time": "2025-08-21T19:52:09",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000773098",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000773098",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "“이 회사들 제품은 경이롭네요”…빌 게이츠, 이재명 대통령에 극찬한 K기업 명단",
+        "time": "2025-08-21T19:38:16",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/21/0005545549_001_20250821193816115.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005545549",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005545549",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "빌 게이츠 “韓, 수혜국서 공여국 된 모범국가…ODA 증액하길”",
+        "time": "2025-08-21T19:22:27",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/21/0003463532_001_20250821192309932.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003463532",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003463532",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[단독] '윤 체포영장 집행 방해' 김성훈, 경호처 징계 불복 '소청 제기'",
+        "time": "2025-08-21T18:52:12",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/437/0000453693",
+        "original_url": "https://n.news.naver.com/mnews/article/437/0000453693",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[날씨] 대구·경북 저녁까지 소나기…내일 대구 낮 최고 36도",
+        "time": "2025-08-21T19:37:35",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012013671",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012013671",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "러, 우크라 전역에 드론·미사일 대규모 공습…“민간 업체도 타격”",
+        "time": "2025-08-21T19:25:09",
+        "img": "https://imgnews.pstatic.net/image/016/2025/08/21/0002517688_001_20250821192509314.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002517688",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002517688",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "미국 소유 기업까지 미사일 공격...드론 수백 대 쏟아부은 러시아 [지금이뉴스]",
+        "time": "2025-08-21T19:24:16",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002236108",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002236108",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[Q&AI] 美서 ‘AI 정신병’ 화제… 뭐 길래?",
+        "time": "2025-08-21T19:35:10",
+        "img": "https://imgnews.pstatic.net/image/092/2025/08/21/0002387187_001_20250821193510147.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002387187",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002387187",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "1천700만원에 기밀 넘긴 중국계 美 해군 수병…유죄 평결",
+        "time": "2025-08-21T20:06:59",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/21/PGT20250625002801009_P4_20250821200714056.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015579531",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015579531",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "젤렌스키 \"사거리 3000㎞ 국산 순항미사일 시험발사 성공\" 공식발표",
+        "time": "2025-08-21T20:01:22",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/21/NISI20250821_0000571558_web_20250821174730_20250821200215167.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013435547",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013435547",
+        "summary": "12월 미사일 추가 보유…내년 2월부터 대량생산 시작",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "\"이 대통령 인터뷰 깊은 감명\"…일본, '사과' 언급엔 경계",
+        "time": "2025-08-21T20:07:38",
+        "img": "https://imgnews.pstatic.net/image/055/2025/08/21/0001285928_002_20250821200810646.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001285928",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001285928",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "뱅크오브아메리카 IB 수장에 한국계 마이크 주",
+        "time": "2025-08-21T20:07:11",
+        "img": "https://imgnews.pstatic.net/image/015/2025/08/21/0005173905_001_20250821200711536.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005173905",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005173905",
+        "summary": "대형 투자은행 첫 한국계 CEO\n외환위기때 외평채 발행 주도",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "일본 상륙한 태풍…300㎜ 물폭탄 예보에 '긴장'",
+        "time": "2025-08-21T20:04:46",
+        "img": "https://imgnews.pstatic.net/image/215/2025/08/21/A202508210889_1_20250821200508478.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/215/0001220912",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001220912",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "美에 자존심 긁힌 中… 엔비디아 AI 칩 구매 제동",
+        "time": "2025-08-21T20:02:09",
+        "img": "https://imgnews.pstatic.net/image/022/2025/08/21/20250821515348_20250821200209934.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004061937",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004061937",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "우크라 안보 보장 한 발 빼는 美 “그들의 대륙… 최소한의 역할만”",
+        "time": "2025-08-21T19:52:09",
+        "img": "https://imgnews.pstatic.net/image/022/2025/08/21/20250821515280_20250821195209008.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004061936",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004061936",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "백악관, 유럽 정상 굴욕사진 올리고 “힘을 통한 평화”",
+        "time": "2025-08-21T19:51:59",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/449/0000318564",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000318564",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이스라엘, '가자시티 장악' 시작…서안지구 정착촌도 승인",
+        "time": "2025-08-21T19:45:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/057/0001903676",
+        "original_url": "https://n.news.naver.com/mnews/article/057/0001903676",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "중국, 전통 ‘아침 차 거리’ 관광객 북적",
+        "time": "2025-08-21T19:30:35",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012013651",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012013651",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "일본, ‘저비용’ 민간 우주 실험 사업 등장",
+        "time": "2025-08-21T19:30:00",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012013650",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012013650",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "나라 대신 주차 자리 지키는 군인…폭염에 누가 시켰나",
+        "time": "2025-08-21T20:07:08",
+        "img": "https://imgnews.pstatic.net/image/009/2025/08/21/0005545566_001_20250821200708247.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005545566",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005545566",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "조현, 한일정상회담 건너뛰고 급거 방미…한미정상회담 돌발상황 생겼나(종합)",
+        "time": "2025-08-21T20:04:45",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/21/NISI20250801_0000532092_web_20250801032509_20250821201333365.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013435555",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013435555",
+        "summary": "조 장관, 한일정상회담 수행 않고 이 대통령보다 먼저 방미…대단히 이례적\n외교부 \"한미정상회담 철저 준비 위한 것\"…한미간 이견 발생 가능성 등 관측 나와",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이 대통령 ‘비핵화 3단계’ 트럼프와 논의할 듯…북한 호응 미지수",
+        "time": "2025-08-21T19:16:23",
+        "img": "https://imgnews.pstatic.net/image/028/2025/08/21/0002762388_001_20250821202415707.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002762388",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002762388",
+        "summary": "‘동결-감축-비핵화’ 한미 정상회담서도 논의할 듯",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "김윤덕 국토장관 \"이재명 대통령, 청도 열차사고 철저히 진상 파악 지시\"",
+        "time": "2025-08-21T20:15:39",
+        "img": "https://imgnews.pstatic.net/image/277/2025/08/21/0005640451_001_20250821201617029.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005640451",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005640451",
+        "summary": "여야 한목소리 \"기본 안전조치 무시됐다\"\n한문희 코레일 사장 사의 표명 \"책임 통감\"",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "이스라엘, 서안 두동강 낼 정착촌 승인…팔 국가 논의 '노골적 지우기'['중동 화약고' 이스라엘-팔레스타인 분쟁]",
+        "time": "2025-08-21T20:08:11",
+        "img": "https://imgnews.pstatic.net/image/002/2025/08/21/0002402494_002_20250821200811474.JPG?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/002/0002402494",
+        "original_url": "https://n.news.naver.com/mnews/article/002/0002402494",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "'경영난' 日닛산 본사 건물, 美사모펀드 KKR이 매수 신청",
+        "time": "2025-08-21T20:26:23",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/21/AKR20250821163400073_01_i_P4_20250821202719285.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015579537",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015579537",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "중국계 미 해군 수병 천700만원에 기밀 넘겨 유죄",
+        "time": "2025-08-21T20:23:57",
+        "img": "https://imgnews.pstatic.net/image/056/2025/08/21/0012013715_001_20250821203312342.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012013715",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012013715",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 21일 목요일"
       }
     ]
   },
@@ -14297,6 +14766,56 @@
         "summary": "교전 끝에 동부 요충지 탈환…\"군정, 선거 지역 넓히려고 공세\"\n(하노이=연합뉴스) 박진형 특파원 = 미얀마 군사정권이 오는 12월 실시하는 총선 세부 계획을 마련하고 반군에 빼앗긴 주요 지역을 탈환하는 등 선거 준비에 속도를 내고 있다.\n21일(현지시간) 관영 매체 '글로벌뉴라이트오브미얀마'에 따르면 미얀마 선거관리위원회는 12월 28일로 예정된 총선 1차 투표를 전국 330개 타운십(지방 행정구역) 가운데 102개에서 실시하겠다고 밝혔다. 전국의 약 3분의 1이 투표 대상 지역이 되는 셈이다.\n인구 약 700만명으로 미얀마 최대 도시인 양곤의 34개 타운십 중 12개, 제2 도시인 만달레이의 28개 타운십 중 8개, 현 수도 네피도의 8개 타운십 모두가 1차 투표 지역에 포함됐다.\n또 북부 카친주, 북동부 샨주, 서부 라카인주 등 소수민족·민주 진영 반군 세력이 강한 지방에서도 일부 타운십이 투표 지역에 들어갔다.\n대표적 소수민족 반군 단체 중 하나인 아라칸군(AA)이 장악한 라카인주의 경우 17개 타운십 중 3개만 1차 투표 지역이 됐다.\n또 민주 진영 반군의 거점인 북부 사가잉주는 전체 지역의 약 3분의 1에서 투표가 실시된다.\n군정은 총선을 내년 1월까지 진행할 방침이지만, 구체적인 후속 투표 일정과 지역은 아직 발표하지 않았다.\n선관위는 또 각 정당의 총선 참여 요건을 공개했다.\n이에 따르면 전국적으로 선거 운동을 하려는 정당은 최소 5만 명, 단일 지역에서만 출마하는 정당은 최소 1천 명의 당원을 갖춰야 한다.\n군정이 이처럼 총선 참여 문턱을 높이는 등 반대 세력의 출마를 차단하고 있는 데다 민주 진영·소수민족 반군들도 자신들이 다스리는 지역에서 투표를 막겠다는 입장이다.\n따라서 이번 총선은 군정 집권을 정당화하는 요식행위가 될 가능성이 큰 가운데 선거가 정상적으로 치러질지 미지수다.\n한편 군정은 요충지인 동부 카야주 데모소 지역을 반군인 카레니민족방위군(",
         "source": "yna",
         "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "특검, '박정훈 긴급구제 기각' 김용원 인권위 상임위원 출국금지",
+        "time": "2025-08-21T19:53:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/03/07/PYH2025030703270001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250821161600004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250821161600004",
+        "summary": "채상병 수사자료 회수 비판하다 이종섭과 통화 후 입장 바꿔\n긴급구제 기각 경위·외압 여부 수사…조만간 소환조사할 듯\n(서울=연합뉴스) 임성호 기자 = 채상병 사건 외압·은폐 등 의혹을 들여다보는 이명현 순직해병 특별검사팀이 박정훈 해병대 수사단장(대령)에 대한 긴급구제 신청을 기각한 김용원 국가인권위원회(인권위) 상임위원 겸 군인권보호관(차관급)을 출국금지하며 본격적인 수사에 나섰다.\n21일 법조계에 따르면 특검팀은 최근 김 위원에 대한 출국금지를 법무부에 신청해 승인받았다. 특검팀은 조만간 김 위원과 당시 인권위 군인권소위 위원 등을 불러 박 대령의 긴급구제 신청 기각 경위 등을 조사할 방침이다.\n김 위원이 위원장을 맡은 군인권소위는 군인권센터가 2023년 8월 14일 낸 박 전 단장에 대한 긴급구제 조치 신청을 그달 29일 기각했다. 군인권센터가 같은 날 박 대령의 인권침해에 대해 제기한 진정도 지난해 1월 기각 처분했다.\n김 위원은 2023년 8월 9일 국방부 검찰단의 채상병 사건 수사자료 회수 조치를 비판하는 성명을 냈다. 하지만 군인권센터의 진정·긴급구제 조치 신청이 이뤄진 날 이종섭 당시 국방부 장관과 통화한 뒤 입장을 바꾼 것으로 특검팀은 의심하고 있다.\n앞서 군인권센터는 지난해 5월 박 대령 진정 사건 기각, 긴급구제 심의 방해, 이 전 장관과의 연락 등과 관련한 직권남용 등 혐의로 김 위원을 고위공직자범죄수사처(공수처)에 수사 의뢰한 바 있다.\n사법연수원 10기로 검사 출신인 김 위원은 윤석열 정부 때인 2023년 2월 인권위 상임위원으로 지명됐으며, 임기는 내년 2월까지다.\n정민영 특검보는 이날 정례브리핑에서 인권위가 군 요청을 받고 박 대령의 긴급구제 진정을 기각한 의혹에 대한 수사가 현재 초기 단계라며 본격적으로 진행할 예정이라고 밝힌 바 있다.\nsh@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[날씨] 남부 곳곳 소나기…체감 35도 안팎 무더위",
+        "time": "2025-08-21T20:00:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/08/21/PYH2025082120390001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250821145500004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250821145500004",
+        "summary": "(서울=연합뉴스) 이율립 기자 = 금요일인 22일 전국 대부분 지역에서 최고 체감온도 35도 안팎의 무더위가 이어지겠다.\n남부지방을 중심으로는 소나기가 예보됐다.\n전라 내륙과 대구, 경북 남부, 울산, 경남 내륙에는 5∼40㎜, 제주도에는 5∼20㎜의 소나기가 오후부터 저녁 사이에 내리겠다.\n비나 소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니 안전사고에 유의해야 한다.\n아침 최저기온은 23∼27도, 낮 최고기온은 30∼37도로 예보됐다.\n도심과 해안 지역에선 열대야가 나타나는 곳이 있겠다.\n미세먼지 농도는 원활한 대기 확산으로 전국이 '좋음'∼'보통' 수준을 보이겠다.\n바다 물결은 동해·서해·남해 앞바다에서 0.5∼1.0m로 일겠다.\n안쪽 먼바다(해안선에서 약 200㎞ 내 먼바다) 파고는 동해·서해·남해 0.5∼1.5m로 예측된다.\n다음은 22일 지역별 날씨 전망. [오전, 오후](최저∼최고기온) <오전, 오후 강수 확률>\n▲ 서울 : [맑음, 맑음] (25∼33) <10, 10>\n▲ 인천 : [맑음, 맑음] (26∼30) <10, 10>\n▲ 수원 : [맑음, 맑음] (25∼31) <10, 10>\n▲ 춘천 : [구름많음, 구름많음] (24∼33) <20, 20>\n▲ 강릉 : [맑음, 맑음] (27∼35) <0, 0>\n▲ 청주 : [구름많음, 구름많음] (26∼34) <20, 10>\n▲ 대전 : [구름많음, 맑음] (26∼35) <20, 10>\n▲ 세종 : [구름많음, 맑음] (25∼35) <20, 10>\n▲ 전주 : [구름많음, 구름많음] (26∼35) <20, 20>\n▲ 광주 : [구름많음, 구름많음] (25∼33) <20, 20>\n▲ 대구 : [맑음, 구름많고 한때 소나기] (25∼36) <0, 60>\n▲ 부산 : [맑음, 맑음] (26∼33) <0, 10>\n▲ 울산",
+        "source": "yna",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "1천700만원에 기밀 넘긴 중국계 美 해군 수병…유죄 평결",
+        "time": "2025-08-21T20:06:00",
+        "img": "https://img1.yna.co.kr/photo/etc/gt/2025/06/25/PGT20250625002801009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250821157900009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250821157900009",
+        "summary": "SNS로 접근한 중국 요원에 美 군함 정보 넘겨…뒤늦게 \"망했다\" 후회\n(서울=연합뉴스) 김연숙 기자 = 미국의 현역 해군 수병이 중국에 군사 기밀을 팔아넘긴 혐의로 20일(현지시간) 유죄 평결을 받았다.\n미 연방법무부에 따르면 미 해군 수병 진차오 웨이(25)는 국방 물자 관련 기술 데이터 불법 수출 및 수출 공모 등 6건의 혐의로 이날 연방 배심원단으로부터 유죄 평결을 받았다. 배심원단은 그의 귀화 사기 혐의에 대해서는 무죄로 판단했다.\n그는 접근이 제한된 해군 컴퓨터 시스템에 저장된 '수천 페이지 분량의 기술 및 운영 정보'를 유출한 혐의를 받았다. 그 대가로 18개월간 1만2천달러(1천680만원) 이상을 받았다고 미 법무부는 밝혔다.\n패트릭 웨이라는 이름으로도 알려진 그는 2023년 8월 2일 샌디에이고 해군 기지로 출근하는 길에 체포됐다. USS 에식스 강습상륙함 기관병으로 복무했던 그는 함선 장비의 작동, 유지 보수, 수리를 담당했다.\n그는 2022년 2월 사회관계망서비스(SNS)를 통해 중국 정보요원에게 포섭된 것으로 조사됐다. 중국계로 알려진 웨이는 당시 미국 시민권 획득 절차를 밟던 중이었다.\n이 요원은 처음에는 자신을 국영 중국조선중공업(CSC)에 근무하는 해군 애호가라 소개했으며, 웨이는 초기부터 그의 정체와 동기를 의심했던 것으로 나타났다.\n웨이는 그러나 2022년 3월부터 체포될 때까지 USS 에식스 호의 사진과 영상, 샌디에이고 해군 기지에 있는 여러 함선의 위치 정보를 그에게 전송했다.\n캘리포니아 남부지검은 재판에서 웨이와 그의 담당 중국 요원 간에 주고받은 통화, 메시지 등을 증거로 제시했다.\n웨이는 담당 요원을 '빅 브라더 앤디'라 불렀고, 그가 제공한 새 컴퓨터와 휴대전화를 사용하고, 암호화된 앱들을 이용해 연락을 주고받았다. 돈을 받기 위해 온라인 계정을 새로 만들고, 72시간 후면 메시지가 사라지는 디지털 '데드 드롭'을 사용했다.\n검찰",
+        "source": "yna",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[BlaccTV] \"검은 연기 가득\"…주행 중 차량 화재에 운전자 극적 탈출",
+        "time": "2025-08-21T20:14:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/08/21/AKR20250821163100797_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250821163100797",
+        "original_url": "https://www.yna.co.kr/view/AKR20250821163100797",
+        "summary": "(서울=연합뉴스) 인천대교를 달리던 지프 랭글러 차량이 화재로 전소되는 사고가 발생했습니다.\n지난 5월 21일 밤, 인천대교 공항 방면 2차선을 시속 90km로 달리던 차량에서 연기가 발생하자, 때마침 이를 발견한 가로등 점검 차량이 상향등과 클랙슨으로 운전자에게 알렸습니다.\n차량 내부는 순식간에 검은 연기로 가득 찼고, 운전자는 갓길에 차량을 세운 뒤 시동도 끄지 못한 채 급히 대피했습니다.\n불길은 빠르게 번져 차량 전체를 집어삼켰으며, 결국 폐차 처리됐습니다.\n주행 중 충격이나 특이 상황은 없었지만, 화재 감식 결과 원인은 확인되지 않았습니다.\n블랙티비(BlaccTV) 제작진은 화재 발생 순간부터 진화까지의 영상을 확보해 전문가들과 원인을 분석했습니다. 자세한 내용은 영상으로 확인하시죠.\n<구성·연출 : 이승환 / 조연출 : 장현수 / 촬영 : 오세민 장현수 / 효과 : 이금주 / 제작협조 : 한문철TV>\nlshpd@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "'경영난' 日닛산 본사 건물, 美사모펀드 KKR이 매수 신청",
+        "time": "2025-08-21T20:26:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/21/AKR20250821163400073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250821163400073",
+        "original_url": "https://www.yna.co.kr/view/AKR20250821163400073",
+        "summary": "(도쿄=연합뉴스) 경수현 특파원 = 경영난을 겪는 일본 닛산자동차 본사 건물의 유력 매수 후보는 미국 대형 사모펀드 KKR라고 21일 요미우리신문 등이 보도했다.\n소식통에 따르면 닛산이 최근 실시한 본사 건물 매각 입찰에서 KKR 산하 자산운용사 KJR매니지먼트가 가장 높은 응찰가를 써냈다고 한다.\n양측은 앞으로 세부 매각 조건을 놓고 협의를 벌일 예정이며 거래액은 약 900억엔(약 8천51억원)으로 전망된다고 요미우리신문은 전했다.\n닛산 측 관계자는 매각 완료 이후에도 임대 계약을 맺어 계속 본사로 이용하는 방향이라고 말했다.\n닛산은 과거 도쿄 긴자에 본사가 있었으나 2009년 가나가와현 요코하마시 미나토미라이 지구에 있는 현재 건물로 이전했다.\n닛산은 2024사업연도(2024년 4월∼2025년 3월)에 6천708억엔(약 6조3천억원) 적자를 낸 뒤 전세계 공장을 17곳에서 10곳으로 줄이고 전체 직원의 15%인 2만명을 감원하는 등의 구조조정을 추진 중이다.\nevan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 21일 목요일"
       }
     ]
   },
@@ -14478,6 +14997,24 @@
         "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3356049_3480117_4032_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3356049",
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3356049",
+        "source": "Gukje",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[속보] \"새벽시간 전투기 소리 놀라지 마세요\"...비행훈련 예고",
+        "time": "2025-08-21T20:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3356126_3480199_1059_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3356126",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3356126",
+        "source": "Gukje",
+        "date": "2025년 08월 21일 목요일"
+      },
+      {
+        "title": "[속보] 러시아, 우크라이나에 유럽군 배치 \"용납할 수 없어\"",
+        "time": "2025-08-21T19:55:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3356113_3480188_5529_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3356113",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3356113",
         "source": "Gukje",
         "date": "2025년 08월 21일 목요일"
       }
@@ -17516,6 +18053,159 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/segye/20250821194214172xdjj.jpg",
         "url": "https://v.daum.net/v/20250821194214741",
         "original_url": "https://v.daum.net/v/20250821194214741",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "김윤덕 국토장관 \"이재명 대통령, 청도 열차사고 철저히 진상 파악 지시\"",
+        "time": "2025-08-21T11:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/akn/20250821201657776mnbq.jpg",
+        "url": "https://v.daum.net/v/20250821201656654",
+        "original_url": "https://v.daum.net/v/20250821201656654",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "'더 센 비만약' 오늘부터 환자에 처방…\"체중 더 빠진다\" 병원마다 북적",
+        "time": "2025-08-21T11:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/mbn/20250821200408969eiqo.jpg",
+        "url": "https://v.daum.net/v/20250821200408246",
+        "original_url": "https://v.daum.net/v/20250821200408246",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "李 ‘동결·축소·비핵화’ 북핵 로드맵 제시…'북핵 용인'으로 끝날 우려도",
+        "time": "2025-08-21T11:25:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/joongang/20250821200715783vacl.jpg",
+        "url": "https://v.daum.net/v/20250821200715354",
+        "original_url": "https://v.daum.net/v/20250821200715354",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "\"정권마다 합의 뒤집을 순 없어\"‥한미협상 앞두고 일본과 손 맞잡는 이유",
+        "time": "2025-08-21T11:25:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/imbc/20250821201921765jkqa.jpg",
+        "url": "https://v.daum.net/v/20250821201921702",
+        "original_url": "https://v.daum.net/v/20250821201921702",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "“두 국가는 망상”…가자시티 점령 군사작전 나선 네타냐후[디브리핑]",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/ned/20250821202028186vrhd.jpg",
+        "url": "https://v.daum.net/v/20250821202027723",
+        "original_url": "https://v.daum.net/v/20250821202027723",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "이스라엘, 서안 두동강 낼 정착촌 승인…팔 국가 논의 '노골적 지우기'",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/pressian/20250821200918004hyjl.jpg",
+        "url": "https://v.daum.net/v/20250821200915418",
+        "original_url": "https://v.daum.net/v/20250821200915418",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "“남편이 피 흘리며 죽어 있어요” 곰 습격인가 했는데… 진짜 살인범 日경찰에 체포",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/seoul/20250821200238278qvrm.png",
+        "url": "https://v.daum.net/v/20250821200236198",
+        "original_url": "https://v.daum.net/v/20250821200236198",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "\"이 대통령 인터뷰 깊은 감명\"…일본, '사과' 언급엔 경계",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/sbsi/20250821200909483gaji.jpg",
+        "url": "https://v.daum.net/v/20250821200905409",
+        "original_url": "https://v.daum.net/v/20250821200905409",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "1천700만원에 기밀 넘긴 중국계 美 해군 수병…유죄 평결",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/yonhap/20250821200826239ykzw.jpg",
+        "url": "https://v.daum.net/v/20250821200826391",
+        "original_url": "https://v.daum.net/v/20250821200826391",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "美에 자존심 긁힌 中… 엔비디아 AI 칩 구매 제동",
+        "time": "2025-08-21T11:24:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/segye/20250821200312750sroj.jpg",
+        "url": "https://v.daum.net/v/20250821200312217",
+        "original_url": "https://v.daum.net/v/20250821200312217",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "가장 위험한 사용후핵연료 167t 영구 보관 시설 여전히 ‘막막’ [해체되는 원전, 묻혀버린 검증]",
+        "time": "2025-08-21T11:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/551750-8jup1yA/20250821202809844ioqm.jpg",
+        "url": "https://v.daum.net/v/20250821202807868",
+        "original_url": "https://v.daum.net/v/20250821202807868",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "'한반도 비핵화' 3단계론 띄운 이재명 대통령... 북·미 의지에 달렸다",
+        "time": "2025-08-21T11:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/hankooki/20250821203214806mnsn.jpg",
+        "url": "https://v.daum.net/v/20250821203212944",
+        "original_url": "https://v.daum.net/v/20250821203212944",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "[현장속으로] “나는 거창군에서 일합니다” 필리핀 공무원의 하루",
+        "time": "2025-08-21T11:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/kbs/20250821204519284ckuw.jpg",
+        "url": "https://v.daum.net/v/20250821204517191",
+        "original_url": "https://v.daum.net/v/20250821204517191",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "'러 해저가스관 폭파' 우크라인 용의자 체포",
+        "time": "2025-08-21T11:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/yonhap/20250821204114042ownv.jpg",
+        "url": "https://v.daum.net/v/20250821204113110",
+        "original_url": "https://v.daum.net/v/20250821204113110",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "중국계 미 해군 수병 천700만원에 기밀 넘겨 유죄",
+        "time": "2025-08-21T11:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/kbs/20250821203432471fipe.jpg",
+        "url": "https://v.daum.net/v/20250821202526827",
+        "original_url": "https://v.daum.net/v/20250821202526827",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "태풍 ‘링링’ 일본 규슈 상륙…22일까지 많은 비 예상",
+        "time": "2025-08-21T11:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/Edaily/20250821202740297vnhr.jpg",
+        "url": "https://v.daum.net/v/20250821202738863",
+        "original_url": "https://v.daum.net/v/20250821202738863",
+        "source": "daum",
+        "date": "2025년 08월 21일 Thursday"
+      },
+      {
+        "title": "美, EU산 의약품·반도체 관세 15％ 안넘게 보장…EU와 공동성명",
+        "time": "2025-08-21T11:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/21/yonhap/20250821203925089vbev.jpg",
+        "url": "https://v.daum.net/v/20250821203924091",
+        "original_url": "https://v.daum.net/v/20250821203924091",
         "source": "daum",
         "date": "2025년 08월 21일 Thursday"
       }
