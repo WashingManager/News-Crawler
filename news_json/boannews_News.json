@@ -1359,5 +1359,122 @@
         "summary": "AI 기반 유사도 분석 엔진 활용해 URL 자동 분석 및 차단한국·미국·일본 주요 3국 특허 등록 완료해 국내외서 기술력 인정받아[보안뉴스 조재호 기자] 인공지능(AI) 보안 전문기업 누리랩이 ‘AI 알고리즘을 이용한 피싱 사이트 연관 URL 검출 방법 및 장치’ 기술로 일본 특허를 등록했다고 19일 밝혔다.[자료: 누리랩]이번 특허 등록 기술은 누리랩이 ..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 22일 금요일",
+    "articles": [
+      {
+        "title": "[대한민국 털렸다] 김수키 아닌 중국 해커 유력...국내 통신사, 언론사 침투 정황",
+        "time": "2025-08-22T16:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994396476_7123.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138871&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138871&page=1&kind=1",
+        "summary": "고려대 정보보호대학원,  ‘Kimsuky 추정 해커그룹 해킹 분석 보고회’ 개최북한보다 중국 소행 가능성 무게“기술 분석 기반한 토론과 국가 차원 대응 논의 기대”[보안뉴스 조재호 기자] “우리나라 보안 수준 향상을 위해 인식 제고와 함께 협업 체계 점검이 필요한 시점입니다.”김휘강 고려대학교 정보보호대학원 교수는 22일 서울 고려대학교 안암캠퍼스 정운오 ..."
+      },
+      {
+        "title": "닛산, 랜섬웨어 공격으로 4TB 차량 기밀자료 유출 위기",
+        "time": "2025-08-22T14:14:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994348636_8829.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138866&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138866&page=1&kind=1",
+        "summary": "킬린 랜섬웨어, 40만여개 파일 탈취 주장...협상 거부하면 전면 공개 압박킬린 랜섬웨어, 올해만 401건 공격...SK아메리카·국내 기업도 표적[보안뉴스 여이레 기자] 닛산의 차량 디자인을 담당하는 자회사 닛산 크리에이티브 박스가 최근 랜섬웨어 그룹 ‘킬린’(Qilin)의 공격을 받아 4TB에 달하는 차량 기밀 디자인 문서 및 내부 정보가 유출될 위기에 ..."
+      },
+      {
+        "title": "유튜브 아동 개인정보 불법수집...구글, 3000만달러 합의금 지급",
+        "time": "2025-08-22T11:56:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994275890_3619.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138859&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138859&page=1&kind=1",
+        "summary": "COPPA 위반 혐의에 법정 다툼 대신 합의 선택2019년 FTC 합의 후에도 아동 데이터 수집 논란 지속[보안뉴스 여이레 기자] 구글이 13세 미만 어린이들의 유튜브 개인정보를 불법 수집해 광고 최적화에 활용했다는 이유로 제기된 집단소송과 관련, 3000만달러(약 420억4500만원) 규모의 합의금을 지급하기로 했다.[자료: 연합뉴스]21일(현지시간) 테..."
+      },
+      {
+        "title": "[카드뉴스] APT 공격, 미국 연방정부도 뚫렸다… 고도화·지속형 해킹 위협과 대응 가이드",
+        "time": "2025-08-22T11:43:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=138865&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138865&page=1&kind=1",
+        "summary": "APT(Advanced Persistent Threat)는 장기간 숨어서 침투하는 고도화된 사이버 공격을 의미한다. 러시아 해킹 그룹 APT29는 미국 연방정부·NATO·영국 정부 등을 수개월간 공격해 대규모 정보 유출을 일으켰다. 방어를 위해서는 네트워크 이상 장기 모니터링, 다계층 보안 적용, 최소 권한 관리가 필수적이다.[지진솔 기자(digital@b..."
+      },
+      {
+        "title": "AI로 보안을 설계한다...KISIA 정보보호 개발자 해커톤 열려",
+        "time": "2025-08-22T11:26:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=138863&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138863&page=1&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 미래 정보보호 인력들이 무박 2일 간 AI 보안 솔루션을 직접 기획하고 개발하는 보안 코딩 축제가 열렸다.한국정보보호산업협회(KISIA)는 과학기술정보통신부와 함께 ‘2025 제3회 KISIA 정보보호 개발자 해커톤’을 20-21일 서울 스페이스쉐어 중부센터에서 개최했다고 22일 밝혔다.‘AI를 활용한 보안 서비스 개발’을 주제로 ..."
+      },
+      {
+        "title": "KAIST-국정원, 대학 연구보안교육 협의회 워크숍 개최",
+        "time": "2025-08-22T10:41:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/994245963_2358.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138861&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138861&page=1&kind=2",
+        "summary": "기술 유출이 국가 경제, 안보, 과학기술 국제 교류에 영향 미칠 수 있어연구 현장 위한 실질적 보안 강화 방안 논의[보안뉴스 한세희 기자] 과학기술 성과를 지켜 국가 경제와 안보에 기여하고 국제 교류의 신뢰를 높이기 위한 연구보안의 중요성이 커지고 있다.KAIST는 국가정보원과 공동 주관으로 대전 본원에서 ‘제4회 대학 연구보안교육 협의회 워크숍’을 개최했..."
+      },
+      {
+        "title": "[ISEC 2025 미리보기] 넷앱, 지능형 데이터 인프라로 한국 기업의 AI 및 데이터 혁신 가속화",
+        "time": "2025-08-21T13:38:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/352730637_7439.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138765&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138765&page=2&kind=1",
+        "summary": "포트폴리오 전반의 혁신을 통해 한국의 AI 및 디지털 강국 도약 지원[보안뉴스 원병철 기자] 한국은 아시아 태평양(APAC) 지역에서 디지털 혁신을 선도하고 있으며, 견고한 IT 인프라와 고도로 숙련된 인재들이 국가 경쟁력의 핵심 기반을 이루고 있다. 과학기술정보통신부와 베인앤드컴퍼니가 공동 발표한 보고서에 따르면, 인공지능(AI)의 효과적인 도입은 202..."
+      },
+      {
+        "title": "“랜섬웨어  ‘몸값 지불’ 감소 추세...신고한 기업은 100만달러 절약”",
+        "time": "2025-08-21T11:57:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/780573889_3464.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138832&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138832&page=2&kind=3",
+        "summary": "[3줄 요약]1. IBM ‘2025 데이터 유출 비용 보고서’ 국내 미디어에 공유2. 랜섬웨어, 협상 안하는 기업 63%…“알려진 사례는 빙산의 일각”3. “통합적 대응 전략” 강조하며 IBM 솔루션들 제안[보안뉴스 강현주 기자] 전세계 기업들 가운데 랜섬웨어 공격을 받은 후 공격자에게 이른바 ‘몸값’을 지불하지 않는 기업들이 늘어나고 있다. 공격을 받은 ..."
+      },
+      {
+        "title": "배경훈 장관, “양자+AI 융합 중요...양자 토대로 보안 패러다임 혁신해야”",
+        "time": "2025-08-21T11:21:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/780542874_7494.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138830&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138830&page=2&kind=2",
+        "summary": "대전 표준연에서 퀀텀 프론티어 전략대화 개최...양자종합계획 수립 본격화배경훈 장관, “AI 강국 도약 위해 퀀텀 기술 중요…AI와 양자 기술 융합해야”[보안뉴스 한세희 기자] 우리나라 양자 과학기술과 산업 육성의 기본 로드맵이 될 양자종합계획 수립 작업이 본격적으로 시작된다.과학기술정보통신부는 21일 대전 한국표준과학연구원에서 ‘퀀텀 프론티어 전략대화’를..."
+      },
+      {
+        "title": "SGI서울보증 랜섬웨어 푼 금보원 침해위협분석팀 ‘역대급’ 포상",
+        "time": "2025-08-20T16:49:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566978025_1411.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138817&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138817&page=2&kind=2",
+        "summary": "SGI서울보증 랜섬웨어 사태서 대활약한 금용보안원 침해위협분석팀 내부 특별포상 수여“기술적 난관서 적극 소통한 팀원과 조직 구성원에 감사...금융권 디지털 보안 역량 강화 노력할 것”[보안뉴스 조재호 기자] “랜섬웨어를 분석해 암호화 로직 결함을 확인하고, 팀 모두가 밤을 지새워 복호화 도구를 만들어 디스크 복호화 도구의 소요 시간을 단축하기 위한 최적화에..."
+      },
+      {
+        "title": "개인정보위, 딥페이크 등 AI 시대 프라이버시 강화 방안 논의",
+        "time": "2025-08-20T16:31:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566906286_9541.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138818&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138818&page=3&kind=2",
+        "summary": "제4차 ‘2025 개인정보 미래포럼’ 개최[보안뉴스 강현주 기자] 개인정보보호위원회(위원장 고학수)는 딥페이크와 딥보이스, 개인정보 국외 이전 등 인공지능(AI) 시대에서 마주하게 되는 개인정보 보호 방안을 논의했다.개인정보위는 20일 서울 명동 소재 포스트타워에서 제4차 ‘2025 개인정보 미래포럼’을 개최했다.이 포럼은 개인정보 분야 의제를 선제적으로 ..."
+      },
+      {
+        "title": "쿠도커뮤니케이션, AI 자연재난 대응 간담회서 CCTV 활용 사례 발표",
+        "time": "2025-08-20T15:42:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566960214_8516.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138815&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138815&page=3&kind=3",
+        "summary": "국내 최초 ICT 규제샌드박스 실증 특례 적용AI CCTV 기반 재난 대응 실증 사업 주도원본데이터 활용 필요성 강조[보안뉴스 엄호식 기자] AI 보안 솔루션 전문 기업 쿠도커뮤니케이션(대표 김용식)은 8월 19일 서울 강남구 도시관제센터에서 열린 ‘AI 기반 자연재난 대응 활성화 간담회’에서 자사의 AI CCTV 기반 재난 대응 실증 사례를 발표했다고 밝..."
+      },
+      {
+        "title": "[ISEC 2025 미리보기] “생성형 AI 데이터 유출은 끝났다”... 컴트루테크놀로지, 보안 시장 판도 바꾼다",
+        "time": "2025-08-20T11:28:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/571568216_884.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138733&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138733&page=3&kind=3",
+        "summary": "생성형 AI 활용과 개인정보 보호를 동시에 잡는 ‘Sphinx AI’, ISEC 2025에서 제시AI 기반 개인정보보호 및 비대면 실명확인 기술도 선봬[보안뉴스 한세희 기자] 보고서 작성, 아이디어 제안, 블로그 초안, 코드 리뷰까지. 이제 생성형 AI 없이 업무를 한다는 건 상상하기 어렵다. 생성형 AI가 제공하는 효율성과 생산성을 무시할 수 없기 때문이..."
+      },
+      {
+        "title": "김수키, 이번엔 주한 외국 대사관 공격...정부부처 이은 잇따른 국가 배후 해킹",
+        "time": "2025-08-20T10:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/566805191_8895.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138802&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138802&page=3&kind=1",
+        "summary": "지난 3월부터 최근까지 최소 19건 스피어피싱 공격앞서 김수키 추정 공격자, 대한민국 정부 부처 및 통신사도 공격[보안뉴스 강현주 기자] ‘김수키’로 추정되는 해킹 집단이 대한민국 주요 정부 부처와 통신사를 공격한 데 이어, 한국 주재 유럽 대사관도 공격한 것으로 나타났다.20일 주요 외신들은 정부와 연계된 해킹 그룹 김수키(APT43)가 대한민국 주재 유..."
+      }
+    ]
   }
 ]
