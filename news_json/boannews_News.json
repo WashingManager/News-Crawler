@@ -1476,5 +1476,42 @@
         "summary": "지난 3월부터 최근까지 최소 19건 스피어피싱 공격앞서 김수키 추정 공격자, 대한민국 정부 부처 및 통신사도 공격[보안뉴스 강현주 기자] ‘김수키’로 추정되는 해킹 집단이 대한민국 주요 정부 부처와 통신사를 공격한 데 이어, 한국 주재 유럽 대사관도 공격한 것으로 나타났다.20일 주요 외신들은 정부와 연계된 해킹 그룹 김수키(APT43)가 대한민국 주재 유..."
       }
     ]
+  },
+  {
+    "date": "2025년 08월 23일 토요일",
+    "articles": [
+      {
+        "title": "BTS 정국부터 재벌총수까지 털었다…380억원 해킹 중국인 한국 송환",
+        "time": "2025-08-23T09:57:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/134250089_2256.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138874&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138874&page=1&kind=1",
+        "summary": "중국인 해커 A씨, 2023년 8월부터 국내 웹사이트 다수 해킹해 개인정보 대량 탈취알뜰폰 보안취약점 노려 금융계좌 털어…구속 기업인 25억원 피해 사례도[보안뉴스 여이레 기자] 법무부가 국내 웹사이트를 해킹해 유명인과 재력가들의 개인정보를 빼돌린 뒤 수백억원을 가로챈 중국인 해킹조직 총책을 태국에서 강제송환했다고 22일 발표했다. 피해자 중에는 BTS 멤..."
+      },
+      {
+        "title": "[ISEC 2025 미리보기] 아리아카, Unified SASE 솔루션으로 한국시장 석권 나서",
+        "time": "2025-08-23T08:51:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/780641895_5591.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138844&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138844&page=1&kind=3",
+        "summary": "유연하고 신속한 네트워크와 보안 서비스 제공[보안뉴스 여이레 기자] 글로벌 SD-WAN·SASE 전문기업 아리아카(Aryaka)가 통합 SASE 솔루션을 앞세워 국내 시장 1위 달성에 자신감을 드러냈다.2009년 아카마이 전 창업자가 주축이 되어 실리콘밸리에서 설립된 아리아카는 SD-WAN과 SASE 분야를 선도하고 있다. 현재 전 세계 800개 고객에게 ..."
+      },
+      {
+        "title": "한국데이터법정책학회 “사이버위협, 기업 차원 넘어 국가 안보 관점 접근해야”",
+        "time": "2025-08-21T15:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/780641895_4015.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=138842&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138842&page=2&kind=3",
+        "summary": "연이은 해킹 사고, 사이버 위협 대응 위한 국가-기업 연계 보안체계 구축 필요성 강조기업 제재 중심 정책 대신 정보보호 노력 인센티브·사전 예방 중심 법제도 전환 제안[보안뉴스 여이레 기자] “많은 국가들이 사이버위협을 단순히 개인 기업의 차원에서 접근하기보다는 국가적 차원에서 안보적 관점으로 보고 있습니다. 때문에 국가와 기업이 연계된 사이버보안 체계가 ..."
+      },
+      {
+        "title": "배경훈 장관, “양자+AI 융합 중요...양자 토대로 보안 패러다임 혁신해야”",
+        "time": "2025-08-21T11:21:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/08/780542874_7494.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=138830&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138830&page=3&kind=2",
+        "summary": "대전 표준연에서 퀀텀 프론티어 전략대화 개최...양자종합계획 수립 본격화배경훈 장관, “AI 강국 도약 위해 퀀텀 기술 중요…AI와 양자 기술 융합해야”[보안뉴스 한세희 기자] 우리나라 양자 과학기술과 산업 육성의 기본 로드맵이 될 양자종합계획 수립 작업이 본격적으로 시작된다.과학기술정보통신부는 21일 대전 한국표준과학연구원에서 ‘퀀텀 프론티어 전략대화’를..."
+      }
+    ]
   }
 ]
