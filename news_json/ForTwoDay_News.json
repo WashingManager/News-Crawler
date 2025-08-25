@@ -1,5 +1,2629 @@
 [
   {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "이재명 대통령, 한국시간 26일 오전 1시 백악관 도착 전망",
+        "time": "2025-08-25T10:50:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508251048389254",
+        "original_url": "https://www.fnnews.com/news/202508251048389254",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보]'尹 계엄 공모' 이상민 전 장관, 내달 19일 첫 공판준비기일",
+        "time": "2025-08-25T10:02:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508251001560182",
+        "original_url": "https://www.fnnews.com/news/202508251001560182",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 언론 MASGA·3500억·주한미군, 한미정상회담 안건으로 주목",
+        "time": "2025-08-25T09:48:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508250945254281",
+        "original_url": "https://www.fnnews.com/news/202508250945254281",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'시민 독서 진흥'...광주광역시립도서관, 9⁓10월 '도서관·인(人)·북' 개최",
+        "time": "2025-08-25T09:44:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508250935240201",
+        "original_url": "https://www.fnnews.com/news/202508250935240201",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美, 프랑스 '반유대주의' 비난...이스라엘 주장 거들어",
+        "time": "2025-08-25T10:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508250922514514",
+        "original_url": "https://www.fnnews.com/news/202508250922514514",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "대통령 중국특사단 \"북핵·미사일 도발 단호 대응\" 입장 전달",
+        "time": "2025-08-25T09:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508250842320448",
+        "original_url": "https://www.fnnews.com/news/202508250842320448",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "우크라 간 캐나다 총리 \"파병 배제 안해\"",
+        "time": "2025-08-25T11:13:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202508250836184269",
+        "original_url": "https://www.fnnews.com/news/202508250836184269",
+        "source": "Fn",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "유엔 ‘가자지구 기근’ 경고... 미국 '침묵', 이스라엘 “하마스 약탈 탓”",
+        "time": "2025-08-25T09:04:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=283111&search=",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=283111&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "北에 무기·군사장비 밀수출 中국적 남성, 美에서 기소돼 8년 형",
+        "time": "2025-08-20T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=282775",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=282775",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "우크라 찾은 캐나다 총리 \"전투 병력 투입, 배제하지 않아\"",
+        "time": "2025-08-25T09:55:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361361",
+        "original_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361361",
+        "source": "fntoday",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "대규모 테러 우려 속 콜롬비아, 폭발물 밀수입 시도 제지",
+        "time": "2025-08-25T10:03:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361367",
+        "original_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361367",
+        "source": "fntoday",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "트럼프, 주지사 비판…\"군 투입 반대할 때 아니다, 범죄부터 잡아라\"",
+        "time": "2025-08-25T09:50:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361356",
+        "original_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361356",
+        "source": "fntoday",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "베네수엘라, 부정선거 주장한 정치범 일부 석방…美 압박 속 마두로 정권 ‘생존 몸부림’",
+        "time": "2025-08-25T09:14:00",
+        "img": "",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361354",
+        "original_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=361354",
+        "source": "fntoday",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "“문재인 주관 조국 환갑잔치…이 대통령께도 감사”",
+        "time": "2025-08-25T10:41:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNVNiakJaVTJrd1VucGFUMTkwVFJEc0F4anZCQ2dLTWdrVkU0d1RFZXVoaGdJ=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE1GenR2VWtRUW9Wa2pZRW5HbFVTRjZ2WWhRMzlXMzNLZHVXLXJkVk9XNzFGM2Q2SWxEc1JkZUJvYnk0MWI2eGJYSGhFU2lhNFlaeWhLNHNNRXlEODFLZk5DWDZlSWVJWkhveFJtWHc1UkxSNzR5?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE1GenR2VWtRUW9Wa2pZRW5HbFVTRjZ2WWhRMzlXMzNLZHVXLXJkVk9XNzFGM2Q2SWxEc1JkZUJvYnk0MWI2eGJYSGhFU2lhNFlaeWhLNHNNRXlEODFLZk5DWDZlSWVJWkhveFJtWHc1UkxSNzR5?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 2차 상법 개정안 국회 본회의 통과…‘집중투표제 의무화’ 담겨",
+        "time": "2025-08-25T10:33:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNTBReTAwTTIweVRsRTVUV3B5VFJDdEF4akxCU2dLTWdrQlFJUkJNaVllS0FJ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE5mRXZuR0ZGVnMtQjJaVlpGNUVHYUZHSW5iODRLQklvQmh0SThGelk2MzJMTEIzendhejl1dlVoUXM0Y3Y4ekNKUmJSYkxSVFh1V1lKN1V6WG1Idm9wdE5DZWMzdHpMUXdUbVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE5mRXZuR0ZGVnMtQjJaVlpGNUVHYUZHSW5iODRLQklvQmh0SThGelk2MzJMTEIzendhejl1dlVoUXM0Y3Y4ekNKUmJSYkxSVFh1V1lKN1V6WG1Idm9wdE5DZWMzdHpMUXdUbVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "가시밭 정상회담 나서는 이 대통령 “트럼프가 저서에 협상 방식 다 써놔”",
+        "time": "2025-08-25T10:08:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNUJjWFUxTXpGNFlqUnBaMFZDVFJDdEF4akxCU2dLTWdrSk1JemtudWt0cFFJ=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMia0FVX3lxTE54dEhqdzFrV2JLVU1PNGNkSlY0VGQ4TXZfNTVZTWRpb0lqcUVISDQxM0lraVN0MThsSHN1NUhLTTVkOGxBV3QzclZaby1EM1ZNYU16cGhYUHcybC1sVk0tRHBsY3FtUGk4Nm9n?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMia0FVX3lxTE54dEhqdzFrV2JLVU1PNGNkSlY0VGQ4TXZfNTVZTWRpb0lqcUVISDQxM0lraVN0MThsSHN1NUhLTTVkOGxBV3QzclZaby1EM1ZNYU16cGhYUHcybC1sVk0tRHBsY3FtUGk4Nm9n?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 상법 2차 개정안, 국회 본회의 통과",
+        "time": "2025-08-25T10:06:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXNTbUl4Y0hWQmIyRnVTSEZoVFJDYkF4am9CQ2dLTWdZQkFJU0hCZzA=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMihgFBVV95cUxOLUpEc3ZHUUVBaUNSejFfWXdDQ2h6S3FWSXBaRVlMTWpkOTVSdXNyTU5zRE9QaW9iODFCanIyc3otZHNRZFFYSGJlUm53ZEhMUjQ3MnVBT0MyWmMwSDlwdmxqSmkxbkpKMF9ib2F4Z1lIZkdqWjdyVmdaT1BEZHRGTERzTmRkUQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMihgFBVV95cUxOLUpEc3ZHUUVBaUNSejFfWXdDQ2h6S3FWSXBaRVlMTWpkOTVSdXNyTU5zRE9QaW9iODFCanIyc3otZHNRZFFYSGJlUm53ZEhMUjQ3MnVBT0MyWmMwSDlwdmxqSmkxbkpKMF9ib2F4Z1lIZkdqWjdyVmdaT1BEZHRGTERzTmRkUQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이 대통령 “북 김여정 혹평에 연연하지 않아…복선도 있을 것”",
+        "time": "2025-08-25T09:18:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNU5NMEZ6VURKMlNGTnZjMTlCVFJDdEF4akxCU2dLTWdZRklLQUpsZ28=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMia0FVX3lxTE0wanhGWllfY0hoSzV2WEVaU1ZudC05ZGwzSGJyTHNsYWk2MmdwUHljQUZkZkFkelp2Yk5TZkJpV1hRNnB0NzdnVDQ4MWZWUG5BWUYzWTVBNFlxZkRTRWRWX005ZDVwcGlmb1pN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMia0FVX3lxTE0wanhGWllfY0hoSzV2WEVaU1ZudC05ZGwzSGJyTHNsYWk2MmdwUHljQUZkZkFkelp2Yk5TZkJpV1hRNnB0NzdnVDQ4MWZWUG5BWUYzWTVBNFlxZkRTRWRWX005ZDVwcGlmb1pN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[단독] 한국형 SMR, 미 원자로 ‘판박이’…지재권 분쟁 재연 우려",
+        "time": "2025-08-25T08:22:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNXBXVWxJYWpNM1RWUk5SemxCVFJDckF4aUFCU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibEFVX3lxTE94TVVmZzZrVGgwaWNTRzUtY1ZoeDBEOHJzVF8zRDItcTV4YmVmTFJkRjdZOXlmbXJ5RU9KTVBGQ0s3MlNqNTRIOG4zaHdwb0ZGWEstVWx5SFRHYjZHWko2TGZSWHI1UTk4eTdaQw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibEFVX3lxTE94TVVmZzZrVGgwaWNTRzUtY1ZoeDBEOHJzVF8zRDItcTV4YmVmTFJkRjdZOXlmbXJ5RU9KTVBGQ0s3MlNqNTRIOG4zaHdwb0ZGWEstVWx5SFRHYjZHWko2TGZSWHI1UTk4eTdaQw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "병사 엄마들 눈치보는 군 간부…“삼겹살에 비계 많다” 민원도 [잇슈#태그]",
+        "time": "2025-08-25T06:13:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNWhRbU5EYVZOUmJucGFUME5MVFJDZkF4ampCU2dLTWdB=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE9qVFlLaGllYmtuVTZZY05lZFprVUlNQ241UGgwSUFmM3BPcmFBcnFKNFFURENBZ0JLcjQ4NnVyQVB0ZmtiNEFkOU5TUTBZT2tUOEpZcHM1QkxBNDQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9qVFlLaGllYmtuVTZZY05lZFprVUlNQ241UGgwSUFmM3BPcmFBcnFKNFFURENBZ0JLcjQ4NnVyQVB0ZmtiNEFkOU5TUTBZT2tUOEpZcHM1QkxBNDQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[단독]“8만원에 감옥갈 사람 찾나” 금산군 안전요원 구인공고 논란",
+        "time": "2025-08-25T06:00:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNDBWV0ZYVVVabU9FcEpWVVptVFJEZ0F4aUFCU2dLTWdB=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFA2d1MwRTM4RjdkeWxfb25WdlFscFRZTkd4N2hoaXoxYXNwNFhfOXYxZ0JWV1lQNThJTWZwY3BId0prcXpNUVpCd3JxUm9NRlZNbzZkYTItZ053UdIBX0FVX3lxTE00ZURuX3NJV1pFOWlnQU9ZeVNTc0F1cnlBemYyWlMtWFB6cEtpdTExTWVYdDJjTHhqdnNFUkNzOWJ5T285N2x0ZzFZNDFUOWEwUmstRkZOVzI5SFo2QWFV?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFA2d1MwRTM4RjdkeWxfb25WdlFscFRZTkd4N2hoaXoxYXNwNFhfOXYxZ0JWV1lQNThJTWZwY3BId0prcXpNUVpCd3JxUm9NRlZNbzZkYTItZ053UdIBX0FVX3lxTE00ZURuX3NJV1pFOWlnQU9ZeVNTc0F1cnlBemYyWlMtWFB6cEtpdTExTWVYdDJjTHhqdnNFUkNzOWJ5T285N2x0ZzFZNDFUOWEwUmstRkZOVzI5SFo2QWFV?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[단독]美 스텔스전투기 2종, 군산기지에 잇달아 전개",
+        "time": "2025-08-25T06:00:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNTJOemx2VkhaTFNIUnNObE5MVFJERUF4aW5CU2dLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMid0FVX3lxTE42M0UxWTZzTVNYekFFNmZMdXlKSTVFcG1pdVZaVTlZbXV2SWEyVFdXeFdsVEVocE14ODFpemN4WDVqNEZMakw5ODRfTFllc0JRWGl6SU5RaWRjS1gwdkxicU5za0U4VzRpUDRlZ2xEVFlVUTZSWkg40gFmQVVfeXFMTnA2R2VIZ0ZPemppVDJfR09MMTU4Nm40eElJb1k0elhDMFN6RHJtZ0pwNERwd3dXTUZCcWJxU0JEbmg1R3FJcE1TR2c3RnZmc0dmM0kyc1NZMU9BVlZpOEs2Qm13eEFn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMid0FVX3lxTE42M0UxWTZzTVNYekFFNmZMdXlKSTVFcG1pdVZaVTlZbXV2SWEyVFdXeFdsVEVocE14ODFpemN4WDVqNEZMakw5ODRfTFllc0JRWGl6SU5RaWRjS1gwdkxicU5za0U4VzRpUDRlZ2xEVFlVUTZSWkg40gFmQVVfeXFMTnA2R2VIZ0ZPemppVDJfR09MMTU4Nm40eElJb1k0elhDMFN6RHJtZ0pwNERwd3dXTUZCcWJxU0JEbmg1R3FJcE1TR2c3RnZmc0dmM0kyc1NZMU9BVlZpOEs2Qm13eEFn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "AI 20대 여성과 결혼한 日 50대 남성…\"대화가 멈추지 않아\"",
+        "time": "2025-08-25T11:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508250515081917_l.jpg",
+        "url": "https://news.nate.com/view/20250825n01639",
+        "original_url": "https://news.nate.com/view/20250825n01639",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"백악관 눈치에 공개 반대는 못 하고\"…美 공화당, 트럼프 관세 두고 '이중 행보'",
+        "time": "2025-08-25T11:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/25/cz_1756088104414_548055_0.jpg",
+        "url": "https://news.nate.com/view/20250825n14134",
+        "original_url": "https://news.nate.com/view/20250825n14134",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "우크라 간 캐나다 총리 \"파병 배제 안해\"",
+        "time": "2025-08-25T11:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508250830051721_l.jpg",
+        "url": "https://news.nate.com/view/20250825n14044",
+        "original_url": "https://news.nate.com/view/20250825n14044",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "미중 갈등 속 역사도 재해석 \"美, 2차대전 中 지원, 자국 이익 위한 것\"",
+        "time": "2025-08-25T11:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250825n14438",
+        "original_url": "https://news.nate.com/view/20250825n14438",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 수도 사나 공습…에너지 시설 타격·90여명 사상",
+        "time": "2025-08-25T11:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/08/25/5868ad5f-2c61-4675-bfb3-d703bae9daca.jpg",
+        "url": "https://news.nate.com/view/20250825n04623",
+        "original_url": "https://news.nate.com/view/20250825n04623",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "가자시티 옥죄는 이스라엘…폭격에 64명 사망·길거리 생지옥",
+        "time": "2025-08-25T11:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/25/AKR20250825059900009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250825n14255",
+        "original_url": "https://news.nate.com/view/20250825n14255",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 언론 MASGA·3500억·주한미군, 한미정상회담 안건으로 주목",
+        "time": "2025-08-25T11:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508250941415369_l.jpg",
+        "url": "https://news.nate.com/view/20250825n08704",
+        "original_url": "https://news.nate.com/view/20250825n08704",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "트럼프 \"클레멘스, 명예의 전당 가야\"···또 스포츠 개입?",
+        "time": "2025-08-25T11:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/25/news-p.v1.20250825.3c54080cc6a24f2e830f5712d6ee9e97_P1.png",
+        "url": "https://news.nate.com/view/20250825n13743",
+        "original_url": "https://news.nate.com/view/20250825n13743",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 수도 에너지 인프라 공습…\"37명 사상\"(종합2보)",
+        "time": "2025-08-25T11:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/25/AKR20250824054252108_01_i.jpg",
+        "url": "https://news.nate.com/view/20250825n01230",
+        "original_url": "https://news.nate.com/view/20250825n01230",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 전 CIA 국장 \"트럼프 중재에도 푸틴 우크라전 끝낼 생각 없어\"",
+        "time": "2025-08-25T11:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/25/NISI20181019_0014569331_web.jpg",
+        "url": "https://news.nate.com/view/20250825n13904",
+        "original_url": "https://news.nate.com/view/20250825n13904",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 수도 에너지 인프라 공습…\"7명 사상\"(종합)",
+        "time": "2025-08-25T11:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/25/AKR20250824054251108_01_i.jpg",
+        "url": "https://news.nate.com/view/20250825n00118",
+        "original_url": "https://news.nate.com/view/20250825n00118",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 공습…사상자 90명 넘어",
+        "time": "2025-08-25T11:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/25/2025082501001929800119221.jpg",
+        "url": "https://news.nate.com/view/20250825n13697",
+        "original_url": "https://news.nate.com/view/20250825n13697",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[포착] '푸틴의 도살자들', 민간인 성폭행한 결말…우크라 \"3명 사살 성공\"",
+        "time": "2025-08-25T11:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/08/25/SSC_20250825102233_V.jpg",
+        "url": "https://news.nate.com/view/20250825n10926",
+        "original_url": "https://news.nate.com/view/20250825n10926",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 언론 \"한미 정상회담 주요 카드는 '마스가'\"",
+        "time": "2025-08-25T11:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/08/25/news-p.v1.20250825.c5a81776e0b2479ba2c95f86c09d2139_P1.jpeg",
+        "url": "https://news.nate.com/view/20250825n13969",
+        "original_url": "https://news.nate.com/view/20250825n13969",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'가자지구' 둘러싸고…마크롱 대통령 공개비판 한 美 프랑스 대사",
+        "time": "2025-08-25T11:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/08/25/9de2ddea-459e-43ce-bb6c-d62c24da57fb.jpg",
+        "url": "https://news.nate.com/view/20250825n06027",
+        "original_url": "https://news.nate.com/view/20250825n06027",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "미 부통령 \"우크라이나 전쟁 외교적 해결 가능…협상·압박 계속할 것\"",
+        "time": "2025-08-25T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/08/25/35ae050e-6f56-44c4-b8a0-75a7333b1c9a.jpg",
+        "url": "https://news.nate.com/view/20250825n03832",
+        "original_url": "https://news.nate.com/view/20250825n03832",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "백악관, 韓·美 정상회담 일정 공개…\"정오쯤 회담 뒤 만찬\"",
+        "time": "2025-08-25T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/08/25/news_1756082421_1539727_m_1.png",
+        "url": "https://news.nate.com/view/20250825n13511",
+        "original_url": "https://news.nate.com/view/20250825n13511",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 수도 에너지 인프라 공습…\"90여명 사상\"",
+        "time": "2025-08-25T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/25/rcv.YNA.20250825.PRU20250825077301009_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n03846",
+        "original_url": "https://news.nate.com/view/20250825n03846",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"중국 전승절 행사 가지 마세요\" '열받은 일본' 급기야 각국에 이런 부탁까지…",
+        "time": "2025-08-25T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/25/rcv.YNA.20250808.PRU20250808197401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n13031",
+        "original_url": "https://news.nate.com/view/20250825n13031",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"李-트럼프, 주한미군 유연성·MASGA 등 對중국 논의 방점\" 美언론",
+        "time": "2025-08-25T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/25/NISI20250823_0000574119_web.jpg",
+        "url": "https://news.nate.com/view/20250825n13323",
+        "original_url": "https://news.nate.com/view/20250825n13323",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "독립 34주년 우크라 간 캐나다 총리 \"파병 배제 안해\"",
+        "time": "2025-08-25T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/25/rcv.YNA.20250824.PAF20250824209401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n13037",
+        "original_url": "https://news.nate.com/view/20250825n13037",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "러 외무장관 \"젤렌스키, 모든 것에 '아니요'…푸틴과 만날 준비 안돼\"",
+        "time": "2025-08-25T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/08/25/ch_1756087095243_63061_0.jpg",
+        "url": "https://news.nate.com/view/20250825n00368",
+        "original_url": "https://news.nate.com/view/20250825n00368",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"한미, 우선순위 갈려\"···美언론도 한미 정상회담 관심",
+        "time": "2025-08-25T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/08/25/2GWRHG00AY_2.jpg",
+        "url": "https://news.nate.com/view/20250825n08671",
+        "original_url": "https://news.nate.com/view/20250825n08671",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"韓·美 정상회담서 대미투자·주한미군·조선협력 논의할 듯\"",
+        "time": "2025-08-25T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/08/25/news_1756082421_1539727_m_1.png",
+        "url": "https://news.nate.com/view/20250825n08283",
+        "original_url": "https://news.nate.com/view/20250825n08283",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 한국시간 26일 오전 1시 백악관 도착 전망",
+        "time": "2025-08-25T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508251035478037_l.jpg",
+        "url": "https://news.nate.com/view/20250825n12620",
+        "original_url": "https://news.nate.com/view/20250825n12620",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "푸틴, 내주 나흘간 중국 방문…SCO·전승절 참석",
+        "time": "2025-08-25T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/25/NISI20250509_0000322916_web.jpg",
+        "url": "https://news.nate.com/view/20250825n12910",
+        "original_url": "https://news.nate.com/view/20250825n12910",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "미국 언론이 꼽은 '한·미 회담' 의제 '주한미군·485조원 규모 투자'",
+        "time": "2025-08-25T10:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/08/25/news-p.v1.20250825.e7055f31dbdf47369c9759028f7cd1bf_P1.jpeg",
+        "url": "https://news.nate.com/view/20250825n06080",
+        "original_url": "https://news.nate.com/view/20250825n06080",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 후티 반군 미사일 공격에 보복 공습…6명 사망",
+        "time": "2025-08-25T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/25/7459411_high.jpg",
+        "url": "https://news.nate.com/view/20250825n12676",
+        "original_url": "https://news.nate.com/view/20250825n12676",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"술잔을 차에 뒀어? 너 체포!\" 트럼프 때문에 워싱턴은 경범죄 '논란'",
+        "time": "2025-08-25T10:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/25/rcv.YNA.20250822.PAF20250822084801009_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n12568",
+        "original_url": "https://news.nate.com/view/20250825n12568",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"반일 색채 짙어\"…日, 중국 전승절 행사 참석 보류 요청",
+        "time": "2025-08-25T10:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/25/cz_1756086664703_805093_0.jpg",
+        "url": "https://news.nate.com/view/20250825n12647",
+        "original_url": "https://news.nate.com/view/20250825n12647",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "일본, 각국에 중국 전승절 기념식 참가 보류 요청…\"반일 색채 짙어\"",
+        "time": "2025-08-25T10:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/25/AKR20250825103641364_01_i.jpg",
+        "url": "https://news.nate.com/view/20250825n11791",
+        "original_url": "https://news.nate.com/view/20250825n11791",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "밴스 美부통령 \"러, 우크라 분쟁 3년 반 만에 상당히 양보\"",
+        "time": "2025-08-25T10:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/08/25/20250825506066.jpg",
+        "url": "https://news.nate.com/view/20250825n11951",
+        "original_url": "https://news.nate.com/view/20250825n11951",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "주한 中 대사 \"이재명 정부 출범후 한중관계 좋은 출발\"",
+        "time": "2025-08-25T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/08/25/SSC_20241114001002_V.jpg",
+        "url": "https://news.nate.com/view/20250825n12189",
+        "original_url": "https://news.nate.com/view/20250825n12189",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전쟁 중 독립 34주년 맞은 우크라이나…\"우리가 스스로 미래 결정\"",
+        "time": "2025-08-25T10:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/08/25/news-p.v1.20250825.602e782dd4aa409eb38060cc70566a98_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n11395",
+        "original_url": "https://news.nate.com/view/20250825n11395",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전쟁 중 독립 34주년 맞은 우크라…젤렌스키 \"우리는 희생양 아닌 투사\"",
+        "time": "2025-08-25T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/25/news-p.v1.20250825.def2a4b57957447e93e7e9db7c441e8f_P1.png",
+        "url": "https://news.nate.com/view/20250825n10725",
+        "original_url": "https://news.nate.com/view/20250825n10725",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "예멘, 이스라엘 공습 사상자 37명으로 늘어…대통령궁 피격",
+        "time": "2025-08-25T10:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508250440416094_l.jpg",
+        "url": "https://news.nate.com/view/20250825n01688",
+        "original_url": "https://news.nate.com/view/20250825n01688",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전승절 앞두고 이재명 특사 맞이한 中, '반일 유대감' 강조",
+        "time": "2025-08-25T10:25:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/25/cz_1756085105568_315891_0.jpg",
+        "url": "https://news.nate.com/view/20250825n10996",
+        "original_url": "https://news.nate.com/view/20250825n10996",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자, 두 달 만에 공개연설…\"미국에 굴복하지 않겠다\"",
+        "time": "2025-08-25T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/25/ae_1756084867957_642740_0.jpg",
+        "url": "https://news.nate.com/view/20250825n10698",
+        "original_url": "https://news.nate.com/view/20250825n10698",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"케데헌이 절친\"? 중국 애니 K덕 보려다 美 흥행 참패 쓴 맛",
+        "time": "2025-08-25T10:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/25/news-p.v1.20250825.41310476410646aaad90eb5a704a83c4_P1.png",
+        "url": "https://news.nate.com/view/20250825n10321",
+        "original_url": "https://news.nate.com/view/20250825n10321",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "밴스 美부통령 \"러, 우크라 평화 협상서 상당한 양보\"(종합)",
+        "time": "2025-08-25T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/25/NISI20250806_0000542842_web.jpg",
+        "url": "https://news.nate.com/view/20250825n09479",
+        "original_url": "https://news.nate.com/view/20250825n09479",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 2달 만에 첫 공개연설…\"미국에 굴복 안 해\"",
+        "time": "2025-08-25T10:19:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250825n10546",
+        "original_url": "https://news.nate.com/view/20250825n10546",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美, 프랑스 '반유대주의' 비난…이스라엘 주장 거들어",
+        "time": "2025-08-25T10:01:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250825n09331",
+        "original_url": "https://news.nate.com/view/20250825n09331",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 부통령 \"트럼프, 러 압박 노력…평화협상 영향력 행사할 것\"",
+        "time": "2025-08-25T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/25/2025082501001914800118291.jpg",
+        "url": "https://news.nate.com/view/20250825n09259",
+        "original_url": "https://news.nate.com/view/20250825n09259",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자, 공개 연설서 \"美에 굴복하지 않을것\"",
+        "time": "2025-08-25T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/08/25/PS25082500284.jpg",
+        "url": "https://news.nate.com/view/20250825n08743",
+        "original_url": "https://news.nate.com/view/20250825n08743",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 가자시티 외곽 공습 지속…가자 당국 \"42명 사망\"",
+        "time": "2025-08-25T09:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/25/7454932_high.jpg",
+        "url": "https://news.nate.com/view/20250825n09165",
+        "original_url": "https://news.nate.com/view/20250825n09165",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "강훈식 비서실장까지 급거 방미…\"한미 정상회담 위해 총력 다하는 중\"",
+        "time": "2025-08-25T09:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/08/25/53_17560818760418_20250825500032.jpg",
+        "url": "https://news.nate.com/view/20250825n00972",
+        "original_url": "https://news.nate.com/view/20250825n00972",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 \"美에 굴복 안 해…직접 협상 거부\"",
+        "time": "2025-08-25T09:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/08/25/202508250940107497_0.jpg",
+        "url": "https://news.nate.com/view/20250825n08380",
+        "original_url": "https://news.nate.com/view/20250825n08380",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "러-우크라 정상회담 불발 우려…美 \"제재 카드로 러 압박\"",
+        "time": "2025-08-25T09:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/08/25/202508250934267820_0.jpg",
+        "url": "https://news.nate.com/view/20250825n08020",
+        "original_url": "https://news.nate.com/view/20250825n08020",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "우크라, 러 최대 원자력 발전소 및 연료 수출 터미널 공격",
+        "time": "2025-08-25T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/25/2025082501001910800118041.jpg",
+        "url": "https://news.nate.com/view/20250825n07960",
+        "original_url": "https://news.nate.com/view/20250825n07960",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 공개연설에서 \"미국에 굴복 안 해\"",
+        "time": "2025-08-25T09:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/25/AKR20250825094202192_01_i.jpg",
+        "url": "https://news.nate.com/view/20250825n08399",
+        "original_url": "https://news.nate.com/view/20250825n08399",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 하메네이, 공개연설서 \"美에 맞설 것\" 천명",
+        "time": "2025-08-25T09:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/25/cz_1756081684469_593958_0.jpg",
+        "url": "https://news.nate.com/view/20250825n07560",
+        "original_url": "https://news.nate.com/view/20250825n07560",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美언론, 한미 정상회담 의제로 '전략적 유연성·3500억불 투자' 예상",
+        "time": "2025-08-25T09:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/25/ae_1756081327031_20386_0.jpg",
+        "url": "https://news.nate.com/view/20250825n07208",
+        "original_url": "https://news.nate.com/view/20250825n07208",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李 대통령 '의제 조율' 못끝낸 채 미국행…힘겨운 정상회담 예고",
+        "time": "2025-08-25T09:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/08/25/ovp_4af79393-07f9-4e7d-9653-0ed66d21f83a.jpg",
+        "url": "https://news.nate.com/view/20250825n01421",
+        "original_url": "https://news.nate.com/view/20250825n01421",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "러 외무장관, 푸틴-젤렌스키 회담 계획 없어",
+        "time": "2025-08-25T09:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/25/202508212139268289_l.jpg",
+        "url": "https://news.nate.com/view/20250825n07204",
+        "original_url": "https://news.nate.com/view/20250825n07204",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"미국은 본질적 적대세력\"…이란 최고지도자 하메네이, 이스라엘 전쟁 후 첫 공개연설",
+        "time": "2025-08-25T09:15:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/08/25/news-p.v1.20250825.de97461019ef4a32bd410eaf86254ae5_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n06788",
+        "original_url": "https://news.nate.com/view/20250825n06788",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"美, 일본에 다영역 사령부 신설 검토…중국 견제 강화\"",
+        "time": "2025-08-25T09:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/08/25/news-p.v1.20250825.73fbe38d8122476aa3160061c48fc0a0_P1.jpg",
+        "url": "https://news.nate.com/view/20250825n06757",
+        "original_url": "https://news.nate.com/view/20250825n06757",
+        "source": "nate",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "[속보]2차 상법 개정안 국회 본회의 통과…‘필리버스터 대결’ 일단락",
+        "time": "2025-08-25T10:06:03",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/25/0003391719_001_20250825101210301.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003391719",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003391719",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "우재준 \"연민으로 尹 면회, OK…단 계엄 옹호, 尹어게인 안 돼\"",
+        "time": "2025-08-25T09:46:32",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445503_001_20250825094711387.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445503",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445503",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이 대통령 “정상회담서 북한 문제 제한 없이 다 이야기해 볼 생각”",
+        "time": "2025-08-25T09:42:25",
+        "img": "https://imgnews.pstatic.net/image/056/2025/08/25/0012015230_001_20250825094423605.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012015230",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012015230",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "북한이 ‘반항공 미싸일’ 개발 개량에 공들이는 이유",
+        "time": "2025-08-25T09:42:08",
+        "img": "https://imgnews.pstatic.net/image/028/2025/08/25/0002762789_001_20250825094816156.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002762789",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002762789",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "인터뷰 전문…장동혁 “조경태는 결단하고, 전한길과는 연대할 것” [정치시그널]",
+        "time": "2025-08-25T09:41:54",
+        "img": "https://imgnews.pstatic.net/image/449/2025/08/25/0000318828_001_20250825095712668.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/449/0000318828",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000318828",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령, 한미회담 코앞 “합의 쉽게 바꾸는 건 바람직하지 않아” [李대통령 기내 간담회]",
+        "time": "2025-08-25T09:41:14",
+        "img": "https://imgnews.pstatic.net/image/016/2025/08/25/0002518716_001_20250825094512243.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002518716",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002518716",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 즉석 기내 기자 간담회 \"국익 최우선 두고 협상\" [뉴시스Pic]",
+        "time": "2025-08-25T09:27:45",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250825_0020945318_web_20250825090000_20250825100912016.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439607",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439607",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보]“정청래와 입장 달라” 李대통령, 野와 대화 질문에 한말",
+        "time": "2025-08-25T09:27:11",
+        "img": "https://imgnews.pstatic.net/image/021/2025/08/25/0002731551_002_20250825092820345.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002731551",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002731551",
+        "summary": "“대통령과 여당 대표는 입장 달라”\n“대통령은 국민을 대표”\n지지도 하락에는 “연연하면 판단 흐려져”",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "북, ‘개인 의견’ 빌려 한일회담 비난…“백악관 상전 의심 해소용 친일 행각”",
+        "time": "2025-08-25T09:22:27",
+        "img": "https://imgnews.pstatic.net/image/028/2025/08/25/0002762787_001_20250825100811434.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002762787",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002762787",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "與 김용민 \"한덕수 구속 확실…탄핵 기각했던 헌재도 책임\"",
+        "time": "2025-08-25T09:20:41",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445422_001_20250825092113382.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445422",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445422",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 이 대통령 “야당 배제해선 안돼…정청래 대표와 대통령 입장은 달라”",
+        "time": "2025-08-25T09:20:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/25/0003391706_001_20250825092911995.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003391706",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003391706",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "북한, 한일정상회담 비난…李대통령 실명 거론하며 \"워싱턴 오해 덜려는 외교촌극\"",
+        "time": "2025-08-25T09:16:15",
+        "img": "https://imgnews.pstatic.net/image/119/2025/08/25/0002994469_001_20250825091615705.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0002994469",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0002994469",
+        "summary": "\"백악관에 구애…자발적 친일 검증행각\"\n전문가 \"개인 명의 글로 수위조절한 듯\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이 대통령 \"북 문제 제한없이 필요한 얘기 다 할 것…길 만들어야\"",
+        "time": "2025-08-25T09:13:44",
+        "img": "https://imgnews.pstatic.net/image/055/2025/08/25/0001286631_001_20250825091428295.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001286631",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001286631",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이 대통령 '깜짝 기내간담회'…\"트럼프 협상법 책에 써놨더라\"",
+        "time": "2025-08-25T09:11:13",
+        "img": "https://imgnews.pstatic.net/image/055/2025/08/25/0001286629_001_20250825091211593.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001286629",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001286629",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령, 親中 논란에 “중국과 절연 안하는 게 친중? 그런 의미면 친중해야”",
+        "time": "2025-08-25T09:11:09",
+        "img": "https://imgnews.pstatic.net/image/023/2025/08/25/0003925069_001_20250825091212052.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003925069",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003925069",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 \"반탄 야당 대표와도 대화…정청래와 대통령의 입장 달라\"",
+        "time": "2025-08-25T09:10:00",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445387_001_20250825091010818.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445387",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445387",
+        "summary": "\"대통령은 국민을 대표해야 한다…야당 배제하면 안 되는 게 당연\"\n\"지지율 연연하면 판단 흐려져…인기 끌려 하면 살림 잘 안돼\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "혁신당 황현선, '조국 자숙' 요구에 \"이재명 대통령 등에 감사 전하는 것\"",
+        "time": "2025-08-25T09:09:06",
+        "img": "https://imgnews.pstatic.net/image/008/2025/08/25/0005240257_001_20250825090917310.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005240257",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005240257",
+        "summary": "[the300]",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 “트럼프에 北문제 등 필요한 얘기 다 할것, 美요구 쉽게 들어줄 수는 없다”",
+        "time": "2025-08-25T09:05:09",
+        "img": "https://imgnews.pstatic.net/image/023/2025/08/25/0003925066_001_20250825095619236.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003925066",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003925066",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[대만칩통신]\"TSMC의 미국화?\"…파운드리 주도권 잡으려는 美의 야심",
+        "time": "2025-08-25T10:00:00",
+        "img": "https://imgnews.pstatic.net/image/277/2025/08/25/0005641483_001_20250825100118372.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005641483",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005641483",
+        "summary": "미국 정부, TSMC 최대 주주 되나\nTSMC 미국 공장 통합, 거점 구상\n자국 기업 보호 위해 자국 거점 확보",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "한켐, 초음속 발사체 추진제 원료 양산 시장 진출",
+        "time": "2025-08-25T09:59:12",
+        "img": "https://imgnews.pstatic.net/image/018/2025/08/25/0006098121_001_20250825095912261.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006098121",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006098121",
+        "summary": "\"방산 등 특수 소재 경쟁력 강화\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "정청래, 김문수에 \"'美대사관 테러' 발언, 사과 않으면 법적조치\"",
+        "time": "2025-08-25T09:52:16",
+        "img": "https://imgnews.pstatic.net/image/050/2025/08/25/0000095350_001_20250825095216657.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/050/0000095350",
+        "original_url": "https://n.news.naver.com/mnews/article/050/0000095350",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"도요타보다 420만원 싸다\"…미국서 인기 폭발한 '한국車' [모빌리티톡]",
+        "time": "2025-08-25T10:03:12",
+        "img": "https://imgnews.pstatic.net/image/015/2025/08/25/0005174954_001_20250825101214205.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005174954",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005174954",
+        "summary": "기아 카니발, 미국에서 판매량 상승\n하이브리드 파워트레인 주효\n한국 다음으로 미국에 잘 팔려\n미국 내 도요타 시에나와 경쟁",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전국 비소식…강원 동해안 가뭄 해갈엔 역부족",
+        "time": "2025-08-25T09:42:14",
+        "img": "https://imgnews.pstatic.net/image/654/2025/08/25/0000138299_001_20250825094214207.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/654/0000138299",
+        "original_url": "https://n.news.naver.com/mnews/article/654/0000138299",
+        "summary": "밤사이 수도권 집중호우\n강원 동해안 5㎜ 안팎의 적은 비",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[날씨] 수도권 곳곳 천둥·번개 동반 강한 비...인천·경기 북부 호우예비특보",
+        "time": "2025-08-25T09:12:59",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002237441",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002237441",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전국에 더위 식히는 빗방울...동해안 가뭄엔 '역부족'",
+        "time": "2025-08-25T08:39:35",
+        "img": "https://imgnews.pstatic.net/image/215/2025/08/25/A202508250123_1_20250825084008381.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/215/0001221156",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001221156",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "더위 식혀주는 비…가뭄 심한 강원동해안엔 '5㎜ 안팎'",
+        "time": "2025-08-25T08:21:23",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025081214420005700_P4_20250825083813977.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583838",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583838",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "韓美 정상회담 D-1, 美언론이 조명한 주요 의제는",
+        "time": "2025-08-25T10:09:08",
+        "img": "https://imgnews.pstatic.net/image/079/2025/08/25/0004058859_001_20250825100908487.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004058859",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004058859",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "엔화, 美 9월 금리인하 관측에 1달러=147엔대 전반 급등 출발",
+        "time": "2025-08-25T09:59:54",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20220420_0018718892_web_20220420195515_20250825100019708.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439736",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439736",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 언론 MASGA·3500억·주한미군, 한미정상회담 안건으로 주목",
+        "time": "2025-08-25T09:49:11",
+        "img": "https://imgnews.pstatic.net/image/014/2025/08/25/0005395983_001_20250825094911774.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005395983",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005395983",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"워싱턴에 전쟁 났나\"…순찰 투입 주방위군, M17·M4 무장 시작",
+        "time": "2025-08-25T09:43:27",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445491_001_20250825094416455.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445491",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445491",
+        "summary": "주둔 부대 \"죽음이나 신체 위협 마지막 수단으로만 무력 사용\"\n트럼프, 민주당 주지사 있는 시카고·볼티모어에도 병력배치 경고",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'주한미군 비용·역할''마스가'…美언론 주목한 한미정상회담 난제",
+        "time": "2025-08-25T09:33:38",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445448_001_20250825093420808.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445448",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445448",
+        "summary": "NYT \"트럼프, 방위비 9배 증액 요구 언급…韓 자체 핵무장론 비등\"\nWP \"3500억 달러 대미투자 세부사항 불분명\"…투자확대 요구 가능성",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"강훈식, '얼음공주' 설득하러 美 날아갔다\"",
+        "time": "2025-08-25T09:30:10",
+        "img": "https://imgnews.pstatic.net/image/079/2025/08/25/0004058833_004_20250825093011317.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004058833",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004058833",
+        "summary": "日→美 동선, 미래지향적·국익 중심 실용외교\n美, 3500억 달러 투자 구체적 명문화 요구한 듯\n강훈식 방미 '얼음공주' 수지 와일스 설득위해\n트럼프 협상 전략 키워드, 숫자·칭찬·신뢰 구축",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘군 진입 임박 가자시티…\"시체 먹어대는 들개 넘쳐나\"",
+        "time": "2025-08-25T09:15:49",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445405_001_20250825091623285.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445405",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445405",
+        "summary": "CNN \"하마스 통제 무너지고 도시 기능 마비…생존 위협에 대혼돈\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "“미국과 협상 거부…해결 불가능” 이란 최고지도자, 트럼프에 던진 ‘도발’",
+        "time": "2025-08-25T09:11:14",
+        "img": "https://imgnews.pstatic.net/image/016/2025/08/25/0002518679_001_20250825091114284.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002518679",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002518679",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "외신들 한미정상회담 의제로 '조선업·주한미군·대미투자' 전망",
+        "time": "2025-08-25T09:09:11",
+        "img": "https://imgnews.pstatic.net/image/015/2025/08/25/0005174898_001_20250825092010112.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005174898",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005174898",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "주프랑스 美대사, 마크롱 정면비판…\"반유대주의 조치 불충분\"",
+        "time": "2025-08-25T09:06:26",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PAF20250825056201009_P4_20250825090712344.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583940",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583940",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"시진핑 회담 기대하는 트럼프, 국방부와 입장 달라\"",
+        "time": "2025-08-25T09:04:11",
+        "img": "https://imgnews.pstatic.net/image/015/2025/08/25/0005174894_001_20250825090616856.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005174894",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005174894",
+        "summary": "제임스 박 퀸시연구소 연구원 인터뷰",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "미국 언론이 꼽은 ‘한·미 회담’ 의제는···주한미군·투자펀드 구체화",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/25/0003391700_001_20250825090112765.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003391700",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003391700",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 두 달 만에 공개연설 \"미국에 굴복 안 해\"",
+        "time": "2025-08-25T08:52:02",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/AKR20250825023800009_01_i_P4_20250825085214464.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583869",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583869",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美 식품업계, 트럼프 관세 완화 요구…\"수입 의존 품목 타격\"",
+        "time": "2025-08-25T09:00:13",
+        "img": "https://imgnews.pstatic.net/image/092/2025/08/25/0002387421_001_20250825090013514.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002387421",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002387421",
+        "summary": "수산물·과일·채소 국내 대체 불가…\"관세 적용 땐 물가 급등\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 “트럼프와 제한없이 대화”…남북대화 필요성 강조",
+        "time": "2025-08-25T10:06:42",
+        "img": "https://imgnews.pstatic.net/image/029/2025/08/25/0002977533_002_20250825100718996.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002977533",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002977533",
+        "summary": "“한반도 평화에 관한 대화, 변함 없어”",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "中외교 \"韓특사 '하나의 중국' 존중 언급…보호무역 공동 반대를\"",
+        "time": "2025-08-25T09:54:49",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445525_001_20250825095517172.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445525",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445525",
+        "summary": "한미정상회담 앞두고 특사단 방중…왕이 \"민감 문제 적절 처리해야\"\n박병석, 시 주석 APEC 초청 친서 전달…상무부장·부주석 등 접견 예정",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "특사단 \"한미동맹 발전 속 한중관계 추진…APEC에 시진핑 초청\"(종합)",
+        "time": "2025-08-25T09:53:47",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/AKR20250825022251504_01_i_P4_20250825095418443.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015584108",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015584108",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "中 환구시보 “한중 관계 악화 근본 원인, 외부 세력 영향”",
+        "time": "2025-08-25T09:52:24",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250825_0020945326_web_20250825082133_20250825095314517.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439712",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439712",
+        "summary": "“양국관계 발전, 공통된 역사적 기억과 전략적 이익에 뿌리”\n“韓, 전략적 자율성 확보해야 건설적 역할 수행 가능”\n한중 수교 33년 사설 \"초심으로 돌아가야 관계 지속 발전\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "중국 과학기술의 질주, 블록화 시대 한국의 선택",
+        "time": "2025-08-25T09:49:33",
+        "img": "https://imgnews.pstatic.net/image/025/2025/08/25/0003464079_001_20250825095007998.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003464079",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003464079",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"韓·美 정상회담서 대미투자·주한미군·조선협력 논의될 듯\"",
+        "time": "2025-08-25T09:41:10",
+        "img": "https://imgnews.pstatic.net/image/119/2025/08/25/0002994497_001_20250825094110090.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0002994497",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0002994497",
+        "summary": "\"이재명·트럼프, 주한미군 역할, 대중 정책, 관세 등에 의견 달라\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "대통령 특사단, 中 왕이에 李 친서 전달…\"APEC에 시진핑 초청\"(종합)",
+        "time": "2025-08-25T09:21:38",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445423_001_20250825092213121.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445423",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445423",
+        "summary": "박병석 \"李 대통령, 한중관계 매우 중시…엉클어진 관계 물꼬 트길\"\n왕이 \"중요한 시기에 특사…국민감정 개선해 관계 발전 노력 용의\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "공군 1호기 기내 간담회, 질문 받는 이재명 대통령",
+        "time": "2025-08-25T09:00:34",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500700001300_P4_20250825090328683.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583925",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583925",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "차안에 술잔 발견됐다고 일단 체포…'트럼프식 정의구현' 논란",
+        "time": "2025-08-25T10:09:17",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PEP20250822127101009_P4_20250825101017994.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015584171",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015584171",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "밴스 美부통령 \"러, 우크라 평화 협상서 상당한 양보\"(종합)",
+        "time": "2025-08-25T10:02:19",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250806_0000542842_web_20250806054446_20250825100314700.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439748",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439748",
+        "summary": "NBC와 인터뷰…\"러 최근 일부 요구사항에 유연성 보여\"\n\"우크라 안보 보장 수용·친러 정권 세우려던 계획 철회\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "스페이스X, 화성 우주선 '스타십' 10번째 시험 발사 연기",
+        "time": "2025-08-25T10:01:47",
+        "img": "https://imgnews.pstatic.net/image/277/2025/08/25/0005641486_001_20250825100210601.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005641486",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005641486",
+        "summary": "발사 17분 전 \"지상시스템 점검 시간 확보위한 것\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "美언론도 한미 정상회담 관심…\"한미, 우선순위 갈려\"",
+        "time": "2025-08-25T09:48:17",
+        "img": "https://imgnews.pstatic.net/image/011/2025/08/25/0004524620_001_20250825094817018.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004524620",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004524620",
+        "summary": "동맹현대화·조선 협력·대미 투자 주요의제\nNYT \"양안 잠재적 갈등 관련 우선순위 갈려\"\n로이터 \"한미, 투자기금에 서로 다른 해석\"",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李, 재미동포 만나 \"트럼프와 한미동맹 발전방안 모색할 것…여정에 함께 해달라\"",
+        "time": "2025-08-25T09:43:32",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250825_0020945355_web_20250825093731_20250825094419035.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439681",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439681",
+        "summary": "방미 첫 일정으로 재미동포 간담회…앤디 킴 등 참석\n李 \"뵙게 돼 가슴 뭉클…동포 여러분이 한미 잇는 가교\"\n'복수국적 연령하향, 재외국민 투표' 제도지원 확대 약속",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "러-우크라 정상회담 불발 우려…美 \"제재 카드로 러 압박\"",
+        "time": "2025-08-25T09:36:13",
+        "img": "https://imgnews.pstatic.net/image/079/2025/08/25/0004058837_001_20250825093613913.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004058837",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004058837",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "특별 상영으로 ‘수익 280억’…‘케데헌’ 북미 박스 오피스 1위",
+        "time": "2025-08-25T09:32:16",
+        "img": "https://imgnews.pstatic.net/image/005/2025/08/25/2025082509282848007_1756081708_0028588608_20250825095611779.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001797879",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001797879",
+        "summary": "이틀간 ‘싱어롱’ 특별 상영…박스 오피스 1위\n美 빌보드 메인 싱글차트 ‘핫100’ 1위 오르기도",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "밴스 \"러, 평화협상에서 엄청난 양보 약속\"",
+        "time": "2025-08-25T09:12:09",
+        "img": "https://imgnews.pstatic.net/image/119/2025/08/25/0002994464_001_20250825091209695.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0002994464",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0002994464",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 공군 1호기 기내 간담회 입장",
+        "time": "2025-08-25T09:00:36",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500170001300_P4_20250825090338449.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583931",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583931",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "공군 1호기 기내 간담회, 인사하는 이재명 대통령",
+        "time": "2025-08-25T09:00:34",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500180001300_P4_20250825090333288.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583928",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583928",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 워싱턴DC 향하는 공군 1호기에서",
+        "time": "2025-08-25T09:00:32",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500470001300_P4_20250825090326992.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583924",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583924",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 외교안보 참모와의 대화",
+        "time": "2025-08-25T09:00:31",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500460001300_P4_20250825090325227.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583923",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583923",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이재명 대통령, 워싱턴DC를 향하며",
+        "time": "2025-08-25T09:00:30",
+        "img": "https://imgnews.pstatic.net/image/001/2025/08/25/PYH2025082500430001300_P4_20250825090321287.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015583920",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015583920",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 가자시티 외곽 공습 지속…가자 당국 \"42명 사망\"",
+        "time": "2025-08-25T09:57:58",
+        "img": "https://imgnews.pstatic.net/image/421/2025/08/25/0008445543_001_20250825095831357.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008445543",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008445543",
+        "summary": "자발리아 등 외곽 공격하며 '가자시티 점령' 준비·압박",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 \"美에 굴복 안 해…직접 협상 거부\"",
+        "time": "2025-08-25T09:42:12",
+        "img": "https://imgnews.pstatic.net/image/079/2025/08/25/0004058843_001_20250825094212068.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004058843",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004058843",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 지도자, ‘12일 전쟁’ 후 첫 연설 “미국에 굴복 안 해”",
+        "time": "2025-08-25T09:39:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/08/25/0003391715_001_20250825094007885.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003391715",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003391715",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘 공습으로 연기 치솟는 가자시티",
+        "time": "2025-08-25T08:41:54",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250825_0000579156_web_20250825084154_20250825084213495.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439447",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439447",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 수도 공습으로 최소 4명 사망",
+        "time": "2025-08-25T08:39:38",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250825_0000579226_web_20250825083938_20250825084017919.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439446",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439446",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘 공습으로 연기 치솟는 예멘 수도",
+        "time": "2025-08-25T08:39:38",
+        "img": "https://imgnews.pstatic.net/image/003/2025/08/25/NISI20250824_0000579051_web_20250825083938_20250825084015859.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013439445",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013439445",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이스라엘, 예멘 사나 공습…“4명 사망·67명 부상”",
+        "time": "2025-08-25T10:14:54",
+        "img": "https://imgnews.pstatic.net/image/449/2025/08/25/0000318833_001_20250825101512829.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/449/0000318833",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000318833",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "머스크 화성 우주선 '스타십' 10번째 시험 발사 연기",
+        "time": "2025-08-25T10:11:26",
+        "img": "https://imgnews.pstatic.net/image/214/2025/08/25/0001444818_001_20250825101317399.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/214/0001444818",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001444818",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"미국, 주일미군 개편해 '다영역특임단' 사령부 기능 설치 검토\"",
+        "time": "2025-08-25T10:09:11",
+        "img": "https://imgnews.pstatic.net/image/214/2025/08/25/0001444817_001_20250825101315572.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/214/0001444817",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001444817",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "일본인 10명 중 6명, 이시바 총리 '전후 80년 메시지' 발표 찬성",
+        "time": "2025-08-25T10:08:34",
+        "img": "https://imgnews.pstatic.net/image/214/2025/08/25/0001444816_001_20250825101115348.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/214/0001444816",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001444816",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "특사단, 中왕이에 李대통령 친서 전달…“경주 APEC에 시진핑 초청”",
+        "time": "2025-08-25T10:06:17",
+        "img": "https://imgnews.pstatic.net/image/029/2025/08/25/0002977531_002_20250825100713574.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002977531",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002977531",
+        "summary": "박병석 前 국회의장, 李대통령 친서 전달…“한·중 관계 정상궤도 물꼬 희망”\n朴, 왕이 부장 향해 “오랜 친구여” 덕담\n왕이 “오랫동안 양국 관계 발전에 긍정적으로 기여” 화답",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "호주 전역서 팔레스타인 지지 시위... 한인 동포들도 연대 목소리",
+        "time": "2025-08-25T09:55:12",
+        "img": "https://imgnews.pstatic.net/image/047/2025/08/25/0002485601_001_20250825095514380.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/047/0002485601",
+        "original_url": "https://n.news.naver.com/mnews/article/047/0002485601",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "\"美, 주일미군 개편해 다영역특임단 사령부 설치 검토\"",
+        "time": "2025-08-25T09:52:46",
+        "img": "https://imgnews.pstatic.net/image/277/2025/08/25/0005641472_001_20250825095314597.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005641472",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005641472",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[세계는 지금] 우크라, 전쟁 중 독립 34주년… 각국 연대 메시지",
+        "time": "2025-08-25T09:49:24",
+        "img": "https://imgnews.pstatic.net/image/417/2025/08/25/0001097154_001_20250825095007334.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/417/0001097154",
+        "original_url": "https://n.news.naver.com/mnews/article/417/0001097154",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "트럼프 “주 방위군 확대할 것”…주지사들 ‘강력 반발’",
+        "time": "2025-08-25T09:42:52",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012015251",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012015251",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 공개연설에서 \"미국에 굴복 안 해\"",
+        "time": "2025-08-25T09:42:15",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/25/AKR20250825094202192_01_i_20250825094215671.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000774143",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000774143",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "우크라 “우리가 미래 결정”…러 “안전 보장 논의 러·중도 참여해야”",
+        "time": "2025-08-25T09:41:23",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012015235",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012015235",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "머스크 화성 우주선 스타십 10번째 시험 발사 연기",
+        "time": "2025-08-25T09:40:12",
+        "img": "https://imgnews.pstatic.net/image/422/2025/08/25/AKR20250825093909961_01_i_20250825094012592.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000774142",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000774142",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "李대통령 '깜짝 기내간담회' …\"트럼프 협상법 책에 써놨더라\"",
+        "time": "",
+        "img": "https://img5.yna.co.kr/template/kr/20250825/kr_659_20250825092246_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825003900001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825003900001",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 \"北문제 제한없이 필요한 얘기 다 할 것…길 만들어야\"",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img5.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825003500001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825003500001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825003500001",
+        "summary": "\"상황 나빠진 만큼 대북대화 필요성 더 커져…한반도 평화 위해 주변국 설득 총력\"\n김여정 '위인' 성명엔 \"표현 연연할 필요 없어…큰 흐름에 돌출 부분 정도\"\n(워싱턴=연합뉴스) 임형섭 설승은 황윤기 기자 = 이재명 대통령은 24일(현지시간) 이번 한미정상회담에서 다뤄질 대북 정책 의제와 관련해 \"제한 없이 필요한 얘기는 다 해볼 생각\"이라고 밝혔다.\n미국과 일본을 순방 중인 이 대통령은 이날 일본 하네다 공항을 떠나 미국 워싱턴DC로 향하는 전용기에서 가진 기자간담회에서 관련 질문에 \"회담 의제는 도널드 트럼프 미 대통령이 제기할 수도 있고 제가 제기할 수도 있다\"며 이같이 언급했다.\n이 대통령은 \"북한 문제는 우리에게 매우 중요한 문제이니까 핵 문제든 북한 문제든 한반도의 평화와 안정에 관한 것은 대한민국 안보 문제에서 제일 중요한 것\"이라며 \"그 얘기는 누가 하든지 아마 한 번쯤은 해 보지 않을까 생각이 든다. 길을 한번 만들어봐야 하지 않을까 싶다\"고 강조했다.\n이 대통령은 지난 2018년 평창 동계올림픽을 계기로 남북미 관계가 해빙기를 맞았던 것처럼 오는 10월 열리는 경주 아시아태평양경제협력체(APEC) 정상회의를 활용해 북한 문제 진전을 꾀할 수 있지 않겠느냐는 취지의 질문에 \"2018년과 상황이 비슷해 보일 수는 있으나 객관적으로 전혀 비슷하지 않고 훨씬 나쁘다\"고 답했다.\n특히 \"적대감도 매우 커졌고 북한의 핵무기·미사일 개발도 그때와 비교할 수 없을 정도이고, 주변국 관계도 많이 나빠졌다\"며 \"세계 평화나 동맹의 입장에 대한 고려보다 자국 이익이 더 중요한 상황이라 비교할 수 없을 만큼 매우 상황이 안 좋다\"고 진단했다.\n다만 이 대통령은 \"한반도 비핵화를 위한 대화와 소통, 협력의 필요성은 변함없다\"며 \"어쩌면 상황이 나빠진 만큼 그 필요성은 훨씬 더 커졌다\"고 했다.\n또 \"과거보다 몇 배의 노력을 더 들여야 현실적인 성과가 조금이라도 나타날 수 있지 않나 생각한다\"며",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 특검 \"심우정, 尹구속취소 '즉시항고' 안한 혐의 포함\"",
+        "time": "2025-08-25T10:09:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20250825049300004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825049300004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 필리버스터 종료…'더 센 상법' 與주도 본회의 통과",
+        "time": "2025-08-25T10:07:00",
+        "img": "https://img9.yna.co.kr/photo/yna/YH/2025/08/25/PYH2025082503770001301_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825048800001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825048800001",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'尹 계엄 공모' 이상민 전 행안 재판, 내달 19일 첫 준비기일",
+        "time": "2025-08-25T09:59:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/07/25/PYH2025072503340001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825045700004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825045700004",
+        "summary": "피고인 출석 의무 없어…내란 중요임무·직권남용·위증 혐의\n(서울=연합뉴스) 이도흔 기자 = 12·3 비상계엄과 관련해 윤석열 전 대통령과 내란을 공모한 혐의 등으로 구속기소 된 이상민 전 행정안전부 장관 사건의 재판이 다음 달부터 시작된다.\n25일 법조계에 따르면 서울중앙지법 형사합의32부(강완수 부장판사)는 오는 9월 19일 오후 2시 이 전 장관의 내란 중요임무 종사, 직권남용, 위증 혐의 재판의 첫 공판준비기일을 연다.\n공판준비기일은 정식 재판에 앞서 범죄 혐의에 대한 피고인 측 입장을 확인하고 증거조사 계획을 잡는 절차로 피고인 출석 의무는 없다.\n비상계엄 관련 내란·외환 의혹을 수사 중인 조은석 특별검사팀은 지난 19일 이 전 장관을 구속 상태로 재판에 넘겼다.\n이 전 장관은 평시 계엄 주무 부처인 행정안전부 장관으로서 불법적인 계엄 선포를 막지 못하고, 사실상 방조한 혐의를 받는다.\n경찰청과 소방청에 언론사 단전·단수 지시를 전달하는 등 언론의 자유와 국민 생명·안전권을 침해하는 '국헌 문란 행위'를 벌이고, 이를 통해 윤 전 대통령의 내란 범죄에 순차적으로 가담한 혐의도 있다.\n특검팀은 이 전 장관이 지난 2월 헌법재판소의 윤 전 대통령 탄핵심판 변론에서 단전·단수 지시를 한 적이 없고 대통령으로부터 관련 지시를 받은 적도 없다는 취지로 허위 증언했다고도 보고 있다.\n비상계엄 사태와 관련해 윤석열 정부 국무위원이 구속기소 된 것은 김용현 전 국방부 장관에 이어 이 전 장관이 두 번째다.\n특검팀은 김 전 장관과 이 전 장관 등 국무위원들을 지휘·감독하는 국정 2인자였던 한덕수 전 국무총리에 대해서도 전날 구속영장을 청구했다.\nleedh@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[게시판] '장병 원스톱 서비스 플랫폼' 이름짓기 공모전",
+        "time": "2025-08-25T09:49:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825041500504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825041500504",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825041500504",
+        "summary": "▲ 국방부는 한국지능정보사회진흥원과 함께 25일부터 내달 8일까지 '장병 원스톱 서비스 플랫폼' 이름짓기 공모전을 개최한다고 밝혔다. 장병 대상 국방 서비스를 모바일 환경에서 통합 제공하는 플랫폼으로, 내년 1월부터 서비스를 개시할 예정이다. 공모전은 응모 누리집(www.mpcontest.kr)을 통해 참가할 수 있다. (서울=연합뉴스)",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이준석, 조국 '2030 남성 극우' 발언에 \"여전히 위선…자중해야\"",
+        "time": "2025-08-25T09:49:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/04/PYH2025080404160001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825039600001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825039600001",
+        "summary": "(서울=연합뉴스) 김치연 노선웅 기자 = 개혁신당 이준석 대표는 25일 조국혁신당 조국 전 대표를 향해 \"여전히 위선의 상징\"이라고 비판했다.\n이 대표는 이날 국회에서 열린 최고위원회의에서 \"20·30 남성의 민주당 지지 이탈은 편향된 젠더 정책 때문이기도 했지만, 근본적으론 조국 사태로 드러난 진보 진영의 위선 때문이었다\"며 이같이 말했다.\n그는 \"본인이 직접 저지른 표창장·인턴 경력 위조로 대한민국 청년을 배신했음에도 조 전 대표는 반성과 사과는커녕 오히려 극우로 몰아세우며 자신의 실패를 덮으려 하고 있다\"고 꼬집었다.\n이어 \"재판 과정에서 무려 300차례 가까이 형사소송법 148조에 따른 묵비권을 행사했다던 조 전 대표는 왜 재판관 앞에선 침묵하고 국민 앞에선 빅마우스인가\"라며 \"수백번의 침묵으로 국민을 기만한 사람이 이제 와 젊은 세대를 향해 훈계를 늘어놓는 상황을 더 이상 봐주기 어렵다. 자중하라\"고 지적했다.\n조 전 대표는 지난 22일 한 라디오 방송에서 \"2030 남성이 70대와 비슷한 성향, 이른바 극우 성향을 보인다\"고 언급한 바 있다.\nchic@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 건진법사 전성배도 김건희특검 출석…구속 후 첫 조사",
+        "time": "2025-08-25T09:43:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/18/PYH2025081804250001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825041900004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825041900004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "국방부 인사복지실장에 김성준 전북지방병무청장",
+        "time": "2025-08-25T09:35:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825037700504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825037700504",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825037700504",
+        "summary": "(서울=연합뉴스) 김철선 기자 = 국방부는 인사복지실장에 김성준 전북지방병무청장을 임용했다고 25일 밝혔다.\n인사복지실장은 군인·군무원의 인사 및 복지·보건정책, 동원 및 예비전력 정책을 총괄·조정하는 직위다.\n김 신임 인사복지실장은 1995년 5급 공채(행시 38회)로 공직에 입문한 이후 계획예산관, 감사관, 기획관리관, 전북지방병무청장 등 국방부 주요 보직을 두루 역임했다.\n앞서 김 실장은 2020∼2023년 국방부에서 인사복지실장을 지낸 바 있다.\n국방부는 \"인사복지 분야 전문성을 바탕으로 장병 복무여건 개선과 군 의료체계 발전, 예비전력 정예화 등 인사복지 분야 국정과제 및 주요 현안을 차질 없이 수행할 적임자\"라고 평가했다.\nkcs@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령, 재미교포들 만나 \"한미동맹 새 역사 함께해달라\"",
+        "time": "2025-08-25T09:37:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/25/PYH2025082500340001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825034300001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825034300001",
+        "summary": "방한 첫 일정…'케데헌' 언급하며 \"한미 양국 서로 풍요롭게\"\n(워싱턴=연합뉴스) 임형섭 설승은 황윤기 기자 = 이재명 대통령은 도널드 트럼프 미국 대통령과의 정상회담을 하루 앞둔 24일(현지시간) 재미 교포들을 만나 \"한미동맹의 새로운 역사를 만들어가는 여정에 함께해 주실 것으로 믿는다\"며 양국 관계 발전에 기여해 달라고 당부했다.\n이 대통령은 방미 첫 일정으로 이날 오후 미국 워싱턴DC 시내 호텔에서 재미 교포들과 가진 만찬 간담회에서 이같이 말했다. 배우자 김혜경 여사도 흰색 저고리에 분홍색 치마를 입은 한복 차림으로 동석했다.\n이 대통령은 \"K팝을 소재로 한 케이팝 데몬 헌터스가 각종 기록을 휩쓸며 글로벌 청년들의 마음을 사로잡고 있다. 우리에게 익숙한 김밥, 라면은 더 이상 이제 한국인들만의 음식이 아니게 됐다\"며 \"(양국이) 서로를 더욱 풍요롭게 만드는 동맹의 새 역사를 목도하고 있다\"고 했다.\n이어 \"저는 이 모든 변화에 힘을 모아 72년 한미동맹의 새 길을 여는 중요한 여정에 나서고 있다\"며 \"급격한 국제 질서 변화에 함께 대응하여 한미동맹을 발전시켜 나갈 방안을 함께 모색할 것\"이라고 강조했다.\n이 대통령은 또 \"동포 사회의 빛나는 노력이 헛되지 않도록 다양한 목소리에 귀 기울이고 필요한 지원을 더욱 확대해 나가겠다\"며 \"오랜 과제인 복수 국적, 연령 하향 문제를 해결하는 일에도 힘을 쏟겠다\"고 말했다.\n아울러 \"주권자로서 권한 행사를 하고 책임과 역할을 다하는 데 부족함이 없도록 투표할 수 있는 장소나 장치·제도도 잘 만들겠다\"고 덧붙였다.\n만찬에는 한국계 미국인으로 최초로 연방 상원의원에 당선된 앤디 김 의원도 참석했다.\n김 의원은 건배사에서 이 대통령에게 \"미국에 오신 것을 환영한다. 한국은 긍정적인 미래를 가지고 있다\"며 \"한국과 미국의 관계를 위해 건배하자\"고 말했다.\n이 대통령은 25일 오전 열리는 트럼프 대통령과의 정상회담을 위해 일본 도쿄를 거쳐 이날 미국에 도",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "정청래, 김문수 '美대사관 테러' 발언에 \"사과 않으면 법적조치\"",
+        "time": "2025-08-25T09:29:00",
+        "img": "https://img1.yna.co.kr/photo/yna/YH/2025/08/24/PYH2025082402840001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825035800001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825035800001",
+        "summary": "\"수류탄 던지거나 현관문 깨거나 불 지른 적 없다\"\n(서울=연합뉴스) 곽민서 기자 = 더불어민주당 정청래 당 대표는 25일 국민의힘 대표 선거 결선에 진출한 김문수 후보가 과거 자신이 주도한 주한 미국 대사관저 점거농성 사건을 '테러'라고 언급한 데 대해 \"정정 사과하지 않으면 법적 조치하겠다\"고 말했다.\n정 대표는 이날 페이스북에서 \"김문수씨가 '정청래 대표가 수류탄을 던지고 쇠파이프로 현관문을 다 깨고 대사관저에 불을 지르는 아주 흉악한 분'이라고 했는데, 수류탄을 던지거나 현관문을 다 깨거나 불을 지른 적도 없다\"며 이같이 말했다.\n정 대표는 1989년 전국대학생대표자협의회(전대협) 소속으로 주한 미국 대사관저 점거농성 사건을 주도해 국가보안법 위반 혐의로 징역 2년을 선고받아 옥고를 치른 바 있다.\n앞서 김 후보는 지난 10일 국민의힘 당 대표 선거 후보자 TV 토론에서 \"더불어민주당 정청래 같은 사람이 극좌다. (미국) 대사관 가서 쇠 파이프로 현관문 부수는 사람이 극좌 테러리스트지 부정선거 음모론자가 무슨 불을 질렀나 폭력을 행사했느냐\"고 말했다.\nmskwak@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "권익위 \"경북 봉화군 '도로 과속빈번' 민원 조정으로 합의\"",
+        "time": "2025-08-25T09:34:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825036600001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825036600001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825036600001",
+        "summary": "(서울=연합뉴스) 이상현 기자 = 국민권익위원회는 25일 과속 차량으로 불편을 겪던 경상북도 봉화군 주민들이 제기한 민원을 조정으로 해결했다고 밝혔다.\n권익위에 따르면, 봉화군 인근 지방도 935호는 약 450ｍ 구간이 직선이어서 빈번한 과속 차량들로 주민이 위협을 느끼고 있었다.\n이와 가까운 군도 4호선은 일부 구간이 1차로여서 통행에 어려움도 있었다.\n권익위가 마련해 합의를 이룬 조정안에는 ▲ 단속 필요구간 과속단속카메라 설치 추진 ▲ 군도 4호선 일부 구간 확장공사 추진 등 내용이 담겼다.\nhapyry@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 \"주한미군 유연성 동의 어려워…미래형 전략화는 필요\"",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/25/PYH2025082500340001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825002700001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825002700001",
+        "summary": "\"생각만큼 협상 험악하진 않아\"…관세협상 등에 \"합리적 결론 이를 것\"\n\"美, 대화에 무리 않을 것으로 기대…국민 실망 않게 책임감 갖고 최선\"\n농축산물 추가개방 요구엔 \"美서 목소리 나오지만…뒤집는 것 바람직 않아\"\n(워싱턴=연합뉴스) 임형섭 설승은 황윤기 기자 = 미국과 일본을 순방 중인 이재명 대통령은 24일(현지시간) 미국과의 관세협상 진행 상황에 대해 \"최종적으로는 현실적이고도 합리적인 결론에 이르게 될 것\"이라고 말했다.\n이 대통령은 일본 하네다 공항을 떠나 미국 워싱턴DC로 향하는 전용기에서 기내간담회를 갖고 이같이 밝힌 뒤 \"다만 그 과정이 매우 힘들다. 그렇더라도 힘든 줄 알면 미리 대비할 수 있으니 최선을 다해보겠다\"고 강조했다.\n이 대통령은 \"외교에서 자국중심 기조가 강해지면서 우리의 국익을 지키기 위해서는 과거보다 몇 배의 노력이 필요한 것 같다\"며 \"(상대의) 요구를 다 들어주기 어려운 상황 속에 국익이 훼손되지 않도록 하는 것이 어려운 일\"이라고 전제했다.\n또 \"과거보다 입지가 많이 어려워진 것이 객관적인 사실이지만 그런 어려움조차 이겨내고 국익을 지켜내고 더 나은 상황을 만드는 게 제가 할 일\"이라며 \"또 그렇게 될 것이라고 생각한다\"고 언급했다.\n특히 \"분명한 것은 대한민국도 주권국가이며, 주권자인 국민이 기대하는 바를 충족시키지는 못하더라도 최소한 실망하게 해 드리지는 말아야 겠다는 책임감을 갖고 있다\"고 강조했다.\n그러면서 \"(미 측이) 대화도 그리 무리는 하지 않을 것으로 기대한다. 그렇게 예상하고 있다\"고 내다봤다.\n회담 의제에 대해서는 \"제한을 두지 않고 필요한 얘기는 다 해볼 생각\"이라며 \"자주 있는 기회가 아닌 만큼 나쁜 얘기만 아니라면 다 해봐야 하지 않겠느냐\"고 말했다.\n다만 이 대통령은 \"정상회담 자리에서 갑자기 새로 나오는 의제는 많지 않고, 주요 의제는 사전에 실무선에서 구체적으로 협의한다\"며 \"짐작하는 대로",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전남 삼포지구 기업도시특례법 연내 개정 '관심'",
+        "time": "2025-08-25T10:07:00",
+        "img": "https://img1.yna.co.kr/photo/cms/2024/09/19/92/PCM20240919000292054_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825047600054",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825047600054",
+        "summary": "국회 국토교통위 전체회의 통과, 9월 법안소위 상정 예정\n특례법 연장 효과, 공유수면 매립 부지 비용 절감 혜택 가능\n(무안=연합뉴스) 형민우 기자 = 전남 서남해안기업도시인 삼포지구에 적용된 기업도시 특례법의 유효기간을 연장하는 개정법안이 올해 안에 통과될지 관심이다.\n전남도는 공유수면을 매립하는 등 부지 개발을 추진 중인데, 특례법이 연장되어야 토지 매입 비용을 절감할 수 있어서 국회를 상대로 전방위적인 설득 작업에 나섰다.\n25일 전남도에 따르면 더불어민주당 서삼석 의원(전남 영암·무안·신안)은 지난 2023년 기업도시개발 특별법 3년 연장을 골자로 한 개정안을 발의했으나 국회가 폐회하면서 법안이 자동 폐기됐다.\n서 의원은 지난 3월 개정안을 다시 대표 발의했으며 최근 국회 국토교통위원회 전체 회의를 통과했다.\n개정안은 9월 중 국토법안심사소위원회와 법제사법위원회의 심의를 받아야 본회의에 상정된다.\n기존 특례법 유효기간은 지난해 4월까지였다.\n전남도는 개정안이 기존 특례를 연장하는 내용을 담고 있어 여야의 이견이 없을 것으로 보고 비쟁점 법안으로 처리될 수 있도록 상임위에 요청했다.\n국토위 간사인 민주당 복기왕 의원과 광주전남 출신인 이건태·정준호·조계원 의원 등을 상대로 개정법안을 설명할 계획이다.\n9월까지 개정안이 상임위인 국토위를 통과하면, 10월 법사위에 상정되고 연말에 본회의에서 법안을 최종적으로 다루게 된다.\n전남도는 지난 2010년부터 영암군 삼호읍 삼포지구에 공유수면 411만1천㎡를 매립하는 등 422만9천㎡(128만평) 부지를 개발하고 있다.\n공유수면을 매립해 수상레포츠 테마공원과 친환경 수소환경 단지를 조성할 계획인데 올 하반기 매립을 마무리할 예정이다.\n매립을 마치면 토지 소유권을 농어촌공사로부터 취득해야 하는데 기업도시특례법이 적용되면 ㎡당 1만9천850원에 매입할 수 있지만, 특례를 적용받지 않으면 ㎡당 8만원으로 4배가량 증가한다.",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "가을축제 시즌 앞두고 푸드트럭 민원 증가…\"위생관리 강화\"",
+        "time": "2025-08-25T09:09:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825029800001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825029800001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825029800001",
+        "summary": "올해 월평균 민원 221건…권익위 '민원주의보' 발령\n(서울=연합뉴스) 이상현 기자 = 국민권익위원회는 25일 가을철 다수의 지역 축제 개최가 예상됨에 따라 푸드트럭 관련 '민원주의보'를 발령했다.\n권익위에 따르면 2022년 8월부터 2025년 7월까지 최근 3년간 범정부 민원분석시스템에 수집된 민원을 분석한 결과 푸드트럭 관련 사안은 6천590건으로 집계됐다.\n월평균 민원은 2022년 133건에서 2023년 165건, 2024년 194건, 2025년 221건으로 지속적으로 늘었다.\n민원 제기 내용은 주로 식품위생 위반 단속 요구, 인도 및 도로 점유 신고, 불법 영업 신고 등이었다.\n권익위는 이에 따라 관계 기관에 식품위생 관리 내실화, 영업 지역 관리 강화, 무허가 영업행위 단속 강화 등 관리 개선 방향을 제시했다.\n한편, 지난달 민원분석시스템에 수집된 민원은 모두 136만 건으로 지난해 같은 기간(126만 건) 대비 7.3% 늘었다.\nhapyry@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 국정지지율 51.4%…3주 만에 하락세 멈추고 소폭반등[리얼미터](종합)",
+        "time": "2025-08-25T08:49:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/08/25/PYH2025082500630001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825020151001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825020151001",
+        "summary": "민주 45.8%로 5.9%p↑·국힘 35.5%로 1.2%p↓…지지율 격차 다시 오차범위 밖\n조국혁신당 지지율 하락 전환\n(서울=연합뉴스) 곽민서 기자 = 이재명 대통령의 국정수행 지지도가 51.4%로 3주 만에 하락세를 멈추고 상승했다는 여론조사 결과가 25일 나왔다.\n리얼미터가 에너지경제신문 의뢰로 지난 18∼22일 전국 18세 이상 유권자 2천512명을 대상으로 조사한 결과 이 대통령의 국정수행에 대해 '잘함'이라고 평가한 응답자는 51.4%로 나타났다.\n이는 전주 대비 0.3%포인트(p) 상승한 수치다. 앞서 이 대통령 지지율은 8월 1∼2주차에 2주 연속으로 하락하며 취임 후 최저치를 나타냈다가 이날 3주 만에 소폭 올랐다.\n'잘못함'이라고 응답한 비율은 44.9%로 전주 대비 0.4%p 올랐다. '잘 모름'은 3.7%로 집계됐다.\n리얼미터는 \"이 대통령 지지율은 긍정적 요인과 부정적 요인이 서로 상쇄되면서 횡보하는 양상을 보였다\"며 \"긍정적 요인으로는 미·일 순방 준비 등 외교·안보 분야 활동이 있었지만, 특검 관련 정치 공방이나 광복절 특별사면 후폭풍, 연이은 산업재해 사고 등은 지지율 상승을 막은 부정 요인으로 작용했다\"고 분석했다.\n지역별로 보면 부산·울산·경남 지지율이 50.7%로 5.1%p 오르면서 과반을 회복했고, 서울 지지율도 50.7%로 2.3%p 올랐다.\n이밖에 인천·경기 지지율이 50.4%, 대전·세종·충청 지지율이 49.0%, 광주·전라 지지율이 74.2% 등으로 집계됐다.\n대구·경북 지역 지지율은 35.1%로 전주보다 7.2%p 하락했다.\n연령대별로는 40대(61.8%), 50대(62.1%) 지지율이 가장 높았고, 20대(42.2%)가 가장 낮았다.\n30대 지지율은 47.2%를, 70대 이상 지지율은 42.5%를 각각 기록했다.\n이념 성향별로는 진보층 지지율이 83.6%로 1.6%p 오른 반면, 보수층 지지율은 22.7%로 2.9%p 내렸다.",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "李대통령 \"野와 당연히 대화…당선된 순간 與아닌 국민의 대표\"",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825004500001_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825004500001",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825004500001",
+        "summary": "\"'반탄파' 뽑은 사람도 국민…與 대표와 대통령 입장은 달라\"\n최근 지지도 하락엔 \"다 알지 않나, 野 전당대회도 영향…인기끌려 포장하면 골병\"\n(워싱턴=연합뉴스) 임형섭 설승은 황윤기 기자 = 이재명 대통령은 24일 국민의힘 차기 대표 선거가 반탄(윤석열 전 대통령 탄핵 반대)파 후보 간 대결로 압축된 것과 관련해 \"공식적인 야당의 대표가 법적 절차를 거쳐 선출되면 당연히 대화해야 한다\"고 밝혔다.\n미국과 일본을 순방 중인 이 대통령은 이날 일본 하네다 공항을 떠나 한미정상회담을 위해 미국 워싱턴DC로 향하는 전용기에서 가진 기자 간담회에서 '반탄파가 국민의힘 대표로 선출되더라도 야당과 대화를 하겠다는 생각은 유효한가'라는 질문에 이같이 답했다.\n이 대통령은 \"탄핵에 반대하는 지도 그룹, 그야말로 내란에 동조한 것 같은 정치인 지도 그룹이 형성되면 용인할 것이냐는 질문 아닌가\"라며 \"(더불어민주당) 정청래 대표도 그런 고민을 했을 것 같다. 참 어려운 문제\"라고 말했다.\n이 대통령은 \"대통령의 입장에서는 그런 사람들이 선출된다고 하더라도 그들을 뽑은 사람들 역시 국민\"이라며 \"거기(후보들)에 대해 나중에 어떤 법적·정치적 제재가 있을지는 현재로서는 알 수 없는 일\"이라고 언급했다.\n특히 \"여당 대표인 정 대표의 입장과 대통령의 입장은 다르다\"며 \"저는 여당의 도움을 받아 여당의 입장을 갖고 대선에서 이겼지만, 당선돼 국정을 맡는 순간부터 여당이 아닌 국민을 대표해야 한다\"고 강조했다.\n그러면서 \"물론 여당과 조금 더 가깝긴 하지만 야당을 배제해서는 안 되는 게 당연하다\"며 \"힘들더라도 야당과 대화는 당연히 해야 한다\"고 거듭 강조했다.\n이 대통령은 정 대표가 '악수는 사람과 한다'며 국민의힘 인사들과 악수를 거부하는 것에 대해 어떻게 생각하느냐는 질문에는 \"정 대표에 대한 얘기를 제가 하는 것은 부적절하다\"며 \"그분은 당 대 당으로 (야당과) 경쟁하는 입장\"이라고 했다.\n이어 \"(",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "특사단 \"한미동맹 발전 속 한중관계 추진…APEC에 시진핑 초청\"",
+        "time": "2025-08-25T08:44:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825022200504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825022200504",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825022200504",
+        "summary": "방중 특사단-왕이 외교부장 면담…李대통령 친서 전달\n(서울=연합뉴스) 김지연 기자 = 이재명 대통령이 중국에 파견한 특사단이 24일 베이징 조어대에서 중국 외교 사령탑인 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장(장관)을 만나 면담·만찬을 갖고 한중관계 발전 방향에 관한 이 대통령의 시진핑 중국 국가주석 앞 친서를 전달했다고 외교부가 25일 밝혔다.\n박병석 전 국회의장을 단장으로 하는 특사단은 한중 수교 33주년 기념일인 전날 왕 부장을 만나 새 정부는 한미동맹을 지속적으로 발전시켜 나가는 가운데 국익과 실용에 기반해 '한중 전략적 협력 동반자 관계'의 성숙한 발전을 추진할 것이라고 했다.\n왕 부장은 한국의 새 정부가 특사단을 중국에 파견하고 한중관계 발전에 관한 메시지를 전달해 준 데 대해 깊은 사의를 표하고, 대통령의 친서를 시 주석에게 신속하게 보고하겠다고 전했다.\n양측은 올해 10월 경주 아시아태평양경제협력체(APEC) 정상회의의 성공적 개최와 내년도 APEC 의장국으로서 중국의 역할과 관련해 상호 긴밀히 협력하기로 했다.\n특사단은 경주 APEC 정상회의 계기 시 주석의 방한을 요청했으며, 양측은 이와 관련해 긴밀히 소통하기로 했다.\n양측은 양국 국민의 삶에 실질적으로 기여하는 한중 전략적 협력 동반자 관계를 만들어 나가자는 데 공감하고 인문교류, 경제협력, 공급망 등 분야에서 국민이 체감할 성과를 함께 만들기로 했다.\n양측은 또한 양국 관계의 장기적이고 안정적인 발전을 위해 민의(民意)의 기반을 강화해 나가야 한다는 데 공감했다. 박 단장은 서울대-북경대 간 합동 연구 등 방식을 통해 양 국민 간 우호정서 악화의 원인과 그 제고 방안에 대해 긴밀히 논의할 것을 제안했고, 왕 부장도 이에 적극 협조하겠다며 화답했다.\n특사단은 서해 문제를 포함한 상호 관심사를 존중해야 한다고 강조했다. 중국은 심해 연어 양식 시설이라며 서해 잠정조치수역에 일방적으로 구조물을 설치했다.\n특사단은 또",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "BIS \"CBDC 발행 동기는 중앙은행 화폐 역할 보존\"",
+        "time": "2025-08-25T10:03:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825046700002_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825046700002",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825046700002",
+        "summary": "세계 93개국 중앙은행 설문조사 결과\n(서울=연합뉴스) 한지훈 기자 = 각국 중앙은행이 중앙은행 디지털 화폐(CBDC)를 추진하는 핵심 동인은 기존 화폐 역할을 보존하기 위한 것이라는 국제결제은행(BIS) 조사 결과가 나왔다.\n25일 금융권에 따르면 BIS는 최근 보고서에서 \"중앙은행 화폐의 역할 보존이 CBDC 연구의 핵심 동인\"이라고 밝혔다.\n이런 결론은 BIS가 지난해 말 세계 93개 중앙은행을 대상으로 설문 조사한 결과를 분석한 것이다. 이들 은행 중 91%에 달하는 85곳이 CBDC를 연구하고 있었다.\nBIS는 \"소매용 CBDC를 연구하는 중앙은행의 거의 80%와 도매용 CBDC를 연구하는 중앙은행의 75%가 중앙은행 화폐 역할을 보존하는 것을 잠재적 발행의 중요한 또는 매우 중요한 이유로 보고 있다\"고 전했다.\n이들 은행은 현금 사용이 감소하는 가운데 소매용 CBDC가 대안을 제공함으로써 중앙은행 화폐의 역할을 고정할 수 있는 가능성을 언급했다.\n다른 중앙은행들은 소매용 CBDC가 화폐의 단일성을 지원하고, 화폐와 금융 시스템 전반에 대한 신뢰를 보장할 수 있다고 강조하기도 했다.\n중앙은행들은 또 도매용 CBDC의 경우 토큰 증권 등 거래의 결제 자산으로서 중앙은행 화폐의 역할을 보존하는 수단이 될 수 있다고 언급했다.\n여기서 소매용 CBDC는 일반 개인이나 기업을 대상으로 발행되는 것을, 도매용 CBDC는 금융기관 간의 대규모 결제와 거래를 위해 사용되는 것을 각각 가리킨다.\n반면, 선진국과 신흥시장 및 개발도상국 중앙은행 모두 CBDC 발행 동기로 금융안정이나 통화정책 이행을 중시하는 답변은 많지 않았다.\nBIS는 소매용 CBDC와 관련, \"국내 결제 효율성 개선과 결제 안전성 제고가 또 다른 주요 동인\"이라며 \"이런 동기는 최근 몇 년 동안 상당한 탄력을 얻었다\"고 분석했다.\nhanjh@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "경기도일자리재단, 내달 5일 한국잡월드서 여성취업박람회 개최",
+        "time": "2025-08-25T09:46:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825042700061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825042700061",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825042700061",
+        "summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도와 경기도일자리재단은 다음 달 5일 성남 한국잡월드에서 여성취업박람회 '경기여성 잡페스타'를 연다고 25일 밝혔다.\n박람회 채용관에서는 성남고용복지플러스센터와 협업해 파리크라상, 성남교육지원청, 신화푸드 등 20여개 업체·기관이 참여한 가운데 현장 면접을 진행한다.\n경기도일자리재단의 '잡아바 어플라이'(apply.jobaba.net)에는 다른 20여개 기업이 온라인 채용관을 개설해 구직자를 모집한다.\n온오프라인 채용관을 통해 모두 200~300명을 채용할 예정이다.\n박람회에 대한 자세한 사항은 경기도일자리재단 남부일자리팀(☎031-270-9800)으로 문의하면 된다.\nchan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "관광공사, 중국 베이징서 '한국 헬스&뷰티 페스타' 개최",
+        "time": "2025-08-25T09:28:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825036000030_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825036000030",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825036000030",
+        "summary": "(서울=연합뉴스) 강애란 기자 = 한국관광공사는 지난 22∼23일 중국 베이징에서 '2025 한국 헬스&뷰티 페스타'를 개최하고 중국 관광객 유치에 힘을 쏟았다고 25일 밝혔다.\n이번 행사는 의료관광을 넘어 헬스와 뷰티를 융합한 새로운 형태의 이벤트로 한국을 홍보하기 위해 마련됐다.\n행사 첫날인 22일 한중 비즈니스 상담회에는 국내 의료, 웰니스, 관광업계 31개 기관과 중국 현지 여행사, 관계 기관 등 78개에서 300여명이 참석해 상담을 진행했다. 23일에는 현지 소비자 대상 특별 상담과 체험행사를 열었다.\n양일간 866건의 상담을 통해 127건의 계약이 체결돼 약 14억원의 매출을 기록했다.\n서영충 관광공사 사장 직무대행은 \"맞춤형 마케팅을 통해 한국의 의료관광, 웰니스 관광 등의 고부가 관광 수요를 창출하겠다\"고 말했다.\naeran@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "DL건설, 한수원 홍천양수발전소 건설사업 수주",
+        "time": "2025-08-25T09:16:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825033400003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825033400003",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825033400003",
+        "summary": "(서울=연합뉴스) 임기창 기자 = DL건설은 한국수력원자력이 발주한 홍천양수발전소 1·2호기 토건공사를 수주했다고 25일 밝혔다.\nDL건설은 이번 사업에 대우건설 컨소시엄(대우건설·DL건설·효성)으로 참여했다. DL건설 지분은 30%로, 수주액은 약 1천846억원이다.\n홍천양수발전소 건설은 강원도 홍천군 화촌면 풍천리 일원에 총 시설용량 600㎿(300㎿ 2기)의 순양수식 발전소를 건설하는 프로젝트다. 준공 예정 시기는 2033년 12월이다.\n사업 범위에는 상·하부댐 건설과 지하발전소, 발전수로, 각종 터널, 상부지 진입도로 등이 포함된다. 주요 구조물은 상부댐(높이 92.4ｍ·길이 564.2ｍ), 하부댐(높이 66.5ｍ·길이 320.0ｍ), 발전수로 및 지하발전소다.\n양수발전은 전력 수요가 적은 시간대에 물을 상부 저수지에 저장했다가 수요가 급증하면 물을 하부로 내려보내 전력을 생산하는 방식으로, 재생에너지의 간헐성을 보완하는 역할을 한다.\nDL건설 관계자는 \"이번 사업은 재생에너지 확대 및 전력망 안정화를 동시에 달성할 수 있는 중요한 국책 프로젝트\"라며 \"컨소시엄 구성원으로서 안전을 최우선 가치로 두고 공사를 차질 없이 수행해 국가 에너지 인프라 확충에 기여하겠다\"고 말했다.\npulse@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "카카오페이증권, 美금융사 시버트와 글로벌 협력 논의",
+        "time": "2025-08-25T09:07:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825030900008_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825030900008",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825030900008",
+        "summary": "(서울=연합뉴스) 배영경 기자 = 카카오페이증권은 미국 투자금융기업 시버트와 해외주식 중개 서비스 강화 문제를 비롯해 다양한 협업 방안을 논의했다고 25일 밝혔다.\n시버트는 나스닥 상장 종합금융사로, 자회사를 통해 증권 트레이딩·투자 자문·자산 관리 등 개인과 기관 투자자를 대상으로 다양한 금융 서비스를 제공한다.\n신호철 대표 등 카카오페이증권 경영진은 지난 20∼21일 시버트 경영진을 만나 플랫폼·기술·디지털 금융 전반에 걸친 전략적 파트너십 구축에 대해 논의했다.\n구체적으로는 주문·청산·옵션거래 등 해외주식 중개 서비스와 상품영역 확장과 인공지능(AI) 기반 투자정보 및 거래 경험 최적화, 디지털 자산 관련 차세대 금융 인프라 공동개발 등에 관한 협력 방안이 논의됐다.\n카카오페이증권 측은 \"시버트의 글로벌 네트워크와 금융 인프라를 발판 삼아 해외시장을 공략하겠다\"며 \"또 국내 투자자를 위한 해외주식 중개 서비스도 한층 강화할 계획\"이라고 밝혔다.\nykbae@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "엑세스바이오, '코로나·독감 동시 자가진단키트' 미국 승인",
+        "time": "2025-08-25T09:58:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825045000017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825045000017",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825045000017",
+        "summary": "(서울=연합뉴스) 최현석 기자 = 엑세스바이오[950130]는 지난 22일 미국 식품의약국(FDA)으로부터 코로나19와 독감을 동시에 진단할 수 있는 콤보 자가진단키트 '케어슈퍼브(CareSuperb COVID-19/Flu A&B Antigen Combo Home Test)'의 510(k) 승인을 얻었다고 25일 밝혔다.\n이 제품은 겨울철 증상이 유사한 코로나19와 독감 A·B를 10분 이내에 동시 구별 진단할 수 있어 신속하면서도 효율적인 진단을 가능하게 한다.\n회사는 2025~2026년 겨울 호흡기 질환 유행 시즌에 맞춰 CVS, 월그린(Walgreens), 타깃(Target) 등 북미 대형 리테일 네트워크를 보유한 파트너사와 협력해 제품을 공급할 예정이다.\n동시에 공공 조달 시장에도 적극 진출해 판매 채널을 다각화할 방침이다. 회사는 개발부터 생산, 납품까지 전 과정을 미국 내에서 수행하고 있어 강화된 'Buy American Act(미국산 우대법)' 및 해외 제조품 관세 부과 기조 속에서 경쟁 우위를 확보할 것으로 기대했다.\n엑세스바이오 관계자는 \"'Buy American Act' 강화 기조 속에서 미국 내 생산 역량과 글로벌 네트워크를 기반으로 성장 기회를 적극 확대해 나가겠다\"고 말했다.\nharrison@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "카카오모빌리티, 구독 서비스 '카카오T 멤버스' 출시",
+        "time": "2025-08-25T09:57:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825043500017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825043500017",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825043500017",
+        "summary": "(서울=연합뉴스) 김경희 기자 = 카카오모빌리티는 25일 월간 구독 서비스 '카카오T 멤버스'를 출시한다고 밝혔다.\n멤버십은 블루파트너스 이용료 100% 할인쿠폰, 밴티·블랙 이용시 3% 적립혜택 등을 제공하는 '이동 플러스'와 주차권·주차패스 등을 제공하는 '내 차 플러스' 등 두 가지로 구성된다. 구독료는 각각 4천900원, 5천원이다.\n카카오모빌리티는 지난해 8월부터 이용자 1만명을 대상으로 멤버십 베타 서비스를 진행해 왔다.\n회사 관계자는 \"멤버십은 편리하고 다양한 모빌리티 경험을 제공하기 위해 기획됐다\"고 말했다.\nkyunghee@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "동해시, 카카오와 업무협약·디지털타운 조성 준공식",
+        "time": "2025-08-25T09:44:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825041700062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825041700062",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825041700062",
+        "summary": "27일 발한동행정복지센터서 열려…주차난 해소·교통편의 향상\n(동해=연합뉴스) 유형재 기자 = 강원 동해시는 오는 27일 발한동행정복지센터에서 '동해시-카카오 업무협약 및 디지털타운 조성 준공식'을 개최한다고 25일 밝혔다.\n이번 행사에서는 실시간 주차정보 고도화 및 주소 기반 주차 정보제공, 내비게이션 실증사업 착수로 주차난 해소, 교통편의 향상을 위한 동해시와 카카오 간 업무협약이 체결된다.\n이와 함께 디지털타운 조성사업 준공식도 함께 진행된다.\n동해시 디지털타운 조성 사업은 총사업비 11억9천400만원을 투입해 작년 6월부터 지난 7월까지 추진됐다.\n사업 구역은 발한동과 묵호 주요 거리 및 인근 주차장 일원으로 스마트폴 9기, 스마트 주차정보 시스템 6개소, 스마트 안전 횡단보도 2개소, 어린이 안심 통학 서비스 1식이 구축됐다.\n이번 디지털타운 준공으로 시민들은 실시간 주차정보 제공 서비스, 안전한 보행 환경, 스마트 도시 인프라 등 다양한 편익을 누릴 수 있게 된다.\n또한, 향후 카카오와의 협력을 통해 주차정보 고도화 및 주소 기반 주차정보 제공, 주차 내비게이션 실증사업이 성공적으로 완료할 수 있을 것으로 기대된다.\n이인섭 안전과장은 \"이번 디지털타운 조성으로 시민들이 보다 안전하고 편리한 생활환경을 누릴 수 있을 것\"이라며 \"주소 기반 주차정보 제공 및 주차 내비게이션 실증사업도 성공적으로 수행하겠다\"고 말했다.\nyoo21@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[게시판] 주한독일상공회의소, '어울림 마라톤' 공동 주최",
+        "time": "2025-08-25T09:35:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825037300003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825037300003",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825037300003",
+        "summary": "▲ 주한독일상공회의소(KGCCI)는 내달 7일 서울 상암동 월드컵공원에서 개최되는 '제11회 시각장애인과 함께하는 어울림 마라톤대회'에 공동 주관으로 참여한다고 25일 밝혔다. KGCCI는 회원사 임직원 및 가족 700여명과 함께 5km 걷기 부문에 참여해 시각장애인 참가자들의 '가이드 워커' 역할을 수행하고 200여개의 흰지팡이를 기부할 예정이다. 회원사인 헨켈코리아와 TUV SUD는 참가자들을 위한 기념품을 증정하며 마라톤 참가비는 시각장애인의 이동권 개선 및 실명예방연구 발전기금을 위해 전액 사용될 예정이다. (서울=연합뉴스)",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[완도소식] 내달 14일까지 완도 전복 소비 이벤트",
+        "time": "2025-08-25T09:44:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825042100054_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825042100054",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825042100054",
+        "summary": "(완도=연합뉴스) 전남 완도군은 25일부터 9월 14일까지 전복 소비 촉진 이벤트를 진행한다.\n이벤트는 완도 전복을 5만 원 이상 구매한 관광객 300명(선착순)에게 '2025 완도 방문해' 기념품(우산, 텀블러 중 한 가지)을 증정한다.\n참여 방법은 신분증을 지참한 후 완도치유페스타 현장 안내소를 찾아 전복 구매 영수증(5만 원 이상)을 제출하면 된다.\n군 관계자는 \"여름 휴가철을 맞아 관광객이 많이 찾고 있는 만큼 전복 소비로 어가 소득이 증대되길 바라며 이벤트를 마련했다\"고 말했다.",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "군산시, 벼 병충해 큰 폭 감소…전년 대비 '3분의 1' 수준",
+        "time": "2025-08-25T09:30:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825035500055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825035500055",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825035500055",
+        "summary": "(군산=연합뉴스) 김진방 기자 = 전북 군산시는 올해 관내 주요 병해충 발생 면적이 전년 대비 대폭 감소했다고 25일 밝혔다.\n군산시농업기술센터에 따르면 올해 군산지역의 도열병, 이화명나방, 벼멸구 등 벼 병해충 발생 면적은 전년 3천442㏊에서 올해 1천5㏊로 감소했다.\n센터는 여름철 맑은 날씨가 지속해 병 발생 면적이 많이 감소했다고 설명했다. 또 비래해충(중국에서 기류를 타고 이동하는 해충)인 혹명나방, 벼멸구도 기압골 형성이 약해져 개체 수가 줄었다.\n최근에 피해가 컸던 월동 해충(알이나 벌레로 겨울을 나는 해충) 이화명나방 발생 면적은 지난해 323㏊에서 평년 수준인 75㏊로 파악됐다.\n반면 여름철 고온으로 인해 포장 내 비료기가 부족해지는 비잘 현상이 나타나 깨씨무늬병 발생은 조금씩 늘어나는 추세다.\n박용우 시 기술보급과장은 \"현재까지 병해충 발생량이 감소했지만, 벼 생육 후기에 발생 시 문제가 되는 깨씨무늬병, 도열병, 벼멸구에 대해서는 긴장을 늦추지 말아야 한다\"며 \"잦은 강우나 급격한 환경 변화로 인한 병해충 피해에 대비해 철저히 방제해야 한다\"고 당부했다.\nchinakim@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "식약처, 지자체와 '의약품·화장품' 기획합동감시 실시",
+        "time": "2025-08-25T09:26:00",
+        "img": "https://img4.yna.co.kr/photo/cms/2023/10/17/84/PCM20231017000084990_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825036500017",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825036500017",
+        "summary": "(서울=연합뉴스) 최현석 기자 = 식품의약품안전처는 바이오의약품·의약품·화장품 안전관리 강화를 위해 29일까지 지방식품의약품안전청·지방자치단체와 '2025년 3분기 의료제품 분야별 기획합동감시'를 실시한다고 25일 밝혔다.\n식약처는 성장호르몬제제의 오남용을 예방하기 위해 취급 의료기관·약국 등을 대상으로 ▲ 광고 매체 또는 수단을 이용한 전문의약품의 대중광고 여부 ▲ 허가사항 범위 외 정보를 불특정 다수에게 허위·과대광고 여부 등을 점검한다.\n식약처는 최근 근육 강화 목적 등 비정상적인 사용에 대한 사회적 우려가 제기되는 스테로이드·에페드린 주사제 등을 의약품 도매상이나 의료기관 등에서 불법으로 유통하는 행위도 단속한다. 스테로이드 주사제 등 불법 유통으로 적발된 도매상 및 의료기관 공급량, 반품량 등을 바탕으로 의약품 입고·판매·사용 현황 등을 집중적으로 점검할 예정이다.\n점검 결과 위반사항이 확인되면 해당 의료기관·약국, 필요시 도매상 또는 제약업체에 대한 행정지도나 불법 유통업체 수사 의뢰 등 필요한 조치를 할 예정이다.\n또, 인체 세포·조직 배양액을 원료로 사용한 화장품의 안전관리 강화를 위해 화장품 책임판매업자를 대상으로 인체 세포·조직 배양액 안전기준 준수 여부를 점검한다.\n공여자 적격성 검사, 세포·조직 채취 및 검사, 배양 시설 및 환경 관리, 배양액 안전성 평가 및 시험검사 관련 적정 여부 등을 점검한 뒤 위반사항이 확인되면 행정처분 등 필요한 조치를 할 방침이다.\n앞서 식약처는 기획합동감시의 내실을 기하기 위해 지난 13일부터 이틀간 점검 방법 등 사전교육을 실시했다.\nharrison@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "KT, 국내 최초 양자키분배 장비 보안 인증",
+        "time": "2025-08-25T09:21:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825033100017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825033100017",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825033100017",
+        "summary": "국산 기술로 국가정보원 검증 통과…비용 30% 절감\n(서울=연합뉴스) 박형빈 기자 = KT[030200]는 자사가 개발한 양자키분배(QKD) 기술이 적용된 장비가 국내 제조 장비 중 최초로 국가정보원 보안 검증을 통과했다고 25일 밝혔다.\n양자키분배는 양자역학의 원리를 이용해 정보 전달 중 해킹이나 도청을 원천적으로 차단하는 기술로, '양자 중첩' 현상을 이용해 양자키를 생성·전달해 보안성을 극대화한다.\nKT는 미래네트워크연구소가 자체 개발한 양자키분배 원천기술을 국내 전송 장비 제조사인 '코위버'로 이전해 특화 장비를 개발했다. 해당 장비는 한국표준과학연구원(KRISS), 한국전자통신연구원(ETRI) 등 과학기술정보통신부 산하 기관들의 보안 기능시험을 거쳐 국가정보원부터 보안 인증을 획득했다.\n특히 순수 국내 기술 기반으로 양자암호 인프라 생태계를 조성했다는 의미가 있다고 KT는 설명했다.\n이 장비는 전체 네트워크의 핵심 역할을 하는 중앙 노드 1대에 연결된 분산 네트 지역 노드 6개를 연결해 양자 암호를 구성하는 1:6 방식이다.\n이를 통해 기존 1:1 방식의 장비보다 비용을 30% 이상 절감할 수 있으며, 국가·공공기관 및 지자체를 포함해 대규모 통신 보안이 필요한 기관들에 보안 강화와 함께 합리적인 비용 혜택을 줄 것으로 전망된다.\nKT 관계자는 \"해킹, DDoS 등 사이버 공격은 계속해서 증가하고 있으며 기업의 네트워크에 미치는 영향도 커지고 있다\"며 \"KT는 보유 기술을 활용해 개발된 양자키분배 장비의 보안인증서 획득을 시작으로 국내 양자암호통신 시장 활성화를 위한 기술과 서비스를 지속 개발하겠다\"고 말했다.\nbinzz@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[AI픽] 네이버클라우드, 국내 5개 대학과 AI 인재 양성 협약",
+        "time": "2025-08-25T09:15:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825031800017_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825031800017",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825031800017",
+        "summary": "카이스트·서울대·포스텍·고려대·한양대 참여해 산학 컨소시엄 구성\n(서울=연합뉴스) 김경희 기자 = 네이버클라우드는 '국가대표 AI(인공지능)' 프로젝트의 일환으로 카이스트, 서울대, 포항공과대, 고려대, 한양대 등 5개 대학과 산학 협력을 위한 컨소시엄 협약식을 개최했다고 25일 밝혔다.\n네이버클라우드는 해당 컨소시엄에 소속된 석박사 과정 학생들에게 연구에만 전념할 수 있는 환경을 지원하고, AI 모델 개발 및 응용 연구를 공동으로 추진할 계획이다.\n성낙호 총괄은 \"이번 컨소시엄은 기업과 학계가 각자의 강점을 결합해 미래 AI 인재를 양성하고, 국가 차원의 기술 주권과 글로벌 경쟁력을 강화하는 중요한 토대가 될 것\"이라고 말했다.\nkyunghee@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "LS일렉트릭, LS전선과 차세대 전력 설루션 대거 공개",
+        "time": "2025-08-25T09:17:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825034100003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825034100003",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825034100003",
+        "summary": "27일부터 '2025 기후산업국제박람회' 참가…HVDC·초전도솔루션 등 선봬\n(서울=연합뉴스) 김민지 기자 = LS일렉트릭은 LS전선과 오는 27일부터 사흘간 부산광역시 벡스코에서 열리는 '2025 기후산업국제박람회'에 참가한다고 25일 밝혔다.\n산업통상자원부와 국제에너지기구, 세계은행이 공동 주최하는 이번 박람회는 국내 최대의 기후 관련 전시회로, 올해는 인공지능(AI) 시대의 에너지 기술을 조망한다.\nLS일렉트릭과 LS전선은 270㎡ 규모의 전시 공간에 초고압직류송전(HVDC) 핵심 솔루션과 턴키(일괄공급) 사업 역량을 전면에 내세워 '서해안 HVDC 에너지고속도로 프로젝트' 구축을 위한 경쟁력을 강조한다는 방침이다.\nHVDC는 기존 교류(HVAC)보다 송전 손실이 적고, 최대 3배 많은 전력을 장거리로 전달할 수 있어 탄소중립 시대의 핵심 기술로 꼽힌다.\nLS일렉트릭은 국내 기업 최초로 500㎿급 전압형 HVDC 변환용 변압기 개발을 완료하고 상용화를 앞두고 있다.\n이는 국내에서 가장 큰 용량으로 인천지역 HVDC 변환소에 적용될 예정이다.\nLS일렉트릭의 HVDC 사업 누적 수주액은 약 1조원을 넘어섰다.\n전류형은 물론 전압형 HVDC 변환용 변압기 개발을 완료한 데 이어 GE버노바의 변환밸브 분야 선진 기술을 내재화해 전압형 변환설비 국산화 및 상용화를 마무리한다는 계획이다.\nLS전선은 최근 세계 최대 송전 용량인 525kV급 고온형 HVDC 케이블 상용화에 성공했다.\n송전 용량을 최대 50%까지 향상시킨 것이 특징으로, 오는 9월 '동해안-수도권' HVDC 1단계 지중 구간에 투입될 예정이다.\nLS전선의 베트남 자회사인 LS에코에너지는 베트남에 해저케이블 공장 건설을 검토하며 정부가 추진하는 'HVDC 에너지 고속도로' 모델의 수출을 추진하고 있다.\n지난 5월, 베트남과 싱가포르를 잇는 '아세안 해저 HVDC 송전망' 구축에 각국 정부가 합의하면서 사업에 속",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "LS전선, 국내 최초 AC·DC 겸용 배전 케이블 출시",
+        "time": "2025-08-25T09:15:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825033200003_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825033200003",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825033200003",
+        "summary": "(서울=연합뉴스) 한지은 기자 = LS전선은 국내 최초로 교류(AC)와 직류(DC) 겸용 배전 케이블을 출시했다고 25일 밝혔다.\n인공지능(AI) 데이터센터, 에너지저장장치(ESS), 태양광·풍력 설비 등 DC 기반 전력망 수요가 빠르게 증가하는 가운데 신제품은 AC와 DC를 하나의 케이블로 대응할 수 있는 범용성을 갖췄다.\n절연재로는 고내열성 폴리프로필렌(PP)을 적용해 110도의 고온에서도 안정적인 운용이 가능하다. 설계 단순화, 시공 효율 향상, 투자 비용 절감 등 부가적인 효과도 나타날 것으로 기대된다.\nLS전선 관계자는 \"인터넷데이터센터(IDC), 재생에너지, 화학·반도체 플랜트 등 다양한 전력망 분야로 공급을 확대하겠다\"고 말했다.\nwriter@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "산림과학원, 수입 잔디보다 저렴한 학교 운동장용 잔디 개발",
+        "time": "2025-08-25T09:07:00",
+        "img": "https://img2.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825031100063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825031100063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825031100063",
+        "summary": "(대전=연합뉴스) 박주영 기자 = 산림청 국립산림과학원은 학교 운동장용 국산 잔디 신품종 '세필드'와 '세라운드'를 개발했다고 25일 밝혔다.\n잔디 육종 연구를 통해 우리나라 기후와 토양에 적합하고 관리하기 쉬우며 밟힘에도 견딜 수 있는 잔디 신품종을 품종보호 출원, 재배심사가 진행 중이다.\n해외에서 수입되는 한지형 잔디(추운 날씨에도 잘 자라는 잔디)보다 조성 비용을 3.8분의 1 수준으로 줄일 수 있다고 산림과학원은 설명했다.\n저비용으로 한국잔디를 학교 운동장에 조성·관리할 수 있는 지침도 개발, 국립산림과학원 도서관 홈페이지를 통해 공개했다.\njyoung@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "발열 섬유 이용해 저전력으로 이산화탄소 포집…95% 회수",
+        "time": "2025-08-25T09:05:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825022100063_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825022100063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825022100063",
+        "summary": "KAIST·美 MIT \"스마트폰 충전 전압으로 가능…국내외 특허 출원\"\n(대전=연합뉴스) 박주영 기자 = 한국과학기술원(KAIST) 생명화학공학과 고동연 교수팀은 미국 매사추세츠공과대학(MIT) 화학공학과 T. 앨런 해튼 교수팀과 공동으로 전기에 의해 스스로 열을 내는 섬유를 이용한 '이산화탄소 직접 공기 포집'(DAC·Direct Air Capture) 기술을 개발했다고 25일 밝혔다.\nDAC는 대기 중 이산화탄소를 직접 분리해 탄소 배출 농도를 원천적으로 낮출 수 있는 기술이다.\n다만 공기 중 이산화탄소 농도가 400ppm 이하로 낮아 대량의 공기를 처리하기 위해 막대한 열에너지를 필요로 한다는 한계가 있다.\n이를 극복할 방법으로 전기 구동 기반의 '저항 가열'(Joule heating) 방식이 떠오르고 있다.\n저항 가열은 전기 에너지를 직접 열로 전환해 이산화탄소를 흡수하는 흡착제 자체를 가열하는 방식으로, 고온의 증기나 복잡한 설비가 필요 없다.\n연구팀은 스마트폰을 충전할 수 있는 수준인 3V의 낮은 전압으로도 80초 만에 110도까지 가열할 수 있는 섬유 흡착제를 개발했다.\n다공성 구조의 섬유 표면에 은 나노와이어(나노미터 굵기의 가는 실)와 나노입자 복합체를 3㎛(마이크로미터·100만분의 1ｍ) 두께로 균일하게 코팅했다.\n전기가 매우 잘 통하면서도 이산화탄소 분자가 섬유 안까지 원활하게 이동할 수 있는 통로를 확보, 균일하고 빠른 가열과 효율적인 이산화탄소 포집이 가능하다.\n이렇게 만든 섬유를 병렬로 연결할 때 전체 저항이 1Ω(옴) 이하로 낮아져, 대규모 시스템으로의 확장 가능성도 보여줬다.\n연구팀은 개발한 기술을 실제 대기 환경에 적용해 95% 이상의 고순도 이산화탄소를 회수하는 데 성공했다.\n전기만으로 구동할 수 있어 태양광, 풍력 등 재생에너지와 연계해 사용할 수 있다.\n연구팀은 2020년부터 관련",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'휴머노이드AI·로봇의 미래는' 기계연, 글로벌 기계기술 포럼",
+        "time": "2025-08-25T08:57:00",
+        "img": "https://img0.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825025700063_02_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825025700063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825025700063",
+        "summary": "(대전=연합뉴스) 박주영 기자 = 한국기계연구원은 내달 26일 국회도서관 대강당에서 '휴머노이드AI·로봇의 미래'를 주제로 '2025 글로벌 기계기술 포럼'을 연다고 25일 밝혔다.\n더불어민주당 조승래·황정아 의원, 국민의힘 최형두·박충권 의원이 공동 주최하는 이번 포럼에서는 산업과 사회에서 휴머노이드가 담당할 새로운 역할과 기술적 도전 과제, 글로벌 협력 방향을 논의한다.\n데니스 홍 미국 UCLA 기계항공학과 교수가 '로봇을 위한 AI, AI를 위한 로봇'을 주제로 기조연설을 한다.\n이어 글렌 버세스 캐나다 고등연구소(CIFAR) AI 소장과 김진오 한국로봇산업협회장이 각각 '범용 작업 로봇을 위한 여정', '로봇 역할에 대한 이해와 발전 방향, 그리고 로봇산업의 중요성'을 주제로 발표한다.\n류석현 원장은 기계연의 AI 휴머노이드 로봇 발전 전략을 제시할 예정이다.\n글로벌 기계기술 포럼은 기계연이 산업계·연구계·학계의 글로벌 전문가를 초청해 기계기술 분야의 미래 이슈를 짚어보고 발전 방안을 논의하는 자리로, 올해로 12년을 맞았다.\njyoung@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "삼성전자, IFA서 'AI 홈, 미래 일상을 현실로' 선보인다",
+        "time": "2025-08-25T08:38:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825022300003_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825022300003",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825022300003",
+        "summary": "마이크로 RGB TV 등 신제품 소개…\"AI 홈, 생활의 일부 될 것\"\n(서울=연합뉴스) 한지은 기자 = 삼성전자는 내달 개막하는 유럽 최대 가전 전시회 IFA 2025에 'AI 홈, 미래 일상을 현실로'(AI Home - Future Living, Now)를 주제로 참가한다고 25일 밝혔다.\n이번 전시에는 삼성전자 인공지능(AI) 홈이 미래의 가능성이 아닌 지금 경험할 수 있는 현실, 일부가 아닌 모두가 누릴 수 있는 경험을 지향한다는 의미를 담았다.\n삼성전자는 전시에서 최신 디스플레이 기술이 집약된 '마이크로 RGB TV'와 유럽 시장을 겨냥한 비스포크 AI 가전 신제품, 갤럭시 AI 생태계를 강화할 모바일 신제품 등 AI 기반 혁신 기술을 장착한 주요 제품을 대거 소개할 예정이다.\n또 이 제품들이 AI 홈 플랫폼 스마트싱스와 연결돼 일상을 더 편리하고 건강하게, 안전하게 만들어 주는 삼성만의 차별화된 AI 홈 경험을 제시할 계획이다.\n개막 전날 진행되는 프레스 콘퍼런스에서는 지난 7월 갤럭시 언팩 행사에서 강조한 바 있는 앰비언트 AI를 AI 홈에서도 실현하겠다는 청사진을 제시할 예정이다.\nIFA는 미국 라스베이거스의 CES, 스페인 바르셀로나의 모바일 월드 콩그레스(MWC)와 함께 세계 3대 전자·IT 전시회로 꼽힌다. 올해 IFA는 '미래를 상상하다'를 주제로 오는 9월 5∼9일(현지시간) 독일 베를린에서 열린다.\n김철기 삼성전자 DA사업부장 부사장은 \"삼성전자가 지향하는 AI 홈은 연결된 기기를 기반으로 사용자를 더 잘 이해하고, 일상에서 필요한 것을 알아서 맞춰주는 우리 생활의 일부가 될 것\"이라며 \"이번 IFA가 그 시작을 알리는 기회가 될 것으로 기대한다\"고 말했다.\nwriter@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "군산대 배드민턴팀, 전국실업대학선수권대회 단체전 우승",
+        "time": "2025-08-25T10:09:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825048700055_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825048700055",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825048700055",
+        "summary": "(전주=연합뉴스) 최영수 기자 = 전북특별자치도체육회는 군산대학교 여자 배드민턴팀이 최근 경남 밀양에서 열린 전국실업대학배드민턴선수권대회에서 단체전 우승을 차지했다고 25일 밝혔다.\n군산대는 예선에서 안동과학대와 대전과학기술대를 각각 3대 0과 3대 1로 격파하며 4강에 안착한 후 부산외대를 3대 1로 눌렀다.\n이어 결승전에서 다시 만난 안동과학대를 접전 끝에 세트스코어 3대 2로 이겨 정상에 올랐다\n최우수 지도자상을 받은 이덕준 감독은 \"이번 승리에 만족하지 않고 전국체전에서 좋은 성과를 거두도록 최선을 다하겠다\"고 말했다.\nkan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] 서울 강서구 맨홀 실종 작업자, 심정지 상태로 발견",
+        "time": "2025-08-25T10:07:00",
+        "img": "https://img7.yna.co.kr/photo/yna/YH/2025/07/06/PYH2025070607640006500_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825047800004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825047800004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "원주 등 강원 3곳 폭염경보…횡성 등 10곳 폭염경보 유지",
+        "time": "2025-08-25T10:02:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20250825047300527",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825047300527",
+        "summary": "(춘천=연합뉴스) 기상청은 25일 오전 11시를 기해 원주·춘천·홍천군평지에 폭염경보를 발효한다고 밝혔다.\n폭염경보는 최고 체감온도 35도를 넘는 상태가 이틀 이상 계속되거나 더위로 큰 피해가 예상될 때 내려진다.\n횡성 등 10곳에는 폭염경보가 내려졌다.\nweather_news@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "전북 부안에 폭염경보…전주 등 10곳 폭염경보 유지",
+        "time": "2025-08-25T10:07:00",
+        "img": "",
+        "url": "https://www.yna.co.kr/view/AKR20250825047400527",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825047400527",
+        "summary": "(전주=연합뉴스) 기상청은 25일 오전 11시를 기해 부안에 폭염경보를 발효한다고 밝혔다.\n폭염경보는 최고 체감온도 35도를 넘는 상태가 이틀 이상 계속되거나 더위로 큰 피해가 예상될 때 내려진다.\n전주 등 10곳에는 폭염경보가 내려진 상태다.\nweather_news@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "해경청, 늦더위 기승에 수상레저 안전 관리 강화",
+        "time": "2025-08-25T10:00:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825029900065_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825029900065",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825029900065",
+        "summary": "(인천=연합뉴스) 강종구 기자 = 해양경찰청은 계속되는 무더위로 수상레저 활동도 여전히 활발한 상황을 고려해 안전 관리를 강화한다고 25일 밝혔다.\n해경청은 오는 31일까지 10인승 이상 수상레저기구를 보유한 사업장을 특별 관리 대상으로 지정해 안전 관리와 순찰을 강화할 계획이다.\n또 피서철 막바지 사고 예방을 위해 전국 213개 수상레저 주요 활동지와 176개 사고 다발 해역을 중심으로 경비함정을 전진 배치한다.\n아울러 무면허 조종, 음주 조종, 안전 장비 미착용 등 3대 수상레저 안전 위해 행위를 집중 단속할 예정이다.\n특히 지난 6월 개정된 수상레저안전법에 따라 카약과 수상스키 등 무동력 수상레저기구도 음주 상태에서 조종할 경우 100만원 이하의 과태료를 부과받을 수 있다는 점을 적극 홍보할 방침이다.\n본격적인 단속은 6개월간의 계도 기간을 거쳐 오는 12월 21일부터 시행된다.\n김용진 해양경찰청장은 \"수상레저 안전관리는 무엇보다 현장 중심의 예방과 선제적인 조치가 중요하다\"며 \"국민의 생명과 안전을 최우선 가치로 삼고, 가용한 행정력을 총동원해 국민 안전과 재산을 보호하겠다\"고 강조했다.\ninyon@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "강릉 모텔 화재로 7명 사상…강원소방, 숙박시설 안전대책 추진",
+        "time": "2025-08-25T10:02:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825045400062_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825045400062",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825045400062",
+        "summary": "(춘천=연합뉴스) 강태현 기자 = 지난 22일 강원 강릉 한 모텔에서 발생한 화재로 1명이 숨지고 6명이 상처를 입은 가운데 강원특별자치도소방본부는 도내 숙박시설에 대한 화재안전대책을 추진한다고 25일 밝혔다.\n강원소방은 카카오톡 채널을 활용해 숙박시설 화재 예방 안전 수칙을 홍보하고, 지역 숙박협회와 연계한 자율 화재안전대책을 추진한다.\n또 비상구 불시 단속을 강화하고 숙박업소 관계자 교육·훈련 등에 나선다.\n앞서 도 소방본부는 지난해 하반기부터 지난달 31일까지 도내 숙박시설 1천161곳을 대상으로 화재안전조사를 실시해 460곳에서 불량사항을 적발했다.\n과태료 부과 12건, 기관통보 7건, 행정명령 455건, 현지 시정 375건 등의 조치를 했다.\n주요 지적사항으로는 수신기 임의 조작 정지, 소방 계획서 미작성, 방화문 고정, 불법 증축 등이다.\n김승룡 도 소방본부장은 \"숙박시설의 안전관리 수준을 한층 강화해 도민과 관광객이 모두 안심할 수 있는 환경을 만들겠다\"며 \"앞으로 교육·홍보와 불시 단속을 통해 화재로 인한 피해를 최소화하겠다\"고 말했다.\ntaetae@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[속보] '尹 계엄 공모' 이상민 전 장관 재판, 내달 19일 첫 준비기일",
+        "time": "2025-08-25T09:51:00",
+        "img": "https://img6.yna.co.kr/photo/yna/YH/2025/07/31/PYH2025073113580001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825044000004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825044000004",
+        "summary": "",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "충남서 빈집 철거하면 재산세 절반 감면…공공활용시 전액 면제",
+        "time": "2025-08-25T09:37:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825039700063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825039700063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825039700063",
+        "summary": "(홍성=연합뉴스) 한종구 기자 = 충남도와 15개 시군이 내년부터 빈집 철거 부속 토지에 대한 재산세를 감면하기로 했다.\n25일 충남도에 따르면 도와 시군은 최근 회의를 열고 인구 감소와 고령화로 증가하는 빈집 문제 해결을 위해 재산세 감면을 추진하자고 의견을 모았다.\n감면 대상은 철거된 빈집의 부속 토지다.\n철거 후 최초로 납세 의무가 발생하는 날부터 3년간 재산세의 50%가 감면된다.\n특히 해당 토지를 공용·공공용으로 활용하는 데 동의하면 5년간 전액 면제된다. 철거비 지원을 받아 공용주차장 등으로 쓰는 경우도 포함된다.\n도내 빈집은 2022년 4천490호에서 2023년 4천843호, 올해 6천268호로 매년 증가하고 있다.\n도와 시군은 연말까지 관련 조례 개정을 마무리하고 내년 재산세 고지분부터 감면할 계획이다.\n임성범 충남도 세정과장은 \"도내 모든 시군이 공동으로 감면을 추진하는 데 의미가 있다\"며 \"앞으로도 지역 문제 해결을 위한 세정 지원 방안을 적극 검토하겠다\"고 말했다.\njkhan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "보령 대천해수욕장 3년연속 인명사고 '제로'…73명 구조",
+        "time": "2025-08-25T09:34:00",
+        "img": "https://img5.yna.co.kr/photo/yna/YH/2025/08/09/PYH2025080903040006300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825038800063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825038800063",
+        "summary": "(보령=연합뉴스) 정윤덕 기자 = 충남 보령시는 지난달 5일부터 이달 24일까지 개장한 대천해수욕장이 단 한 건의 인명사고 없이 성공적으로 운영을 마무리했다고 25일 밝혔다.\n이로써 대천해수욕장은 3년 연속 인명사고 제로(0) 성과를 달성했다.\n시는 올해 대천해수욕장에 수상오토바이 14대, 사륜차 13대, 트랙터 2대, 구조선 1대와 하루 평균 122명의 근무자 및 물놀이 안전관리요원을 투입해 인명구조 활동을 전개했다.\n특히 인공지능(AI) 기술을 활용한 24시간 무인 드론 순찰도 가동했다.\n이 기간 6명의 익수자와 67명의 표류자를 구조하고 응급처치 535건을 실시했다.\n김동일 시장은 \"제28회 보령머드축제 등에 많은 관광객이 몰리는 상황에도 안전하게 운영을 마무리함으로써 글로벌 해양레저관광 명품도시 이미지를 널리 알리는 계기가 됐다\"고 자평했다.\ncobra@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'서울시청·초등학교에 폭발물' 협박 신고…경찰 순찰 강화",
+        "time": "2025-08-25T09:29:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825035700004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825035700004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825035700004",
+        "summary": "(서울=연합뉴스) 정윤주 이율립 기자 = '서울시청과 서울 소재 초등학교들에 폭발물을 설치했다'는 협박 팩스가 접수돼 경찰이 확인에 나섰다.\n25일 연합뉴스 취재를 종합하면 서울 중부경찰서와 남대문경찰서는 이날 오전 이 같은 내용의 팩스를 수신했다는 신고를 받았다.\n협박 메일에는 일본어와 영어가 섞여 있는 것으로 전해졌다.\n경찰은 최근 이어지고 있는 일본 변호사 사칭 협박범의 사기성 소행으로 보고, 사실관계를 파악하는 한편 대상 지역의 순찰을 강화하고 있다.\n2yulrip@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "성남시, 생활안전 CCTV 467대 설치…노후 161대 교체",
+        "time": "2025-08-25T09:27:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825034700061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825034700061",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825034700061",
+        "summary": "(성남=연합뉴스) 이우성 기자 = 경기 성남시는 올해 방범 취약지구 92곳에 생활안전 CCTV 467대를 추가 설치해 시민 안전망을 강화한다고 25일 밝혔다.\n또 기존 노후 CCTV 카메라 161대는 고성능 카메라로 교체한다.\n이를 위해 사업비 27억3천만원을 투입한다.\n시는 지난해도 34억9천만원을 들여 138곳에 766대를 신규 및 교체 설치했다.\n올해 설치가 완료되면 시 전역 3천116곳에 1만2천715대의 생활안전 CCTV가 운영된다.\n시는 방범 취약 사각지대가 없도록 지속해서 신규 설치와 노후 시설 교체를 확대해 나갈 계획이다.\n시 관제센터에서는 시 곳곳에서 설치된 CCTV 카메라가 전송하는 영상을 상시 관찰하며 재난상황 대응과 범죄 예방에 활용하고 있다.\n지난해에는 민원 응대 14만3천479건, 경찰 수사 협조 3천926건, 사건·사고 대응 362건을 처리했다.\ngaonnuri@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "한밤중 분당 상가건물 경비실서 화재…290여명 한때 대피",
+        "time": "2025-08-25T09:26:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825035100061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825035100061",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825035100061",
+        "summary": "(성남=연합뉴스) 김솔 기자 = 한밤중 경기 성남시 분당구의 8층짜리 상가건물 내 경비실에서 불이 나 290여명이 대피하는 소동이 빚어졌다.\n25일 경기도소방재난본부에 따르면 전날 오후 10시 2분께 성남시 분당구 정자동에 있는 지하 3층, 지상 8층 규모의 상가건물에서 불이 났다.\n당시 이 건물 1층 필로티 주차장에 위치한 경비실 내부에서 화재가 발생했던 것으로 전해졌다.\n목격자의 신고를 받은 소방 당국은 약 20분 만인 오후 10시 26분 불을 완전히 끄고 배연 작업을 진행했다.\n화재로 인한 인명 피해는 없었다.\n이 건물은 지하 1~3층에 주차장이, 지상층에는 각종 소매점과 학원, 의원 등이 입점해 있어 화재 신고가 접수되자 한때 이용객 298명이 스스로 대피했다.\n경찰과 소방 당국은 경비실 내 냉장고 부근에서 불길이 일었을 가능성을 염두에 두고 화재 원인을 파악 중이다.\nsol@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "9월 22일 독감 국가예방접종 시작…어린이·임신부·노인 무료",
+        "time": "2025-08-25T09:25:00",
+        "img": "https://img5.yna.co.kr/photo/cms/2015/09/29/01/C0A8CA3D000001501523551500012A51_T2.jpeg",
+        "url": "https://www.yna.co.kr/view/AKR20250825033600530",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825033600530",
+        "summary": "4가 백신에서 3가 백신으로 전환해 접종…\"효과·안전성 차이 없어\"\n(서울=연합뉴스) 성서호 기자 = 질병관리청은 다음 달 22일부터 내년 4월 30일까지 2025~2026절기 인플루엔자(독감) 국가예방접종을 할 계획이라고 25일 밝혔다.\n중증화 위험이 큰 6개월∼13세(2012년 1월 1일∼2025년 8월 31일 출생자) 어린이와 임신부, 65세 이상(1960년 12월 31일 이전 출생자) 노인 등은 무료로 접종할 수 있다.\n이번 인플루엔자 국가예방접종은 세계보건기구(WHO)의 권고와 예방접종전문위원회 심의에 따라 기존 4가 백신에서 3가 백신으로 바꿔 시행한다.\n3가 백신은 전 세계적으로 장기간 검출되지 않고 있는 B형 야마가타 바이러스의 항원을 4가 백신에서 뺀 것으로, 효과성과 안전성에서 4가 백신과 차이가 없는 것으로 확인됐다는 게 질병청의 설명이다.\n미국은 2024~2025절기에 4가에서 3가로 백신을 바꿨고, 일본과 대만, 영국도 이번 절기부터 바꿀 예정이다.\n인플루엔자 국가예방접종은 자신의 주소지와 관계없이 가까운 위탁의료기관, 보건소에서 할 수 있다.\n전국 위탁의료기관은 약 2만3천곳으로, 관할 보건소나 예방접종도우미 홈페이지(nip.kdca.go.kr)에서 찾아볼 수 있다.\n접종하러 갈 때는 신분증을 지참하고, 접종 후에는 20∼30분간 머물러 이상 반응을 관찰한 후 귀가해야 한다.\n가장 흔한 이상 반응으로는 접종 부위의 발적(빨갛게 부어오르는 현상)과 통증 등이 있는데, 대부분 하루 이틀 안에 사라진다.\n인플루엔자 예방접종은 코로나19 백신 접종과 동시에 할 수 있다. 다만, 동시에 접종하는 경우 각각 다른 부위에 백신을 맞아야 한다.\n임승관 질병청장은 \"예방 접종은 인플루엔자로 인한 입원과 사망을 줄이고 질병 부담을 낮추는 데 매우 효과적인 수단\"이라며 \"국가예방접종 대상자들은 올겨울 유행에 대비해 예방접종을 꼭 받으시길 바란다\"고 말했다.\nsoh",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "군포 지하차도서 역주행 오토바이가 승용차 충돌…1명 사망",
+        "time": "2025-08-25T09:04:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825028000061_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825028000061",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825028000061",
+        "summary": "(군포=연합뉴스) 김솔 기자 = 25일 오전 4시 20분께 경기 군포시 대야미동 서해로 지하차도 내에서 역주행하던 오토바이가 아우디 승용차를 들이받는 사고가 났다.\n이 사고로 오토바이 운전자인 60대 A씨가 현장에서 숨졌다.\n승용차 운전자인 50대 B씨는 허리 등을 다쳐 인근 병원으로 옮겨졌으며 생명에는 지장이 없는 것으로 전해졌다.\n경찰은 이 지하차도 내 왕복 4차선 도로에서 오토바이가 역주행해 군포 방향으로 달리던 아우디 승용차를 들이받으면서 사고가 난 것으로 보고 있다.\n경찰은 B씨 등을 대상으로 자세한 사고 경위에 대해 조사할 방침이다.\nsol@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[게시판] 북큐브네트웍스, 동국대에 2천만원 기부",
+        "time": "2025-08-25T08:47:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825025400004_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825025400004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825025400004",
+        "summary": "▲ 동국대는 전자책 전문업체 북큐브네트웍스가 2천만원을 기부했다고 25일 밝혔다. 기부금은 동국대 로터스관 건립기금으로 사용될 예정이다. (서울=연합뉴스)",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[내일날씨] 전국에 비…낮 최고 34도 '찜통더위' 계속",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img4.yna.co.kr/photo/yna/YH/2025/08/12/PYH2025081214590005700_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825004700004",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825004700004",
+        "summary": "(서울=연합뉴스) 이율립 기자 = 화요일인 26일 전국이 대체로 흐리고 비가 내리겠다.\n25일 시작된 비는 오후까지 전국 대부분 지역에 내리겠고, 일부 지역은 밤까지 이어지는 곳이 있겠다.\n25일부터 이틀간 예상 강수량은 서울·인천·경기·서해5도 30∼80㎜(많은 곳 인천·경기 북부 100㎜ 이상), 강원 내륙과 산지·대전·세종·충남·충북·광주·전남·전북 20∼60㎜(많은 곳 강원 내륙, 충남, 충남 북부 80㎜ 이상)이다.\n부산·울산·경남·대구·경북·울릉도·독도·제주도에는 5∼30㎜가 예보됐다.\n비나 소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다.\n수도권과 강원 내륙, 충청권, 전라권에는 새벽부터 오전 사이 시간당 30㎜ 안팎의 강한 비가 내리는 곳이 있겠으니 안전사고에 유의해야 한다.\n아침 최저기온은 23∼28도, 낮 최고기온은 29∼34도로 예보됐다.\n당분간 최고체감 온도가 33도 안팎으로 오르면서 매우 무덥겠다.\n미세먼지 농도는 원활한 대기 확산과 강수의 영향으로 전국이 '좋음' 수준을 보이겠다.\n바다 물결은 동해·남해 앞바다에서 0.5∼1.5m, 서해 앞바다에서 0.5∼2.0m로 일겠다.\n안쪽 먼바다(해안선에서 약 200㎞ 내 먼바다) 파고는 동해·남해 0.5∼2.0m, 서해 1.0∼2.5m로 예상된다.\n다음은 26일 지역별 날씨 전망. [오전, 오후](최저∼최고기온) <오전, 오후 강수 확률>\n▲ 서울 : [흐리고 비, 구름많음] (26∼31) <80, 20>\n▲ 인천 : [흐리고 가끔 비, 구름많음] (26∼29) <80, 20>\n▲ 수원 : [흐리고 비, 구름많음] (25∼30) <80, 20>\n▲ 춘천 : [흐리고 가끔 비, 흐림] (24∼31) <70, 30>\n▲ 강릉 : [흐리고 한때 비, 흐리고 한때 비] (28∼33) <60, 60>\n▲ 청주 : [흐리고 비, 흐리고 한때 비] (2",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'살 파먹는 구더기' 인체감염 중남미 거쳐 미국서도 첫 발견",
+        "time": "2025-08-25T09:58:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825042400009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825042400009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825042400009",
+        "summary": "NWS 메릴랜드서 치료중…과테말라에서 미국으로 입국\n중미에서 2023년 유행 시작해 북상중…북중미 축산업 비상\n(서울=연합뉴스) 임화섭 기자 = 동물의 살을 파먹는 '신세계 나사벌레'(New World Screwworm)의 인체감염 사례가 미국에서 처음으로 발견됐다고 로이터통신이 24일(현지시간) 전했다.\nNWS는 학명이 'Cochliomyia hominivorax'인 파리목(Diptera) 곤충의 유충이다.\n성체가 가축·야생동물·사람 등 온혈동물의 피부에 알을 낳으면, 거기서 부화한 구더기 수백마리가 피부를 파먹어들어간다.\n구더기가 날카로운 입으로 숙주의 피부를 파고드는 것이 마치 목재에 나사를 박는 것과 유사하다고 해서 '나사벌레'라는 이름이 붙었다.\n이런 '나사벌레 감염증'은 제때 치료되지 않으면 감염된 숙주의 사망을 유발할 수도 있다.\nNWS 감염증은 재작년부터 중앙아메리카에서 유행하기 시작했으며 서서히 북상해 작년 말에는 멕시코에서도 발생했다.\n이번에 미국에서 발견된 인간 환자는 과테말라에서 미국으로 입국했으며, 미국 메릴랜드에서 치료를 받았다고 로이터는 전했다.\n로이터는 베스 톰슨 사우스다코타주 수의사 총장 겸 주 동물산업위원회 사무총장의 전언과 소고기산업 업계 단체인 '비프 얼라이언스'가 이달 20일에 축산업계 관계자 20여명에게 보낸 이메일 등을 취재 근거로 인용하면서, 이번 사례가 미국 질병통제예방센터(CDC)에도 보고됐다고 전했다.\n비프 얼라이언스의 이메일에는 발송 당일인 이달 20일에 미국 내 첫 NWS 인체감염 사례가 확인됐다고 돼 있었다.\n이 단체는 후속 이메일에서 환자 개인정보 보호 법령 때문에 다른 사항은 파악이 불가능하다고 설명했다.\nCDC나 메릴랜드주 보건부는 로이터의 논평 요청에 즉각 답하지 않았다.\n톰슨 총장은 \"(CDC나 메릴랜드주 보건부 등 이번 사례 관할 기관들이 정보를 제공한 것이 아니라) 다른 경로로 알게 된 후에 CD",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "차안에 술잔 발견됐다고 일단 체포…'트럼프식 정의구현' 논란",
+        "time": "2025-08-25T10:09:00",
+        "img": "https://img9.yna.co.kr/photo/etc/epa/2025/08/22/PEP20250822127101009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825024500009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825024500009",
+        "summary": "경범죄로 체포한 뒤 혐의 부풀려 기소…저항하면 구형 추가\n(서울=연합뉴스) 고일환 기자 = 사소한 혐의라도 발견되면 시민을 체포한 뒤 가장 강력한 혐의를 씌워 기소하는 '트럼프식 정의구현'이 논란이 되고 있다.\n뉴욕타임스(NYT)는 24일(현지시간) 도널드 트럼프 미국 대통령이 수도 워싱턴DC의 법 집행을 장악한 뒤 예전에는 그냥 넘어갈 수 있었던 사소한 경범죄에까지 과도한 기소가 이뤄진다고 보도했다.\n워싱턴DC의 반대에도 불구하고 연방 요원과 주 방위군을 투입한 뒤 성과를 부풀리기 위해 무리하게 법을 적용하고 있다는 것이다.\nNYT에 따르면 대표적인 사례는 인터넷 상거래업체 아마존의 시간제 배송 기사인 마크 비글로(28)다.\n그는 지난 19일 워싱턴DC 시내에서 다른 남성 2명과 차를 타고 가던 도중 연방수사국(FBI)과 마약단속국(DEA), 이민세관단속국(ICE) 요원들에게 정차 지시를 받았다.\n요원들은 차 안에서 술이 담긴 용기와 컵을 발견했고, 공공장소에서 음주 용기를 소지했다는 혐의로 비글로를 체포했다.\n체포 과정에서 비글로는 몸을 비틀면서 저항했다.\n이후 검찰은 비글로가 물리적 접촉을 했다는 이유로 최대 8년 형에 해당하는 중범죄인 '연방 요원 폭행 및 저항' 혐의를 추가했다.\n비글로의 변호인은 법원에서 \"트럼프 대통령의 단속이 아니었다면 체포조차 되지 않았을 사건\"이라고 지적했다.\n최대 5년 형에 해당하는 대통령 위협 혐의로 기소된 에드워드 데이나(30) 사건도 논란거리다.\n정신질환 이력이 있는 데이나는 지난 17일 밤 시내 식당의 외부 조명을 파손했다는 혐의로 체포됐다.\n체포 과정에서 데이나는 경찰에게 \"파시즘은 용납할 수 없다. 헌법 수호를 위해 대통령을 죽이겠다\"고 말했다.\n경찰의 보디캠에 녹화된 데이나의 발언은 비밀경호국(SS)에 통보됐고, 이후 대통령 위협 혐의에 대한 기소장이 법원에 제출됐다.\n데이나의 변호인은 법원에서 \"진정한",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "특사단 \"한미동맹 발전 속 한중관계 추진…APEC에 시진핑 초청\"(종합)",
+        "time": "2025-08-25T09:53:00",
+        "img": "https://img1.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825022251504_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825022251504",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825022251504",
+        "summary": "방중 특사단-왕이 외교부장 면담…李대통령 친서 전달\n中외교부 \"韓특사단, '하나의 중국' 존중 의사 밝혀\"\n(서울=연합뉴스) 김지연 김현정 기자 = 이재명 대통령이 중국에 파견한 특사단이 24일 베이징 조어대에서 중국 외교 사령탑인 왕이 중국공산당 중앙외사판공실 주임 겸 외교부장(장관)을 만나 면담·만찬을 갖고 한중관계 발전 방향에 관한 이 대통령의 시진핑 중국 국가주석 앞 친서를 전달했다고 외교부가 25일 밝혔다.\n박병석 전 국회의장을 단장으로 하는 특사단은 한중 수교 33주년 기념일인 전날 왕 부장을 만나 새 정부는 한미동맹을 지속적으로 발전시켜 나가는 가운데 국익과 실용에 기반해 '한중 전략적 협력 동반자 관계'의 성숙한 발전을 추진할 것이라고 했다.\n왕 부장은 한국의 새 정부가 특사단을 중국에 파견하고 한중관계 발전에 관한 메시지를 전달해 준 데 대해 깊은 사의를 표하고, 대통령의 친서를 시 주석에게 신속하게 보고하겠다고 전했다.\n양측은 올해 10월 경주 아시아태평양경제협력체(APEC) 정상회의의 성공적 개최와 내년도 APEC 의장국으로서 중국의 역할과 관련해 상호 긴밀히 협력하기로 했다.\n특사단은 경주 APEC 정상회의 계기 시 주석의 방한을 요청했으며, 양측은 이와 관련해 긴밀히 소통하기로 했다.\n양측은 양국 국민의 삶에 실질적으로 기여하는 한중 전략적 협력 동반자 관계를 만들어 나가자는 데 공감하고 인문교류, 경제협력, 공급망 등 분야에서 국민이 체감할 성과를 함께 만들기로 했다.\n양측은 또한 양국 관계의 장기적이고 안정적인 발전을 위해 민의(民意)의 기반을 강화해 나가야 한다는 데 공감했다. 박 단장은 서울대-북경대 간 합동 연구 등 방식을 통해 양 국민 간 우호정서 악화의 원인과 그 제고 방안에 대해 긴밀히 논의할 것을 제안했고, 왕 부장도 이에 적극 협조하겠다며 화답했다.\n특사단은 서해 문제를 포함한 상호 관심사를 존중해야 한다고 강조했다. 중국은 심해 연어 양식 시설이라며 서해",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "日 10명 중 6명 \"이시바 전후 80년 메시지 발표에 찬성\"",
+        "time": "2025-08-25T09:36:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825039200073_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825039200073",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825039200073",
+        "summary": "(도쿄=연합뉴스) 경수현 특파원 = 일본인 10명 중 6명꼴로 이시바 사게루 총리가 검토 중인 것으로 알려진 종전 80년 견해 발표에 찬성한다는 여론 조사 결과가 나왔다.\n요미우리신문은 지난 22∼24일 991명(응답자수 기준)을 상대로 벌인 여론 조사에서 이시바 총리의 종전 80년 견해 발표에 대한 찬반을 물은 결과 58%가 '찬성한다'고 답했다고 25일 보도했다.\n'반대한다'는 27%에 그쳤으며 나머지는 무응답 등이다.\n이시바 총리는 올해 전후 80년을 맞아 각의(국무회의 격)를 거친 총리 담화를 검토하다가 옛 아베파 등 집권 자민당 내 보수세력 반발을 고려해 총리 개인의 견해를 발표하는 것을 검토 중인 것으로 알려져 있다.\n다만 당내 보수세력은 개인 견해 발표에도 부정적인 반응을 보여 이시바 총리가 실제로 전후 80년 메시지를 낼지는 불투명한 상황이다.\n이번 조사에서 이시바 내각에 대한 지지율은 39%로 전월의 22%보다 17%포인트나 상승한 것으로 집계됐다.\n신문은 \"지지율 상승 폭은 총리 교체 시기를 빼고는 2008년 전화 여론 조사 도입 이후 최대폭\"이라며 \"미국과 관세 협상 타결이나 쌀 정책의 증산 전환 방침 표명이 평가받은 것으로 보인다\"고 전했다.\n지난 7월 참의원 선거 패배에 따라 이시바 총리가 사임해야 한다고 생각하느냐는 질문에는 '그럴 필요 없다'는 응답률이 52%로 '그렇다'(42%)보다 높았다.\n차기 자민당 총재로 적합한 인물로는 다카이치 사나에 전 경제안보담당상(24%)과 고이즈미 신지로 농림수산상(21%)이 응답률 상위 1위와 2위를 차지했다.\nevan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "인도네시아에 'K-문화유산 보존법' 전한다…25일부터 현지 교육",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/08/23/AKR20250823031800005_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250823031800005",
+        "original_url": "https://www.yna.co.kr/view/AKR20250823031800005",
+        "summary": "국립문화유산연구원, 박물관 18곳 담당자 대상 보존 처리 실습\n(서울=연합뉴스) 김예나 기자 = 한국의 문화유산 보존과학 전문가들이 인도네시아를 찾아 문화유산 보존·관리 노하우를 전한다.\n국립문화유산연구원 문화유산보존과학센터는 이달 25일부터 29일까지 인도네시아 국립박물관에서 현지 기술 교육을 한다고 밝혔다.\n현지 기술 교육은 문화유산 보존·관리에 어려움을 겪거나 기반이 약한 아시아권 국가를 대상으로 각국 상황에 맞는 보존 기술을 알려주는 사업이다. 2013년 시작해 몽골, 미얀마, 부탄 등 7개국에서 진행했다.\n인도네시아에서 열리는 교육은 이번이 3번째다.\n문화유산보존과학센터는 2023년 7월 자카르타 국립박물관에서 금속 문화유산의 보존 처리 방법을 교육했고, 작년에는 보로부두르 보존소에서 심화 교육을 한 바 있다.\n올해는 현지 박물관 18곳에서 일하는 보존 처리 담당 실무자 20명이 참여한다.\n문화유산을 보존 처리할 때 사용하는 재료와 고려해야 할 사항을 설명한 뒤, 실습 교육을 한다. 참가자들은 부식된 금속, 손상된 종이류 등을 보존 처리하는 과정을 직접 재현해볼 수 있다.\n센터 관계자는 \"국내의 우수한 보존 기술을 국제사회에 알리고, 아시아권에서 문화유산 보존 인력을 함께 양성하기 위해 노력할 것\"이라고 말했다.\nyes@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "주프랑스 美대사, 마크롱 정면비판…\"반유대주의 조치 불충분\"",
+        "time": "2025-08-25T09:06:00",
+        "img": "https://img2.yna.co.kr/photo/etc/af/2025/08/25/PAF20250825056201009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825026400009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825026400009",
+        "summary": "'트럼프 사돈·유대인' 쿠슈너, 공개서한…네타냐후 편들기도\n프랑스, 곧바로 반박·초치…양국 관계 악화 전망\n(서울=연합뉴스) 김연숙 기자 = 찰스 쿠슈너 주프랑스 미국 대사가 에마뉘엘 마크롱 프랑스 대통령에게 서한을 보내 반(反)유대주의에 대한 조치가 충분하지 않다고 비판했다.\n지난달 부임 후 신중한 행보를 보였던 쿠슈너 대사가 마크롱 대통령을 공개적으로 비판하고 나섬에 따라 양국 관계 악화가 예상된다.\n쿠슈너 대사는 24일(현지시간) 미 일간 월스트리트저널(WSJ)에 마크롱 대통령에게 보내는 25일자 서한을 먼저 공개했다.\n그는 \"나치 독일 점령 하의 프랑스 영토에서 유대인 강제 추방을 종식시킨 파리 해방 81주년\"을 맞아 \"프랑스에서의 반유대주의 급증, 이를 해결하기 위한 정부의 충분한 조치 부족\"에 우려를 표한다고 밝혔다.\n쿠슈너 대사는 \"프랑스에서는 유대인들이 거리에서 폭행당하지 않는 날이 없고, 유대교 회당이나 학교는 훼손되고, 유대인 소유의 사업장이 파괴되지 않는 날이 없다\"고 주장했다.\n그는 \"반유대주의는 오랫동안 프랑스 국민에 상처를 남겼다\"며, 2023년 10월 7일 팔레스타인 무장정파 하마스의 이스라엘 기습 공격 이후 유대인에 대한 증오가 폭발적으로 증가했다고 말했다.\n쿠슈너 대사는 도널드 트럼프 미 대통령의 사돈으로, 홀로코스트(유대인 대학살) 생존자 2세다.\n이 같은 주장은 최근 베냐민 네타냐후 이스라엘 총리가 마크롱 대통령에게 같은 취지의 서한을 보낸 지 며칠 만에 나온 것이다.\n네타냐후 총리는 지난 19일 서한에서 마크롱 대통령이 반유대주의를 조장하고 있다고 비판했다. 또 마크롱 대통령이 추진하는 팔레스타인 국가 인정 추진을 두고 \"반유대주의 불길에 기름을 붓는 일\"이라고 주장했다.\n이후 프랑스 엘리제궁은 네타냐후 총리의 서한에 \"잘못된 것\"이라며 \"프랑스는 언제나 유대인 시민을 보호할 것\"이라고 반박했다.\n쿠슈너 대사는 이를 두고서도 네",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[율곡로] 마약카르텔에 선전포고한 美…베네수엘라 침공설까지",
+        "time": "2025-08-25T08:45:00",
+        "img": "https://img7.yna.co.kr/etc/inner/KR/2025/08/22/AKR20250822138800546_03_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250822138800546",
+        "original_url": "https://www.yna.co.kr/view/AKR20250822138800546",
+        "summary": "(서울=연합뉴스) 이승우 선임기자 = 미국은 마약 문제로 몸살을 앓고 있다. 마약 불법 유통과 사용은 막대한 사회·경제적 손실은 물론 각종 범죄를 유발하는 악의 근원이다. 살인, 강도, 강간 등 강력 범죄에 마약이 연관된 사례가 많다. 마약류 사용으로 매년 10만 명 넘는 미국인이 죽는데, 특히 최근엔 신종 합성마약인 펜타닐 확산이 사회 문제로 떠올랐다. 더 싸고 유통도 쉬워지고 환각성도 강해진 펜타닐에 취한 미국인들이 좀비처럼 거리를 돌아다니는 장면이 충격을 주기도 했다. 불법 마약류는 대부분 중남미 국가 범죄 조직을 통해 미국으로 유입된다. 미국이 중남미 불법 이민자를 점점 강하게 차단하려는 주요 원인에는 마약 문제도 포함돼 있다.\n중남미의 거대 마약 밀매 조직들은 '카르텔'로 불린다. 마약을 불법 유통한 수익으로 운영되며 대기업 같은 크고 치밀한 조직망을 갖췄다. 게다가 정규군 못지않은 화력과 병력을 갖추고 잔인한 폭력과 보복을 일삼는 공포의 대상이다. 지역 사회에 강한 영향력을 행사하며 부패를 고리로 정부와 정치권에도 힘을 미친다. 위장 사업을 통해 돈세탁하고 반미 성향 정부나 군부와 공동이익을 추구한다는 지적도 나온다. 중남미 카르텔은 코카인을 주로 취급했으나 최근엔 펜타닐 유통에도 주력하는 것으로 알려졌다. 멕시코의 시날로아, 로스 세타스, 콜롬비아의 메데인, 베네수엘라의 태양의 카르텔 등이 유명한 카르텔들이다.\n중남미에서 마약 불법 유통으로 악명 높은 나라들은 대체로 민생과 치안이 좋지 않은 반미 성향 독재국가다. 게다가 펜타닐과 같은 신종 마약 제조에 필요한 화학 물질을 중남미 카르텔에 공급하는 배후로 중국이 지목되면서 중남미 마약 문제는 미국의 주요 안보 문제로 부상했다. 중국이 중남미 범죄조직을 통해 미국에 마약을 퍼뜨림으로써 사회를 혼란케 하고 국력을 약화하려는 하이브리드 전술을 쓰고 있다고 보는 전문가도 적지 않다.\n결국 미국이 군사 행동도 불사할 태세로 나섰다. 멕시코 마약 카르텔이 가장",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "머스크 화성 우주선 스타십 10번째 시험 발사 연기",
+        "time": "2025-08-25T09:22:00",
+        "img": "https://img1.yna.co.kr/photo/etc/up/2025/08/25/PUP20250825005901009_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825030400091",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825030400091",
+        "summary": "스페이스X, 발사 17분 전 \"지상시스템 문제 점검 시간 확보위한 것\"\n(샌프란시스코=연합뉴스) 김태종 특파원 = 일론 머스크가 이끄는 우주기업 스페이스X가 화성 탐사를 목표로 개발 중인 대형 우주선 스타십(Starship)의 10번째 지구궤도 시험 발사가 연기됐다.\n스페이스X는 24일(현지시간) 발사를 앞두고 \"오늘 예정됐던 스타십의 10번째 비행은 중단됐다\"고 밝혔다.\n스타십은 이날 현지시간 오후 6시 30분(한국시간 25일 오전 8시 30분) 미국 텍사스주 보카 치카 해변의 스타베이스 기지에서 발사될 예정이었다. 스페이스X는 발사 17분 전 엑스(X·옛 트위터)를 통해 발사를 중단한다고 알렸다.\n스페이스X는 \"지상 시스템 문제를 점검할 시간을 확보하기 위해\"라고 설명했다. 지상 시스템은 발사대와 발사를 지원하는 주변 인프라를 의미한다.\n높이 121ｍ의 거대한 스타십은 상단의 우주선과 33개의 엔진을 갖춘 강력한 추진체 슈퍼헤비로 구성된다.\n이번 10번째 시험 발사에서는 발사 3분 뒤 상단부 우주선과 부스터가 분리되고, 부스터는 발사장으로 돌아오지 않고 멕시코만 바다에 낙하할 예정이었다.\n우주선은 스페이스X의 차세대 스타링크 위성 모형 8기를 배치하고, 우주 공간에서 엔진을 짧게 점화하는 실험도 진행할 예정이었다.\n앞서 올해 들어 시도한 7~9차 시험 발사는 모두 실패로 끝난 바 있으며, 지난달에는 스타십이 10차 발사를 준비하다가 폭발한 바 있다.\n스페이스X는 일론 머스크가 설립한 미국의 우주탐사 기업으로, 스타십은 스페이스X가 화성 탐사를 목표로 개발 중인 대형 우주선이다.\ntaejong75@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "이란 최고지도자 두 달 만에 공개연설 \"미국에 굴복 안 해\"",
+        "time": "2025-08-25T08:52:00",
+        "img": "https://img6.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825023800009_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825023800009",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825023800009",
+        "summary": "미국과 직접협상 배제…페제시키안 대통령 지지하며 내부단속\n(서울=연합뉴스) 이신영 기자 = 아야톨라 알리 하메네이 이란 최고지도자가 이스라엘과의 '12일 전쟁' 이후 첫 공개연설에서 미국과의 직접 협상을 거부하고 내부 단결을 주문했다.\n영국 일간 파이낸셜타임스(FT), 로이터, AFP 등에 따르면 하메네이는 24일(현지시간) 수천 명의 대중 앞에 모습을 드러내고 공개 연설을 했다.\n하메네이는 도널드 트럼프 미국 대통령의 이름을 거명하지는 않은 채 \"현재 미국에서 권한을 행사하고 있는 이 인물은 이란에 대한 본질적인 적대감을 드러냈다\"며 \"그들은 이란 국민과 이슬람 공화국이 굴복하기를 원하고 있다\"고 말했다.\n이어 미국과 직접 협상을 옹호하는 이란 정치인들을 '얄팍하다'고 비판하며 \"이란 국민은 그러한 (미국의) 요구에 단호히 맞설 것\"이라고 강조했다.\n미국과의 문제는 \"해결이 불가능하다\"라고도 했다.\n하메네이가 이스라엘과의 전쟁 이후 대중 앞에 직접 나서서 공개연설을 한 것은 이번이 처음이다.\n그동안에는 짧은 동영상 메시지만 발표하고 종교행사 등에만 제한적으로 참여해왔는데, 이란 내부에서 미국과의 외교관계를 재설정하라는 개혁파의 목소리가 점점 커지는 중요한 시점에 대중 앞에 나서서 협상을 거부한 것이다.\n이스라엘과 전쟁 이후 이란 내부에서는 변화를 요구하는 개혁파와 서방에 적대적인 강경파가 치열한 권력 투쟁을 벌여왔다.\n강경파 일각에서는 개혁파인 마수드 페제시키안 대통령을 축출해야 한다는 주장까지 나온 상황이다.\n하메네이는 다만 공개연설에서 적의 전략은 이란에서 분열을 조장하는 것이라며 내부 단속에 나섰다.\n그는 \"국가를 위해 봉사하는 사람들, 특히 열심히 일하고 끈기 있는 대통령은 지지해야 한다\"며 페제시키안 대통령에 대한 지지 의사를 표명했다.\n이란은 지난 6월 자국 핵시설이 이스라엘과 미국의 폭격을 받은 뒤 국제원자력기구(IAEA)에",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "영동군, 하나로마트 10곳 민생회복 소비쿠폰 가맹 등록",
+        "time": "2025-08-25T10:05:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825048300064_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825048300064",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825048300064",
+        "summary": "(영동=연합뉴스) 박병기 기자 = 충북 영동군은 면(面)지역 주민들의 '민생회복 소비쿠폰' 사용 불편을 덜어주기 위해 하나로마트 10곳을 신규 가맹점 등록했다고 25일 밝혔다.\n음식점·소매점 등 소비 여건이 열악한 면 지역 주민들은 소비쿠폰을 쓰기 위해 영동읍내 등으로 나가야 하는 불편을 겪었다.\n대신 영동읍에 위치한 영동농협 본점과 역전지점 하나로마트는 제외됐다.\n군은 또 이들 10곳에 대해 지역화폐(레인보우 영동페이) 사용도 허용할 계획이다.\n군 관계자는 \"지역화폐의 경우 교통 취약지 하나로마트 4곳만 사용할 수 있었는데이번에 10곳 모두로 확대하는 것\"이라고 말했다.\nbgipark@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'K-컬처' 알린다…대구국제성악콩쿠르 26일 결선",
+        "time": "2025-08-25T09:34:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825039400053_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825039400053",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825039400053",
+        "summary": "(대구=연합뉴스) 한무선 기자 = 대구시와 대구음악협회는 오는 26일 오후 2시 대구콘서트하우스 그랜드홀에서 '2025 대구국제성악콩쿠르' 결선을 한다고 25일 밝혔다.\n국내외 예선을 거쳐 본선에 진출한 참가자들 가운데 18명이 이날 결선 무대에 올라 각자 선택한 곡으로 경연을 펼친다.\n총상금은 5천800만 원이며, 우승자에게는 상금 2천만 원과 문화체육관광부 장관상이 수여된다.\n올해로 43회를 맞은 대구국제성악콩쿠르는 바리톤 고성현(1회)을 비롯해 베이스 연광철(4회), 소프라노 김효영(38회) 등이 입상한 대회다.\n지난해 6월 국내 성악 단일 분야에서 유일하게 국제음악세계콩쿠르연맹(WFIMC) 인증을 획득했고, 올해는 문화체육관광부 '지자체 협력, K-컬처 해외 홍보사업'에 선정됐다.\n올해 콩쿠르 예선은 대구뿐 아니라 이탈리아 밀라노, 미국 뉴욕에서도 열려 예선 전체 지원자 257명에는 해외 참가자 12개국 52명이 포함됐다.\n시는 외국인 참가자들을 대상으로 한국문화의 밤, K-컬처 체험 행사, 심사위원 피드백 세션, 포럼 등 다채로운 부대 프로그램을 운영 중이다.\nmshan@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "경기도 'DMZ OPEN 평화 걷기·마라톤' 참가자 모집",
+        "time": "2025-08-25T09:31:00",
+        "img": "https://img4.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825037000060_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825037000060",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825037000060",
+        "summary": "(의정부=연합뉴스) 우영식 기자 = 경기도는 11월 개최 예정인 'DMZ OPEN 평화 걷기·마라톤' 행사 참가자를 모집한다고 25일 밝혔다.\nDMZ OPEN 평화 마라톤은 오는 26일부터 모집을 시작한다. DMZ OPEN 평화 걷기는 지난 1일부터 참가자를 모집중이다.\nDMZ OPEN 평화 걷기'는 11월 1일 민간인 출입 통제구역인 파주 임진강 생태탐방로 일원에서 열린다.\n일반코스(9.1km)와 단축코스(6km)가 있다.\nDMZ OPEN 평화 마라톤은 11월 2일 임진각을 출발해 통일대교를 거쳐 다시 임진각으로 돌아오는 코스로 진행된다.\n마라톤은 하프 코스(21km)와 10km 구간으로 나눠 진행되며, 민간인 통제구역인 통일대교를 넘어 민통선 이북 지역을 달려볼 수 있다.\n부대행사인 장애물 레이스는 11월 1∼2일 이틀간 1.2㎞에 이르는 15개의 장애물을 통과하는 방식으로 진행된다.\n참가비는 DMZ 평화 걷기의 경우 코스 구분 없이 동일하게 1만2천원이다. DMZ 평화 마라톤은 하프 구간 3만5천원, 10km 구간 3만원이며 장애물 레이스의 참가비는 2만5천원이다.\n참여를 원하는 신청자는 DMZ 평화 걷기 누리집(https://dmzow.co.kr/)과 DMZ 평화 마라톤·레이스 누리집 (https://dmzopenrun.kr/)을 통해 온라인 신청·접수하면 된다.\n참가자 모집은 다음 달 말까지 진행된다. 참가 인원은 걷기 1천500명, 마라톤 3천500명, 장애물 레이스 3천300명으로 제한된다.\nwyshik@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "'마지막 황제' 거처에 남은 벽화 6점…강연 듣고 만나볼까",
+        "time": "2025-08-25T09:00:00",
+        "img": "https://img2.yna.co.kr/photo/yna/YH/2025/08/13/PYH2025081307570001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250823032100005",
+        "original_url": "https://www.yna.co.kr/view/AKR20250823032100005",
+        "summary": "국립고궁박물관, '창덕궁 벽화' 특별전 맞춰 3차례 교육\n(서울=연합뉴스) 김예나 기자 = 국립고궁박물관은 이달 27일과 9월 3일·17일에 박물관 본관 강당에서 '왕실문화 심층탐구' 교육을 연다고 25일 밝혔다.\n개관 20주년을 맞아 진행 중인 특별전 '창덕궁의 근사(謹寫)한 벽화'를 소개한다.\n창덕궁 희정당, 대조전, 경훈각을 장식했던 부벽화(付壁畵) 6점과 초본(草本·정본을 완성하기 전 그린 밑그림) 1점을 처음으로 한자리에 모은 전시다.\n부벽화는 벽에 직접 그린 게 아니라 비단에 그린 뒤 벽에 부착하는 그림을 뜻한다.\n최대 길이가 9ｍ에 달하는 벽화는 조선 왕조의 마지막 궁궐 장식화이자 김규진(1868∼1933)·이상범(1897∼1972) 등 근대 화단을 대표하는 화가들의 작품이라 의미가 크다.\n첫 강의에서는 대한제국 제2대 황제이자 조선 마지막 임금인 순종(재위 1907∼1910) 내외가 머물렀던 거처인 창덕궁 내전이 재건되는 과정과 부벽화에 관해 설명한다.\n다음 달 3일 열리는 교육에서는 전시를 기획한 이홍주 국립고궁박물관 학예연구사가 창덕궁 내전의 주요 건물에 벽화가 제작되는 과정을 들려준다.\n이어진 강의에서는 창덕궁 벽화에 담긴 근대적 서사와 전통, 혁신의 의미를 짚는다.\n교육은 당일 오후 1시 30분부터 현장에서 신청하면 된다.\n교육 영상은 다음 달 18일부터 24일까지 일주일간 박물관 유튜브(https://www.youtube.com/gogungmuseum) 계정을 통해 공개할 예정이다.\nyes@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      },
+      {
+        "title": "[K-VIBE] 최만순의 약이 되는 K-푸드…오징어, 식탁의 지혜와 바다의 유산",
+        "time": "2025-08-25T08:43:00",
+        "img": "https://img3.yna.co.kr/etc/inner/KR/2025/08/25/AKR20250825017400371_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250825017400371",
+        "original_url": "https://www.yna.co.kr/view/AKR20250825017400371",
+        "summary": "[※ 편집자 주 = 한국국제교류재단(KF)의 지난해 발표에 따르면 세계 한류 팬은 약 2억2천500만명에 육박한다고 합니다. 또한 시간과 공간의 제약을 초월해 지구 반대편과 동시에 소통하는 '디지털 실크로드' 시대도 열리고 있습니다. 바야흐로 '한류 4.0'의 시대입니다. 연합뉴스 동포·다문화부 K컬처팀은 독자 여러분께 새로운 시선으로 한국 문화를 바라보는 데 도움이 되고자 전문가 칼럼 시리즈를 준비했습니다. 시리즈는 매주 게재하며 K컬처팀 영문 한류 뉴스 사이트 K바이브에서도 영문으로 보실 수 있습니다.]\n8월에서 9월에 접어드는 계절, 우리나라 해안 곳곳의 포구는 장관을 이룬다. 그물에서 막 건져 올린 오징어가 햇살을 받아 은빛 비늘을 반짝이며 살아 꿈틀거린다.\n조용한 마을에도 웃음과 활력이 돈다. 이 시기 오징어는 살이 오르고 감칠맛과 단맛이 최절정에 이른다. 해풍 가르며 서 있노라면, 오래된 파도 소리와 더불어 바다와 인간이 함께 엮어 온 오징어의 깊은 이야기가 귓가에 밀려온다.\n우리나라 사람에게 오징어는 오랜 시간을 함께한 역사적 식재료다. 오랜 세월, 한반도 세 바다를 두루 채웠던 오징어는 생존, 문화, 경제의 핵심이었다.\n옛 문헌에도 오징어(烏賊魚)는 어체가 길고 껍질이 얇으며, 잘 건조해도 맛이 변하지 않는 귀한 어종으로 기록돼 있다. 조선 후기에는 이미 강원, 경상 지역의 어민들이 건조 오징어를 교역품으로 삼았고, 고려시대부터는 먹물(墨)이 나오는 특징으로 인해 묵어(墨魚)라는 이름이 등장한다.\n오징어는 겨울 저장식품이었고, 특히 마른오징어 '어화'(魚花)는 꽃처럼 예쁘게 오려 혼례상과 제사상에 올랐다. 동해, 울진, 속초 해안에는 여름밤 집어등 아래 오징어잡이 배들의 불빛이 관광 명소가 되기도 했다.\n◇ 오징어 식문화\n약선에서 오징어는 성질이 평하고 맛이 달고 짜며, 간(肝)과 신(腎) 경락으로 들어간다고 기록됐다. 허약, 빈혈, 골다공증",
+        "source": "yna",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 월요일",
+    "articles": [
+      {
+        "title": "'케이팝 데몬 헌터스', 이틀 특별 상영에 북미 박스오피스 폭풍 점령",
+        "time": "2025-08-25T10:28:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3358045_3482413_2125_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3358045",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3358045",
+        "source": "Gukje",
+        "date": "2025년 08월 25일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 08월 25일 Monday",
+    "articles": [
+      {
+        "title": "강유정 대통령실 대변인, 출입기자에게 명예훼손으로 고소 당해",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ohmynews/20250825110901579mjsn.jpg",
+        "url": "https://v.daum.net/v/20250825110900971",
+        "original_url": "https://v.daum.net/v/20250825110900971",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "마스가 시간표·범용 투자 패키지 나오나…한미정상회담에 에너지 공기업 총출동",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ned/20250825110627763rikg.jpg",
+        "url": "https://v.daum.net/v/20250825110625865",
+        "original_url": "https://v.daum.net/v/20250825110625865",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "李대통령 \"한일정상회담, 첫술에 배부르겠나…과거사 지적당할 것 각오\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/pressian/20250825110415580rvln.jpg",
+        "url": "https://v.daum.net/v/20250825110413743",
+        "original_url": "https://v.daum.net/v/20250825110413743",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "[영천 24시] 영천시, 상반기 고용률 68.3%…경북 시부 1위·전국 4위",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/sisapress/20250825111518527ptta.jpg",
+        "url": "https://v.daum.net/v/20250825111515284",
+        "original_url": "https://v.daum.net/v/20250825111515284",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "전북 바이오메디컬 시티 조성의 꿈 실현을 위한 제안",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/pressian/20250825104716086xjqc.jpg",
+        "url": "https://v.daum.net/v/20250825104715832",
+        "original_url": "https://v.daum.net/v/20250825104715832",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "이스라엘군 진입 임박 가자시티…\"시체 먹어대는 들개 넘쳐나\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/NEWS1/20250825091718909spla.jpg",
+        "url": "https://v.daum.net/v/20250825091718376",
+        "original_url": "https://v.daum.net/v/20250825091718376",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "해남군, ‘솔라시도 AI·에너지 신도시 및 RE100 산업단지 조성’ 포럼 개최",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/chosunbiz/20250825104919239kbbr.jpg",
+        "url": "https://v.daum.net/v/20250825104918931",
+        "original_url": "https://v.daum.net/v/20250825104918931",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "북한이 ‘반항공 미싸일’ 개발 개량에 공들이는 이유",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/hani/20250825095113569rkdt.jpg",
+        "url": "https://v.daum.net/v/20250825094612676",
+        "original_url": "https://v.daum.net/v/20250825094612676",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "자칫하면 동상이몽···한미 정상회담서 '예상 밖 청구서' 받을까",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/seouleconomy/20250825104259247ffpi.jpg",
+        "url": "https://v.daum.net/v/20250825104256611",
+        "original_url": "https://v.daum.net/v/20250825104256611",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "성범죄 전력 탓, 내전국 외국인 '인도적 체류' 거부?…法 \"위법\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/newsis/20250825103313228ywpd.jpg",
+        "url": "https://v.daum.net/v/20250825103313099",
+        "original_url": "https://v.daum.net/v/20250825103313099",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "[지금 북한은] ‘고주몽’ 종영…고구려 내세워 “정통성 선전”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/kbs/20250825103235022fsoo.jpg",
+        "url": "https://v.daum.net/v/20250825103233049",
+        "original_url": "https://v.daum.net/v/20250825103233049",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "호주 전역서 팔레스타인 지지 시위... 한인 동포들도 연대 목소리",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ohmynews/20250825095705924pamd.jpg",
+        "url": "https://v.daum.net/v/20250825095704125",
+        "original_url": "https://v.daum.net/v/20250825095704125",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "李 “김여정은 내가 위인이 되길 바라나보다…비핵화는 김정은·트럼프 합의 내용”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/kukminilbo/20250825090234030xbuv.jpg",
+        "url": "https://v.daum.net/v/20250825090232672",
+        "original_url": "https://v.daum.net/v/20250825090232672",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "철강업계 흔드는 트럼프 청구서…한미정상회담 ‘촉각’",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/dailian/20250825104615115ivba.jpg",
+        "url": "https://v.daum.net/v/20250825104613771",
+        "original_url": "https://v.daum.net/v/20250825104613771",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "이 대통령 “북한 문제…길을 한 번 만들어봐야 되지 않나”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/seoul/20250825090409659yupo.jpg",
+        "url": "https://v.daum.net/v/20250825090409794",
+        "original_url": "https://v.daum.net/v/20250825090409794",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "李대통령 \"北문제 제한없이 얘기할 것…길 만들어야\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/nocut/20250825110905990bjzw.jpg",
+        "url": "https://v.daum.net/v/20250825110904979",
+        "original_url": "https://v.daum.net/v/20250825110904979",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "[한미 정상회담 현장 리포트] 미국행 비행기서 또 기자간담회 연 李 대통령 \"외교에 친중·혐중 없어···국익이 최우선\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/551736-SOd9ttJ/20250825110803394kosa.jpg",
+        "url": "https://v.daum.net/v/20250825110802928",
+        "original_url": "https://v.daum.net/v/20250825110802928",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "우크라 “우리가 미래 결정”…러 “안전 보장 논의 러·중도 참여해야”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/kbs/20250825094840271zkyb.jpg",
+        "url": "https://v.daum.net/v/20250825094838781",
+        "original_url": "https://v.daum.net/v/20250825094838781",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "이란 최고지도자, 두 달 만에 공개연설…\"미국에 굴복하지 않겠다\"",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/akn/20250825102209046epaa.jpg",
+        "url": "https://v.daum.net/v/20250825102207482",
+        "original_url": "https://v.daum.net/v/20250825102207482",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "와우온, 美 e스포츠 방송사 ESTV와 전략적 협약···미국 시장 공략 본격화",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/etimesi/20250825110041283bkcf.png",
+        "url": "https://v.daum.net/v/20250825110039494",
+        "original_url": "https://v.daum.net/v/20250825110039494",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "중국 특사단, 왕이 부장 면담하고 이 대통령 친서 전달…“시진핑 주석 APEC 방한 요청”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/khan/20250825104837745unjg.jpg",
+        "url": "https://v.daum.net/v/20250825104836896",
+        "original_url": "https://v.daum.net/v/20250825104836896",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "해병특검, 채상병 과실치사 수사 속도…수색작전 군간부 줄소환",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/yonhap/20250825111530398xoaa.jpg",
+        "url": "https://v.daum.net/v/20250825111530291",
+        "original_url": "https://v.daum.net/v/20250825111530291",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "[율곡로] 마약카르텔에 선전포고한 美…베네수엘라 침공설까지",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/yonhap/20250825084723540jpdx.jpg",
+        "url": "https://v.daum.net/v/20250825084723082",
+        "original_url": "https://v.daum.net/v/20250825084723082",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "李대통령 “주한미군 유연성 동의 어려워…미래형 전략화는 필요”",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/kukinews/20250825110057826vyzg.jpg",
+        "url": "https://v.daum.net/v/20250825110056500",
+        "original_url": "https://v.daum.net/v/20250825110056500",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "'트럼프 사돈' 美대사 \"프랑스 반유대주의 심각\" 비난…佛 '초치'",
+        "time": "2025-08-25T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/NEWS1/20250825105009968duir.jpg",
+        "url": "https://v.daum.net/v/20250825105008953",
+        "original_url": "https://v.daum.net/v/20250825105008953",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "트럼프 책 보며 열공한 李대통령…\"국익 최대화하겠다\"(종합)",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/Edaily/20250825100238975ukxt.jpg",
+        "url": "https://v.daum.net/v/20250825100236442",
+        "original_url": "https://v.daum.net/v/20250825100236442",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "\"한미, 우선순위 갈려\"···美언론도 한미 정상회담 관심",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/seouleconomy/20250825102808210fbhp.jpg",
+        "url": "https://v.daum.net/v/20250825094856791",
+        "original_url": "https://v.daum.net/v/20250825094856791",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "美 식품업계, 트럼프 관세 완화 요구…\"수입 의존 품목 타격\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ZDNetKorea/20250825090113390ymrx.jpg",
+        "url": "https://v.daum.net/v/20250825090111498",
+        "original_url": "https://v.daum.net/v/20250825090111498",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "美 대러 제재 '구멍투성이'…中금융기관이 돈줄 우회로",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/fnnewsi/20250825111038987qvoq.jpg",
+        "url": "https://v.daum.net/v/20250825111038046",
+        "original_url": "https://v.daum.net/v/20250825111038046",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "\"시진핑 회담 기대하는 트럼프, 국방부와 입장 달라\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ked/20250825090517091csbu.jpg",
+        "url": "https://v.daum.net/v/20250825090515847",
+        "original_url": "https://v.daum.net/v/20250825090515847",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "韓美 정상회담 D-1, 美언론이 조명한 주요 의제는",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/nocut/20250825100911756jkwq.jpg",
+        "url": "https://v.daum.net/v/20250825100909848",
+        "original_url": "https://v.daum.net/v/20250825100909848",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "中관영매체 \"韓, 전략적 자주성 갖춰야 진정한 존중받을 것\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/yonhap/20250825111232405xiub.jpg",
+        "url": "https://v.daum.net/v/20250825110341728",
+        "original_url": "https://v.daum.net/v/20250825110341728",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "“케데헌이 절친”? 중국 애니 K덕 보려다 美 흥행 참패 쓴 맛",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/ned/20250825101627804bczj.png",
+        "url": "https://v.daum.net/v/20250825101627208",
+        "original_url": "https://v.daum.net/v/20250825101627208",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "[영상] 대통령궁 인근 '쾅' 버섯모양 불기둥…이스라엘, 예멘 수도 폭격",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/yonhap/20250825111128507unan.jpg",
+        "url": "https://v.daum.net/v/20250825111124077",
+        "original_url": "https://v.daum.net/v/20250825111124077",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "우크라 간 캐나다 총리 \"파병 배제 안해\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/fnnewsi/20250825111438501ttfa.jpg",
+        "url": "https://v.daum.net/v/20250825111438236",
+        "original_url": "https://v.daum.net/v/20250825111438236",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "\"李-트럼프, 주한미군 유연성·MASGA 등 對중국 논의 방점\" 美언론",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/newsis/20250825110130212mkct.jpg",
+        "url": "https://v.daum.net/v/20250825110130555",
+        "original_url": "https://v.daum.net/v/20250825110130555",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "북한, 중부전선에 대남확성기 2대 추가‥합참 \"동향 예의주시\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/imbc/20250825111014409rxow.jpg",
+        "url": "https://v.daum.net/v/20250825111014029",
+        "original_url": "https://v.daum.net/v/20250825111014029",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "美 전 CIA 국장 \"트럼프 중재에도 푸틴 우크라전 끝낼 생각 없어\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/newsis/20250825111233291cyzb.jpg",
+        "url": "https://v.daum.net/v/20250825111233126",
+        "original_url": "https://v.daum.net/v/20250825111233126",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "美 언론 “한미 정상회담 주요 카드는 ‘마스가’”",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/munhwa/20250825111409205zgct.jpg",
+        "url": "https://v.daum.net/v/20250825111406191",
+        "original_url": "https://v.daum.net/v/20250825111406191",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "中관영지, 한미정상회담 당일 \"제3자 제약 벗은 자주적 韓 기대\"",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/NEWS1/20250825111515957zrcv.jpg",
+        "url": "https://v.daum.net/v/20250825111514280",
+        "original_url": "https://v.daum.net/v/20250825111514280",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "특별 상영으로 ‘수익 280억’…‘케데헌’ 북미 박스 오피스 1위",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/kukminilbo/20250825093339753mmqq.jpg",
+        "url": "https://v.daum.net/v/20250825093337081",
+        "original_url": "https://v.daum.net/v/20250825093337081",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "전승절 앞두고 이재명 특사 맞이한 中, ‘반일 유대감’ 강조",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/chosunbiz/20250825102627296thyf.jpg",
+        "url": "https://v.daum.net/v/20250825102625709",
+        "original_url": "https://v.daum.net/v/20250825102625709",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "트럼프는 막는데, 유럽은 “이민자 없인 성장 불가”… ‘인구절벽’ 해법 놓고 갈라선 서방",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/chosunbiz/20250825105517658qljv.jpg",
+        "url": "https://v.daum.net/v/20250825105516201",
+        "original_url": "https://v.daum.net/v/20250825105516201",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      },
+      {
+        "title": "트럼프 “클레멘스, 명예의 전당 가야”···또 스포츠 개입?",
+        "time": "2025-08-25T02:16:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202508/25/khan/20250825111007786wvyc.png",
+        "url": "https://v.daum.net/v/20250825111006020",
+        "original_url": "https://v.daum.net/v/20250825111006020",
+        "source": "daum",
+        "date": "2025년 08월 25일 Monday"
+      }
+    ]
+  },
+  {
     "date": "2025년 08월 24일 일요일",
     "articles": [
       {
