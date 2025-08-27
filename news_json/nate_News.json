@@ -281813,5 +281813,339 @@
         "original_url": "https://news.nate.com/view/20250826n40547"
       }
     ]
+  },
+  {
+    "date": "2025년 08월 27일 수요일",
+    "articles": [
+      {
+        "title": "극지연구소, 남극 빙하 미생물 '인체 감염' 가능",
+        "time": "2025-08-27T11:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hk/2025/08/27/01.41518605.1.jpg",
+        "url": "https://news.nate.com/view/20250827n14112",
+        "original_url": "https://news.nate.com/view/20250827n14112"
+      },
+      {
+        "title": "\"미국, 전후 우크라 안전보장에 방공·정보 자산 지원 방침\"",
+        "time": "2025-08-27T11:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/08/27/AKR20250827110442188_01_i.jpg",
+        "url": "https://news.nate.com/view/20250827n13948",
+        "original_url": "https://news.nate.com/view/20250827n13948"
+      },
+      {
+        "title": "불타는 탱크서 끌어냈다…납치된 19세 이스라엘 군인 부모가 공개한 영상",
+        "time": "2025-08-27T11:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/08/27/ch_1756260364222_665114_0.jpg",
+        "url": "https://news.nate.com/view/20250827n08276",
+        "original_url": "https://news.nate.com/view/20250827n08276"
+      },
+      {
+        "title": "중국 관영지, 이 대통령 비판…\"전략적 자율성 외면\"",
+        "time": "2025-08-27T11:09:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250827n14135",
+        "original_url": "https://news.nate.com/view/20250827n14135"
+      },
+      {
+        "title": "트럼프, 27일 '가자 전후 계획' 회의…'강제 이주' 논의되나",
+        "time": "2025-08-27T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250827_0000583710_web.jpg",
+        "url": "https://news.nate.com/view/20250827n14158",
+        "original_url": "https://news.nate.com/view/20250827n14158"
+      },
+      {
+        "title": "호주, 반유대주의 방화 사건 배후로 이란 지목…외교 대사 추방",
+        "time": "2025-08-27T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/08/27/b72a0845-3440-40d3-8f38-1f153e6fecdd.jpg",
+        "url": "https://news.nate.com/view/20250827n06577",
+        "original_url": "https://news.nate.com/view/20250827n06577"
+      },
+      {
+        "title": "러시아, 유럽 '고문방지협약' 탈퇴키로",
+        "time": "2025-08-27T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20240511_0001085769_web.jpg",
+        "url": "https://news.nate.com/view/20250827n13441",
+        "original_url": "https://news.nate.com/view/20250827n13441"
+      },
+      {
+        "title": "\"美 엑슨모빌, 러 극동 에너지 개발 프로젝트 재참여 추진\"",
+        "time": "2025-08-27T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/08/27/2GWSF47LMT_1.jpg",
+        "url": "https://news.nate.com/view/20250827n13367",
+        "original_url": "https://news.nate.com/view/20250827n13367"
+      },
+      {
+        "title": "무역 합의 뒤에도 트럼프 압박 여전…한국 등 대응 고심",
+        "time": "2025-08-27T11:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/08/27/202508271046231772_t.jpg",
+        "url": "https://news.nate.com/view/20250827n13561",
+        "original_url": "https://news.nate.com/view/20250827n13561"
+      },
+      {
+        "title": "미국 이지스함 파견에 베네수엘라 함정 전진 배치",
+        "time": "2025-08-27T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/08/27/202104773_700.jpg",
+        "url": "https://news.nate.com/view/20250827n13372",
+        "original_url": "https://news.nate.com/view/20250827n13372"
+      },
+      {
+        "title": "인도, 댐 수문 개방…대홍수 우려에 파키스탄서 15만명 긴급 대피",
+        "time": "2025-08-27T10:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/27/2025082701002163500133161.jpg",
+        "url": "https://news.nate.com/view/20250827n13206",
+        "original_url": "https://news.nate.com/view/20250827n13206"
+      },
+      {
+        "title": "베네수엘라, 美 해군 파병에 정면 대응…충돌 위험 고조",
+        "time": "2025-08-27T10:46:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250827n05112",
+        "original_url": "https://news.nate.com/view/20250827n05112"
+      },
+      {
+        "title": "영화같은 수십m 모래 폭풍…美 애리조나 공항 마비 등 피해",
+        "time": "2025-08-27T10:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/08/27/cz_1756259104402_141525_0.jpg",
+        "url": "https://news.nate.com/view/20250827n08988",
+        "original_url": "https://news.nate.com/view/20250827n08988"
+      },
+      {
+        "title": "\"빙하 속 2000년 전 미생물 인체 감염 가능성…일부는 적혈구 파괴도\"",
+        "time": "2025-08-27T10:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/27/news-p.v1.20250827.a5751e867a83472aabaf20b279e6d7b6_P1.png",
+        "url": "https://news.nate.com/view/20250827n12683",
+        "original_url": "https://news.nate.com/view/20250827n12683"
+      },
+      {
+        "title": "트럼프 \"메타, 루이지애나 AI 데이터 센터 구축에 70조원 투입\"",
+        "time": "2025-08-27T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/27/2025082701002159700132841.jpg",
+        "url": "https://news.nate.com/view/20250827n12016",
+        "original_url": "https://news.nate.com/view/20250827n12016"
+      },
+      {
+        "title": "트럼프, 27일 백악관서 '가자' 회의 주재",
+        "time": "2025-08-27T10:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/08/27/ae_1756258804879_82835_0.jpg",
+        "url": "https://news.nate.com/view/20250827n12405",
+        "original_url": "https://news.nate.com/view/20250827n12405"
+      },
+      {
+        "title": "'공식 문서' 없는 한미 외교…트럼프 입에 계속 울고 웃는다",
+        "time": "2025-08-27T10:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/08/27/ch_1756258624281_36588_0.jpg",
+        "url": "https://news.nate.com/view/20250827n01529",
+        "original_url": "https://news.nate.com/view/20250827n01529"
+      },
+      {
+        "title": "FT \"美, 전후 우크라 안전보장에 방공·정보 자산 지원 방침\"",
+        "time": "2025-08-27T10:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/27/PUP20250820001801009_P2.jpg",
+        "url": "https://news.nate.com/view/20250827n12426",
+        "original_url": "https://news.nate.com/view/20250827n12426"
+      },
+      {
+        "title": "\"트럼프·푸틴, 엑슨의 사할린 프로젝트 복귀 비공개 논의\"-WSJ",
+        "time": "2025-08-27T10:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250827_0001927723_web.jpg",
+        "url": "https://news.nate.com/view/20250827n11913",
+        "original_url": "https://news.nate.com/view/20250827n11913"
+      },
+      {
+        "title": "트럼프, 연준 이사 이어 연은 총재에도 개입 움직임",
+        "time": "2025-08-27T10:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/08/27/PS25082700483.jpg",
+        "url": "https://news.nate.com/view/20250827n04106",
+        "original_url": "https://news.nate.com/view/20250827n04106"
+      },
+      {
+        "title": "트럼프 \"韓과 무역 협상, 기존대로\"…3시간 동안 '자화자찬' 국무회의",
+        "time": "2025-08-27T10:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/08/27/news_1756258101_1540920_m_1.png",
+        "url": "https://news.nate.com/view/20250827n11797",
+        "original_url": "https://news.nate.com/view/20250827n11797"
+      },
+      {
+        "title": "러-우크라, 에너지 공습 격화…종전협상서 상대입지 약화 목적",
+        "time": "2025-08-27T10:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/27/PEP20250820135601009_P2.jpg",
+        "url": "https://news.nate.com/view/20250827n11416",
+        "original_url": "https://news.nate.com/view/20250827n11416"
+      },
+      {
+        "title": "트럼프 中 유학생 \"60만명\" 수용 발언에 핵심 지지층 반발",
+        "time": "2025-08-27T10:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/27/202505301250437328_l.JPG",
+        "url": "https://news.nate.com/view/20250827n03745",
+        "original_url": "https://news.nate.com/view/20250827n03745"
+      },
+      {
+        "title": "미국 이지스함 파견에 맞서 베네수엘라 함정 전진 배치…군사적 긴장 고조",
+        "time": "2025-08-27T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/08/27/202508271014570740_t.jpg",
+        "url": "https://news.nate.com/view/20250827n11176",
+        "original_url": "https://news.nate.com/view/20250827n11176"
+      },
+      {
+        "title": "'극우' 英개혁당 패라지 \"집권 5년 내 불법 이민자 60만명 추방\"",
+        "time": "2025-08-27T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20240702_0001233240_web.jpg",
+        "url": "https://news.nate.com/view/20250827n11262",
+        "original_url": "https://news.nate.com/view/20250827n11262"
+      },
+      {
+        "title": "트럼프, 美 연준 장악 가속 \"이사회 과반 차지할 것\"",
+        "time": "2025-08-27T10:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/08/27/202508270706160892_l.jpg",
+        "url": "https://news.nate.com/view/20250827n04315",
+        "original_url": "https://news.nate.com/view/20250827n04315"
+      },
+      {
+        "title": "'만 79세' 트럼프, 지치지도 않나···3시간 17분간 '마라톤 회의' 기록 세웠다 [글로벌 왓]",
+        "time": "2025-08-27T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/08/27/2GWSDWRASB_1.jpg",
+        "url": "https://news.nate.com/view/20250827n11174",
+        "original_url": "https://news.nate.com/view/20250827n11174"
+      },
+      {
+        "title": "\"일·인도 정상, 中 해양 진출에 '심각한 우려' 공동성명에 명기 예정\"",
+        "time": "2025-08-27T10:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250214_0000107119_web.jpg",
+        "url": "https://news.nate.com/view/20250827n11099",
+        "original_url": "https://news.nate.com/view/20250827n11099"
+      },
+      {
+        "title": "트럼프, 러·우 종전 합의 없으면 러 경제제재…\"세계전쟁 안돼\"",
+        "time": "2025-08-27T10:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/08/27/3d5a6d5c-3b29-435d-8c25-c43f904d7b43.jpg",
+        "url": "https://news.nate.com/view/20250827n11029",
+        "original_url": "https://news.nate.com/view/20250827n11029"
+      },
+      {
+        "title": "\"트럼프, 美 연준 이사에 '연은 총재'도 입맛대로\"…도대체 그의 야심 어디까지?",
+        "time": "2025-08-27T10:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/27/rcv.YNA.20250717.PAF20250717037001009_P1.jpg",
+        "url": "https://news.nate.com/view/20250827n09050",
+        "original_url": "https://news.nate.com/view/20250827n09050"
+      },
+      {
+        "title": "호주, \"반유대주의\" 이유로 이란대사 추방…이란 정부는 \"대응 조치\"위협",
+        "time": "2025-08-27T10:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250617_0020854266_web.jpg",
+        "url": "https://news.nate.com/view/20250827n10777",
+        "original_url": "https://news.nate.com/view/20250827n10777"
+      },
+      {
+        "title": "홍석현 회장 \"韓 로드맵 쥐고, 트럼프?김정은 포괄적 대타협 이끌어야\"",
+        "time": "2025-08-27T10:12:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250827n10368",
+        "original_url": "https://news.nate.com/view/20250827n10368"
+      },
+      {
+        "title": "美특사 \"트럼프, 내일 백악관서 가자 회의…포괄적 계획 수립\"",
+        "time": "2025-08-27T10:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/08/27/7230909_high.jpg",
+        "url": "https://news.nate.com/view/20250827n10751",
+        "original_url": "https://news.nate.com/view/20250827n10751"
+      },
+      {
+        "title": "[자막뉴스] 탱크서 군인 끌어내고 총성까지…하마스 '인질 납치 영상' 공개",
+        "time": "2025-08-27T10:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/08/27/202508270911362599_t.jpg",
+        "url": "https://news.nate.com/view/20250827n10599",
+        "original_url": "https://news.nate.com/view/20250827n10599"
+      },
+      {
+        "title": "트럼프 따라쟁이가 또?…영국 극우 \"불법이민자 모두 강제 추방\"",
+        "time": "2025-08-27T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/08/27/20250827100040811001.png",
+        "url": "https://news.nate.com/view/20250827n10182",
+        "original_url": "https://news.nate.com/view/20250827n10182"
+      },
+      {
+        "title": "협상 앞둔 러·우, 에너지 시설 맞불 공격 왜?…사기저하 공급교란 목적",
+        "time": "2025-08-27T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250827_0001927478_web.jpg",
+        "url": "https://news.nate.com/view/20250827n04962",
+        "original_url": "https://news.nate.com/view/20250827n04962"
+      },
+      {
+        "title": "\"트럼프 '숙청' SNS 퍼뜨린 한국인들, 누구인가?\"",
+        "time": "2025-08-27T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/08/27/202508270736396281_0.jpg",
+        "url": "https://news.nate.com/view/20250827n09762",
+        "original_url": "https://news.nate.com/view/20250827n09762"
+      },
+      {
+        "title": "美, 인도 관세 50% 예정대로 오늘 부과 방침…\"연기 계획 없다\"",
+        "time": "2025-08-27T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250403_0000227714_web.jpg",
+        "url": "https://news.nate.com/view/20250827n09583",
+        "original_url": "https://news.nate.com/view/20250827n09583"
+      },
+      {
+        "title": "트럼프, 백악관서 '가자' 회의…\"러시아-우크라 양자회담 가능성\"",
+        "time": "2025-08-27T09:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/27/news-p.v1.20250827.e96ba41e107e44c9a3189c59a496b142_P1.jpg",
+        "url": "https://news.nate.com/view/20250827n09251",
+        "original_url": "https://news.nate.com/view/20250827n09251"
+      },
+      {
+        "title": "英 극우 개혁당 \"집권하면 모든 불법 이민자 구금·추방\"",
+        "time": "2025-08-27T09:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/08/27/news-p.v1.20250827.4781936130114de0b153fe283ab47a19_P1.jpg",
+        "url": "https://news.nate.com/view/20250827n09171",
+        "original_url": "https://news.nate.com/view/20250827n09171"
+      },
+      {
+        "title": "EU 올해 산불 피해 100만ha 넘어…사상 최대",
+        "time": "2025-08-27T09:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/08/27/2025082701002148300132221.jpg",
+        "url": "https://news.nate.com/view/20250827n09135",
+        "original_url": "https://news.nate.com/view/20250827n09135"
+      },
+      {
+        "title": "中-대만, 전승절 80주년 신경전…대만, \"행사 참석 금지·선전 주의\" 경고",
+        "time": "2025-08-27T09:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250824_0001925329_web.jpg",
+        "url": "https://news.nate.com/view/20250827n08989",
+        "original_url": "https://news.nate.com/view/20250827n08989"
+      },
+      {
+        "title": "美 산불 현장에 지연제 뿌리는 소방 항공기",
+        "time": "2025-08-27T09:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250827_0000584514_web.jpg",
+        "url": "https://news.nate.com/view/20250827n08918",
+        "original_url": "https://news.nate.com/view/20250827n08918"
+      },
+      {
+        "title": "주한미군 땅 달라는 트럼프, 볼턴 \"그는 부동산업자, 사업 뜻하는 것\"",
+        "time": "2025-08-27T09:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/08/27/ovp_cde99ee4-a30c-4749-aef4-5b12452e0861.jpg",
+        "url": "https://news.nate.com/view/20250827n00570",
+        "original_url": "https://news.nate.com/view/20250827n00570"
+      },
+      {
+        "title": "\"美, 우크라에 '전략적 지원 자산' 제공 제안\"-FT",
+        "time": "2025-08-27T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/08/27/NISI20250819_0000567168_web.jpg",
+        "url": "https://news.nate.com/view/20250827n08352",
+        "original_url": "https://news.nate.com/view/20250827n08352"
+      },
+      {
+        "title": "트럼프, 27일 백악관서 '가자' 회의…이 '완전장악' 채비속 주목",
+        "time": "2025-08-27T09:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/08/27/PAF20250827021501009_P2.jpg",
+        "url": "https://news.nate.com/view/20250827n08513",
+        "original_url": "https://news.nate.com/view/20250827n08513"
+      },
+      {
+        "title": "트럼프 연준 장악 시도에 美장단기 금리차 3년만에 최고",
+        "time": "2025-08-27T09:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/08/27/news-p.v1.20250827.4f5d5475fcf946d68cab206328d8f164_P1.jpg",
+        "url": "https://news.nate.com/view/20250827n08609",
+        "original_url": "https://news.nate.com/view/20250827n08609"
+      }
+    ]
   }
 ]
