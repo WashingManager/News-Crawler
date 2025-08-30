@@ -12715,6 +12715,28 @@
   },
   {
     "date": "2025년 08월 30일 토요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "이재명 대통령, '강릉 가뭄 국가적 재난으로 선포'",
+        "time": "2025-08-30T19:07:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3363242_3488328_617_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3363242",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3363242"
+      },
+      {
+        "title": "[속보] 李대통령, '최악 가뭄' 강릉에 즉각 '재난사태 선포' 지시",
+        "time": "2025-08-30T18:58:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3363239_3488325_5822_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3363239",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3363239"
+      },
+      {
+        "title": "[속보] 행안부, 오늘 오후 7시부터 강릉시 일원 재난사태 선포",
+        "time": "2025-08-30T19:23:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202508/3363247_3488334_2448_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3363247",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3363247"
+      }
+    ]
   }
 ]
