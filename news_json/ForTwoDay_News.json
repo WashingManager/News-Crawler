@@ -3,6 +3,15 @@
     "date": "2025년 08월 31일 일요일",
     "articles": [
       {
+        "title": "김정은 중국 전승절 참석 ‘3대 관전 포인트’는…한국 대표단과 만날까",
+        "time": "2025-09-01T06:00:00+00:00",
+        "img": "/api/attachments/CC8iMkNnNWlTMHh2YTBJNFduSTNUVEZ0VFJEREF4aW9CU2dLTWdzQlFKak1KV2dPUndxNm9R=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE50ODNyN3gyS2tkVUEwa0hMNnBfeU12ZlV3OGc3TFJ6NUYzQ2tjbnl4MmdmYUUwS0wzOFJMendDdkk5SnVfV1RRblhnMmFqQ2paQVFPdzQtcEtMUdIBX0FVX3lxTE9LcFZUaHdUMG1wRUlDVXp6LWtFSWtUMG9TU2ZXS2ItM01YREZib21DUkUzQU00a3FMOThUU1pZWGVwTndjNzZqUHdtSmFnUzFOUjF2a3FnaEhqV2E4dkJr?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE50ODNyN3gyS2tkVUEwa0hMNnBfeU12ZlV3OGc3TFJ6NUYzQ2tjbnl4MmdmYUUwS0wzOFJMendDdkk5SnVfV1RRblhnMmFqQ2paQVFPdzQtcEtMUdIBX0FVX3lxTE9LcFZUaHdUMG1wRUlDVXp6LWtFSWtUMG9TU2ZXS2ItM01YREZib21DUkUzQU00a3FMOThUU1pZWGVwTndjNzZqUHdtSmFnUzFOUjF2a3FnaEhqV2E4dkJr?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
         "title": "북한 방사성 폐수 조사, 원안위로 일원화 추진한다",
         "time": "2025-09-01T05:47:00+00:00",
         "img": "/api/attachments/CC8iL0NnNDBNMVJCUmxGT1IwRlRVV2RCVFJETkFoajBBeWdLTWdtWk5JQ1BHU2VhdUFB=-w100-h100-p-df",
@@ -21,11 +30,29 @@
         "date": "2025년 08월 31일 일요일"
       },
       {
+        "title": "韓, 9월 한 달간 유엔 안보리 의장국 수임…1년 3개월만",
+        "time": "2025-09-01T05:02:01+00:00",
+        "img": "/api/attachments/CC8iI0NnNVFjVXd0VTJsVGFtNVNSalJYVFJETkFoajBBeWdLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE1vcFNWVURYcEpVYnZtVUxSR0Rqc25hWWFqZm15a1ZMRlFiQXJqNDcwbzZPQU44MWVuYk5pQktKNmxxZ25pemlBcjRFMHRJd1NwbGV6Wl90OTlnWmvSAWBBVV95cUxOV2ZwSGlfZEw1NzZmaXhYcEN2NVhfbC1YaWxsWVc2T0txTEFVaXRMeUtwNHZ3aWsxWEJXVVl1N2MxOUhQYWFiaXdpbmhncTVmUzBoV1JPa0YzeEdDamtUZEc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE1vcFNWVURYcEpVYnZtVUxSR0Rqc25hWWFqZm15a1ZMRlFiQXJqNDcwbzZPQU44MWVuYk5pQktKNmxxZ25pemlBcjRFMHRJd1NwbGV6Wl90OTlnWmvSAWBBVV95cUxOV2ZwSGlfZEw1NzZmaXhYcEN2NVhfbC1YaWxsWVc2T0txTEFVaXRMeUtwNHZ3aWsxWEJXVVl1N2MxOUhQYWFiaXdpbmhncTVmUzBoV1JPa0YzeEdDamtUZEc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
         "title": "아프가니스탄 잘랄라바드 동북동쪽서 규모 6.0 지진 발생",
         "time": "2025-09-01T04:39:35+00:00",
         "img": "/api/attachments/CC8iJ0NnNVZXRXRYUjNOSWRXNU1SMkpPVFJEMEF4ajBBeWdLTWdPQm9Sbw=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE1JS0xNcnZCTld0MU9COTBwVEt5bHROeXNoYi05bFFYeTBuckNIcWNRVm05bjdQVC15TDlXaXZ3Q2ZlUGd3N244by0xUk9nN25ndlp4Wk13N3kzdXPSAWBBVV95cUxPNUpwdkQ2MWtyb1laT3NHdjU4WTM3b2VVYVBxYWd4QWdLcV9HMUZxdUxnLTAtSkx6X1hzRE1JMWQwU1VDdHd4VGhzbTRlczk3ZFlyWC1jb2lpNXZiU3ZLTDE?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE1JS0xNcnZCTld0MU9COTBwVEt5bHROeXNoYi05bFFYeTBuckNIcWNRVm05bjdQVC15TDlXaXZ3Q2ZlUGd3N244by0xUk9nN25ndlp4Wk13N3kzdXPSAWBBVV95cUxPNUpwdkQ2MWtyb1laT3NHdjU4WTM3b2VVYVBxYWd4QWdLcV9HMUZxdUxnLTAtSkx6X1hzRE1JMWQwU1VDdHd4VGhzbTRlczk3ZFlyWC1jb2lpNXZiU3ZLTDE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "아프가니스탄 잘랄라바드 동북동쪽서 규모 6.0 지진 발생",
+        "time": "2025-09-01T04:39:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNTNTM1JYVVZBM2VuaERkWFJOVFJEMEF4ajBBeWdLTWdPQm9Sbw=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMigAFBVV95cUxOTF9IRERuemJQaHV2eXpXZXY0X2tSc2VURURyY1Vhd0J4eUhHVDNRZnlSTnUwM1RINlF0QjN0UDNvWkxhTExSSU91ci1qMENtWmo5RmNOZDZwYmpLd1NqUjdOUmsydUx5QkhEdHl2Rld2bTVuUjNhemdiWXZ6TjFyeg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMigAFBVV95cUxOTF9IRERuemJQaHV2eXpXZXY0X2tSc2VURURyY1Vhd0J4eUhHVDNRZnlSTnUwM1RINlF0QjN0UDNvWkxhTExSSU91ci1qMENtWmo5RmNOZDZwYmpLd1NqUjdOUmsydUx5QkhEdHl2Rld2bTVuUjNhemdiWXZ6TjFyeg?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 31일 일요일"
       },
@@ -71,6 +98,15 @@
         "img": "/api/attachments/CC8iK0NnNTBNa1JPWW5WcU5HcHpiMlJRVFJEY0FSaWdBU2dCTWdhUmNvNXNNUVk=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMid0FVX3lxTE9wcjdiTTB2SGgwWXJjMWU4d1VfY1ZWN2RsSHE1QlhBNXZJRGV5OWNENmMtMEFIVlEtNmd5NmZ6c3FrTVd6SW96eGFJQmF5b0tFeGhmVEx2RW4xd3BoVGhENEpyZnp4d2ozSnktN1FFc0NzNlEyTGVn0gFmQVVfeXFMTlpObkRpbDN5eVU2cjZIQUt2YlRyNm4xX090MTU2LWxXTzVZakxhVkxYT2dPckcwZDZ2c2JzeF90Um1palRCNjRjbGVxbFpzTmtGNUpOeVBiVVpvSEZweVJYTWhxM0l3?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMid0FVX3lxTE9wcjdiTTB2SGgwWXJjMWU4d1VfY1ZWN2RsSHE1QlhBNXZJRGV5OWNENmMtMEFIVlEtNmd5NmZ6c3FrTVd6SW96eGFJQmF5b0tFeGhmVEx2RW4xd3BoVGhENEpyZnp4d2ozSnktN1FFc0NzNlEyTGVn0gFmQVVfeXFMTlpObkRpbDN5eVU2cjZIQUt2YlRyNm4xX090MTU2LWxXTzVZakxhVkxYT2dPckcwZDZ2c2JzeF90Um1palRCNjRjbGVxbFpzTmtGNUpOeVBiVVpvSEZweVJYTWhxM0l3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "스페인 명소 사그라다 파밀리아 외벽에 페인트 테러",
+        "time": "2025-09-01T01:26:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVFZMFZSZURabU1HNVNSVmMwVFJEWEFoamlCQ2dLTWdhQklZanN3QVE=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE9fSC01U1NJZ185VEpCdGNoTXJPTGxVTFIzNllOU1NwLTlGWE1ZSHNqOUg2R3pQOUlLU0gwSml4RWd0NXVRYTRKVGcwTlVfTGZVLUdz?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE9fSC01U1NJZ185VEpCdGNoTXJPTGxVTFIzNllOU1NwLTlGWE1ZSHNqOUg2R3pQOUlLU0gwSml4RWd0NXVRYTRKVGcwTlVfTGZVLUdz?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 08월 31일 일요일"
       },
@@ -9164,6 +9200,246 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "공개토론 제안한 이재명 대통령… 정청래도 “검찰개혁, 당정대 이견 없다”",
+        "time": "2025-09-01T06:02:14",
+        "img": "https://imgnews.pstatic.net/image/022/2025/09/01/20250831510125_20250901060214722.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004064434",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004064434",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "수위 조절하는 장동혁, 여전히 초강경 김민수···국힘 ‘반탄’ 내 균열? ‘역할 분담’?",
+        "time": "2025-09-01T06:00:11",
+        "img": "https://imgnews.pstatic.net/image/032/2025/09/01/0003393247_001_20250901060510998.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003393247",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003393247",
+        "summary": "장, 윤석열 면회·찬탄파와 갈등 등서 한 발 물러서\n김, 최고위원 되고서도 12·3 불법계엄 적극 옹호",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "장동혁, 이재명 대통령 독대 요구로 존재감↑…\"1대1 아니면 의미 없다\"",
+        "time": "2025-09-01T05:55:00",
+        "img": "https://imgnews.pstatic.net/image/008/2025/09/01/0005243459_001_20250901055512966.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005243459",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005243459",
+        "summary": "[the300]",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "한화·현대로템·KAI, 폴란드 집결…차세대 무기 앞세워 경쟁력 과시",
+        "time": "2025-09-01T06:05:00",
+        "img": "https://imgnews.pstatic.net/image/421/2025/09/01/0008457695_001_20250901060514508.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008457695",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008457695",
+        "summary": "동유럽 최대 방산 전시 'MSPO' 2~5일 열려\n한화, 폴란드 잠수함 사업 겨냥…현대로템, 무인차 HR-셰르파 전시",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "‘화기애애’ 정상회담 나흘만에… 美 VEU 철회, 유탄인가 전략인가",
+        "time": "2025-09-01T06:02:30",
+        "img": "https://imgnews.pstatic.net/image/022/2025/09/01/20250831509769_20250901060230168.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004064441",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004064441",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "獨 총리 “우크라이나 전쟁, 장기전 각오”... 트럼프 중재 2주 만에 비관론 선회",
+        "time": "2025-09-01T06:16:06",
+        "img": "https://imgnews.pstatic.net/image/366/2025/09/01/0001104317_001_20250901061606461.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001104317",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001104317",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "美항소법원 \"트럼프 상호관세 위법\"…대법원에서 결론 [글로벌 뉴스픽]",
+        "time": "2025-09-01T06:15:19",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/374/0000460435",
+        "original_url": "https://n.news.naver.com/mnews/article/374/0000460435",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프측 “인도, 러시아의 전쟁 자금 세탁소”",
+        "time": "2025-09-01T05:50:10",
+        "img": "https://imgnews.pstatic.net/image/016/2025/09/01/0002521836_001_20250901055010950.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002521836",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002521836",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "러시아-우크라 회동 기한 하루 남아, 독일 \"전쟁 장기화 대비\"",
+        "time": "2025-09-01T05:47:12",
+        "img": "https://imgnews.pstatic.net/image/014/2025/09/01/0005399302_001_20250901054712620.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005399302",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005399302",
+        "summary": "지난달 美 트럼프가 제시한 러우 정상회담 기한, 1일 종료\n독일 총리 \"우크라 전쟁 장기화 대비, 우크라 항복 바라지 않아\"\n미국-러시아, 유럽이 종전 방해한다며 불만\n유럽은 우크라 안전보장 위해 현지 파병 계획 논의",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "중국 밀크티 브랜드들, 시장 포화에 한국 등 세계 공략",
+        "time": "2025-09-01T06:25:00",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/01/AKR20250831005000030_01_i_P4_20250901062513508.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015596600",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015596600",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "한국, 9월 유엔 안보리 의장국 수임…2일 언론 브리핑",
+        "time": "2025-09-01T06:32:55",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/01/NISI20250225_0000133890_web_20250225063702_20250901063321886.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013452317",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013452317",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "북중러 정상 66년 만 한 자리에… 시진핑, 신냉전 '맹주'로 떠오르다[글로벌 모닝 브리핑]",
+        "time": "2025-09-01T06:31:13",
+        "img": "https://imgnews.pstatic.net/image/011/2025/09/01/0004527351_001_20250901063113891.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004527351",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004527351",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프 \"상호관세 없었다면 美 파괴됐을 것\" 대법 압박",
+        "time": "2025-09-01T06:26:13",
+        "img": "https://imgnews.pstatic.net/image/011/2025/09/01/0004527349_001_20250901062613163.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004527349",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004527349",
+        "summary": "\"군사적 힘 즉시 없어졌을 것\"\n항소법원, 위법 판결 내리자\n찬성 표한 민주당 판사 추켜세우며\n대법원 판결 압박",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프 “관세 없었으면 미국 완전히 파괴되고 군사력 소멸됐을 것”",
+        "time": "2025-09-01T06:18:07",
+        "img": "https://imgnews.pstatic.net/image/009/2025/09/01/0005550479_001_20250901061807014.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005550479",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005550479",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "스페인 ‘가우디 성당’에 페인트 뿌린 환경운동가…아이러니한 기후 시위",
+        "time": "2025-09-01T06:27:10",
+        "img": "https://imgnews.pstatic.net/image/009/2025/09/01/0005550480_001_20250901062710049.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005550480",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005550480",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프 \"관세 없었다면 美 군사력 소멸\"…대법 압박",
+        "time": "2025-09-01T06:33:43",
+        "img": "https://imgnews.pstatic.net/image/215/2025/09/01/A202509010034_1_20250901063410366.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/215/0001222029",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001222029",
+        "summary": "항소법원 'IEEPA 기반 관세 무효' 판결에 반발",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "'상호관세 근거無' 판결에도...美무역 대표 \"무역 파트너들과 협상 지속\"",
+        "time": "2025-09-01T06:33:13",
+        "img": "https://imgnews.pstatic.net/image/660/2025/09/01/0000092007_001_20250901063313824.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/660/0000092007",
+        "original_url": "https://n.news.naver.com/mnews/article/660/0000092007",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "美 깅그리치 전 하원의장 \"이재명 정부의 탄압, 숨막힐 지경\"",
+        "time": "2025-09-01T06:31:16",
+        "img": "https://imgnews.pstatic.net/image/088/2025/09/01/0000967378_002_20250901063116041.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/088/0000967378",
+        "original_url": "https://n.news.naver.com/mnews/article/088/0000967378",
+        "summary": "미 조야 인사들, 한국 정치 상황 잇단 언급…왜?\n특검 등 한국 정치 상황에 어떤 영향 미칠지 주목",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "美 깅그리치 전 하원의장 \"李 정부 전면적 탄압, 숨 막힐 지경\"",
+        "time": "2025-09-01T06:31:13",
+        "img": "https://imgnews.pstatic.net/image/088/2025/09/01/0000967377_001_20250901063113515.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/088/0000967377",
+        "original_url": "https://n.news.naver.com/mnews/article/088/0000967377",
+        "summary": "美 조야 인사들, 칼럼 또는 게시물 통해 韓 정부 맹비난\n특검 등 한국 정치 상황에 어떤 영향 미칠지 주목\n\"경찰 국가에서 법치 국가로 돌아오라\"",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "“관세 없었으면 美 군사력 소멸”... 트럼프, 법원 ‘위법’ 판결에 격노",
+        "time": "2025-09-01T06:31:10",
+        "img": "https://imgnews.pstatic.net/image/366/2025/09/01/0001104318_001_20250901063110409.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001104318",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001104318",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "파키스탄 동부 몬순 폭우로 역대급 홍수…“2백만 명 피해”",
+        "time": "2025-09-01T06:23:00",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012019755",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012019755",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "이스라엘 “하마스 대변인 제거”…트럼프 “가자 주민 돈 주고 떠나게 할 것”",
+        "time": "2025-09-01T06:21:13",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012019754",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012019754",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프 “관세 없었으면 나라 파괴”…미 무역 대표 “협상 지속”",
+        "time": "2025-09-01T06:20:05",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012019753",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012019753",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "트럼프 법원 비난 \"관세 없었으면 미국 완전 파괴\"",
+        "time": "2025-09-01T06:12:02",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/214/0001446201",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001446201",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 08월 31일 일요일"
       }
     ]
   },
@@ -12922,6 +13198,123 @@
         "original_url": "https://v.daum.net/v/20250901060911621",
         "source": "daum",
         "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "[외신 헤드라인] \"中 알리바바, 자체 AI칩 개발\"…'탈엔비디아' 가속",
+        "time": "2025-08-31T21:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/sbscnbc/20250901062711503jhla.jpg",
+        "url": "https://v.daum.net/v/20250901062710746",
+        "original_url": "https://v.daum.net/v/20250901062710746",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "러 \"트럼프가 우크라 평화 노력하는데 유럽이 방해\"",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/YTN/20250901064208575sphu.jpg",
+        "url": "https://v.daum.net/v/20250901064202063",
+        "original_url": "https://v.daum.net/v/20250901064202063",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "한국, 9월 유엔 안보리 의장국…우크라 해법 찾을까",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/newsy/20250901064041114wabk.jpg",
+        "url": "https://v.daum.net/v/20250901064041030",
+        "original_url": "https://v.daum.net/v/20250901064041030",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "트럼프 \"상호관세 없었다면 美 파괴됐을 것\" 대법 압박",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/seouleconomy/20250901062713319mmxn.png",
+        "url": "https://v.daum.net/v/20250901062711747",
+        "original_url": "https://v.daum.net/v/20250901062711747",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "가뭄 현장 찾고 타운홀미팅 재개···다시 민생 시계 돌리는 이재명 대통령",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/moneytoday/20250901062517320vfkv.jpg",
+        "url": "https://v.daum.net/v/20250901062516733",
+        "original_url": "https://v.daum.net/v/20250901062516733",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "“시카고 작전에 추가 자원 투입”…“군 투입, 중간선거 통제용”",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250901064119050",
+        "original_url": "https://v.daum.net/v/20250901064119050",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "이스라엘 “하마스 대변인 제거”…트럼프 “가자 주민 돈 주고 떠나게 할 것”",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/kbs/20250901063039693ixvx.jpg",
+        "url": "https://v.daum.net/v/20250901063037765",
+        "original_url": "https://v.daum.net/v/20250901063037765",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "미국 국무부는 매주 3만시간 아끼고, 일본선 가짜뉴스 판별…해외 정부 AI도입 경쟁",
+        "time": "2025-08-31T21:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/mk/20250901063602634koqz.jpg",
+        "url": "https://v.daum.net/v/20250901063600917",
+        "original_url": "https://v.daum.net/v/20250901063600917",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "북중러 정상 66년 만 한 자리에··· 시진핑, 신냉전 '맹주'로 떠오르다[글로벌 모닝 브리핑]",
+        "time": "2025-08-31T21:44:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/seouleconomy/20250901063218454opne.jpg",
+        "url": "https://v.daum.net/v/20250901063216812",
+        "original_url": "https://v.daum.net/v/20250901063216812",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "김정은, 시속 50㎞ 특급열차 타고 중국 갈까…中 전승절 참석 노림수는",
+        "time": "2025-08-31T21:44:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/moneytoday/20250901064238739aemo.jpg",
+        "url": "https://v.daum.net/v/20250901064237076",
+        "original_url": "https://v.daum.net/v/20250901064237076",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "美 깅그리치 전 하원의장 \"이재명 정부의 탄압, 숨막힐 지경\"",
+        "time": "2025-08-31T21:44:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/551746-KJTfZ0q/20250901063023869ltir.jpg",
+        "url": "https://v.daum.net/v/20250901063022762",
+        "original_url": "https://v.daum.net/v/20250901063022762",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "트럼프 행정부, 관세 위법 판결에 \"플랜B 많다\"…각국과 협상 지속(종합)",
+        "time": "2025-08-31T21:44:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/akn/20250901064113758ehdb.jpg",
+        "url": "https://v.daum.net/v/20250901064111046",
+        "original_url": "https://v.daum.net/v/20250901064111046",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
+      },
+      {
+        "title": "\"엿새간 투숙객 안 받아\"…북중 접경 단둥 가 보니",
+        "time": "2025-08-31T21:44:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/01/sbsi/20250901064208278raqn.jpg",
+        "url": "https://v.daum.net/v/20250901064205065",
+        "original_url": "https://v.daum.net/v/20250901064205065",
+        "source": "daum",
+        "date": "2025년 08월 31일 Sunday"
       }
     ]
   },
@@ -13096,6 +13489,15 @@
         "img": "",
         "url": "https://www.fnnews.com/news/202509010607105351",
         "original_url": "https://www.fnnews.com/news/202509010607105351",
+        "source": "Fn",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "韓, 1년 3개월 만에 유엔 안보리 의장국 맡아...9월부터 시작",
+        "time": "2025-09-01T06:43:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202509010631568413",
+        "original_url": "https://www.fnnews.com/news/202509010631568413",
         "source": "Fn",
         "date": "2025년 08월 31일 일요일"
       }
@@ -15149,6 +15551,36 @@
         "url": "https://www.yna.co.kr/view/AKR20250901004800071",
         "original_url": "https://www.yna.co.kr/view/AKR20250901004800071",
         "summary": "美국토장관-민주 소속 일리노이 주지사, '시카고 軍 투입' 놓고 충돌\n(워싱턴=연합뉴스) 박성민 특파원 = 도널드 트럼프 미국 행정부가 로스앤젤레스(LA)와 워싱턴DC에 이어 민주당 소속 주지사와 시장이 재임 중인 주(州)와 대도시에서 대규모 불법이민자 및 범죄자 단속을 예고하면서 정치적 갈등이 점차 커지고 있다.\n크리스티 놈 미 국토안보부 장관은 31일(현지시간) 미 CBS 방송과의 인터뷰에서 \"우리는 이미 시카고를 비롯한 일리노이주 전역에서 이민세관단속국(ICE)이 작전을 지속하고 있지만, 해당 작전에 추가 자원을 투입할 계획\"이라고 말했다.\n그는 세부 사항을 공개하지 않겠다면서도 \"트럼프 대통령이 지시한 대로 전국에 있는 최악 중의 최악을 계속 추적할 것\"이라며 \"우리 국민이 모두 안전할 권리가 있음을 인지하면서 살인과 강간, 마약밀수, 인신매매 등을 계속하는 사람들에게 집중할 것\"이라고 강조했다.\n놈 장관은 주방위군이 투입된 LA처럼 시카고에도 군 병력이 투입될 가능성을 묻자 \"그건 트럼프 대통령과 그의 결정에 달린 권한\"이라면서도 \"트럼프 대통령이 조처하지 않았다면 오늘 LA는 존재하지 않았을 것이며, (캘리포니아) 주지사와 (LA) 시장에게 맡겨졌다면 불타버렸을 거라는 건 알고 있다\"고 답해 시카고에 군 병력 투입 가능성을 시사했다.\n그는 또한 \"2024년 시카고의 살인은 LA의 3배, 뉴욕의 5배였다\"며 시카고가 속해 있는 민주당 소속인 JB 프리츠커 일리노이 주지사를 향해 \"시카고에서 벌어진 폭력 탓에 자녀와 부모, 사촌 등을 영원히 떠나보낸 가족을 저버리고 있다\"고 비판했다.\n놈 장관은 특히 시카고 외에 다른 대도시로 불법이민자 및 범죄 소탕 작전을 확대할 계획에 대한 물음에 민주당 소속 인사가 시장인 샌프란시스코와 보스턴 등을 콕 집어 거론하기도 했다.\n이에 대해 프리츠커 주지사는 이날 방영된 CBS 인터뷰에서 트럼프 행정부의 군 병력 배치 계획에 대해",
+        "source": "yna",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "대전·세종·충남 내일까지 20∼60㎜ 비…서해안 강풍",
+        "time": "2025-09-01T06:24:00",
+        "img": "https://img9.yna.co.kr/etc/inner/KR/2025/09/01/AKR20250901007100063_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250901007100063",
+        "original_url": "https://www.yna.co.kr/view/AKR20250901007100063",
+        "summary": "(세종=연합뉴스) 양영석 기자 = 1일 대전과 세종, 충남은 서해안부터 비가 내리기 시작해 오전에 대부분 지역으로 확대돼 내일까지 계속 이어지겠다.\n예상 강수량은 20∼60㎜로, 충남 북부 서해안 지역 등 많은 곳은 80㎜ 이상이다.\n낮 기온은 홍성 29도, 세종 30도, 대전 32도 등 28∼32도 분포를 보이겠다.\n서해안을 중심으로 순간 최대 풍속 초속 18ｍ 안팎의 강한 바람이 불겠으니 시설물 관리에 주의해야 한다.\n기상청 관계자는 \"비가 내리는 지역은 동풍과 함께 천둥·번개가 치는 곳이 이겠으니 출근길 교통안전에 유의해야 한다\"며 \"충남 북부 서해안을 중심으로 호우 특보가 발표될 가능성이 있겠으니 최신 기상정보를 참고하길 바란다\"고 당부했다.\nyoungs@yna.co.kr",
+        "source": "yna",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "강원 내륙·산지 강한 비…강릉 오봉저수지 저수율 14.6%",
+        "time": "2025-09-01T06:23:00",
+        "img": "https://img0.yna.co.kr/photo/yna/YH/2025/08/31/PYH2025083103970006200_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250901006200062",
+        "original_url": "https://www.yna.co.kr/view/AKR20250901006200062",
+        "summary": "무더위·열대야 지속…영서는 30∼80㎜, 동해안은 찔끔 비\n(춘천=연합뉴스) 이재현 기자 = 월요일인 1일 강원지역은 대체로 흐리고 내륙과 산지를 중심으로 강한 비가 내리겠다.\n예상 강수량은 내륙과 산지 30∼80㎜, 동해안 5㎜ 미만이다.\n이날 오전 5시 현재 기온은 춘천 24.2도, 원주 26.4도, 강릉 26.5도, 동해 25.9도, 평창 22.6도, 태백 23.5도 등이다.\n낮 기온은 내륙과 산지에서 10∼15도, 동해안은 낮과 밤의 기온 차가 크겠다.\n미세먼지 농도는 '좋음' 수준으로 예상된다.\n기상청은 \"비가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니 안전사고에 유의해야 한다\"고 당부했다.\n한편 강릉의 최근 6개월 강수량은 평년의 절반 수준에 그쳐 최악의 가뭄 사태를 맞고 있는 가운데 강릉 생활용수의 87%를 공급하는 오봉저수지 저수율은 14.6%(평년 72.0%)로 역대 최저치를 기록했다.\njlee@yna.co.kr\n※ 이 기사는 엔씨소프트의 인공지능 기술인 자연어처리기술(NLP)과의 협업을 통해 제작되었습니다. 인공지능이 쓴 초고와 기상청 데이터 등을 토대로 취재 기자가 최종 기사를 완성했으며 데스킹을 거쳤습니다.\n기사의 원 데이터인 기상청 기상예보는 웹사이트(https://www.weather.go.kr)에서도 확인할 수 있습니다.",
+        "source": "yna",
+        "date": "2025년 08월 31일 일요일"
+      },
+      {
+        "title": "충북 흐리고 가끔 비…낮 최고 33도",
+        "time": "2025-09-01T06:13:00",
+        "img": "https://img3.yna.co.kr/photo/yna/YH/2025/08/26/PYH2025082607250001300_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250901006900064",
+        "original_url": "https://www.yna.co.kr/view/AKR20250901006900064",
+        "summary": "(청주=연합뉴스) 천경환 기자 = 1일 충북은 대체로 흐리고 가끔 비가 내리겠다.\n예상 강수량은 20∼60㎜다.\n이날 오전 6시 기준 지역별 기온은 청주 25.3도, 제천 22.8도, 충주 23.6도, 진천 23.3도, 옥천 23.1도 등이다.\n낮 최고 기온은 29∼33도의 분포를 보이겠다.\n미세먼지 농도는 '좋음' 수준으로 예상된다.\n청주기상지청은 \"비가 내리는 지역은 가시거리가 짧고 도로가 미끄러우니 교통안전에 유의해달라\"고 말했다.\nkw@yna.co.kr",
         "source": "yna",
         "date": "2025년 08월 31일 일요일"
       }
