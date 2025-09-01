@@ -1908,5 +1908,50 @@
         "summary": "금융감독원, 9월 블라인드 모의 해킹 진행SGI서울보증, 웰컴금융그룹 등 금융권 보안사고 여파[보안뉴스 조재호 기자] 우리나라 금융기관 전체가 사이버 보안 강화를 위해 2달 간 ‘실전 훈련’에 나선다.금융권에 따르면, 금융감독원은 금융보안원과 함께 9월 4일부터 내달 말까지 전체 금융권을 대상으로 블라인드 모의 해킹 훈련을 실시한다.[자료: 연합]블라인드 ..."
       }
     ]
+  },
+  {
+    "date": "2025년 09월 01일 월요일",
+    "articles": [
+      {
+        "title": "[배종찬의 보안 빅데이터] 한국 정부를 털어버린 해킹 주범은 ‘중국’",
+        "time": "2025-09-01T13:21:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557448938_1796.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139005&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139005&page=1&kind=1",
+        "summary": "‘대한민국 군과 정부 기관 대상 피싱 공격’, 중국 해커조직 ‘SLIME68’과의 연관성 주목[보안뉴스= 배종찬 인사이트케이 연구소장] 정부 기관에 대한 해킹은 심각한 문제다. 국가의 중요한 정보가 유출돼 국가의 기밀이 안보적 또는 경제적 주적이나 경쟁자에게 넘어가면 국가 존립마저 위태롭게 된다. 민간 기업의 해킹 또한 치명적인 사회적 불신을 초래하지만 국..."
+      },
+      {
+        "title": "‘AI 대전환’에 4조5000억원 쓴다...이재명 정부 첫 과기정통부 예산 발표",
+        "time": "2025-09-01T15:47:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557410940_3435.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139014&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139014&page=1&kind=2",
+        "summary": "이재명 정부 첫 과기정통부 예산안 발표[보안뉴스 강현주 기자] 이재명 정부는 오는 2026년 ‘AI 3대 강국 도약’을 위한 AI 대전환(AX)에 올해보다 30% 증액된 4조5000억원을 쓴다.1일 과학기술정보통신부(장관 배경훈)는 이재명 정부 들어 첫번째 예산안을 발표했다.과기정통부 예산안은 총 23조7000억원으로 편성됐다. 이는 2025년 추경예산(2..."
+      },
+      {
+        "title": "대규모 해킹 이후 주목받는 SBOM, AI 기반 해법 ‘OpenText 웨비나’에서 제시",
+        "time": "2025-09-01T14:40:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557476963_6318.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139010&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139010&page=1&kind=3",
+        "summary": "9월 25일(수) 오후 2시, ‘디지털 신뢰의 최전선: AI를 통한 개발 라이프사이클 최적화 전략과 SBOM으로 완성하는 소프트웨어 공급망 보안’ 웨비나 개최[보안뉴스 원병철 기자] 최근 국내 대형 기업에서 발생한 대규모 해킹 사고가 소프트웨어 공급망 보안의 중요성을 다시금 부각시키고 있다.[자료: OpenText]수많은 오픈소스와 서드파티 라이브러리를 활..."
+      },
+      {
+        "title": "국정원-우주항공청, 우주 안보 협력...‘위성활용 콘퍼런스 2025’ 개최",
+        "time": "2025-09-01T12:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557410940_4493.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139001&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139001&page=1&kind=2",
+        "summary": "국내외 전문가 800여명 참여‘위성정보와 미래기술 융합’ 주제 다양한 활용사례 공유[보안뉴스 강현주 기자] 국가정보원과 우주항공청이 우주 안보 협력에 나섰다.국정원은 우주항공청과 공동으로 2-3일 코엑스 마곡에서 ‘위성활용 콘퍼런스 2025’를 개최한다고 1일 밝혔다.위성활용 콘퍼런스는 위성정보 활용이 점차 확대됨에 따라, 국내 산학연 및 정부기관 간 협력..."
+      },
+      {
+        "title": "시큐브, 랜섬웨어 공격 탐지용 AI 에이전트 소프트웨어 개발",
+        "time": "2025-09-01T09:52:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=138995&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=138995&page=1&kind=3",
+        "summary": "랜섬웨어 보안 솔루션 ‘rGRIFFIN(알그리핀)’에 적용해 9월 중 출시할 계획[보안뉴스 원병철 기자] 시큐브는 ‘랜섬웨어 공격 탐지용 AI 에이전트 소프트웨어’를 상용화 개발했다고 밝혔다.이 AI 에이전트 소프트웨어는 지난 2월에 국내 특허로 등록된 ‘인공지능 기반 분석을 이용한 랜섬웨어 공격을 탐지하기 위한 장치 및 방법’에 관한 기술을 상용화 개발한..."
+      }
+    ]
   }
 ]
