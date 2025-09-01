@@ -92845,11 +92845,32 @@
     "date": "2025년 09월 01일 월요일",
     "articles": [
       {
+        "title": "아프간, 규모 6.0 지진으로 최소 610명 사망 1300명 부상(2보)",
+        "time": "2025-09-01T15:46:31+00:00",
+        "img": "/api/attachments/CC8iK0NnNUpRMEZHVmpsRFRtVkZlVTEwVFJERUF4aW5CU2dLTWdZQlVJcVlJQWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTE5MaDdkSWN6VnFhS1hSVXdyMmQ2NF9nNDl4aWdTTkMyZlhzMktMTnRBRXUtNjM1QzFtdS1IUng1OHlzWl9rUDA1ck15cUdCNFJuZ1ZYTENfWDNOb1gtM2NiOdIBeEFVX3lxTE8tNDhSd081OHNpQloxdzFiemlNZDhzMVdNYUVlWHRMcERiRWxNMHUyT2NUQmd3anBWazBMT09GbFNjZnVuV3RSZzFzalBtSDVtcEMtQUZVSWZSbUc4Ym5UTU1zcnBWaS14alBraTF4U091VDJXdk85Zg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE5MaDdkSWN6VnFhS1hSVXdyMmQ2NF9nNDl4aWdTTkMyZlhzMktMTnRBRXUtNjM1QzFtdS1IUng1OHlzWl9rUDA1ck15cUdCNFJuZ1ZYTENfWDNOb1gtM2NiOdIBeEFVX3lxTE8tNDhSd081OHNpQloxdzFiemlNZDhzMVdNYUVlWHRMcERiRWxNMHUyT2NUQmd3anBWazBMT09GbFNjZnVuV3RSZzFzalBtSDVtcEMtQUZVSWZSbUc4Ym5UTU1zcnBWaS14alBraTF4U091VDJXdk85Zg?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[월드24 날씨] 이탈리아, 에트나 화산 분화 계속",
+        "time": "2025-09-01T15:43:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVFObU51VWs5elRESjFSVzlEVFJDZkF4ampCU2dLTWdhVklaVDFsQWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE53UzRMRU9PR2NMLVFLYVlOOGJKMkIxdUVOLWpMcGsxRUlqajhrWjZlclRIYWRCV3c0Wk15TVdadi1OaU1EX2lKQmlMVnVPTG8xdjJvNW9RTjFkOGM?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE53UzRMRU9PR2NMLVFLYVlOOGJKMkIxdUVOLWpMcGsxRUlqajhrWjZlclRIYWRCV3c0Wk15TVdadi1OaU1EX2lKQmlMVnVPTG8xdjJvNW9RTjFkOGM?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "“윤석열, 두차례 체포영장 집행 모두 속옷 차림에 반말로 저항”",
         "time": "2025-09-01T15:25:00+00:00",
         "img": "/api/attachments/CC8iNkNnNUlaM2N5WjJadVoxVXhNa1JOVFJDdEF4akxCU2dLTWc0Qk1JNWd4NlI2aHBxSHNSNnJJZw=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMidEFVX3lxTE1XbEpzaFdCcEVqLWFWYnE0czhmNUZGYzFtX2Vkb2ZCOHB2RHZHd2w1VUJhNFAzZmdKaWJfWmpIaFVaY3BMM1p2UHA2cjBxUnF2aFdPdUs2UEVIZjFVRWw2LV9aV0tEZWdRbVZMN1lwc0tuWWxs?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMidEFVX3lxTE1XbEpzaFdCcEVqLWFWYnE0czhmNUZGYzFtX2Vkb2ZCOHB2RHZHd2w1VUJhNFAzZmdKaWJfWmpIaFVaY3BMM1p2UHA2cjBxUnF2aFdPdUs2UEVIZjFVRWw2LV9aV0tEZWdRbVZMN1lwc0tuWWxs?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "아프가니스탄에서 지진이 발생한 후 600 명 이상이 사망했으며, 구조 앱이 진행 중 | 세계 뉴스",
+        "time": "2025-09-01T15:20:49+00:00",
+        "img": "/api/attachments/CC8iK0NnNVZNMDlJYlcxMlZURXpRbkJVVFJDZkF4ampCU2dLTWdZSk1KckZvUWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMikgNBVV95cUxNc2VDRVVJZUhfQTYtb191a1VGRnptWml1dlVkZVNKUkpIV3dhLXJDMDBwaGg2RHpEcjB6ZFhTcGFwX0daalo3el9CMmlZQjREUU9rOXhYbXRrUml2RWtqVXJsT0NabkZfamFCNWtuUl90bFNodG03R050ZFBxNzlWX21rSVJQYlZYdDFqVi03bURrZWJlNFhKRVotWU9mWXQ2VWFiM0Q5QzRaWU9ISmhMOG9sZ0tiTUdNb2pNbkxWSVZPTkNYZ2pZZUpLUHh1WWJESF9BdHV3bWxpSU4yS3VhaEpBcm9ub3NaekVudzhMUnVMUmxUVm9CenFGaUV1TWtZUVJ6LWtRWGtGU1haZENkblhncXFpeE9oNkpoU0pGd2l2TjZrZ0dPaUt0LVYteURKekFxcUtkeEFROGEycUlEa1lGLXlmXzlRbmNKU2Iwc2tnaHJTNmg5dDJqdUFqay05NVRvY0J0eGFsNmh5NWNkZUZyd1F1d3VnUkhxTlZqS3pMOWdPX3hmRzc1NllPalA5TkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMikgNBVV95cUxNc2VDRVVJZUhfQTYtb191a1VGRnptWml1dlVkZVNKUkpIV3dhLXJDMDBwaGg2RHpEcjB6ZFhTcGFwX0daalo3el9CMmlZQjREUU9rOXhYbXRrUml2RWtqVXJsT0NabkZfamFCNWtuUl90bFNodG03R050ZFBxNzlWX21rSVJQYlZYdDFqVi03bURrZWJlNFhKRVotWU9mWXQ2VWFiM0Q5QzRaWU9ISmhMOG9sZ0tiTUdNb2pNbkxWSVZPTkNYZ2pZZUpLUHh1WWJESF9BdHV3bWxpSU4yS3VhaEpBcm9ub3NaekVudzhMUnVMUmxUVm9CenFGaUV1TWtZUVJ6LWtRWGtGU1haZENkblhncXFpeE9oNkpoU0pGd2l2TjZrZ0dPaUt0LVYteURKekFxcUtkeEFROGEycUlEa1lGLXlmXzlRbmNKU2Iwc2tnaHJTNmg5dDJqdUFqay05NVRvY0J0eGFsNmh5NWNkZUZyd1F1d3VnUkhxTlZqS3pMOWdPX3hmRzc1NllPalA5TkE?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[속보]신임 합참의장에 진영승 전략사령관…‘12·3 불법 계엄’ 이후 대장 7명 모두 교체",
@@ -92871,6 +92892,13 @@
         "img": "/api/attachments/CC8iJ0NnNXJWRkpQZWpSTVR5MTVSMjVHVFJDMkFSaVZBaWdCTWdNQlVBdw=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMi7AJBVV95cUxNQ2lMSlE5WlJhNWR2ejBkVmUzb0VPS1hONURGd1lJR1p4Y0VRVEdEX1A0eWlrdE1uLUpLTnl0ODFNNWtJWnpNaFpUcFVkWDl6Y01UY25RNHdlY19GY2RXMmRsRnBzdWI5clAxci1fRlJJMUNWMGtrSl9lZkoxc1hYVG02RFpDU0ViWVlFRjI1RnJFSXUwX3VRdVRmRU9RWVNpTlBfMlRlbjdpS1lHWHRDZTFpYmdRZ3pyejVVdFlTOU1GYU5jU1NsNzlmdVFDcE5jVkg5Z0xWMTE2eDVnWXlPNjdhOGNYeERMSmRJMF9WTlhLNzVSbVRiT0RuV0YwR3l3VVBOeS1oNTF2OHdidFEtN2lpS2RiZUhseVZyWG05TEFFeGdjYUZCd2RFVmVZdGpyck5UenZNMDFZR05VVVF1Y0xnaUhRaVlUWDZzZnc5THVpOGVUc1BmemRwSFppWXVFZmdSVEVsZDRvMUpR?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMi7AJBVV95cUxNQ2lMSlE5WlJhNWR2ejBkVmUzb0VPS1hONURGd1lJR1p4Y0VRVEdEX1A0eWlrdE1uLUpLTnl0ODFNNWtJWnpNaFpUcFVkWDl6Y01UY25RNHdlY19GY2RXMmRsRnBzdWI5clAxci1fRlJJMUNWMGtrSl9lZkoxc1hYVG02RFpDU0ViWVlFRjI1RnJFSXUwX3VRdVRmRU9RWVNpTlBfMlRlbjdpS1lHWHRDZTFpYmdRZ3pyejVVdFlTOU1GYU5jU1NsNzlmdVFDcE5jVkg5Z0xWMTE2eDVnWXlPNjdhOGNYeERMSmRJMF9WTlhLNzVSbVRiT0RuV0YwR3l3VVBOeS1oNTF2OHdidFEtN2lpS2RiZUhseVZyWG05TEFFeGdjYUZCd2RFVmVZdGpyck5UenZNMDFZR05VVVF1Y0xnaUhRaVlUWDZzZnc5THVpOGVUc1BmemRwSFppWXVFZmdSVEVsZDRvMUpR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "일본 지자체 3분의 1이 ‘다중피해’···지진 엎친 데 홍수 덮친 격",
+        "time": "2025-09-01T14:50:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVROV3RqWVdORVZYQkJZM2xKVFJENkFoaV9CQ2dLTWdNQlVBdw=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE5LdnlLQ3lpaU1mazdDM1pRb21pWnl0WE1YWkgtTnFfQS1GRVZRTFVxdjM1cmdYTVlCaFE1VmpRWHhVSC1XcTFCblFJZ2VrVFBQcE43dW9mY3p5UdIBX0FVX3lxTE84MTEzSlJkanRPRzlrUVNNclhIdUQySkZONVZESUttQnRscktsd2RuRmVIVzBlRnNGbUFoXzIyNXRxODJfLTFrMTYyUzdYRXBjTlYxdlExRFNWSzBhRC1n?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE5LdnlLQ3lpaU1mazdDM1pRb21pWnl0WE1YWkgtTnFfQS1GRVZRTFVxdjM1cmdYTVlCaFE1VmpRWHhVSC1XcTFCblFJZ2VrVFBQcE43dW9mY3p5UdIBX0FVX3lxTE84MTEzSlJkanRPRzlrUVNNclhIdUQySkZONVZESUttQnRscktsd2RuRmVIVzBlRnNGbUFoXzIyNXRxODJfLTFrMTYyUzdYRXBjTlYxdlExRFNWSzBhRC1n?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "아프가니스탄서 규모 6.0 지진···250명 사망·500명 부상",
