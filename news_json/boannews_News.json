@@ -2086,5 +2086,106 @@
         "summary": "금융감독원, 9월 블라인드 모의 해킹 진행SGI서울보증, 웰컴금융그룹 등 금융권 보안사고 여파[보안뉴스 조재호 기자] 우리나라 금융기관 전체가 사이버 보안 강화를 위해 2달 간 ‘실전 훈련’에 나선다.금융권에 따르면, 금융감독원은 금융보안원과 함께 9월 4일부터 내달 말까지 전체 금융권을 대상으로 블라인드 모의 해킹 훈련을 실시한다.[자료: 연합]블라인드 ..."
       }
     ]
+  },
+  {
+    "date": "2025년 09월 03일 수요일",
+    "articles": [
+      {
+        "title": "[카드뉴스] 융합보안, 사이버·물리·산업 경계 허물다… 지능형 공격 시대의 새로운 보안 패러다임",
+        "time": "2025-09-03T11:18:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=139061&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139061&page=1&kind=1",
+        "summary": "[지진솔 기자(digital@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>"
+      },
+      {
+        "title": "[IP포토] 韓·亞, IP정책 맞손...지식재산 심포지엄 개최",
+        "time": "2025-09-02T14:59:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771223736_7245.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139039&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139039&page=2&kind=1",
+        "summary": "특허청은 2일 오전 서울 마포 호텔나루 서울엠갤러리에서 ‘한-아세안 지식재산 심포지엄’을 개최했다고 이날 밝혔다. 행사는 3일까지 서울서 열리는 ‘제8차 한-아세안 특허청장 회의’를 계기로, 아세안 회원국 특허청을 대상으로 우리 지식재산정책을 소개하고, 기업과 변리사 등 우리 측 참석자들에게는 아세안 지식재산제도와 분쟁해결제도 및 아세안 진출전략 등을 공유..."
+      },
+      {
+        "title": "국가인공지능전략위원회 대통령령 의결...AI 컨트롤타워 출범 임박",
+        "time": "2025-09-02T14:37:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771195262_275.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139036&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139036&page=2&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 국가 AI 컨트롤타워 구성이 속도를 낸다.과학기술정보통신부는 인공지능 정책을 총괄할 국가인공지능(AI)전략위원회의 설치 및 운영에 관한 규정(대통령령)이 2일 국무회의에서 의결됐다고 밝혔다.이재명 대통령은 대선에서 지난 정부 국가인공지능위원회 역할을 강화해 대통령이 직접 키를 잡고 국가 AI 거버넌스를 이끌겠다고 공약했다. 이번 위..."
+      },
+      {
+        "title": "블루 아카이브 주말 오류는 ‘해킹 공격’ 탓…“이용자 정보 안전”",
+        "time": "2025-09-02T13:04:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_3681.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139030&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139030&page=2&kind=1",
+        "summary": "[3줄 요약]1. 외부 공격자, CDN 환경설정 무단 접근해 이상 콘텐츠 노출 유발2. 넥슨 “이용자 계정·결제정보 안전”…즉시 복구 및 접근권한 강화 조치3. KISA 신고 완료…공격자 추적 수사 진행 중[보안뉴스 여이레 기자] 지난 주말 발생한 넥슨게임즈 모바일 게임 ‘블루 아카이브’ 오류가 해킹 공격에 인한 것으로 밝혀졌다. 다만 블루 아카이브 운영진..."
+      },
+      {
+        "title": "금감원, ‘해킹’ 롯데카드 현장검사 착수…고객정보 유출 확인나서",
+        "time": "2025-09-02T11:42:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_3692.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139029&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139029&page=2&kind=1",
+        "summary": "[보안뉴스 여이레 기자] 금융감독원이 최근 해킹 공격을 당한 롯데카드에 대한 현장검사에 착수했다고 2일 밝혔다. 금감원은 “전날 롯데카드가 해킹 관련 전자금융사고 발생사실을 보고하면서 즉시 현장검사에 착수했다”고 설명했다.[자료: 연합뉴스]롯데카드는 지난달 26일 서버 점검 중 일부 서버가 악성코드에 감염된 것을 확인하고, 전체 서버를 점검하는 과정에서 3..."
+      },
+      {
+        "title": "북한 APT37, 한국 정부·정보기관 대상 정교한 스피어피싱 공격 전개",
+        "time": "2025-09-02T10:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_2858.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139027&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139027&page=2&kind=1",
+        "summary": "[3줄 요약]1. 국가정보연구회 소식지 사칭한 악성 LNK 파일로 RokRAT 백도어 유포2. 김여정 성명서까지 미끼로 활용한 다층 공격체계 구축3. 진화하는 RokRAT, 스테가노그래피·다단계 암호화로 탐지 회피 고도화[보안뉴스 여이레 기자] 북한 정부의 지원을 받는 것으로 추정되는 해킹 그룹 ‘APT37’이 최근 한국 정부 및 정보기관 종사자를 표적으로..."
+      },
+      {
+        "title": "AI스페라, 유럽 시장 진출...유럽 보안 기업 닷포스 제휴",
+        "time": "2025-09-02T10:50:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771068545_5379.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139028&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139028&page=2&kind=3",
+        "summary": "크리미널IP 유럽 진출 본격화...현지 사이버 위협 대응력 강화이탈리아, 유럽 내 네트워크 침해 접근권 거래 세 번째로 많은 국가[보안뉴스 한세희 기자] AI스페라가 유럽 보안 솔루션 유통사 닷포스와 제휴, 자사 공격표면관리(ASM)·위협정보(TI) 솔루션 ‘크리미널 IP’(Criminal IP)를 유럽 지역에 공급한다고 2일 밝혔다.닷포스(DotForce..."
+      },
+      {
+        "title": "안보실, 사이버안보 점검회의… “사이버 복원력 강화, CISO 책임 강화” 논의",
+        "time": "2025-09-01T19:33:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557564771_5282.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139021&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139021&page=2&kind=2",
+        "summary": "AI 기반 사이버 위협 대응 방안 논의CISO-CPO 책임성 강화 방안 논의[보안뉴스 한세희 기자] 대통령실 국가안보실은 1일 ‘사이버안보 현안 점검회의’를 열어 주요 사이버 침해 사고 대응 현황을 점검하고, 국가 정보보호 역량 강화 방안을 논의했다고 밝혔다.오현주 국가안보실 3차장 주재로 열린 이날 회의는 국가정보원·과학기술정보통신부·외교부·국방부·행정안..."
+      },
+      {
+        "title": "‘AI 대전환’에 4조5000억원 쓴다...이재명 정부 첫 과기정통부 예산 발표",
+        "time": "2025-09-01T15:47:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557410940_3435.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139014&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139014&page=3&kind=2",
+        "summary": "이재명 정부 첫 과기정통부 예산안 발표[보안뉴스 강현주 기자] 이재명 정부는 오는 2026년 ‘AI 3대 강국 도약’을 위한 AI 대전환(AX)에 올해보다 30% 증액된 4조5000억원을 쓴다.1일 과학기술정보통신부(장관 배경훈)는 이재명 정부 들어 첫번째 예산안을 발표했다.과기정통부 예산안은 총 23조7000억원으로 편성됐다. 이는 2025년 추경예산(2..."
+      },
+      {
+        "title": "대규모 해킹 이후 주목받는 SBOM, AI 기반 해법 ‘OpenText 웨비나’에서 제시",
+        "time": "2025-09-01T14:40:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557476963_6318.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139010&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139010&page=3&kind=3",
+        "summary": "9월 25일(수) 오후 2시, ‘디지털 신뢰의 최전선: AI를 통한 개발 라이프사이클 최적화 전략과 SBOM으로 완성하는 소프트웨어 공급망 보안’ 웨비나 개최[보안뉴스 원병철 기자] 최근 국내 대형 기업에서 발생한 대규모 해킹 사고가 소프트웨어 공급망 보안의 중요성을 다시금 부각시키고 있다.[자료: OpenText]수많은 오픈소스와 서드파티 라이브러리를 활..."
+      },
+      {
+        "title": "[배종찬의 보안 빅데이터] 한국 정부를 털어버린 해킹 주범은 ‘중국’",
+        "time": "2025-09-01T13:21:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557448938_1796.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139005&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139005&page=3&kind=1",
+        "summary": "‘대한민국 군과 정부 기관 대상 피싱 공격’, 중국 해커조직 ‘SLIME68’과의 연관성 주목[보안뉴스= 배종찬 인사이트케이 연구소장] 정부 기관에 대한 해킹은 심각한 문제다. 국가의 중요한 정보가 유출돼 국가의 기밀이 안보적 또는 경제적 주적이나 경쟁자에게 넘어가면 국가 존립마저 위태롭게 된다. 민간 기업의 해킹 또한 치명적인 사회적 불신을 초래하지만 국..."
+      },
+      {
+        "title": "국정원-우주항공청, 우주 안보 협력...‘위성활용 콘퍼런스 2025’ 개최",
+        "time": "2025-09-01T12:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/557410940_4493.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139001&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139001&page=3&kind=2",
+        "summary": "국내외 전문가 800여명 참여‘위성정보와 미래기술 융합’ 주제 다양한 활용사례 공유[보안뉴스 강현주 기자] 국가정보원과 우주항공청이 우주 안보 협력에 나섰다.국정원은 우주항공청과 공동으로 2-3일 코엑스 마곡에서 ‘위성활용 콘퍼런스 2025’를 개최한다고 1일 밝혔다.위성활용 콘퍼런스는 위성정보 활용이 점차 확대됨에 따라, 국내 산학연 및 정부기관 간 협력..."
+      }
+    ]
   }
 ]
