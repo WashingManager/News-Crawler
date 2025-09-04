@@ -2195,5 +2195,98 @@
         "summary": "재산상의 피해를 넘어 사람의 생명까지 위협하는 OT 대상 사이버 위협들OT 보안에 대한 사용자 설문조사...OT 계정관리나 계획정비 얼마나 하고 있나?OT 보안 전문기업 집중분석: 안랩, 파고네트웍스, 앤앤에스피[보안뉴스 원병철 기자] 최근 노르웨이의 한 댐이 해킹으로 인해 웹 기반 제어판의 제어권을 탈취당했고, 이에 따라 댐의 수문이 열리는 사건이 있었다..."
       }
     ]
+  },
+  {
+    "date": "2025년 09월 04일 목요일",
+    "articles": [
+      {
+        "title": "중국 솔트 타이푼에 미국 국민 전체 정보 털렸을 수도",
+        "time": "2025-09-04T17:22:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/124996350_8550.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139091&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139091&page=1&kind=1",
+        "summary": "[보안뉴스 한세희 기자] 중국 연계 해커 집단 ‘솔트 타이푼’이 전체 미국 국민의 정보를 탈취했을 가능성이 있다고 뉴욕타임스가 4일(현지시간) 보도했다.이에 따르면, 미 당국자들과 전문가들은 1년간 조사를 거쳐 솔트 타이푼 사이버 공격이 80개국 이상을 표적으로 삼은 역대 최대 규모 해킹이라고 결론 내렸다.미국 연방수사국(FBI) 등 12개 국가 수사·정보..."
+      },
+      {
+        "title": "‘몸캠’ 자동화 인포스틸러 공격 포착...성인 사이트 보는 내 모습 찍는다",
+        "time": "2025-09-04T14:48:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/124996350_2401.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139082&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139082&page=1&kind=1",
+        "summary": "[보안뉴스 한세희 기자] 음란 사이트를 방문하면 스크린샷을 캡처하는 동시에 PC 웹캠으로 사용자 사진을 찍어 해커에게 보내는 인포스틸러 멀웨어가 발견됐다.사용자에게 음란 사진을 찍도록 유도한 후 협박해 돈을 뜯는 이른바 ‘몸캠’ 공격을 자동화했다는 평가다.사이버보안 기업 프루프포인트는 3일(현지시간) 성인물 콘텐츠 관련 기능을 가진 인포스틸러 ‘스틸러리움’..."
+      },
+      {
+        "title": "SKT 개인정보 유출 집단분쟁조정, 신청인 추가 모집",
+        "time": "2025-09-04T10:06:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/985222851_8984.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139070&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139070&page=1&kind=1",
+        "summary": "SKT 처분 전까지 일시정지된 집단분쟁조정신청 2주간 추가모집[보안뉴스 강현주 기자] 개인정보 분쟁조정위원회(위원장 직무대행 우지숙)는 SK텔레콤 개인정보 유출 집단분쟁조정 신청자를 추가로 받는다고 4일 밝혔다.분쟁조정위는 고객 개인정보를 유출한 SK텔레콤을 상대로 제기된 집단분쟁조정 신청사건 3건을 단일 건으로 병합해 조정절차를 재개했다고 4일 밝혔다. ..."
+      },
+      {
+        "title": "[카드뉴스] 융합보안, 사이버·물리·산업 경계 허물다… 지능형 공격 시대의 새로운 보안 패러다임",
+        "time": "2025-09-03T11:18:00",
+        "img": "",
+        "url": "https://www.boannews.com/media/view.asp?idx=139061&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139061&page=2&kind=1",
+        "summary": "[지진솔 기자(digital@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>"
+      },
+      {
+        "title": "[대한민국 털렸다] 최민희, “KT-LG유플러스 해킹 의혹”...민관합동조사단 필요?",
+        "time": "2025-09-02T16:54:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771195262_5117.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139043&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139043&page=2&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 최민희 국회 과학기술정보방송통신위원장은 2일 KT와 LG유플러스가 사이버 침해 사고를 당했다는 의혹에 대한 사실 파악을 정부에 주문했다.최근 <보안뉴스>는 북한이나 중국 배후로 추정되는 해킹 조직이 행정안전부와 외교부, 통일부, 해양수산부 등 우리나라 정부 기관과 통신사, 언론사 등을 해킹했다는 내용의 해외 보안 연구 보고서 내용을..."
+      },
+      {
+        "title": "[IP포토] 韓·亞, IP정책 맞손...지식재산 심포지엄 개최",
+        "time": "2025-09-02T14:59:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771223736_7245.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139039&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139039&page=3&kind=1",
+        "summary": "특허청은 2일 오전 서울 마포 호텔나루 서울엠갤러리에서 ‘한-아세안 지식재산 심포지엄’을 개최했다고 이날 밝혔다. 행사는 3일까지 서울서 열리는 ‘제8차 한-아세안 특허청장 회의’를 계기로, 아세안 회원국 특허청을 대상으로 우리 지식재산정책을 소개하고, 기업과 변리사 등 우리 측 참석자들에게는 아세안 지식재산제도와 분쟁해결제도 및 아세안 진출전략 등을 공유..."
+      },
+      {
+        "title": "국가인공지능전략위원회 대통령령 의결...AI 컨트롤타워 출범 임박",
+        "time": "2025-09-02T14:37:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771195262_275.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139036&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139036&page=3&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 국가 AI 컨트롤타워 구성이 속도를 낸다.과학기술정보통신부는 인공지능 정책을 총괄할 국가인공지능(AI)전략위원회의 설치 및 운영에 관한 규정(대통령령)이 2일 국무회의에서 의결됐다고 밝혔다.이재명 대통령은 대선에서 지난 정부 국가인공지능위원회 역할을 강화해 대통령이 직접 키를 잡고 국가 AI 거버넌스를 이끌겠다고 공약했다. 이번 위..."
+      },
+      {
+        "title": "블루 아카이브 주말 오류는 ‘해킹 공격’ 탓…“이용자 정보 안전”",
+        "time": "2025-09-02T13:04:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_3681.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139030&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139030&page=3&kind=1",
+        "summary": "[3줄 요약]1. 외부 공격자, CDN 환경설정 무단 접근해 이상 콘텐츠 노출 유발2. 넥슨 “이용자 계정·결제정보 안전”…즉시 복구 및 접근권한 강화 조치3. KISA 신고 완료…공격자 추적 수사 진행 중[보안뉴스 여이레 기자] 지난 주말 발생한 넥슨게임즈 모바일 게임 ‘블루 아카이브’ 오류가 해킹 공격에 인한 것으로 밝혀졌다. 다만 블루 아카이브 운영진..."
+      },
+      {
+        "title": "금감원, ‘해킹’ 롯데카드 현장검사 착수…고객정보 유출 확인나서",
+        "time": "2025-09-02T11:42:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_3692.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139029&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139029&page=3&kind=1",
+        "summary": "[보안뉴스 여이레 기자] 금융감독원이 최근 해킹 공격을 당한 롯데카드에 대한 현장검사에 착수했다고 2일 밝혔다. 금감원은 “전날 롯데카드가 해킹 관련 전자금융사고 발생사실을 보고하면서 즉시 현장검사에 착수했다”고 설명했다.[자료: 연합뉴스]롯데카드는 지난달 26일 서버 점검 중 일부 서버가 악성코드에 감염된 것을 확인하고, 전체 서버를 점검하는 과정에서 3..."
+      },
+      {
+        "title": "북한 APT37, 한국 정부·정보기관 대상 정교한 스피어피싱 공격 전개",
+        "time": "2025-09-02T10:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771128562_2858.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139027&page=3&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139027&page=3&kind=1",
+        "summary": "[3줄 요약]1. 국가정보연구회 소식지 사칭한 악성 LNK 파일로 RokRAT 백도어 유포2. 김여정 성명서까지 미끼로 활용한 다층 공격체계 구축3. 진화하는 RokRAT, 스테가노그래피·다단계 암호화로 탐지 회피 고도화[보안뉴스 여이레 기자] 북한 정부의 지원을 받는 것으로 추정되는 해킹 그룹 ‘APT37’이 최근 한국 정부 및 정보기관 종사자를 표적으로..."
+      },
+      {
+        "title": "AI스페라, 유럽 시장 진출...유럽 보안 기업 닷포스 제휴",
+        "time": "2025-09-02T10:50:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/771068545_5379.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139028&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139028&page=3&kind=3",
+        "summary": "크리미널IP 유럽 진출 본격화...현지 사이버 위협 대응력 강화이탈리아, 유럽 내 네트워크 침해 접근권 거래 세 번째로 많은 국가[보안뉴스 한세희 기자] AI스페라가 유럽 보안 솔루션 유통사 닷포스와 제휴, 자사 공격표면관리(ASM)·위협정보(TI) 솔루션 ‘크리미널 IP’(Criminal IP)를 유럽 지역에 공급한다고 2일 밝혔다.닷포스(DotForce..."
+      }
+    ]
   }
 ]
