@@ -2296,5 +2296,34 @@
         "summary": "[3줄 요약]1. SKT 사고 예견한 대만 보안 기업 TeamT5 성팅짜이 CEO 인터뷰2. “한국 지정학적·경제적으로 공격 가치 높아…전산업과 정부에 침입 발견”3. 과시형 해커보다 무서운 침묵 공격…“보안 투자는 자신과 적 파악부터”[보안뉴스 강현주 기자] “중국의 사이버 공격 세력은 한국의 통신사뿐 아니라 모든 산업과 정부를 공격합니다. 조용히 네트워..."
       }
     ]
+  },
+  {
+    "date": "2025년 09월 05일 금요일",
+    "articles": [
+      {
+        "title": "병사 군장 속 AI, 드론 공습 미리 알려준다…미 육군, AI 기술 스타트업과 계약",
+        "time": "2025-09-05T14:56:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/125353090_1791.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139101&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139101&page=1&kind=2",
+        "summary": "통신 끊긴 전장에서도 온디아비스 AI로 드론 등 위협 파악AI로 전장 데이터 분석 속도 향상...최신 SW 기술 위주로 국방 혁신[보안뉴스 한세희 기자] 적군의 신호 교란으로 네트워크가 끊긴 전장에서도 병사가 온디바이스 AI 기기로 드론 공습 등 위협을 파악해 피할 수 있게 된다.미국 육군은 4일(현지시간) 군사용 AI 스타트업 터바인원(TurbineOne..."
+      },
+      {
+        "title": "“MS 보안-AI 연결은 ‘무한루프’...한국 사업 성장 폭발적”",
+        "time": "2025-09-05T14:19:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/125346923_2361.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139100&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139100&page=1&kind=3",
+        "summary": "셰리 샤오 MS 아시아 보안 이사 인터뷰“AI와 보안 동시 보유, 상호 피드백 활발”...‘통합 보안’ 강조[보안뉴스 강현주 기자] “MS는 자체 AI와 보안을 동시에 갖고 있어 끊임없이 상호간 피드백을 주고받습니다. AI를 위한 보안과 보안을 위한 AI가 유기적으로 연결돼 있는 ‘무한루프’, 그게 MS의 AI 보안입니다.”마이크로소프트(MS)의 아시아 보..."
+      },
+      {
+        "title": "SKT 개인정보 유출 집단분쟁조정, 신청인 추가 모집",
+        "time": "2025-09-04T10:06:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/985222851_8984.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139070&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139070&page=2&kind=1",
+        "summary": "SKT 처분 전까지 일시정지된 집단분쟁조정신청 2주간 추가모집[보안뉴스 강현주 기자] 개인정보 분쟁조정위원회(위원장 직무대행 우지숙)는 SK텔레콤 개인정보 유출 집단분쟁조정 신청자를 추가로 받는다고 4일 밝혔다.분쟁조정위는 고객 개인정보를 유출한 SK텔레콤을 상대로 제기된 집단분쟁조정 신청사건 3건을 단일 건으로 병합해 조정절차를 재개했다고 4일 밝혔다. ..."
+      }
+    ]
   }
 ]
