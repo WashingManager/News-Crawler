@@ -3,6 +3,15 @@
     "date": "2025년 09월 05일 금요일",
     "articles": [
       {
+        "title": "대규모 지진으로 2,200 명이 사망 한 후 신선한 진전",
+        "time": "2025-09-05T12:43:19+00:00",
+        "img": "/api/attachments/CC8iJ0NnNWtNV3h2WmtGd05reFRVVFZsVFJDZkF4ampCU2dLTWdNUmdBQQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMi8gJBVV95cUxPM3Q0S0NsNEpaWjdPempad3BtbV9YbllxX0lBQkQ5NzRZYjgxY1ZVTjNIVjlQODlvcngtNy1oVnQzc255TUYzUlJjSXZ4NkVFaXFRdlVlOHRpUGNxRVAwSUdtNFR0LUZSUWN4b0p2TTNhRjFJUHMyV0dSa0pCSk1UbWZ2WFhiUXZNejdCYkFoMDdzV3JBeGR1OHk0TDZfUVJDYWc4cGx3VU9fNHdlU3BmbEZZRXZqTE13YWVlcG5pcXFNSHV0cEMyWXFtUGFqYkpkS1hPdFY0VllzcHNyeDZodm5jQVlXYXRJeFlDNnRUOUV0WDZxcUdJR3REZUlVWk1GeGlIOFhFWEVuY0syeWliZ1h4SjJ6X2tWMUMtT3lIN3VtWnQtNlZIT3FYZUFraFRhNjdCOE51MlQ1aUtFVHo2aGljY0RFcklqcW1YQ0ZaYmNXeVF6RGdNOXVRV0o1cDdFSE1LcHVRUng0Nk03b3pCZ01R?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMi8gJBVV95cUxPM3Q0S0NsNEpaWjdPempad3BtbV9YbllxX0lBQkQ5NzRZYjgxY1ZVTjNIVjlQODlvcngtNy1oVnQzc255TUYzUlJjSXZ4NkVFaXFRdlVlOHRpUGNxRVAwSUdtNFR0LUZSUWN4b0p2TTNhRjFJUHMyV0dSa0pCSk1UbWZ2WFhiUXZNejdCYkFoMDdzV3JBeGR1OHk0TDZfUVJDYWc4cGx3VU9fNHdlU3BmbEZZRXZqTE13YWVlcG5pcXFNSHV0cEMyWXFtUGFqYkpkS1hPdFY0VllzcHNyeDZodm5jQVlXYXRJeFlDNnRUOUV0WDZxcUdJR3REZUlVWk1GeGlIOFhFWEVuY0syeWliZ1h4SjJ6X2tWMUMtT3lIN3VtWnQtNlZIT3FYZUFraFRhNjdCOE51MlQ1aUtFVHo2aGljY0RFcklqcW1YQ0ZaYmNXeVF6RGdNOXVRV0o1cDdFSE1LcHVRUng0Nk03b3pCZ01R?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
         "title": "아프간 이틀만에 또 6.2지진...세차례 지진에 사망자 '눈덩이'",
         "time": "2025-09-05T11:12:09+00:00",
         "img": "/api/attachments/CC8iK0NnNWhhRWhYYlhJMU9FSXhORVZ4VFJDM0FSaVRBaWdCTWdZQm9JYWtTZ1U=-w100-h100-p-df",
@@ -13,10 +22,37 @@
       },
       {
         "title": "5일 새벽 경북 영덕 동쪽 해역서 규모 2.5 지진 발생",
+        "time": "2025-09-05T11:07:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNUJZbVY1UjJWclFqYzBTekJNVFJDcUJCaXFCQ2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE8zMDhyVmNZa25QOFFqZnp6TXNoTWhPTDRJd0p2NjFQbGZfTnZnUzI3WjV0aDNDbVJTN2NfNmx5QjF4MTZXQkJBdFRzRkl0RnJrUmNj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE8zMDhyVmNZa25QOFFqZnp6TXNoTWhPTDRJd0p2NjFQbGZfTnZnUzI3WjV0aDNDbVJTN2NfNmx5QjF4MTZXQkJBdFRzRkl0RnJrUmNj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "5일 새벽 경북 영덕 동쪽 해역서 규모 2.5 지진 발생",
         "time": "2025-09-05T11:04:00+00:00",
         "img": "/api/attachments/CC8iL0NnNHhibmh3VDJkMlNtaDBVWHBYVFJDcUJCaXFCQ2dLTWdrQklKYkFMaVlXNGdJ=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiUkFVX3lxTFB0ZzBOT0RzVGlaVmFWOVVtZXozdnQybzdjamltNFFHc1VJVTdYXzduTG9vWUtaOXFfaTVtTWxrMTE0MjNhNS0tSTJqanVNTWVaZFE?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiUkFVX3lxTFB0ZzBOT0RzVGlaVmFWOVVtZXozdnQybzdjamltNFFHc1VJVTdYXzduTG9vWUtaOXFfaTVtTWxrMTE0MjNhNS0tSTJqanVNTWVaZFE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "바이든 전 대통령, 전립선암 진단 이어 피부암세포 제거 수술 받아",
+        "time": "2025-09-05T10:28:37+00:00",
+        "img": "/api/attachments/CC8iK0NnNHRZM2g1VUdjMk1tSTBSSEo0VFJERUF4aW1CU2dLTWdZdFZZYXVKUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiUkFVX3lxTE9yYmFpLUloVkVtcDFwenQ2SGxhOEQzU0gwQnRDOVQwaXRUX2U4aE9vdVdpVEZZNUNqcU1rSENZU3lPV0Z4SlE3cmNnOHpxSnBlNlE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiUkFVX3lxTE9yYmFpLUloVkVtcDFwenQ2SGxhOEQzU0gwQnRDOVQwaXRUX2U4aE9vdVdpVEZZNUNqcU1rSENZU3lPV0Z4SlE3cmNnOHpxSnBlNlE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "[속보] 국민 절반 “양도세 50억 유지해야”…이재명 대통령 지지율 60%대 회복",
+        "time": "2025-09-05T10:27:43+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVhUVkJ0V1Zsdk9IWnlaVXhMVFJEWUFoaXlCQ2dLTWdPQlVSUQ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTFBRQUV3YUJZNm1aYTdYV082bmlweHJBRlJoVEJldW4wSmJyOWhDMkktbUhOWlVzRlNqcWZxZG9FTUpPOHNZb2t2aFFfZ2JqeVZ1RGQxZHBR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTFBRQUV3YUJZNm1aYTdYV082bmlweHJBRlJoVEJldW4wSmJyOWhDMkktbUhOWlVzRlNqcWZxZG9FTUpPOHNZb2t2aFFfZ2JqeVZ1RGQxZHBR?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 05일 금요일"
       },
@@ -183,6 +219,15 @@
         "date": "2025년 09월 05일 금요일"
       },
       {
+        "title": "리스본 '명물 전차 탈선 사고' 사망자에 한국인 2명도 포함",
+        "time": "2025-09-05T05:40:58+00:00",
+        "img": "/api/attachments/CC8iI0NnNU9ZMTgyZFRadVRGQTFNVmxKVFJDckF4aUFCU2dLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE5mbkZXMmlMbXNRMFhGLTljeU1jTlVjVG8ySXFyYmlrRXBnSEVudWVKYVJrTUVEbVRFa0t6c0wzYjAyWEY5VHJYWnUzc1NIbk1kb3hJaVR0NmZULXI4UTdLQjRKTHMyenlHWEE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE5mbkZXMmlMbXNRMFhGLTljeU1jTlVjVG8ySXFyYmlrRXBnSEVudWVKYVJrTUVEbVRFa0t6c0wzYjAyWEY5VHJYWnUzc1NIbk1kb3hJaVR0NmZULXI4UTdLQjRKTHMyenlHWEE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
         "title": "누군지 기억나세요? 6년 만에 폭풍 성장·아이돌 비주얼로 나타난 스타 2세",
         "time": "2025-09-05T05:00:00+00:00",
         "img": "/api/attachments/CC8iI0NnNDVUVGg0ZUdGRlFWQkdUbHBYVFJDdEF4akxCU2dLTWdB=-w100-h100-p-df-rw",
@@ -197,6 +242,15 @@
         "img": "/api/attachments/CC8iK0NnNXFiVkZGV2t4SVIyWmhaRWhaVFJDUkF4ajhCU2dLTWdZQlVKakdJUWs=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiigFBVV95cUxObzVrc3NxNXI0REc5OU56YTZwU3ZKZjBGdWdSZ1RoaTdlSVhrY2Q2Z3JDX19JV1Z6QjhpS25ENFdkVkJBU2x3QU1PMUlMU2ZYbUNwd1cwcko2SjZzSDZ6eWJpY2VTTFhESkhzSktYN3E5SWpSbWRRUG5vZm1TdC10Zk41aEZpc0FPUmfSAZ4BQVVfeXFMUF9heTZTWWJUTlhZbUZ6VS1sQ3V5ZE92eTdSMmdOeVNvd3pTVDVORWRTeTNLUXkyN3pvR015MHJpYUpuMFRDTDRMSzNTR0NSVFZFc0t2RE5DOVRvNWR3T01XLW9PN0REWmJ2MXowbkdmVlYybWVTbUNqLXZLZ2VCbndWMjFZZTU3b29fZlI5eGU3bUtuSHc0cmhUU3BHNkE?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiigFBVV95cUxObzVrc3NxNXI0REc5OU56YTZwU3ZKZjBGdWdSZ1RoaTdlSVhrY2Q2Z3JDX19JV1Z6QjhpS25ENFdkVkJBU2x3QU1PMUlMU2ZYbUNwd1cwcko2SjZzSDZ6eWJpY2VTTFhESkhzSktYN3E5SWpSbWRRUG5vZm1TdC10Zk41aEZpc0FPUmfSAZ4BQVVfeXFMUF9heTZTWWJUTlhZbUZ6VS1sQ3V5ZE92eTdSMmdOeVNvd3pTVDVORWRTeTNLUXkyN3pvR015MHJpYUpuMFRDTDRMSzNTR0NSVFZFc0t2RE5DOVRvNWR3T01XLW9PN0REWmJ2MXowbkdmVlYybWVTbUNqLXZLZ2VCbndWMjFZZTU3b29fZlI5eGU3bUtuSHc0cmhUU3BHNkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "“왜 푸틴 제재 않나” 기자 질문에…긁힌 트럼프 “새 직업 찾아라” 독설",
+        "time": "2025-09-04T16:42:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNU5PSE4yUlVSck5YVnBWMlY0VFJDY0F4anBCU2dLTWdhdFJZTE9vUWc=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMic0FVX3lxTE42ZHl0UE5FQ1hHZjBvcUxiYVBhT09hcFVCNlZFV21WaVpINnhwQmV5OHFqUk55cDdaTWJhUmlZZXR1Y1RQWHV2T3FSNGNZdkk3MS1mWGJhYk1nX0ZHLVI2dXU1ZGVjM1Npc2VURXc5MWtBYkXSAWZBVV95cUxPdUdVTE1WZk1XLXFzM3dMWjJCdFRCanR5ckV0WWRZWkZzaWplWnpYSG9EWlI5c1RRWlVuMlZFalhBbEVTd1YyanBwV3c1c0NyNFRvNnBnZmVEYTREOXFUNjFDd3c5dkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMic0FVX3lxTE42ZHl0UE5FQ1hHZjBvcUxiYVBhT09hcFVCNlZFV21WaVpINnhwQmV5OHFqUk55cDdaTWJhUmlZZXR1Y1RQWHV2T3FSNGNZdkk3MS1mWGJhYk1nX0ZHLVI2dXU1ZGVjM1Npc2VURXc5MWtBYkXSAWZBVV95cUxPdUdVTE1WZk1XLXFzM3dMWjJCdFRCanR5ckV0WWRZWkZzaWplWnpYSG9EWlI5c1RRWlVuMlZFalhBbEVTd1YyanBwV3c1c0NyNFRvNnBnZmVEYTREOXFUNjFDd3c5dkE?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 05일 금요일"
       },
@@ -226,6 +280,33 @@
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFA0UHNQVDJuaE9DX1B3MWUzTFJqZzFneVFjalAzSXE3bEQxVjZES3FOcEx6NWlhS0ZvX1JnYUtlblVtdThxNWFYdWxUc2Z5bDJnbnFCZThwTTJOQdIBXkFVX3lxTE5Ka1NwYkxWalpjRnR4SHlIV3pGWEhhVF9zZk5CeUtOMmxvWFpoSzE0X0dvT0s4VEF6Z1JGaWY4a0RaNUNpYlB3TFhXbi1HN2YyM2syUWhjMUpkM0FxVWc?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "(영상) 사망자 최소 1000명, 생존자 1명…산사태에 통째로 파묻힌 마을 [포착]",
+        "time": "2025-09-03T18:20:20+00:00",
+        "img": "/api/attachments/CC8iMkNnNVdhMVZKUzBSaE5rZzJlREpsVFJDVUF4aVVCU2dLTWdzQndJUTJWT0ppYnlrd1JR=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMicEFVX3lxTE5abExuVnNXV0VTNi1yVVpDZzRLYmw3Zm9neVpBOVIyR2xWeVVfSDgyZE5zRTU5V2pHM0gtNG1zMDBidklfeFkyeFQ0S2xoMmZuNjcxZGhYRGxERFFsT0lFYWdDZnhxNHlpVzhGR2lWN0U?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMicEFVX3lxTE5abExuVnNXV0VTNi1yVVpDZzRLYmw3Zm9neVpBOVIyR2xWeVVfSDgyZE5zRTU5V2pHM0gtNG1zMDBidklfeFkyeFQ0S2xoMmZuNjcxZGhYRGxERFFsT0lFYWdDZnhxNHlpVzhGR2lWN0U?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "“항상 지켜본다”…이스라엘, 참수작전 하더니 신형 위성까지 가동 [핫이슈]",
+        "time": "2025-09-03T17:42:38+00:00",
+        "img": "/api/attachments/CC8iK0NnNHlTSGhEV0c4eVIwdHljemhJVFJDUkF4aVVCU2dLTWdZRkFJU3hUQU0=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMicEFVX3lxTE1ReGhjQkNIV0hlS2JmdHBraXJBamdqdjRXckY1eXA5QzNUbmV0SEZ6Q19qb0FPTGJzZTIybkxvaHdWbjJqUzFPVE9pY09hX0JGd3lpdWtZM3ZEODlIQmJQMFRkcWl4OUh2UWF3YkJJdFo?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMicEFVX3lxTE1ReGhjQkNIV0hlS2JmdHBraXJBamdqdjRXckY1eXA5QzNUbmV0SEZ6Q19qb0FPTGJzZTIybkxvaHdWbjJqUzFPVE9pY09hX0JGd3lpdWtZM3ZEODlIQmJQMFRkcWl4OUh2UWF3YkJJdFo?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "떠들썩했던 ‘트럼프 사망설’, 본인이 직접 반박···“바이든한텐 왜 안 물었나”",
+        "time": "2025-09-03T16:30:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNDFSM0owUmxaalJWaHVRVUpEVFJERUF4aW1CU2dLTWdZbHBZenNPUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9uUkprNW16YXJmTW9VcUg2WUdVX2Z1dmctTk5NX1M0NGVBcUlBVGpjcWlUVUlQUHdZWm52SHctWVNmYnVRbTNWbU91X1RpdUxkRXB3bW1ocGswZ9IBX0FVX3lxTE15T0VWMG5FUkV4OW5QMmlfc1dSOHRqdS1TUktwVFF6VDFwaUtQd2Z3OFZfN2tnV0Uyd1pXR2VmdXpTeHF0d09MY2l1R3I2cjR6WlJ1NnZTY0E3dHJEODNj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE9uUkprNW16YXJmTW9VcUg2WUdVX2Z1dmctTk5NX1M0NGVBcUlBVGpjcWlUVUlQUHdZWm52SHctWVNmYnVRbTNWbU91X1RpdUxkRXB3bW1ocGswZ9IBX0FVX3lxTE15T0VWMG5FUkV4OW5QMmlfc1dSOHRqdS1TUktwVFF6VDFwaUtQd2Z3OFZfN2tnV0Uyd1pXR2VmdXpTeHF0d09MY2l1R3I2cjR6WlJ1NnZTY0E3dHJEODNj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 05일 금요일"
       }
     ]
   },
@@ -247,6 +328,15 @@
         "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3368373_3494184_349_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3368373",
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3368373",
+        "source": "Gukje",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "이재명 대통령 지지율 63%...민주 41%-국힘 24% [갤럽 여론조사]",
+        "time": "2025-09-05T12:11:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3368487_3494339_3758_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3368487",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3368487",
         "source": "Gukje",
         "date": "2025년 09월 05일 금요일"
       }
@@ -990,6 +1080,123 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/05/AKR20250905058200009_01_i.jpg",
         "url": "https://news.nate.com/view/20250905n13259",
         "original_url": "https://news.nate.com/view/20250905n13259",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "中언론 북중 정상회담 대대적 보도…\"북·중관계 의구심 사라져\"",
+        "time": "2025-09-05T12:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/09/05/2025090512211791767_1757042477_0028645596.png",
+        "url": "https://news.nate.com/view/20250905n16714",
+        "original_url": "https://news.nate.com/view/20250905n16714",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "국방부→전쟁부 개칭하려는 트럼프…과거 영광 되살리나",
+        "time": "2025-09-05T12:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/09/05/11eb771f-c840-492d-906c-e024b826af8f.jpg",
+        "url": "https://news.nate.com/view/20250905n16125",
+        "original_url": "https://news.nate.com/view/20250905n16125",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "인도·싱가포르, AI·반도체 협력 강화 합의",
+        "time": "2025-09-05T12:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/05/PEP20250904219701009_P2.jpg",
+        "url": "https://news.nate.com/view/20250905n16101",
+        "original_url": "https://news.nate.com/view/20250905n16101",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "美·日, 무역 합의 문서화…\"日자동차 관세 27.5%→15% 시행\"",
+        "time": "2025-09-05T12:38:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/05/ch_1757043484979_608196_0.jpg",
+        "url": "https://news.nate.com/view/20250905n02378",
+        "original_url": "https://news.nate.com/view/20250905n02378",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "트럼프, 국방부→'전쟁부' 개칭 추진…5일 행정명령 서명 계획",
+        "time": "2025-09-05T12:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/09/05/202598951757041290.jpg",
+        "url": "https://news.nate.com/view/20250905n16576",
+        "original_url": "https://news.nate.com/view/20250905n16576",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "마크롱 \"26개국서 우크라 파병 합의\"",
+        "time": "2025-09-05T12:13:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250905n16136",
+        "original_url": "https://news.nate.com/view/20250905n16136",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "이스라엘군 \"가자시티 40% 장악…공격 확대할 것\"",
+        "time": "2025-09-05T12:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/09/05/rcv.YNA.20250905.PAP20250904012401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250905n16127",
+        "original_url": "https://news.nate.com/view/20250905n16127",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "김정은-시진핑, 6년 만에 정상회담…\"북중 우호 변치 않아\"",
+        "time": "2025-09-05T12:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/05/507549_1757041600.jpg",
+        "url": "https://news.nate.com/view/20250905n16006",
+        "original_url": "https://news.nate.com/view/20250905n16006",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "'니케' 또 日 1위 컴백…바니걸 캐릭터에 일본 '3040 큰손' 지갑 개방",
+        "time": "2025-09-05T12:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/09/05/20250905001200327_1.jpg",
+        "url": "https://news.nate.com/view/20250905n16015",
+        "original_url": "https://news.nate.com/view/20250905n16015",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "이강덕 포항시장, 글로벌 행보 '가속화'…美·英 방문, 새로운 돌파구 '모색'",
+        "time": "2025-09-05T12:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/09/05/kuk20250905000159.800x.0.jpg",
+        "url": "https://news.nate.com/view/20250905n16928",
+        "original_url": "https://news.nate.com/view/20250905n16928",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "크렘린 \"우크라 안보 보장은 필요…서방의 군사 파병 수용 못해\"",
+        "time": "2025-09-05T12:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/05/7185100_high.jpg",
+        "url": "https://news.nate.com/view/20250905n16876",
+        "original_url": "https://news.nate.com/view/20250905n16876",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "대만 국책硏 \"열병식 계기 대만해협서 러시아 변수 커질 것\"",
+        "time": "2025-09-05T12:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/05/AKR20250905081300009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250905n16792",
+        "original_url": "https://news.nate.com/view/20250905n16792",
+        "source": "nate",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "젤렌스키 \"트럼프, 헝가리·슬로바키아 러 석유수입 공개 지적\"",
+        "time": "2025-09-05T12:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/05/NISI20250819_0000567017_web.jpg",
+        "url": "https://news.nate.com/view/20250905n16933",
+        "original_url": "https://news.nate.com/view/20250905n16933",
         "source": "nate",
         "date": "2025년 09월 05일 금요일"
       }
@@ -3370,6 +3577,42 @@
         "original_url": "https://v.daum.net/v/20250905123248751",
         "source": "daum",
         "date": "2025년 09월 05일 Friday"
+      },
+      {
+        "title": "정청래 “내란 특별재판부 국민 요구 피할 길 없다…법사위 신속 논의”",
+        "time": "2025-09-05T03:52:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/05/seoul/20250905124349084busj.jpg",
+        "url": "https://v.daum.net/v/20250905124347930",
+        "original_url": "https://v.daum.net/v/20250905124347930",
+        "source": "daum",
+        "date": "2025년 09월 05일 Friday"
+      },
+      {
+        "title": "“사전에 계엄 몰랐다” 주장하는 수방사령관, 쟁점 셋은 다른 말을 한다",
+        "time": "2025-09-05T03:52:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/05/hani21/20250905124914821okgs.jpg",
+        "url": "https://v.daum.net/v/20250905124912984",
+        "original_url": "https://v.daum.net/v/20250905124912984",
+        "source": "daum",
+        "date": "2025년 09월 05일 Friday"
+      },
+      {
+        "title": "대만 국책硏 \"열병식 계기 대만해협서 러시아 변수 커질 것\"",
+        "time": "2025-09-05T03:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/05/yonhap/20250905124740622jtyv.jpg",
+        "url": "https://v.daum.net/v/20250905124740971",
+        "original_url": "https://v.daum.net/v/20250905124740971",
+        "source": "daum",
+        "date": "2025년 09월 05일 Friday"
+      },
+      {
+        "title": "中언론 북중 정상회담 대대적 보도…“북·중관계 의구심 사라져”",
+        "time": "2025-09-05T03:51:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/05/kukminilbo/20250905124140548arda.png",
+        "url": "https://v.daum.net/v/20250905124138901",
+        "original_url": "https://v.daum.net/v/20250905124138901",
+        "source": "daum",
+        "date": "2025년 09월 05일 Friday"
       }
     ]
   },
@@ -5085,6 +5328,16 @@
         "url": "https://www.yna.co.kr/view/AKR20250905082400064",
         "original_url": "https://www.yna.co.kr/view/AKR20250905082400064",
         "summary": "(진천=연합뉴스) 충북 진천군과 생거진천전통시장상인회는 오는 13일부터 11월 22일까지 토요문화마켓을 운영한다고 5일 밝혔다.\n이 행사는 전통시장 방문객에 다채로운 볼거리를 제공하기 위해 마련됐다.\n행사 기간 먹거리펍, 푸드트럭, 디저트마켓, 플리마켓, 전통놀이 등이 마련된다.",
+        "source": "yna",
+        "date": "2025년 09월 05일 금요일"
+      },
+      {
+        "title": "[인&아웃] 김정은, 다자외교 데뷔…탈고립 신호탄?",
+        "time": "2025-09-05T12:40:00",
+        "img": "https://img8.yna.co.kr/etc/inner/KR/2025/09/05/AKR20250905082700546_01_i_T2.jpg",
+        "url": "https://www.yna.co.kr/view/AKR20250905082700546",
+        "original_url": "https://www.yna.co.kr/view/AKR20250905082700546",
+        "summary": "(서울=연합뉴스) 김종우 선임기자 = 김정은 북한 국무위원장이 중국 베이징에서 열린 항일전쟁 승리 80주년 열병식과 북러, 북중 정상회담 등을 마치고 귀국했다. 김 위원장이 다자외교 무대에 모습을 드러낸 것은 집권 14년 만에 처음이다. 특히 그는 3일 열린 열병식에서 시진핑 중국 국가주석의 왼쪽에 섰다. 블라디미르 푸틴 러시아 대통령이 시 주석의 오른편에서 열병식을 관람한 것을 고려하면 파격적 의전이다. 북중러 정상이 66년 만에 한자리에 모인 가운데 '반미(反美) 연대'의 상징적 장면이 연출된 것이다.\n시 주석은 열병식 행사에서 김 위원장과 푸틴 대통령에게 각별한 친밀감을 드러냈다. 톈안먼 망루로 향하는 길에 세 정상은 나란히 걸으며 담소를 나눴고, 기념 촬영에서도 김 위원장은 시 주석 곁을 지켰다. 의전은 메시지다. 중국이 주도하는 반미 결속의 자리에 김 위원장을 한 축으로 끼워 넣은 것이다. 이는 앞서 일본과 미국을 차례로 방문한 이재명 대통령의 행보와 맞물려 '한미일 vs 북중러'라는 신냉전 구도를 연상케 한다. 김 위원장은 이번 전승절 행사를 통해 '은둔의 독재자', '국제 왕따' 이미지에서 '정상 국가의 지도자'로 변모한 듯한 착시 효과를 얻었다.\n김 위원장은 열병식 이후 푸틴 대통령과 정상회담을 열고 \"러시아 지원은 형제의 의무\"라며 혈맹을 강조했다. 푸틴 대통령도 북한군의 쿠르스크 전투 참전을 언급하며 \"영웅적 전투를 절대 잊지 않겠다\"고 화답했다. 두 정상은 포옹까지 나누며 밀착을 과시했다. 이어 김 위원장은 4일 북중 정상회담에서 시 주석에게 호혜적 경제협력과 경험 교류를 요청했다. 중국은 북한을 \"운명을 함께하는 동지\"라고 치켜세웠다. 다만 기대를 모았던 북중러 3자 회담은 불발됐다. 북러의 혈맹 강화, 북중의 경협 모색은 확인됐지만, 세 나라를 제도적으로 묶는 틀은 부재했다. 세 정상 간 정치·전략적 이해관계가 달랐기 때문이라는 분석이다.\n전망도 엇갈린다. 이번 북중러 정상의 망루 동반을 반",
         "source": "yna",
         "date": "2025년 09월 05일 금요일"
       }
