@@ -306965,5 +306965,416 @@
         "original_url": "https://news.nate.com/view/20250905n11925"
       }
     ]
+  },
+  {
+    "date": "2025년 09월 06일 토요일",
+    "articles": [
+      {
+        "title": "최악가뭄 '강릉' 재난 선포 8일째…군사작전 방불케 하는 운반급수",
+        "time": "2025-09-06T10:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/09/06/news-p.v1.20250906.8506ca96ec6647dbae4a59f7695b6554_P1.jpeg",
+        "url": "https://news.nate.com/view/20250906n05429",
+        "original_url": "https://news.nate.com/view/20250906n05429"
+      },
+      {
+        "title": "[SBS 경제탈곡기] \"트럼프의 계획, 한국 없이 불가능합니다\" 미국·한국 VS 중국, '에너지 패권 전쟁' 이렇게 시작된다 ft. 조홍종 단국대 경제학과 교수",
+        "time": "2025-09-06T10:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/06/202107966_700.jpg",
+        "url": "https://news.nate.com/view/20250906n05224",
+        "original_url": "https://news.nate.com/view/20250906n05224"
+      },
+      {
+        "title": "WTO 체제 종식 선언한 미국, 불확실성 더 커진 '트럼프 라운드' 시대",
+        "time": "2025-09-06T10:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/09/06/20250819504083.jpg",
+        "url": "https://news.nate.com/view/20250906n03837",
+        "original_url": "https://news.nate.com/view/20250906n03837"
+      },
+      {
+        "title": "미국 역사상 최대 규모 이민 단속…트럼프, 韓공장 단속에 \"불법체류, 할일 한 것\"",
+        "time": "2025-09-06T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ey/2025/09/06/20250906095918_2222179_612_345.jpg",
+        "url": "https://news.nate.com/view/20250906n04690",
+        "original_url": "https://news.nate.com/view/20250906n04690"
+      },
+      {
+        "title": "해군, '가뭄 피해' 강릉에 군수지원함 투입…45만L 급수",
+        "time": "2025-09-06T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/09/06/202509061046306862_0.jpg",
+        "url": "https://news.nate.com/view/20250906n05456",
+        "original_url": "https://news.nate.com/view/20250906n05456"
+      },
+      {
+        "title": "문재인 전 대통령 전주독서대전 참가…'평산책방' 부스 차려",
+        "time": "2025-09-06T10:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/509676_1757121026.jpg",
+        "url": "https://news.nate.com/view/20250906n05422",
+        "original_url": "https://news.nate.com/view/20250906n05422"
+      },
+      {
+        "title": "[자막뉴스] \"빈라덴 잡은 美 특수부대, 북한 침투\"…폭로에 대형 파장 예상",
+        "time": "2025-09-06T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/06/202509060730175431_t.jpg",
+        "url": "https://news.nate.com/view/20250906n02747",
+        "original_url": "https://news.nate.com/view/20250906n02747"
+      },
+      {
+        "title": "[속보] 트럼프, 美현대차·LG공장서 한국인 300명 체포 \"조금전 들어…불법 체류자인듯\"",
+        "time": "2025-09-06T10:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ss/2025/09/06/20257881757115980.jpg",
+        "url": "https://news.nate.com/view/20250906n03661",
+        "original_url": "https://news.nate.com/view/20250906n03661"
+      },
+      {
+        "title": "美 \"韓기업 현장서 475명 체포…한국인 다수\" 발표",
+        "time": "2025-09-06T10:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/509631_1757123279.jpg",
+        "url": "https://news.nate.com/view/20250906n05412",
+        "original_url": "https://news.nate.com/view/20250906n05412"
+      },
+      {
+        "title": "美, 베네수엘라 영토 내 목표물 타격하나…\"군사작전 수행 준비\"",
+        "time": "2025-09-06T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/06/PRU20250903204901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250906n05564",
+        "original_url": "https://news.nate.com/view/20250906n05564"
+      },
+      {
+        "title": "미, 조지아 한국 기업 현장 단속 공식 발표 \"475명 체포, 다수가 한국인\"",
+        "time": "2025-09-06T10:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/509474_1757123117.jpg",
+        "url": "https://news.nate.com/view/20250906n04197",
+        "original_url": "https://news.nate.com/view/20250906n04197"
+      },
+      {
+        "title": "WSJ \"트럼프, 미국 투자기업에 이민 단속이라는 리스크 부과\"",
+        "time": "2025-09-06T10:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/06/7480731_high.jpg",
+        "url": "https://news.nate.com/view/20250906n05316",
+        "original_url": "https://news.nate.com/view/20250906n05316"
+      },
+      {
+        "title": "이스라엘군, 가자시티 고층 건물 표적 공습",
+        "time": "2025-09-06T10:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/06/NISI20250906_0000607887_web.jpg",
+        "url": "https://news.nate.com/view/20250906n04840",
+        "original_url": "https://news.nate.com/view/20250906n04840"
+      },
+      {
+        "title": "日 묘지서 제물 술 마실까 말까 '동전 던지기'…호주 인플루언서 기행 논란",
+        "time": "2025-09-06T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/09/06/132333241.1.jpg",
+        "url": "https://news.nate.com/view/20250906n04687",
+        "original_url": "https://news.nate.com/view/20250906n04687"
+      },
+      {
+        "title": "트럼프, '국방부' 대신 '전쟁부' 사용 지시…\"이기려면 바꿔야\"",
+        "time": "2025-09-06T10:13:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/09/06/202509060959478228_l.jpg",
+        "url": "https://news.nate.com/view/20250906n04898",
+        "original_url": "https://news.nate.com/view/20250906n04898"
+      },
+      {
+        "title": "美, 내년 G20 정상회의 마이애미 '트럼프 리조트'서 연다",
+        "time": "2025-09-06T10:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/06/ch_1757121244840_458200_0.jpg",
+        "url": "https://news.nate.com/view/20250906n04245",
+        "original_url": "https://news.nate.com/view/20250906n04245"
+      },
+      {
+        "title": "[자막뉴스] '미국 되찾기 작전'…韓 기업서 역대급 단속 이어 추가 예고",
+        "time": "2025-09-06T10:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/06/202509060954140636_t.jpg",
+        "url": "https://news.nate.com/view/20250906n04715",
+        "original_url": "https://news.nate.com/view/20250906n04715"
+      },
+      {
+        "title": "美언론 \"러시아 에너지 매개로 중·러·인도 밀착\"",
+        "time": "2025-09-06T10:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/09/06/20250905513347.jpg",
+        "url": "https://news.nate.com/view/20250906n04940",
+        "original_url": "https://news.nate.com/view/20250906n04940"
+      },
+      {
+        "title": "트럼프 \"美 생산 어려운 물품 관세 0% 가능\"…텅스텐·금괴 거론",
+        "time": "2025-09-06T10:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/06/PUP20250906012901009_P2.jpg",
+        "url": "https://news.nate.com/view/20250906n05011",
+        "original_url": "https://news.nate.com/view/20250906n05011"
+      },
+      {
+        "title": "美 \"한국 기업 현장서 최대 이민 단속\"…트럼프 \"불법 체류자인 듯\"",
+        "time": "2025-09-06T10:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/06/ch_1757121064669_421015_0.jpg",
+        "url": "https://news.nate.com/view/20250906n02061",
+        "original_url": "https://news.nate.com/view/20250906n02061"
+      },
+      {
+        "title": "푸틴, 서방 안전보장군 타격까지 시사…트럼프 종전구상 좌초",
+        "time": "2025-09-06T10:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/09/06/202509060939428084_l.jpg",
+        "url": "https://news.nate.com/view/20250906n04836",
+        "original_url": "https://news.nate.com/view/20250906n04836"
+      },
+      {
+        "title": "푸틴 \"서방 안전보장군, 정당한 타격 목표물로 간주\"…트럼프 종전구상 깨지나",
+        "time": "2025-09-06T10:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/06/news-p.v1.20250906.b2f75f080a6146c39222e0455213a34e_P1.jpg",
+        "url": "https://news.nate.com/view/20250906n04802",
+        "original_url": "https://news.nate.com/view/20250906n04802"
+      },
+      {
+        "title": "\"美, 종전시 러-우크라 '완충지대' 감시 역할 맡을 수도\"",
+        "time": "2025-09-06T10:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/AKR20250906100720843_02_i.jpg",
+        "url": "https://news.nate.com/view/20250906n04786",
+        "original_url": "https://news.nate.com/view/20250906n04786"
+      },
+      {
+        "title": "미국, 내년 G20 정상회의 마이애미 '트럼프 리조트'서 개최",
+        "time": "2025-09-06T09:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/09/06/175711790368bb7dcfc2b83.png",
+        "url": "https://news.nate.com/view/20250906n04591",
+        "original_url": "https://news.nate.com/view/20250906n04591"
+      },
+      {
+        "title": "\"하노이 정상회담 앞두고 북한 침투\"…트럼프 \"처음 듣는 얘기\"",
+        "time": "2025-09-06T10:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/06/202509060816167202_t.jpg",
+        "url": "https://news.nate.com/view/20250906n04716",
+        "original_url": "https://news.nate.com/view/20250906n04716"
+      },
+      {
+        "title": "트럼프, EU의 구글 벌금 부과에 EU에 추가 관세 부과 위협",
+        "time": "2025-09-06T10:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/06/NISI20250906_0000608804_web.jpg",
+        "url": "https://news.nate.com/view/20250906n04627",
+        "original_url": "https://news.nate.com/view/20250906n04627"
+      },
+      {
+        "title": "트럼프, '국방부' 대신 '전쟁부' 사용 지시…행정명령 서명",
+        "time": "2025-09-06T10:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/AKR20250906100701843_01_i.jpg",
+        "url": "https://news.nate.com/view/20250906n04778",
+        "original_url": "https://news.nate.com/view/20250906n04778"
+      },
+      {
+        "title": "[속보] 트럼프, 美현대차·LG공장서 300명 체포 \"조금전 들어…불법 체류자인 듯\"",
+        "time": "2025-09-06T10:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/09/06/20250906503161.jpg",
+        "url": "https://news.nate.com/view/20250906n04185",
+        "original_url": "https://news.nate.com/view/20250906n04185"
+      },
+      {
+        "title": "트럼프, 국방부 명칭 바꾼다…'전쟁부'로 개명 추진",
+        "time": "2025-09-06T10:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/nt/2025/09/06/175711993468bb85be7f4ed.jpg",
+        "url": "https://news.nate.com/view/20250906n04739",
+        "original_url": "https://news.nate.com/view/20250906n04739"
+      },
+      {
+        "title": "트럼프, 한국 기업현장 단속에 \"해야 할 일 한 것…난 아는 게 없다\"",
+        "time": "2025-09-06T09:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/06/202107306_700.jpg",
+        "url": "https://news.nate.com/view/20250906n04564",
+        "original_url": "https://news.nate.com/view/20250906n04564"
+      },
+      {
+        "title": "\"美, 우크라이나 종전시 '완충지대' 감시 주도 가능성\"",
+        "time": "2025-09-06T09:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/09/06/ae_1757120224361_551342_0.jpg",
+        "url": "https://news.nate.com/view/20250906n04605",
+        "original_url": "https://news.nate.com/view/20250906n04605"
+      },
+      {
+        "title": "미 \"조지아 불법체류 체포 상당수 한국인\"…트럼프 \"할 일 한 것\"",
+        "time": "2025-09-06T09:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/06/202509060844062324_t.jpg",
+        "url": "https://news.nate.com/view/20250906n04133",
+        "original_url": "https://news.nate.com/view/20250906n04133"
+      },
+      {
+        "title": "\"투자·일자리로 갈 돈 빼앗겨\"…트럼프, '구글 과징금' EU에 보복 조치 예고",
+        "time": "2025-09-06T09:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/06/news-p.v1.20250906.7a3ecdc306b542bf92e57284dddc7a83_P1.jpg",
+        "url": "https://news.nate.com/view/20250906n04469",
+        "original_url": "https://news.nate.com/view/20250906n04469"
+      },
+      {
+        "title": "크렘린궁 \"푸틴·트럼프 2차 정상회담 가까운 미래에 가능\"",
+        "time": "2025-09-06T09:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/09/06/202509060906553438_0.jpg",
+        "url": "https://news.nate.com/view/20250906n00255",
+        "original_url": "https://news.nate.com/view/20250906n00255"
+      },
+      {
+        "title": "美, 韓기업 건설현장서 역대 최대 이민단속…\"475명 체포\"",
+        "time": "2025-09-06T09:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/09/06/202509060908113232_0.jpg",
+        "url": "https://news.nate.com/view/20250906n01191",
+        "original_url": "https://news.nate.com/view/20250906n01191"
+      },
+      {
+        "title": "\"미국, 내년 G20 정상회의 마이애미 트럼프 골프장서 개최\"",
+        "time": "2025-09-06T09:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/06/7481096_high.jpg",
+        "url": "https://news.nate.com/view/20250906n04031",
+        "original_url": "https://news.nate.com/view/20250906n04031"
+      },
+      {
+        "title": "러 국방부 \"김정은, 러 주권·영토보전 투쟁 전폭 지원…형제의 의무\"",
+        "time": "2025-09-06T09:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cb/2025/09/06/202509060910262825_0.jpg",
+        "url": "https://news.nate.com/view/20250906n02231",
+        "original_url": "https://news.nate.com/view/20250906n02231"
+      },
+      {
+        "title": "트럼프, NYT 북한 침투작전 보도에 \"처음 들어\"",
+        "time": "2025-09-06T09:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/509453_1757117454.jpg",
+        "url": "https://news.nate.com/view/20250906n03951",
+        "original_url": "https://news.nate.com/view/20250906n03951"
+      },
+      {
+        "title": "트럼프 \"전쟁부로 돌아간다\"…국방부 개명 행정명령 서명",
+        "time": "2025-09-06T08:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/09/06/132333077.3.jpg",
+        "url": "https://news.nate.com/view/20250906n03567",
+        "original_url": "https://news.nate.com/view/20250906n03567"
+      },
+      {
+        "title": "일본, 트럼프 찍는곳 '45일내 765조원' 투자…안하면 관세폭탄",
+        "time": "2025-09-06T08:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/06/PEP20250208039601009_P2.jpg",
+        "url": "https://news.nate.com/view/20250906n02489",
+        "original_url": "https://news.nate.com/view/20250906n02489"
+      },
+      {
+        "title": "트럼프 '콕' 짚으면 45일 내 765조 내놔야…日, 대미 무역합의 뚜껑 열어보니",
+        "time": "2025-09-06T08:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/06/news-p.v1.20250906.da68b89cc48d4281a5498f01dc300981_P1.jpg",
+        "url": "https://news.nate.com/view/20250906n03377",
+        "original_url": "https://news.nate.com/view/20250906n03377"
+      },
+      {
+        "title": "트럼프 워싱턴 장악 행정명령 10일 만료…연장 없을 듯",
+        "time": "2025-09-06T08:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/06/NISI20250822_0000573048_web.jpg",
+        "url": "https://news.nate.com/view/20250906n03494",
+        "original_url": "https://news.nate.com/view/20250906n03494"
+      },
+      {
+        "title": "트럼프 \"모두가 그곳 원해\"…美, 내년 G20 정상회의 '트럼프 리조트'서 개최",
+        "time": "2025-09-06T08:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/06/news-p.v1.20250906.a93e75a0553e4228bc252980511b103a_P1.jpg",
+        "url": "https://news.nate.com/view/20250906n03444",
+        "original_url": "https://news.nate.com/view/20250906n03444"
+      },
+      {
+        "title": "[트럼프 스톡커] 韓외노자 다 잡아 가두면, 누가 美 투자합니까",
+        "time": "2025-09-06T08:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/09/06/2GXSO7O04A_46.jpeg",
+        "url": "https://news.nate.com/view/20250906n03016",
+        "original_url": "https://news.nate.com/view/20250906n03016"
+      },
+      {
+        "title": "\"美, 우크라이나 종전시 '완충지대' 감시 주도할 수도\"",
+        "time": "2025-09-06T08:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/06/PGT20221106089401009_P2.jpg",
+        "url": "https://news.nate.com/view/20250906n03542",
+        "original_url": "https://news.nate.com/view/20250906n03542"
+      },
+      {
+        "title": "高물가 우려가 독일 용병 키웠다, 美에 불어닥친 알디 열풍",
+        "time": "2025-09-06T08:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/06/ch_1757114825133_178972_0.jpg",
+        "url": "https://news.nate.com/view/20250906n03174",
+        "original_url": "https://news.nate.com/view/20250906n03174"
+      },
+      {
+        "title": "中 열병식 나온 전지구 타격 탄도미사일…美 골든돔 노리나[시사쇼]",
+        "time": "2025-09-06T08:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/09/06/ae_1757115064515_698717_0.jpg",
+        "url": "https://news.nate.com/view/20250906n03453",
+        "original_url": "https://news.nate.com/view/20250906n03453"
+      },
+      {
+        "title": "\"美의 새 국방전략서 中·러 대응보다 美본토 방위 우선\"",
+        "time": "2025-09-06T08:14:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250906n03296",
+        "original_url": "https://news.nate.com/view/20250906n03296"
+      },
+      {
+        "title": "美, 韓공장서 최대규모 단속…트럼프 \"불법 체류자인 듯\"",
+        "time": "2025-09-06T08:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/509341_1757113522.jpg",
+        "url": "https://news.nate.com/view/20250906n03230",
+        "original_url": "https://news.nate.com/view/20250906n03230"
+      },
+      {
+        "title": "트럼프, '한국 기업 현장 이민 단속'에 \"불법체류자인 듯\"",
+        "time": "2025-09-06T07:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/09/06/cz_1757112365131_961917_0.jpg",
+        "url": "https://news.nate.com/view/20250906n02228",
+        "original_url": "https://news.nate.com/view/20250906n02228"
+      },
+      {
+        "title": "트럼프 \"'국방부' 대신 '전쟁부'라 하라…승리하려면 바꿔야\"",
+        "time": "2025-09-06T07:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/09/06/SSC_20250906071708_V.jpg",
+        "url": "https://news.nate.com/view/20250906n02540",
+        "original_url": "https://news.nate.com/view/20250906n02540"
+      },
+      {
+        "title": "트럼프 \"韓 현장 단속 방금 들어…불법 체류자인 듯\"",
+        "time": "2025-09-06T07:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/06/AKR20250906075140743_01_i.jpg",
+        "url": "https://news.nate.com/view/20250906n03032",
+        "original_url": "https://news.nate.com/view/20250906n03032"
+      },
+      {
+        "title": "트럼프, 국방부 명칭 전쟁부로 바꾸는 행정명령 서명…\"전쟁 승리 위한 것\"",
+        "time": "2025-09-06T07:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250906n03091",
+        "original_url": "https://news.nate.com/view/20250906n03091"
+      },
+      {
+        "title": "트럼프, 한국 기업 현장 단속 \"불법체류 단속, 할 일 한 것\"",
+        "time": "2025-09-06T07:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/06/202509060643238376_t.jpg",
+        "url": "https://news.nate.com/view/20250906n02243",
+        "original_url": "https://news.nate.com/view/20250906n02243"
+      },
+      {
+        "title": "美 \"조지아 韓기업 현장서 475명 체포···다수가 한국인\" 공식발표",
+        "time": "2025-09-06T07:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/09/06/2GXSO1PKPM_4.jpg",
+        "url": "https://news.nate.com/view/20250906n00153",
+        "original_url": "https://news.nate.com/view/20250906n00153"
+      },
+      {
+        "title": "트럼프 '불법 구금 후원국' 지정 행정 명령 서명",
+        "time": "2025-09-06T07:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/06/NISI20250906_0000608954_web.jpg",
+        "url": "https://news.nate.com/view/20250906n02539",
+        "original_url": "https://news.nate.com/view/20250906n02539"
+      },
+      {
+        "title": "트럼프 \"2026년 G20 정상회의, 美 마이애미서 개최\"",
+        "time": "2025-09-06T07:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/06/NISI20250906_0000608788_web.jpg",
+        "url": "https://news.nate.com/view/20250906n02445",
+        "original_url": "https://news.nate.com/view/20250906n02445"
+      },
+      {
+        "title": "日서 '불법 풍속 사우나'로 연매출 9억…한국인 업주 체포",
+        "time": "2025-09-06T07:01:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250906n02412",
+        "original_url": "https://news.nate.com/view/20250906n02412"
+      }
+    ]
   }
 ]
