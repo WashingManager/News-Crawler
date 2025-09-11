@@ -101619,5 +101619,59 @@
         "original_url": "https://news.google.com/read/CBMiVEFVX3lxTE9LbTA2dm1wZ0Nkb3JOdUw3QXo5SDVpTjZSZlo3cVpNdU1TZE50Z1N3YUViOGdiZHRRa3l6STY2bWtVaEp0d3JCVXpRRl9QclcyNGlwdQ?hl=ko&gl=KR&ceid=KR%3Ako"
       }
     ]
+  },
+  {
+    "date": "2025년 09월 11일 목요일",
+    "articles": [
+      {
+        "title": "정부 “트럼프가 구금 한국인 미국에 계속 남으라 권해 귀국 지연”",
+        "time": "2025-09-11T10:44:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXFRM2RCVkhVdGFESlpRemRSVFJEZ0F4al9CQ2dLTWdZQm9JeW91QVU=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTFA5dHdxVzRDd05jd2JnVWlZX25wV25vRk9Vem1LYWJGcFJiX1dmTVhUTGJISEt6UzZKbFp2akFfM3RWS0kzbVRBS3JWeEZ0U2lIMnlUS1ZzejVsWW9YZWl6ZWFEN2ZQYmk1d09oMG9rMA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTFA5dHdxVzRDd05jd2JnVWlZX25wV25vRk9Vem1LYWJGcFJiX1dmTVhUTGJISEt6UzZKbFp2akFfM3RWS0kzbVRBS3JWeEZ0U2lIMnlUS1ZzejVsWW9YZWl6ZWFEN2ZQYmk1d09oMG9rMA?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[NNA] ILO와 중국, 미얀마 지진 복구 인력 온라인 연수 실시",
+        "time": "2025-09-11T10:31:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNDBaVEJCVUhaR1h5MDFXSEZQVFJDcUJCaXFCQ2dLTWdNWmN4QQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTFA5NTZ3YjhxeWRvOWNLWXd4UjRFX054NzJxV1p5WExuOWlmNHE5bkZtWnBpWXp3SFNkVUFPbnJPVEY5SC1KR0RvTnRGX0Z3dFVfMHhVa1B0RWlQdHJfRzR5dw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTFA5NTZ3YjhxeWRvOWNLWXd4UjRFX054NzJxV1p5WExuOWlmNHE5bkZtWnBpWXp3SFNkVUFPbnJPVEY5SC1KR0RvTnRGX0Z3dFVfMHhVa1B0RWlQdHJfRzR5dw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] 이재명 대통령 “남은 4년 9개월, 도약과 성장에 온 힘 쏟겠다”",
+        "time": "2025-09-11T10:15:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXpXRkJ2Tm5GTE0xRnpVelEyVFJDckF4aThCU2dLTWdZdFZZQ3VvUWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE1iVWo5dGtocVBtOXM3MGJCeVNPclVycm9iYTZtTVE3bFpocU1UWWtrN3hlRW16UDhtdVQ1T1ZkOTlXNUdLS25NZmxzOFllZkJFdmRORkZn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE1iVWo5dGtocVBtOXM3MGJCeVNPclVycm9iYTZtTVE3bFpocU1UWWtrN3hlRW16UDhtdVQ1T1ZkOTlXNUdLS25NZmxzOFllZkJFdmRORkZn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "티베트 송혜교 보러 中식당에 관광객 ‘북적’… “보기 드문 자연미인”",
+        "time": "2025-09-11T09:45:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXBXbWhJYlV0clYzZ3dlV2hYVFJDUkF4ajhCU2dLTWdhQjlvQUxTZ0k=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiiAFBVV95cUxOOXk0VjBYZzdRNW54WDFDQmNxRUkyYUNGNjV3Q2N6ajllSEE1dXJrVlBuN2NfLUk2clh6RW91UkhWQkNjSFR2UldfcjV2Y0lDSDhrY01QUEItRlNIVDkwU0EyblFEZFlLVDBualJ3SmpaMDh2bkF2TEVta0JMdWZ2UmdZTmZzbk5D0gGcAUFVX3lxTE94bGI2TnBoc2k0RGtxV2tKTVFvaTJZcmlBQTRsdE5UMDAxZEVZaDBDNmMtekhTdk1rbEVpTFVGa2Fkcm1wMVloWklXU2xUSUktVVJWdE1Ldmk0eTh1eTlCUktOWlNuenljUE5oVEs2cWswVUtPSV9lV0xOTWpjVlhUVGkxTTh0T3hiaHhDM3hBZ2hCT3J3aEI5QWQwdw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiiAFBVV95cUxOOXk0VjBYZzdRNW54WDFDQmNxRUkyYUNGNjV3Q2N6ajllSEE1dXJrVlBuN2NfLUk2clh6RW91UkhWQkNjSFR2UldfcjV2Y0lDSDhrY01QUEItRlNIVDkwU0EyblFEZFlLVDBualJ3SmpaMDh2bkF2TEVta0JMdWZ2UmdZTmZzbk5D0gGcAUFVX3lxTE94bGI2TnBoc2k0RGtxV2tKTVFvaTJZcmlBQTRsdE5UMDAxZEVZaDBDNmMtekhTdk1rbEVpTFVGa2Fkcm1wMVloWklXU2xUSUktVVJWdE1Ldmk0eTh1eTlCUktOWlNuenljUE5oVEs2cWswVUtPSV9lV0xOTWpjVlhUVGkxTTh0T3hiaHhDM3hBZ2hCT3J3aEI5QWQwdw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "고창군, 2025 한빛원전 방사능방재 합동훈련 실시",
+        "time": "2025-09-11T09:06:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNWhlRkowVlRZMlZsY3hNM2xxVFJDd0FSaWZBaWdCTWdZQlFJcnFHUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiSkFVX3lxTE9tLUd4Rkx3TGpld0t1SWdOV3lyY2hMUlNMR0hZTDVGMG50bmdELWJzTzdpT1lwT1BrTlNkc3ZJTV83N3pMczN3U3VR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiSkFVX3lxTE9tLUd4Rkx3TGpld0t1SWdOV3lyY2hMUlNMR0hZTDVGMG50bmdELWJzTzdpT1lwT1BrTlNkc3ZJTV83N3pMczN3U3VR?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "“재난은 준비가 곧 안전” 월성본부, 지진·화재 대응 시민 체험교육",
+        "time": "2025-09-10T23:14:28+00:00",
+        "img": "/api/attachments/CC8iI0NnNDBOemxLU0ZaalkzVTVNVWhaVFJDM0FSaVRBaWdCTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibkFVX3lxTE44NlNBRnJJdEZrUHM3aEJGZ0lySWxIekZYaEVQaWxNSm12ekNMWkFqSUxxY21kd0hIY1lnU1A4SEtjNWlWNTBVMmhQNksta1JMdHpyZFN0T1FXQW8wZWFLRWJTXzBodGY1eXY3SGln?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibkFVX3lxTE44NlNBRnJJdEZrUHM3aEJGZ0lySWxIekZYaEVQaWxNSm12ekNMWkFqSUxxY21kd0hIY1lnU1A4SEtjNWlWNTBVMmhQNksta1JMdHpyZFN0T1FXQW8wZWFLRWJTXzBodGY1eXY3SGln?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "제주 제주시 동북동쪽 44㎞서 규모 2.1 지진",
+        "time": "2025-09-09T20:26:03+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNURzlvUTBaR1UwbFFObEpJVFJESUFSaklBU2dCTWdhQlpJU3R0UU0=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidkFVX3lxTE14VDJUNGJTVW1tNnM1WktDS2RTbkZIa1FLUjk5NlhuVlEtQzd6ZmhQQkpjeTY2aHhIS3JpM0R5UkdwelRLSjMwY193SjVpSUpQWVpZTE1WenZ6bU9IN2ZvNHBMa1VBNG95UzBQeTJ3Q1dHZzBTRGfSAWZBVV95cUxOa0FGZjJPeHBLQ29Rdk9YYmRXWGpZZzZGOTEyOEh3cDVKeGZVdXRLOFRBVTJoVzBQWHFtLV9hOEJpOGFuVTJHLUkxUXg2azBoZi01Umt0RUNZVWx6VE00TlhxZXppeEE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidkFVX3lxTE14VDJUNGJTVW1tNnM1WktDS2RTbkZIa1FLUjk5NlhuVlEtQzd6ZmhQQkpjeTY2aHhIS3JpM0R5UkdwelRLSjMwY193SjVpSUpQWVpZTE1WenZ6bU9IN2ZvNHBMa1VBNG95UzBQeTJ3Q1dHZzBTRGfSAWZBVV95cUxOa0FGZjJPeHBLQ29Rdk9YYmRXWGpZZzZGOTEyOEh3cDVKeGZVdXRLOFRBVTJoVzBQWHFtLV9hOEJpOGFuVTJHLUkxUXg2azBoZi01Umt0RUNZVWx6VE00TlhxZXppeEE?hl=ko&gl=KR&ceid=KR%3Ako"
+      }
+    ]
   }
 ]
