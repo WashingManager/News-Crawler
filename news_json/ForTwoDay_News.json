@@ -3,6 +3,33 @@
     "date": "2025년 09월 13일 토요일",
     "articles": [
       {
+        "title": "러시아 캄차카반도 동쪽 바다에서 규모 7.7 지진",
+        "time": "2025-09-13T12:07:19+00:00",
+        "img": "/api/attachments/CC8iJ0NnNUJibkZRY1hCSGJHSTBWbms0VFJELUF4alpCQ2dLTWdNUlFRTQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYEFVX3lxTE13d0I2NzBCd0lTdmI0UnV1SER3YmJGWmgwYkFwRzdTOHpycHQxMUtCWFNiem84OHJlbW5fMF9LU2RPcDJzSHpRVUtPNUFDYm42NXFVUjhuOGhMMFN2VjFwa9IBeEFVX3lxTE9JbUFFV0tkVXk3NkxNZmxqRHFuUXI1Umc0elZKa3FuX1B1Rnd5TW5mMmgtUDhmc2xGMWFIdFZobFh1RDhLTF9haHlYMW05SS11ZFFRRXlYZWZLNDZSYVJMNFFrbUpPSHd3RERlYUM1bEJGcFhDa2tkSg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYEFVX3lxTE13d0I2NzBCd0lTdmI0UnV1SER3YmJGWmgwYkFwRzdTOHpycHQxMUtCWFNiem84OHJlbW5fMF9LU2RPcDJzSHpRVUtPNUFDYm42NXFVUjhuOGhMMFN2VjFwa9IBeEFVX3lxTE9JbUFFV0tkVXk3NkxNZmxqRHFuUXI1Umc0elZKa3FuX1B1Rnd5TW5mMmgtUDhmc2xGMWFIdFZobFh1RDhLTF9haHlYMW05SS11ZFFRRXlYZWZLNDZSYVJMNFFrbUpPSHd3RERlYUM1bEJGcFhDa2tkSg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "러시아 캄차카반도 동쪽 바다서 규모 7.7 지진 발생",
+        "time": "2025-09-13T11:55:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVhRa05CUkhSMFNXMUNObUZUVFJEb0FoaUFCU2dLTWdNMW9nWQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE9peldxbWQ2ZkJJUW5acFMzRGZUd3hSUFRSeWZvYTl2OWxzV2U3VnVJT3lmRjFhVVZ4LW4weURLWmIwOTVZWkJ2STc0YUExT0Ftc3drbTRfNmJmajA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9peldxbWQ2ZkJJUW5acFMzRGZUd3hSUFRSeWZvYTl2OWxzV2U3VnVJT3lmRjFhVVZ4LW4weURLWmIwOTVZWkJ2STc0YUExT0Ftc3drbTRfNmJmajA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[영광] 2025년 한빛원전 방사능 방재 합동훈련",
+        "time": "2025-09-13T10:24:55+00:00",
+        "img": "/api/attachments/CC8iL0NnNDJSME0yUkZkU1IzRTJWMk5xVFJEQ0FSaURBaWdCTWdtSmNJcnFOT1U4YXdJ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE9NamFvdUVscVpCdFgwU0t6N2JxQnd3QmM0Zk9peHpybmFUZlg4aUQ0andMWXBGWURFc3hGdk13TDhzOUItcjhlTFFULWM0SFhFcUpobzR2NzEyU3BZOTZTQXo2WkY1LU1ER3c?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE9NamFvdUVscVpCdFgwU0t6N2JxQnd3QmM0Zk9peHpybmFUZlg4aUQ0andMWXBGWURFc3hGdk13TDhzOUItcjhlTFFULWM0SFhFcUpobzR2NzEyU3BZOTZTQXo2WkY1LU1ER3c?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
         "title": "'반정부 시위 51명 사망' 네팔, 의회 해산…내년 3월 총선",
         "time": "2025-09-13T10:00:34+00:00",
         "img": "/api/attachments/CC8iI0NnNUdTRU5CVTNOdmRGWnFPRXBMVFJDb0FSaXNBaWdCTWdB=-w350-h175-p-df",
@@ -26,6 +53,15 @@
         "img": "/api/attachments/CC8iI0NnNXNiM055VFZOcmRtNDBaMHRJVFJDV0JCaS1CQ2dLTWdB=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTE1wcEhaYUQxLW5sV3RFdXp3Z2NCVDNSeHlzNTFCWGh1SVluV2kzU0lqOFU5T0dDdlA3aTdnZEFNWENRams0VV9YdHNjalhaWlBUWXE3V1prVTc4d9IBVEFVX3lxTE9HV1JBcDNYUmpEbUVoREdHdFYweXB1Qlo5ejdlaFZQUFZSRDZKSkxXcUdxR2dwZVJ0UFNacVJfLVZxdUNKRW10aDJEMTE5QTNwWl9zXw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE1wcEhaYUQxLW5sV3RFdXp3Z2NCVDNSeHlzNTFCWGh1SVluV2kzU0lqOFU5T0dDdlA3aTdnZEFNWENRams0VV9YdHNjalhaWlBUWXE3V1prVTc4d9IBVEFVX3lxTE9HV1JBcDNYUmpEbUVoREdHdFYweXB1Qlo5ejdlaFZQUFZSRDZKSkxXcUdxR2dwZVJ0UFNacVJfLVZxdUNKRW10aDJEMTE5QTNwWl9zXw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[속보] 경남 통영 앞바다서 규모 2.1 지진 발생…피해 없어",
+        "time": "2025-09-13T08:44:47+00:00",
+        "img": "/api/attachments/CC8iK0NnNUNiWEpuTW5sQk1tbFZaRTkzVFJDQUJCaldCQ2dLTWdZdEVKUllPQVk=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiaEFVX3lxTFBvY0NZLUtnRGIwWGJjZFVWYU5BVHdmajZkTnRudGwxOWdKdnZPOWV1TXRJd2lFSFV1LUpHQm1mMUNBZjd6R1hPTUtXdlZZUkFzXzM2RjlrZUluRGt6WmJ4ZmE4WFlKQjJj?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiaEFVX3lxTFBvY0NZLUtnRGIwWGJjZFVWYU5BVHdmajZkTnRudGwxOWdKdnZPOWV1TXRJd2lFSFV1LUpHQm1mMUNBZjd6R1hPTUtXdlZZUkFzXzM2RjlrZUluRGt6WmJ4ZmE4WFlKQjJj?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 13일 토요일"
       },
@@ -66,11 +102,29 @@
         "date": "2025년 09월 13일 토요일"
       },
       {
+        "title": "“표현의 자유 아닌 깽판”…이재명 대통령 지적한 ‘혐중 시위’, 명동 진입 못했다",
+        "time": "2025-09-12T22:51:14+00:00",
+        "img": "/api/attachments/CC8iJ0NnNVZTVkJGUzFCemJqUjNOazVuVFJEV0F4aU5CU2dLTWdNQm9RWQ=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiVEFVX3lxTE1STFhNQnBPMjJjRl9kWXZGOEI4eExMbkNfM3p0OXVOV1JseDhmWko0eDBPMzBmV0h1TnRraHdRUXBrQUVxQUM3bDloYnJHYlJaVnZtaQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVEFVX3lxTE1STFhNQnBPMjJjRl9kWXZGOEI4eExMbkNfM3p0OXVOV1JseDhmWko0eDBPMzBmV0h1TnRraHdRUXBrQUVxQUM3bDloYnJHYlJaVnZtaQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
         "title": "파퍼거 라인메탈 CEO \"유럽, 러 드론 위협 대응 위해 저가형 방공 시스템 구축해야\"",
         "time": "2025-09-12T19:26:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXVOMkZwY2xGcU1HTk9Ta1ZRVFJDM0FSaVRBaWdCTWdhQmRaQUN0Z2M=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiXEFVX3lxTFBkQ0NaYktLR09WV09DVDdVMnk0MWNiMFRtOFlOZHZyYkJ6Smlia1Y1WXZZLVpBVkNxQlo1U21aSUZRWUxuTTNuVVo0UlllVXRDQW5lTjBDMEVxdmJs0gFeQVVfeXFMT0J4UEVlOGUxVWtXR21tS3JSNXZlcGdaUUdEc0VJRzVXYzJkTmFseE1tUlpVS1A5eVZySy1JRW4yVHk1Ui1vYVh3RlcySG04NjNwZGdqZF9XenJ1ZE5oZw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiXEFVX3lxTFBkQ0NaYktLR09WV09DVDdVMnk0MWNiMFRtOFlOZHZyYkJ6Smlia1Y1WXZZLVpBVkNxQlo1U21aSUZRWUxuTTNuVVo0UlllVXRDQW5lTjBDMEVxdmJs0gFeQVVfeXFMT0J4UEVlOGUxVWtXR21tS3JSNXZlcGdaUUdEc0VJRzVXYzJkTmFseE1tUlpVS1A5eVZySy1JRW4yVHk1Ui1vYVh3RlcySG04NjNwZGdqZF9XenJ1ZE5oZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "아프가니스탄, 30년 만의 대지진으로 아동 3만 이상 영양실조 위험 : 사회",
+        "time": "2025-09-12T19:03:35+00:00",
+        "img": "/api/attachments/CC8iI0NnNUZaSEJFVkU1RldtWkplaTFCVFJERUF4aW1CU2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiV0FVX3lxTE5TWi1kbW9JcWZkMHBhdkNleWVjX3V0UWRxVUYtdGxWLWlROGludjJIYzZjWkFZM29UTmRBTEN3S2pxWTBPTFhHX1Q0engtQ3pLalp1R2phWQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiV0FVX3lxTE5TWi1kbW9JcWZkMHBhdkNleWVjX3V0UWRxVUYtdGxWLWlROGludjJIYzZjWkFZM29UTmRBTEN3S2pxWTBPTFhHX1Q0engtQ3pLalp1R2phWQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 13일 토요일"
       },
@@ -112,6 +166,33 @@
         "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3375897_3502746_747_v150.jpg",
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3375897",
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3375897",
+        "source": "Gukje",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "장동혁 \"민주당의 사법부 말살 시도, 李 대통령 재판재개라는 부메랑 될 것\"",
+        "time": "2025-09-13T12:25:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3375922_3502775_2656_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3375922",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3375922",
+        "source": "Gukje",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[속보] '가뭄' 강릉, 제한급수 아파트에 상수도 공급...6~9시 3시간 씩",
+        "time": "2025-09-13T12:21:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3375921_3502774_2038_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3375921",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3375921",
+        "source": "Gukje",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "러시아 캄차카반도 동쪽 바다서 규모 7.7 지진...7월에도 초강진",
+        "time": "2025-09-13T12:06:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3375916_3502769_654_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3375916",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3375916",
         "source": "Gukje",
         "date": "2025년 09월 13일 토요일"
       }
@@ -801,6 +882,42 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/13/AKR20250913034300530_01_i.jpg",
         "url": "https://news.nate.com/view/20250913n05362",
         "original_url": "https://news.nate.com/view/20250913n05362",
+        "source": "nate",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "안산 폐기물 소각로 제조업체서 40대 근로자 사망…경찰 수사",
+        "time": "2025-09-13T12:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/13/1494697_article.jpg",
+        "url": "https://news.nate.com/view/20250913n05675",
+        "original_url": "https://news.nate.com/view/20250913n05675",
+        "source": "nate",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "러시아 캄차카반도 해역서 또 7.4 강진…쓰나미 경보(종합)",
+        "time": "2025-09-13T12:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/13/AKR20250913034351530_02_i.jpg",
+        "url": "https://news.nate.com/view/20250913n05678",
+        "original_url": "https://news.nate.com/view/20250913n05678",
+        "source": "nate",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "美 보수 언론도 한인 구금 비판 \"수갑·족쇄, 안 좋게 받아들여져\"",
+        "time": "2025-09-13T12:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/09/13/2025091312252631926_1757733926_0028684744.jpg",
+        "url": "https://news.nate.com/view/20250913n05626",
+        "original_url": "https://news.nate.com/view/20250913n05626",
+        "source": "nate",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[속보] 러 캄차카 해역서 또 강진…규모 7.7",
+        "time": "2025-09-13T12:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/09/13/SSC_20250913122931_V.jpg",
+        "url": "https://news.nate.com/view/20250913n05625",
+        "original_url": "https://news.nate.com/view/20250913n05625",
         "source": "nate",
         "date": "2025년 09월 13일 토요일"
       }
@@ -1718,6 +1835,56 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "‘핵무장’ 주장한 홍준표…美 구금 사태에 “의도된 도발”",
+        "time": "2025-09-13T09:16:21",
+        "img": "https://imgnews.pstatic.net/image/029/2025/09/13/0002981855_002_20250913091711765.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002981855",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002981855",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "美 보수 언론도 한인 구금 비판 “수갑·족쇄, 안 좋게 받아들여져”",
+        "time": "2025-09-13T12:21:07",
+        "img": "https://imgnews.pstatic.net/image/005/2025/09/13/2025091312252631926_1757733926_0028684744_20250913122707067.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001801973",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001801973",
+        "summary": "WSJ 사설 통해 트럼프 행정부 비판",
+        "source": "naver",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "미국이 압박하는 '일본식 투자 패키지' 뭐길래...일본서도 \"불평등\"",
+        "time": "2025-09-13T11:52:46",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002246598",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002246598",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[자막뉴스] 러시아-벨라루스 연합훈련에 '초긴장'...폴란드, 4만 명 병력 급파",
+        "time": "2025-09-13T09:33:29",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002246583",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002246583",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 13일 토요일"
+      },
+      {
+        "title": "[속보] 러시아 캄차카반도 동쪽 해역에서 규모 7.7 지진 발생",
+        "time": "2025-09-13T12:18:16",
+        "img": "https://imgnews.pstatic.net/image/666/2025/09/13/0000083282_001_20250913121816474.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/666/0000083282",
+        "original_url": "https://n.news.naver.com/mnews/article/666/0000083282",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 13일 토요일"
       }
     ]
   },
@@ -2027,6 +2194,114 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/ohmynews/20250913114501966ascx.jpg",
         "url": "https://v.daum.net/v/20250913114501692",
         "original_url": "https://v.daum.net/v/20250913114501692",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "전북도, 아프리카와 손잡고 '글로벌 스포츠' 네트워크 강화",
+        "time": "2025-09-13T03:31:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/THEFACT/20250913121140332yhvi.jpg",
+        "url": "https://v.daum.net/v/20250913121138916",
+        "original_url": "https://v.daum.net/v/20250913121138916",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "장동혁 \"李대통령·정청래, 검찰·사법 인식은 '북한·중국 수준…위험천만\"",
+        "time": "2025-09-13T03:30:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/dailian/20250913122615937hvjh.jpg",
+        "url": "https://v.daum.net/v/20250913120714883",
+        "original_url": "https://v.daum.net/v/20250913120714883",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "러·우크라전 교훈…북한, 재래식전력 강화 속도 낸다",
+        "time": "2025-09-13T03:30:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/yonhap/20250913120217321qcgf.jpg",
+        "url": "https://v.daum.net/v/20250913120217821",
+        "original_url": "https://v.daum.net/v/20250913120217821",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "홍준표, '美 한국인 구금사태'에 \"의도된 도발…이런 대접 모욕\"",
+        "time": "2025-09-13T03:30:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/Edaily/20250913112848795tuuj.jpg",
+        "url": "https://v.daum.net/v/20250913112846551",
+        "original_url": "https://v.daum.net/v/20250913112846551",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "美 보수 언론도 한인 구금 비판 “수갑·족쇄, 안 좋게 받아들여져”",
+        "time": "2025-09-13T03:30:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/kukminilbo/20250913122850026osqs.jpg",
+        "url": "https://v.daum.net/v/20250913122248995",
+        "original_url": "https://v.daum.net/v/20250913122248995",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "英마을 가뭄철 물 제한해놓고…美재벌 저택 호수엔 급수 콸콸",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/yonhap/20250913121913488scaq.jpg",
+        "url": "https://v.daum.net/v/20250913121913985",
+        "original_url": "https://v.daum.net/v/20250913121913985",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "\"북한서 K드라마 보면 처형\"…유엔 인권보고서 나왔다",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/akn/20250913120315600mknb.jpg",
+        "url": "https://v.daum.net/v/20250913120314849",
+        "original_url": "https://v.daum.net/v/20250913120314849",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "'망루 외교' 뒤 '북·중 관문' 단둥 달라졌다…북·중 정상회담 뒤 처음 가보니",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/JTBC/20250913120031335wrdd.png",
+        "url": "https://v.daum.net/v/20250913120028798",
+        "original_url": "https://v.daum.net/v/20250913120028798",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "이스라엘 모사드, 카타르 공습에 반대했다… 네타냐후는 강행",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/chosun/20250913120748652ncht.jpg",
+        "url": "https://v.daum.net/v/20250913120747886",
+        "original_url": "https://v.daum.net/v/20250913120747886",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "미국이 압박하는 '일본식 투자 패키지' 뭐길래...일본서도 \"불평등\"",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/YTN/20250913121320734nykj.jpg",
+        "url": "https://v.daum.net/v/20250913121320937",
+        "original_url": "https://v.daum.net/v/20250913121320937",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "유엔총회, 팔레스타인 '두 국가 해법' 이행 지지 결의 채택…한국 찬성",
+        "time": "2025-09-13T03:29:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/hankooki/20250913120941479sdvy.jpg",
+        "url": "https://v.daum.net/v/20250913120939903",
+        "original_url": "https://v.daum.net/v/20250913120939903",
+        "source": "daum",
+        "date": "2025년 09월 13일 Saturday"
+      },
+      {
+        "title": "홍준표 \"美가 한국을 이렇게 대접? 이건 모욕이자 수치…핵무장 고려하자\"",
+        "time": "2025-09-13T03:46:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/13/NEWS1/20250913121312951ojsb.jpg",
+        "url": "https://v.daum.net/v/20250913121312932",
+        "original_url": "https://v.daum.net/v/20250913121312932",
         "source": "daum",
         "date": "2025년 09월 13일 Saturday"
       }
