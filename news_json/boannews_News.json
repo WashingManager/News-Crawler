@@ -2824,5 +2824,18 @@
         "summary": "[지진솔 기자(digital@boannews.com)]<저작권자: 보안뉴스(www.boannews.com) 무단전재-재배포금지>"
       }
     ]
+  },
+  {
+    "date": "2025년 09월 15일 월요일",
+    "articles": [
+      {
+        "title": "중국 APT 그룹, ‘남중국해 분쟁’ 상대 필리핀 군사 시스템 침투",
+        "time": "2025-09-15T11:22:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/951878152_8959.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139243&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139243&page=1&kind=1",
+        "summary": "남중국해 분쟁 연계 지속적 사이버 공격…아태지역 전체 위협 경고파일리스 방식 ‘에그스트림’…탐지 회피와 고급 침투 기법 활용[보안뉴스 여이레 기자] 중국 지능형지속공격(APT) 그룹이 필리핀 군사 시스템을 대상으로 해킹 공격을 벌이고 있는 것으로 확인됐다.[자료: gettyimagesbank]보안 기업 비트디펜더는 최근 중국 기반 해킹 그룹이 새로운 파일리..."
+      }
+    ]
   }
 ]
