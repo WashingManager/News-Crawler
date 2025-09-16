@@ -3,6 +3,15 @@
     "date": "2025년 09월 16일 화요일",
     "articles": [
       {
+        "title": "[속보] \"파푸아뉴기니에 규모 6.0 지진\"",
+        "time": "2025-09-17T02:29:29+00:00",
+        "img": "/api/attachments/CC8iI0NnNTVaMGhhWjJoVE1VRlRkMGhIVFJESEFoallCQ2dLTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMibkFVX3lxTFBEMGVvMnhLMHZyWEVqQ3g1aVgwT2tPZFhhTjJqazRWaG9uRXpEYWZPNDUyV3lvc0dzZGZtRGF6ZkU1U0taaVZJaFhRNjBESDZTYktvaHAzMEVLbVJCeFpCMWRMdEVpWjdoWnkyTjFB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMibkFVX3lxTFBEMGVvMnhLMHZyWEVqQ3g1aVgwT2tPZFhhTjJqazRWaG9uRXpEYWZPNDUyV3lvc0dzZGZtRGF6ZkU1U0taaVZJaFhRNjBESDZTYktvaHAzMEVLbVJCeFpCMWRMdEVpWjdoWnkyTjFB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
         "title": "[속보] \"파푸아뉴기니에 규모 6.0 지진\"로이터",
         "time": "2025-09-17T02:18:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXFXa2RRWTNaMkxUZHFiMWRLVFJETkFoajBBeWdLTWdZTm9wVDJ1QWM=-w100-h100-p-df",
@@ -10975,6 +10984,66 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "美印 해빙?…모디가 트럼프 종전구상 지지하자 트럼프 \"땡큐\"",
+        "time": "2025-09-17T03:55:38",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/17/PRU20250827187101009_P4_20250917035614584.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015630248",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015630248",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "美·인도, 관세협상 재개…트럼프, 모디에 생일축하 전화",
+        "time": "2025-09-17T03:53:35",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/17/NISI20250214_0000106952_web_20250214083626_20250917035420317.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013486356",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013486356",
+        "summary": "모디 75주년 생일 맞아 통화…서로에 덕담\n무역협상 진척 없자 美, 인도에 50% 관세\n美협상단, 인도 찾아 회담…협상 계속키로",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "미국-인도 해빙?…모디가 트럼프 종전구상 지지하자 트럼프 “땡큐”",
+        "time": "2025-09-17T04:08:55",
+        "img": "https://imgnews.pstatic.net/image/056/2025/09/17/0012030840_001_20250917041017356.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012030840",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012030840",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "\"리비아 해상서 수단 난민 보트에 불…50명 사망\"",
+        "time": "2025-09-17T04:05:28",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/17/0001293051_001_20250917040614066.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001293051",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001293051",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "트럼프 \"하마스, 인질을 '인간방패'로 세우면 큰 곤경 처할 것\"",
+        "time": "2025-09-17T04:01:53",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/17/0001293050_001_20250917040209828.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001293050",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001293050",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "이스라엘, 예멘 반군 근거지 호데이다항 공습",
+        "time": "2025-09-17T03:59:05",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/17/0001293049_001_20250917040013776.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001293049",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001293049",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
       }
     ]
   },
@@ -14407,6 +14476,69 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/fnnewsi/20250917035047941jnfa.jpg",
         "url": "https://v.daum.net/v/20250917035046785",
         "original_url": "https://v.daum.net/v/20250917035046785",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "李대통령 유엔총회行…구금은 일단락, 관세 협상 교착에 복잡해진 한미관계",
+        "time": "2025-09-16T19:23:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/dailian/20250917040614295rrsc.jpg",
+        "url": "https://v.daum.net/v/20250917040612826",
+        "original_url": "https://v.daum.net/v/20250917040612826",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "\"한국은 수익률 2%\" 연금 거지 걱정…호주는 '10%', 차이 뭐길래",
+        "time": "2025-09-16T19:23:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/moneytoday/20250917040652666pgoy.jpg",
+        "url": "https://v.daum.net/v/20250917040651829",
+        "original_url": "https://v.daum.net/v/20250917040651829",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "트럼프 \"하마스, 인질을 '인간방패'로 세우면 큰 곤경 처할 것\"",
+        "time": "2025-09-16T19:22:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/sbsi/20250917040301503phhj.jpg",
+        "url": "https://v.daum.net/v/20250917040300821",
+        "original_url": "https://v.daum.net/v/20250917040300821",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "트럼프, 영국과 무역협정 조정 가능성 시사…\"그들 돕는 데 관심\"",
+        "time": "2025-09-16T19:22:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/sbscnbc/20250917040302188mtil.jpg",
+        "url": "https://v.daum.net/v/20250917040301822",
+        "original_url": "https://v.daum.net/v/20250917040301822",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "美印 해빙?…모디가 트럼프 종전구상 지지하자 트럼프 \"땡큐\"",
+        "time": "2025-09-16T19:22:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/yonhap/20250917035740677vvmx.jpg",
+        "url": "https://v.daum.net/v/20250917035740798",
+        "original_url": "https://v.daum.net/v/20250917035740798",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "미국-인도 해빙?…모디가 트럼프 종전구상 지지하자 트럼프 “땡큐”",
+        "time": "2025-09-16T19:22:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/kbs/20250917041048923ixtj.jpg",
+        "url": "https://v.daum.net/v/20250917041046837",
+        "original_url": "https://v.daum.net/v/20250917041046837",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "모디가 트럼프 종전구상 지지하자 트럼프 \"땡큐\"",
+        "time": "2025-09-16T19:22:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/sbsi/20250917041501086zqhx.jpg",
+        "url": "https://v.daum.net/v/20250917041500851",
+        "original_url": "https://v.daum.net/v/20250917041500851",
         "source": "daum",
         "date": "2025년 09월 16일 Tuesday"
       }
