@@ -3,6 +3,15 @@
     "date": "2025년 09월 16일 화요일",
     "articles": [
       {
+        "title": "네타냐후, 가자시티 지상전 돌입한 날 \"하마스에 피난처 없다\"",
+        "time": "2025-09-17T05:15:22+00:00",
+        "img": "/api/attachments/CC8iK0NnNUNWVXhSVkRSNlNISXhjak5yVFJERUF4aW5CU2dLTWdhdEpKNlFsUW8=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE81RkE5MzJjS2JEQTlEU0ZtS1FrNThUWExIUlpsVWdBSlMzclc2V3MwN3pzaDk1RXFaVEtoMkhMOEk3Z3MtN3RkVlZOTklWRENBR2RncUpuSWFQcWvSAWBBVV95cUxOMXdMdDVJZS1QTWNXYkpXbDNMeGpuR1JJNkxOMUJRSHpLeVZ4UVFEREZLRlVsblJXZTF2QWMwUXlfMEJhcTF2WkdHMy1pQl80WUZpTkxiVDlOaDMxRkpqZW8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE81RkE5MzJjS2JEQTlEU0ZtS1FrNThUWExIUlpsVWdBSlMzclc2V3MwN3pzaDk1RXFaVEtoMkhMOEk3Z3MtN3RkVlZOTklWRENBR2RncUpuSWFQcWvSAWBBVV95cUxOMXdMdDVJZS1QTWNXYkpXbDNMeGpuR1JJNkxOMUJRSHpLeVZ4UVFEREZLRlVsblJXZTF2QWMwUXlfMEJhcTF2WkdHMy1pQl80WUZpTkxiVDlOaDMxRkpqZW8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
         "title": "[속보] \"파푸아뉴기니에 규모 6.0 지진\"",
         "time": "2025-09-17T02:29:29+00:00",
         "img": "/api/attachments/CC8iI0NnNTVaMGhhWjJoVE1VRlRkMGhIVFJESEFoallCQ2dLTWdB=-w100-h100-p-df",
@@ -161,6 +170,15 @@
         "img": "/api/attachments/CC8iK0NnNUVRbVU1YUUxQlZrUkpiRGhFVFJDZkF4ampCU2dLTWdZdE5acXVuUWs=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMib0FVX3lxTE1uM1FzR2JGZG5aV1dMeFNKX01xejhqSlFtX0tYWEkteVlxcGEzNUMtQTNhWmFGQXphMFd4di1pTHhaNnZyY3J4TWJ4T2NqTXZXRmhPRm1EUXI4MEJ4UGkzQnFqVHdBdUhJN2k1NTNZUdIBdkFVX3lxTE1fdmVMRVJ1Q2hvVGpWR1d5SUxEZTdXUmFYeTktX2RUUER1X09fZ0RfUEtNUU0wYnJLVXE2TVZMMnZOZWxrTlJhMG5UTTlvaUIzZDhHY3dKRHRHMDhXVGlxOUVLck94R3ltelZlZjFHSnFQck5EY2c?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMib0FVX3lxTE1uM1FzR2JGZG5aV1dMeFNKX01xejhqSlFtX0tYWEkteVlxcGEzNUMtQTNhWmFGQXphMFd4di1pTHhaNnZyY3J4TWJ4T2NqTXZXRmhPRm1EUXI4MEJ4UGkzQnFqVHdBdUhJN2k1NTNZUdIBdkFVX3lxTE1fdmVMRVJ1Q2hvVGpWR1d5SUxEZTdXUmFYeTktX2RUUER1X09fZ0RfUEtNUU0wYnJLVXE2TVZMMnZOZWxrTlJhMG5UTTlvaUIzZDhHY3dKRHRHMDhXVGlxOUVLck94R3ltelZlZjFHSnFQck5EY2c?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "육군 \"GP 하사 총기사망 사건, 선임들 가혹행위·폭언 정황\"",
+        "time": "2025-09-16T16:54:07+00:00",
+        "img": "/api/attachments/CC8iK0NnNTFiV05aT0VaVlEwaElibkUzVFJDZkF4ampCU2dLTWdZVkJKWnBoUWM=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMieEFVX3lxTE1CZDRza3IzNm9PT3YtUm96NWhseEZnTFN6dF9RX0VsbzVPbUxWWDNSLVF5MGJpTTg1aFdKTGVBd3F4SDNZVktVMURyZkVuWlhUYlNQOTYyMWpqVjBLX1dGMG9kUlFXbnZSMzR4NVVDYWliWWo5Sm5qONIBeEFVX3lxTE5OWXRXTjYtd3hndnl3bTVubi1TWUs2VkU1NEM1b0pQVE5OTW0tMUJsTG90ekNfQU8wbkVxejY4SFBlWWREQ1JhYXN1YkVKRS1vVmF1aHBaTnE5ZklEbVFpODhpZDQ0V2tjUU9aWFYzV2pIUjFEMDBQXw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMieEFVX3lxTE1CZDRza3IzNm9PT3YtUm96NWhseEZnTFN6dF9RX0VsbzVPbUxWWDNSLVF5MGJpTTg1aFdKTGVBd3F4SDNZVktVMURyZkVuWlhUYlNQOTYyMWpqVjBLX1dGMG9kUlFXbnZSMzR4NVVDYWliWWo5Sm5qONIBeEFVX3lxTE5OWXRXTjYtd3hndnl3bTVubi1TWUs2VkU1NEM1b0pQVE5OTW0tMUJsTG90ekNfQU8wbkVxejY4SFBlWWREQ1JhYXN1YkVKRS1vVmF1aHBaTnE5ZklEbVFpODhpZDQ0V2tjUU9aWFYzV2pIUjFEMDBQXw?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 16일 화요일"
       },
@@ -417,6 +435,15 @@
         "date": "2025년 09월 16일 화요일"
       },
       {
+        "title": "[단독] 성시경, 10여 년간 기획사 불법 운영···“몰랐다”",
+        "time": "2025-09-16T11:32:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNWZjM040YVZsMWFGWktUVkpqVFJERUF4aW1CU2dLTWdZdFZaQ3VwUWc=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE9QV1d2M2c2WTYzdUd4QTRwY2RqbVlWajRCYUFnRUs0a3p2LWdaLV9zOUhEMVV4UVJTbWxKOUVKaVpRSXBnVTh1MGhHOEtublJvQkJ2OHhGRkRwT1BCX0E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE9QV1d2M2c2WTYzdUd4QTRwY2RqbVlWajRCYUFnRUs0a3p2LWdaLV9zOUhEMVV4UVJTbWxKOUVKaVpRSXBnVTh1MGhHOEtublJvQkJ2OHhGRkRwT1BCX0E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
         "title": "‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대",
         "time": "2025-09-16T11:28:19+00:00",
         "img": "/api/attachments/CC8iK0NnNXFXRWs1UjFoSFFWazVSMnBQVFJDb0FSaXNBaWdCTWdZaHM1S3RPUVk=-w100-h100-p-df",
@@ -449,6 +476,15 @@
         "img": "/api/attachments/CC8iK0NnNU5ZMkU0VEdoeFVuaGtOVlJ3VFJDMEFSaVlBaWdCTWdZWk1ZSm9HZ28=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMia0FVX3lxTFBOelEtUmpWZ0V4UjR3TzNsVmlMT0RJZE9MMy1tZjNuRnItSEhxODhGU3FqbUNhYmdobXlkSEtMa1ZpTzRid21vZm15RXYtbkU0VVRBb3VONm55Y1FzWkZ2c0JNSEYwUjdEaDMw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMia0FVX3lxTFBOelEtUmpWZ0V4UjR3TzNsVmlMT0RJZE9MMy1tZjNuRnItSEhxODhGU3FqbUNhYmdobXlkSEtMa1ZpTzRid21vZm15RXYtbkU0VVRBb3VONm55Y1FzWkZ2c0JNSEYwUjdEaDMw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "‘한국판 마가(MAGA)’ 엠킴과 한미 극우의 거대한 연대",
+        "time": "2025-09-16T11:08:27+00:00",
+        "img": "/api/attachments/CC8iK0NnNDVPSGhyY21aVlptRkdiMUJLVFJDZkF4ampCU2dLTWdhaFJKcnRJUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE4xV08zdUxsa3NYMklGS3hCYXFJS1ZjT1hzdDJwcXhheGx1bEdnLTQ2V2RjalkzVFlnWGJobjBXX3hLdEJOcHJnejA0QUhmSjg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiT0FVX3lxTE4xV08zdUxsa3NYMklGS3hCYXFJS1ZjT1hzdDJwcXhheGx1bEdnLTQ2V2RjalkzVFlnWGJobjBXX3hLdEJOcHJnejA0QUhmSjg?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 16일 화요일"
       },
@@ -557,6 +593,15 @@
         "img": "/api/attachments/CC8iMkNnNXBiM2xhWTB4cVprZFJSM3BKVFJDMEFoakxCQ2dLTWd1SkVZQ1VhR0NwT2poeXNR=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMingFBVV95cUxOSlNoLWo5U2Z1d1NqLXh1cThUeGNvS24zVlBaZWd4Nkpob3BEaEdEaWpfNHlPTy1mdHE3bTJ2dFhFbTc5OWRUNFg4a0hBX3lPMURndThVeWgxRVhka3JfQjR2UmhWMUphQWhKVTNQbU1aZjRnQXMwVm5GaWQzMy1CdUpwMzFJdkF4a2V3MV9kNzg2azZLWnhKQ29KUTJwd9IBsgFBVV95cUxOdEQ4OWQtN1gxeDlscVdDemVWNUUwVVFMZHN5d3FoSjc2NUNZMTE2QjI1WWNnM0duc2dLN0M4azNxOENXbUZoVzdQUmstdzRpUmhLOVlMSkcxWDFsWGhsNzFNeXRKcFRjZXI2c3dJLTFEM1ZTTzlwUVBva0Z3bERiTnBCRlFNMGJLSGV0X0dTWlVYSnBIendvT3g5V0tka2YyUjJZSG5nWmFXb2hmMnMtRDV3?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxOSlNoLWo5U2Z1d1NqLXh1cThUeGNvS24zVlBaZWd4Nkpob3BEaEdEaWpfNHlPTy1mdHE3bTJ2dFhFbTc5OWRUNFg4a0hBX3lPMURndThVeWgxRVhka3JfQjR2UmhWMUphQWhKVTNQbU1aZjRnQXMwVm5GaWQzMy1CdUpwMzFJdkF4a2V3MV9kNzg2azZLWnhKQ29KUTJwd9IBsgFBVV95cUxOdEQ4OWQtN1gxeDlscVdDemVWNUUwVVFMZHN5d3FoSjc2NUNZMTE2QjI1WWNnM0duc2dLN0M4azNxOENXbUZoVzdQUmstdzRpUmhLOVlMSkcxWDFsWGhsNzFNeXRKcFRjZXI2c3dJLTFEM1ZTTzlwUVBva0Z3bERiTnBCRlFNMGJLSGV0X0dTWlVYSnBIendvT3g5V0tka2YyUjJZSG5nWmFXb2hmMnMtRDV3?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "한동훈 \"내가 특검이면 민주당 계엄 확신 근거 집중 수사할 것\"",
+        "time": "2025-09-16T09:54:10+00:00",
+        "img": "/api/attachments/CC8iL0NnNTNTMDVHVVZwYWQzaG1hbGhoVFJDMUFSaVhBaWdCTWdtcE5ZRE9tU2w3bUFB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMie0FVX3lxTFBHR3FwNlRnMl9WWWo4Znh3Ny1feDR6ZkRSV1c3aFRHNHRxVkNvYVhNVjBCa0dGMTVpTC1Jd2MzMVk0OFpZY05sa1BvSk4wRTREZC1uTU11YTdmWnhBTkNVbWxvb3oyS3NlSGstOVUybmtOWk5JelFjNXN6UQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMie0FVX3lxTFBHR3FwNlRnMl9WWWo4Znh3Ny1feDR6ZkRSV1c3aFRHNHRxVkNvYVhNVjBCa0dGMTVpTC1Jd2MzMVk0OFpZY05sa1BvSk4wRTREZC1uTU11YTdmWnhBTkNVbWxvb3oyS3NlSGstOVUybmtOWk5JelFjNXN6UQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 16일 화요일"
       },
@@ -692,6 +737,15 @@
         "img": "/api/attachments/CC8iJ0NnNU1NakZ0YjJkQmEybFpOMEphVFJEMEF4ajBBeWdLTWdNSkl3VQ=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMilwNBVV95cUxPeE4zblcyTFBZWkZYNndZQWhtTWZ3MkFaX0lBaF9QRGwxb2RGQjdzMVhSMm9OM01BbHJlMGx0akhBMW9ZaURtdWRuekhlZl9DZHk2dGxmOTFrUnRiUnN1cGMtTzN5cThtRnhGTjFrWnVMNi1EQl94bC10NlRWYXA4UmloM1pCMGcwTmtoYUthcVpJb21vUDBjSDNjSWZmT25rbDZjY2I3Qm1lbThldkdOZmZxeUdpS0t4M1Jkcm9fWGxIYnJaZFRSNFRwWnNIRGVobUJnUW5NaVM4MER5R194X3l6aE5HTE5ORnctNmE1ekhSYVU2ell6OVRfNVdRVHBLZk1PWl91dDBzS3NyaW9CYW0yYXVFRFhUVVlXN0ZWamp3TDZkUjlnYUtYX0xLbWp3NHFWMEMzZDF5N2Fna2R5MmdCaEM3WTNCOWgwZGppVExoLXBPdWJGSVBzMHFGRmtWN0EtVF9ZRHc2cDIxYk42QkZkaGNPeDk5YXgxVmE1NjU2M0hkVEJ6azEyZXpVYWJWZ3J2T2FNaw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMilwNBVV95cUxPeE4zblcyTFBZWkZYNndZQWhtTWZ3MkFaX0lBaF9QRGwxb2RGQjdzMVhSMm9OM01BbHJlMGx0akhBMW9ZaURtdWRuekhlZl9DZHk2dGxmOTFrUnRiUnN1cGMtTzN5cThtRnhGTjFrWnVMNi1EQl94bC10NlRWYXA4UmloM1pCMGcwTmtoYUthcVpJb21vUDBjSDNjSWZmT25rbDZjY2I3Qm1lbThldkdOZmZxeUdpS0t4M1Jkcm9fWGxIYnJaZFRSNFRwWnNIRGVobUJnUW5NaVM4MER5R194X3l6aE5HTE5ORnctNmE1ekhSYVU2ell6OVRfNVdRVHBLZk1PWl91dDBzS3NyaW9CYW0yYXVFRFhUVVlXN0ZWamp3TDZkUjlnYUtYX0xLbWp3NHFWMEMzZDF5N2Fna2R5MmdCaEM3WTNCOWgwZGppVExoLXBPdWJGSVBzMHFGRmtWN0EtVF9ZRHc2cDIxYk42QkZkaGNPeDk5YXgxVmE1NjU2M0hkVEJ6azEyZXpVYWJWZ3J2T2FNaw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "이재용 장남 지호씨 해군 사관후보생 입영",
+        "time": "2025-09-16T03:00:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVFia2M1ZDI5Q1lXOXNaV2QyVFJESEJCaU9CQ2dLTWdhWkZwZ3FFZ3M=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE5FR2t2d0t4VmRRQzctTFNqT1o0c3VBR3BXZEU2dmFYX005b0dGRmZTVGlFaE5yME1lMElCcW1NdjA2R1hBTkhvRkUyWmxEMllnTXdSclZmWWUxTE92Q1NiLWJtQms3eWRWZnF0djVNS3E3TmVI0gFmQVVfeXFMTXNoWDZUSV8tUFJwT0R4akVtUm00UHF0TW83bkxwTER1UXAwWEIyMXB1dkRRUi1UOUFLWW1XRHZleDV3ZlZjdE56cXQzb01pMlBqYkgwUXMxSXB1UHZ3LVI2OEpFemZB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE5FR2t2d0t4VmRRQzctTFNqT1o0c3VBR3BXZEU2dmFYX005b0dGRmZTVGlFaE5yME1lMElCcW1NdjA2R1hBTkhvRkUyWmxEMllnTXdSclZmWWUxTE92Q1NiLWJtQms3eWRWZnF0djVNS3E3TmVI0gFmQVVfeXFMTXNoWDZUSV8tUFJwT0R4akVtUm00UHF0TW83bkxwTER1UXAwWEIyMXB1dkRRUi1UOUFLWW1XRHZleDV3ZlZjdE56cXQzb01pMlBqYkgwUXMxSXB1UHZ3LVI2OEpFemZB?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 16일 화요일"
       },
@@ -11233,6 +11287,146 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "[속보]뉴욕증시, 연준 금리인하 앞두고 최고치서 ‘숨고르기’",
+        "time": "2025-09-17T05:10:15",
+        "img": "https://imgnews.pstatic.net/image/018/2025/09/17/0006117231_001_20250917051110386.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006117231",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006117231",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "대미 車수출 15% ‘뚝’…韓日 관세 역전에 '흔들'",
+        "time": "2025-09-17T05:01:10",
+        "img": "https://imgnews.pstatic.net/image/018/2025/09/17/0006117225_001_20250917050110302.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006117225",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006117225",
+        "summary": "8월 전체 수출액 역대 최대에도\n대미는 6개월 연속 마이너스\n韓 관세 25%…日은 15%로 줄어\n美법인 상장 등 돌파구 모색해야",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "'단비'에도 강릉 가뭄 해갈 역부족…'가을 태풍'이 해결사?",
+        "time": "2025-09-17T05:01:39",
+        "img": "https://imgnews.pstatic.net/image/079/2025/09/17/0004066960_001_20250917050139940.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004066960",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004066960",
+        "summary": "지난 주말 강릉에 올해 최대 강수량\n그래도 평년의 23% 수준 '가뭄'\n\"여름보다 가을·겨울 강수량 적어\"\n\"가뭄 지속 여부, 태풍이 결정할 것\"",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "“정말일까?”···부러진 뼛조각, 단 3분만에 붙이는 의료용 접착제 개발했다는 中",
+        "time": "2025-09-17T05:07:12",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/17/0002737037_002_20250917050712495.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002737037",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002737037",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "美국무 \"커크 죽음 기뻐하는 외국인 추방…비자취소 진행 중\"",
+        "time": "2025-09-17T05:35:57",
+        "img": "https://imgnews.pstatic.net/image/277/2025/09/17/0005652949_001_20250917053617203.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005652949",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005652949",
+        "summary": "커크 죽음 축하하는 외국인 향해\n\"비자 취소·비자 발급 거부\"",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "[게시판] 뉴욕한인회 갤러리서 한국 현대도예 전시회",
+        "time": "2025-09-17T05:21:06",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/17/AKR20250917007100072_01_i_P4_20250917052114645.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015630261",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015630261",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "[속보]뉴욕증시, FOMC 기다리며 숨 고르기…약세 마감",
+        "time": "2025-09-17T05:20:12",
+        "img": "https://imgnews.pstatic.net/image/011/2025/09/17/0004533962_001_20250917052012522.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004533962",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004533962",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "[속보]푸틴,  \"러-벨라루스 병력 10만명 참가 '자파드 25' 합동군사훈련 실시\"",
+        "time": "2025-09-17T05:30:13",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/17/NISI20201211_0000654239_web_20201211094147_20250917053114946.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013486391",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013486391",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "네타냐후, 가자시티 지상전 돌입한 날 \"하마스에 피난처 없다\"",
+        "time": "2025-09-17T05:35:38",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/17/0001293065_001_20250917053610663.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001293065",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001293065",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "네타냐후, 가자시티 지상전으로 “하마스에 피난처 없다”",
+        "time": "2025-09-17T05:31:42",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012030848",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012030848",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "잠비아서 '마법으로' 대통령 암살 모의 남성 2명 징역형",
+        "time": "2025-09-17T05:27:53",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/17/0001293059_001_20250917052810615.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001293059",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001293059",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "'커크 쇼' 진행한 美부통령…추모식엔 트럼프 참석",
+        "time": "2025-09-17T05:27:10",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000782098",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000782098",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "중국, 남중국해서 필리핀 선박에 물대포…1명 부상",
+        "time": "2025-09-17T05:22:10",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000782094",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000782094",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
+      },
+      {
+        "title": "\"일본, 한국 해양조사선 독도 주변 활동에 외교경로로 항의\"",
+        "time": "2025-09-17T05:21:10",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000782093",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000782093",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 16일 화요일"
       }
     ]
   },
@@ -14863,6 +15057,42 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/seoul/20250917050309553nnwd.jpg",
         "url": "https://v.daum.net/v/20250917050308252",
         "original_url": "https://v.daum.net/v/20250917050308252",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "유엔총회고위급회기 내주 개막…李대통령·트럼프 23일 기조연설",
+        "time": "2025-09-16T20:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/yonhap/20250917054144142ihfh.jpg",
+        "url": "https://v.daum.net/v/20250917054143699",
+        "original_url": "https://v.daum.net/v/20250917054143699",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "네타냐후, 가자시티 지상전 돌입한 날 \"하마스에 피난처 없다\"",
+        "time": "2025-09-16T20:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/sbsi/20250917053604146lwmg.jpg",
+        "url": "https://v.daum.net/v/20250917053603645",
+        "original_url": "https://v.daum.net/v/20250917053603645",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "트럼프, '하마스 인간 방패' 경고...유럽은 \"이스라엘 특혜 중단\"",
+        "time": "2025-09-16T20:45:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/17/YTN/20250917054315337rgdp.jpg",
+        "url": "https://v.daum.net/v/20250917054314718",
+        "original_url": "https://v.daum.net/v/20250917054314718",
+        "source": "daum",
+        "date": "2025년 09월 16일 Tuesday"
+      },
+      {
+        "title": "네타냐후, 가자시티 지상전으로 “하마스에 피난처 없다”",
+        "time": "2025-09-16T20:45:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250917053250588",
+        "original_url": "https://v.daum.net/v/20250917053250588",
         "source": "daum",
         "date": "2025년 09월 16일 Tuesday"
       }
