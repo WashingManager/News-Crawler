@@ -14492,6 +14492,28 @@
   },
   {
     "date": "2025년 09월 17일 수요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "[속보] 전국 날씨, 오전 11시 30분 전국 호우·강풍·풍랑·폭염 동시 발령",
+        "time": "2025-09-17T11:27:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3379284_3506675_2734_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3379284",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3379284"
+      },
+      {
+        "title": "세르비아 대통령, 일본 방문",
+        "time": "2025-09-17T11:03:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3379237_3506630_242_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3379237",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3379237"
+      },
+      {
+        "title": "미국 내 불법 체류자 1400만명",
+        "time": "2025-09-17T11:17:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202509/3379267_3506653_1338_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3379267",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3379267"
+      }
+    ]
   }
 ]
