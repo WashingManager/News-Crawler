@@ -332001,5 +332001,325 @@
         "original_url": "https://news.nate.com/view/20250917n31531"
       }
     ]
+  },
+  {
+    "date": "2025년 09월 18일 목요일",
+    "articles": [
+      {
+        "title": "\"日 시장 뚫겠다\"…한수원, 韓 중소기업 지원",
+        "time": "2025-09-18T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/09/18/PS25091800624.jpg",
+        "url": "https://news.nate.com/view/20250918n14882",
+        "original_url": "https://news.nate.com/view/20250918n14882"
+      },
+      {
+        "title": "미 펜실베이니아주 농장서 총격…경찰 3명 사망·2명 부상",
+        "time": "2025-09-18T10:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/18/AKR20250918105223Ejq_01_i.jpg",
+        "url": "https://news.nate.com/view/20250918n14525",
+        "original_url": "https://news.nate.com/view/20250918n14525"
+      },
+      {
+        "title": "트럼프, 급진 좌파 '안티파' 테러단체로 지정…과거 조지 플로이드 시위 배후",
+        "time": "2025-09-18T10:56:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250918n14720",
+        "original_url": "https://news.nate.com/view/20250918n14720"
+      },
+      {
+        "title": "美 펜실베이니아주 농장서 총격…경찰 3명 사망·2명 부상",
+        "time": "2025-09-18T10:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250918n14937",
+        "original_url": "https://news.nate.com/view/20250918n14937"
+      },
+      {
+        "title": "대통령 트럼프, 부통령 밴스 만든 MAGA의 심장…日은 50년 전부터 '원팀' 공략",
+        "time": "2025-09-18T10:57:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/18/ch_1758160639853_423133_0.jpg",
+        "url": "https://news.nate.com/view/20250918n02111",
+        "original_url": "https://news.nate.com/view/20250918n02111"
+      },
+      {
+        "title": "외압으로 해임된 美 CDC국장, 백신 회의론자 美 보건장관 저격",
+        "time": "2025-09-18T10:56:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/09/18/202509180717201613_l.jpg",
+        "url": "https://news.nate.com/view/20250918n14726",
+        "original_url": "https://news.nate.com/view/20250918n14726"
+      },
+      {
+        "title": "\"어떻게 개구리 먹을 수 있나\" 中 음식 비하한 美 테니스 선수, 결국 사과",
+        "time": "2025-09-18T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/09/18/202509181039126159_l.jpg",
+        "url": "https://news.nate.com/view/20250918n14863",
+        "original_url": "https://news.nate.com/view/20250918n14863"
+      },
+      {
+        "title": "'스톱 트럼프 연맹' 시위 현장에 따라 나온 견공",
+        "time": "2025-09-18T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000644449_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14698",
+        "original_url": "https://news.nate.com/view/20250918n14698"
+      },
+      {
+        "title": "트럼프, 두 번째 영국 국빈 방문…의장대만 1200명 '초특급 의전'",
+        "time": "2025-09-18T10:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/18/ch_1758160509545_420134_0.jpg",
+        "url": "https://news.nate.com/view/20250918n00702",
+        "original_url": "https://news.nate.com/view/20250918n00702"
+      },
+      {
+        "title": "英, 국빈방문 트럼프 극진 대접…트럼프 \"생애 최고의 영광\"",
+        "time": "2025-09-18T10:58:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/18/7502152_high.jpg",
+        "url": "https://news.nate.com/view/20250918n14934",
+        "original_url": "https://news.nate.com/view/20250918n14934"
+      },
+      {
+        "title": "中 엔비디아 사용 금지에…美 하원의장 \"긴장 고조 중국 잘못\"",
+        "time": "2025-09-18T10:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250917_0000640638_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14521",
+        "original_url": "https://news.nate.com/view/20250918n14521"
+      },
+      {
+        "title": "트럼프, '커크 암살' 이후 좌파에 칼 빼들었다…\"'안티파' 테러단체 지정\"",
+        "time": "2025-09-18T10:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/18/news-p.v1.20250918.5a0fbbc5b5eb4923aa189aeba2adb399_P1.jpg",
+        "url": "https://news.nate.com/view/20250918n14439",
+        "original_url": "https://news.nate.com/view/20250918n14439"
+      },
+      {
+        "title": "\"센카쿠는 중국 영토\" 답변에 충격…日, 자국산 AI 육성 나서",
+        "time": "2025-09-18T10:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250220_0001774714_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14425",
+        "original_url": "https://news.nate.com/view/20250918n14425"
+      },
+      {
+        "title": "유럽연합, 러시아 주도 군사훈련 참가한 인도에 \"큰 우려\"",
+        "time": "2025-09-18T10:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/PTA20250917014301009_P2.jpg",
+        "url": "https://news.nate.com/view/20250918n14333",
+        "original_url": "https://news.nate.com/view/20250918n14333"
+      },
+      {
+        "title": "트럼프 영국 방문 중 룰라 대통령 \"트럼프, 전세계의 황제 아니다\" BBC 인터뷰",
+        "time": "2025-09-18T10:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000645133_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14214",
+        "original_url": "https://news.nate.com/view/20250918n14214"
+      },
+      {
+        "title": "英, '국빈' 트럼프 출국 직후 팔레스타인 국가 인정 방침",
+        "time": "2025-09-18T10:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/PAF20250918115201009_P2.jpg",
+        "url": "https://news.nate.com/view/20250918n14268",
+        "original_url": "https://news.nate.com/view/20250918n14268"
+      },
+      {
+        "title": "美 ABC, '찰리 커크' 사망 관련 발언 지미 키멜 토크쇼 무기한 중단",
+        "time": "2025-09-18T10:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250916_0000638523_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14288",
+        "original_url": "https://news.nate.com/view/20250918n14288"
+      },
+      {
+        "title": "런던 광장에 모인 '스톱 트럼프 연맹' 시위대",
+        "time": "2025-09-18T10:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000644094_web.jpg",
+        "url": "https://news.nate.com/view/20250918n14052",
+        "original_url": "https://news.nate.com/view/20250918n14052"
+      },
+      {
+        "title": "\"1000번 넘게 쏘여\" 이웃이 키우던 말벌 떼, 中 7살·5살 남매 덮쳐 사망",
+        "time": "2025-09-18T10:46:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/09/18/202509180700195269_l.jpg",
+        "url": "https://news.nate.com/view/20250918n04578",
+        "original_url": "https://news.nate.com/view/20250918n04578"
+      },
+      {
+        "title": "트럼프·시진핑 둘 다 APEC 온다…'경주 외교전' 주목",
+        "time": "2025-09-18T10:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/18/202110980_700.jpg",
+        "url": "https://news.nate.com/view/20250918n13784",
+        "original_url": "https://news.nate.com/view/20250918n13784"
+      },
+      {
+        "title": "47m 테이블에 식기만 1452점···트럼프, 영국 윈저성 국빈 만찬에 \"생애 최고 영예\"",
+        "time": "2025-09-18T10:37:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kh/2025/09/18/rcv.YNA.20250918.PAF20250918124601009_P1.jpg",
+        "url": "https://news.nate.com/view/20250918n06815",
+        "original_url": "https://news.nate.com/view/20250918n06815"
+      },
+      {
+        "title": "\"거북이·개구리 왜 먹어?\" 中 혐오 발언 파장…美 테니스 선수 \"진심 사과\"",
+        "time": "2025-09-18T10:26:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/09/18/ae_1758158765255_989435_0.png",
+        "url": "https://news.nate.com/view/20250918n12787",
+        "original_url": "https://news.nate.com/view/20250918n12787"
+      },
+      {
+        "title": "트럼프, 외국 정상 최초로 두 번째 英 국빈 방문…\"최고 영광\"",
+        "time": "2025-09-18T10:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/09/18/news_1758158789_1550703_m_1.png",
+        "url": "https://news.nate.com/view/20250918n12835",
+        "original_url": "https://news.nate.com/view/20250918n12835"
+      },
+      {
+        "title": "美 예산 협상 교착…민주·공화 이견 커 '셧다운' 우려 고조",
+        "time": "2025-09-18T10:22:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/09/18/2025091801001692500100201.jpg",
+        "url": "https://news.nate.com/view/20250918n12507",
+        "original_url": "https://news.nate.com/view/20250918n12507"
+      },
+      {
+        "title": "트럼프 \"급진좌파 '안티파', 테러단체 지정\" 커크 암살 후속조치",
+        "time": "2025-09-18T10:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/AKR20250918062300071_01_i.jpg",
+        "url": "https://news.nate.com/view/20250918n11713",
+        "original_url": "https://news.nate.com/view/20250918n11713"
+      },
+      {
+        "title": "트럼프, 영국 국빈 만찬서 \"내 인생 최고의 영예\"",
+        "time": "2025-09-18T10:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/09/18/8e5b9f4c-b397-4445-8aea-1889a886a9af.jpg",
+        "url": "https://news.nate.com/view/20250918n07213",
+        "original_url": "https://news.nate.com/view/20250918n07213"
+      },
+      {
+        "title": "英 왕세자비 만난 트럼프 \"정말 아름답다\" 연발",
+        "time": "2025-09-18T10:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/18/ch_1758157387270_653934_0.jpg",
+        "url": "https://news.nate.com/view/20250918n03361",
+        "original_url": "https://news.nate.com/view/20250918n03361"
+      },
+      {
+        "title": "美 '펜타닐과의 전쟁'에 코카인 '풍선효과'",
+        "time": "2025-09-18T10:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/18/news-p.v1.20250918.b4dc2a804cf543bf8accbf0ff6a4f93a_P1.jpg",
+        "url": "https://news.nate.com/view/20250918n10325",
+        "original_url": "https://news.nate.com/view/20250918n10325"
+      },
+      {
+        "title": "시진핑 \"중국, 2차대전 후 국제질서의 굳건한 수호자\"",
+        "time": "2025-09-18T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/AKR20250918056200009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250918n10496",
+        "original_url": "https://news.nate.com/view/20250918n10496"
+      },
+      {
+        "title": "[포토] 국빈만찬에서 담소 나누는 트럼프 대통령·英 국왕",
+        "time": "2025-09-18T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/18/7501556_high.jpg",
+        "url": "https://news.nate.com/view/20250918n10512",
+        "original_url": "https://news.nate.com/view/20250918n10512"
+      },
+      {
+        "title": "\"우크라전 반대 푸틴 측근 코자크 크렘린궁 부실장 사임\"-러 RBC",
+        "time": "2025-09-18T09:53:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0001946698_web.jpg",
+        "url": "https://news.nate.com/view/20250918n10464",
+        "original_url": "https://news.nate.com/view/20250918n10464"
+      },
+      {
+        "title": "재정건전 못박은 'EU 마스트리흐트 조약' 유명무실…그리스·이탈리아·프랑스 등 '준칙 위반'[Global Focus]",
+        "time": "2025-09-18T09:48:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250918n07434",
+        "original_url": "https://news.nate.com/view/20250918n07434"
+      },
+      {
+        "title": "트럼프 멘토 \"이재명 정부, 여러 종교 공격 광적인 의도\" 비판",
+        "time": "2025-09-18T09:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/09/18/ch_1758156622134_833552_0.jpg",
+        "url": "https://news.nate.com/view/20250918n01257",
+        "original_url": "https://news.nate.com/view/20250918n01257"
+      },
+      {
+        "title": "영국 국빈 방문한 트럼프 \"내 인생에서 가장 큰 영광 중 하나\" [뉴시스Pic]",
+        "time": "2025-09-18T09:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000645133_web.jpg",
+        "url": "https://news.nate.com/view/20250918n10350",
+        "original_url": "https://news.nate.com/view/20250918n10350"
+      },
+      {
+        "title": "美 커크 암살 파장 어디까지…진영갈등심화에 표현자유 논란까지",
+        "time": "2025-09-18T09:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/PRU20250915050001009_P2.jpg",
+        "url": "https://news.nate.com/view/20250918n09347",
+        "original_url": "https://news.nate.com/view/20250918n09347"
+      },
+      {
+        "title": "[자막뉴스] '반중 집회' 의식했나…시진핑 방한 걸림돌 해소 나선 중국",
+        "time": "2025-09-18T09:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/18/202509180753302309_t.jpg",
+        "url": "https://news.nate.com/view/20250918n10192",
+        "original_url": "https://news.nate.com/view/20250918n10192"
+      },
+      {
+        "title": "펜실베이니아 총격, 경관 3명 사망 2명 부상",
+        "time": "2025-09-18T09:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000645234_web.jpg",
+        "url": "https://news.nate.com/view/20250918n09307",
+        "original_url": "https://news.nate.com/view/20250918n09307"
+      },
+      {
+        "title": "美 의회조사국 \"조지아주 구금사태로 한국 내 한미관계 우려 고조\"",
+        "time": "2025-09-18T09:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ck/2025/09/18/kuk20250918000010.800x.0.jpg",
+        "url": "https://news.nate.com/view/20250918n03084",
+        "original_url": "https://news.nate.com/view/20250918n03084"
+      },
+      {
+        "title": "영국 런던 곳곳서 '반트럼프' 시위…\"환영 못하겠다\"",
+        "time": "2025-09-18T09:36:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/09/18/PS25091800435.jpg",
+        "url": "https://news.nate.com/view/20250918n09508",
+        "original_url": "https://news.nate.com/view/20250918n09508"
+      },
+      {
+        "title": "트럼프 정부 '좌파와의 전쟁'에 진보단체들 \"정치폭력 악용\"",
+        "time": "2025-09-18T09:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/18/AKR20250918029500009_01_i.jpg",
+        "url": "https://news.nate.com/view/20250918n09715",
+        "original_url": "https://news.nate.com/view/20250918n09715"
+      },
+      {
+        "title": "美 펜실베이니아주서 총격, 경관 5명 사상",
+        "time": "2025-09-18T09:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000645254_web.jpg",
+        "url": "https://news.nate.com/view/20250918n09286",
+        "original_url": "https://news.nate.com/view/20250918n09286"
+      },
+      {
+        "title": "펜실베이니아 총격, 경관 5명 사상…총격범은 사살",
+        "time": "2025-09-18T09:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/18/NISI20250918_0000645245_web.jpg",
+        "url": "https://news.nate.com/view/20250918n09275",
+        "original_url": "https://news.nate.com/view/20250918n09275"
+      },
+      {
+        "title": "\"러 에너지 끊어라\" 트럼프 압박에…EU, 푸틴 밉지만 고민 많다",
+        "time": "2025-09-18T09:32:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/18/7415964_high.jpg",
+        "url": "https://news.nate.com/view/20250918n09256",
+        "original_url": "https://news.nate.com/view/20250918n09256"
+      },
+      {
+        "title": "방사청장 \"한미 조선협력 막는 규제 해소 방안 미국과 논의\"",
+        "time": "2025-09-18T09:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/09/18/ae_1758154685412_877762_0.png",
+        "url": "https://news.nate.com/view/20250918n03803",
+        "original_url": "https://news.nate.com/view/20250918n03803"
+      },
+      {
+        "title": "미 조지아주 관계자 \"한국 귀국 근로자 복귀 매우 중요…많은 논의\"",
+        "time": "2025-09-18T09:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/18/202111834_700.jpg",
+        "url": "https://news.nate.com/view/20250918n04632",
+        "original_url": "https://news.nate.com/view/20250918n04632"
+      }
+    ]
   }
 ]
