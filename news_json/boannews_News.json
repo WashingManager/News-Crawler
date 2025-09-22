@@ -3299,5 +3299,66 @@
         "summary": "[보안뉴스 한세희 기자] 유럽 주요 공항들의 시스템이 장애를 일으켜 항공기 운항이 차질을 빚고 있다. 유럽 전역 주요 공항에 탑승 시스템을 제공하는 기업을 겨냥한 사이버 공격이 원인이다.20일(현지시간) 외신 등에 따르면, 영국 런던 히스로 공항과 벨기에 브뤼셀 공항 등에서 운영 시스템 마비로 항공편이 취소 또는 지연되고 승객들이 장시간 대기하는 등 불편을..."
       }
     ]
+  },
+  {
+    "date": "2025년 09월 22일 월요일",
+    "articles": [
+      {
+        "title": "[한국정보보호학회 칼럼] 멀티 에이전트·피지컬 AI 시대의 첨단산업 융합보안",
+        "time": "2025-09-22T15:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/951994226_4941.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139257&page=1&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139257&page=1&kind=5",
+        "summary": "인재 양성과 정부 R&D 투자로 미래를 지켜야[보안뉴스= 이일구 한국정보보호학회 클라우드보안연구회 위원장] 인공지능은 불과 몇 년 전까지만 해도 중앙집중형 서버에서 동작하는 단일 모델을 중심으로 발전해 왔다. 그러나 이제 상황은 완전히 달라졌다. 스마트폰, 웨어러블, 각종 IoT 장치에 내장된 AI가 서로 연결되고, 각자 판단과 행동을 하며, 필요할 경우 ..."
+      },
+      {
+        "title": "한국은 미슐랭 3스타급 해킹 맛집? 금보원 랜섬웨어 보고서 살펴 보니...",
+        "time": "2025-09-22T14:03:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/1013763244_2295.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139377&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139377&page=1&kind=1",
+        "summary": "지난 6월 예스24 사태 이후 금융권까지 번진 랜섬웨어 감염 사고공격표면 관리·방화벽 정책·백업 체계 점검 등 대응 방안 제시[보안뉴스 조재호 기자] 건라, 킬린, 로르샤흐 같은 랜섬웨어 그룹의 이름이 마냥 낯설지 않다. 최근 국내 산업 전반에 이들의 그림자가 짙게 드리웠기 때문이다. ‘한국은 미슐랭 3 스타급 해킹 맛집’이란 자조적 평가를 내리는 전문가도..."
+      },
+      {
+        "title": "세계 곳곳에서 이동형 불법 기지국 이용 피싱 공격 극성",
+        "time": "2025-09-22T10:29:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/1013984863_5944.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139381&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139381&page=1&kind=1",
+        "summary": "[3줄 요약]1. 이동형 불법 기지국 'SMS 블라스터' 이용한 피싱 문자 공격 세계로 확산2. 차에 싣고 다니며 접속한 주변 휴대폰에 피싱 문자 뿌려3. 우리나라 KT 무단 소액결제 사건은 비슷하지만 보다 복잡한 방식이라 수사 통해 범행 방식 등 확인 필요[보안뉴스 한세희 기자] KT 무단 소액결제 해킹 공격으로 사용자 불안이 커지는 가운데, 해외에서도 ..."
+      },
+      {
+        "title": "대통령실, 잇따른 해킹에 범부처 보안대책 마련...“SW 설치 강요도 개선”",
+        "time": "2025-09-22T15:48:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/1014083463_1398.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139394&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139394&page=1&kind=1",
+        "summary": "9월 말 정보보호 종합대책 발표 예정[보안뉴스 강현주 기자] 대통령실은 KT 무단소액결제와 롯데카드 고객정보 유출사고 등 잇따른 해킹 사고 관련 종합대책을 이달 말 발표할 예정이다. 금융사나 공공기관의 소프트웨어 설치 강요 개선도 예고했다.22일 대통령실 국가안보실은  9월 말 ‘정보보호 종합대책’을 관계부처 합동으로 발표할 계획이라고 밝혔다.▲이재명 대통..."
+      },
+      {
+        "title": "모빌린트, 북남미 시장 공략 위한 글로벌 유통망 구축",
+        "time": "2025-09-22T10:30:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/1013984702_7951.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139378&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139378&page=1&kind=3",
+        "summary": "현지 영업·기술 지원 통해 글로벌 고객에 고성능·저전력 AI 반도체 솔루션 공급유통·영업 네트워크 강화로 공급 안정성과 시장 접근성 확보[보안뉴스 강초희 기자] 국내 AI 반도체 기업 모빌린트(대표 신동주)가 북남미 시장 공략을 위한 유통·영업 네트워크를 본격적으로 확대한다.▲모빌린트와 월드 마이크로가 공식 유통 계약을 체결했다 [자료: 모빌린트]모빌린트는..."
+      },
+      {
+        "title": "항공기 탑승 시스템 기업 사이버 공격...주말 유럽 공항 혼란",
+        "time": "2025-09-21T07:09:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/800624653_9025.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139372&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139372&page=2&kind=1",
+        "summary": "[보안뉴스 한세희 기자] 유럽 주요 공항들의 시스템이 장애를 일으켜 항공기 운항이 차질을 빚고 있다. 유럽 전역 주요 공항에 탑승 시스템을 제공하는 기업을 겨냥한 사이버 공격이 원인이다.20일(현지시간) 외신 등에 따르면, 영국 런던 히스로 공항과 벨기에 브뤼셀 공항 등에서 운영 시스템 마비로 항공편이 취소 또는 지연되고 승객들이 장시간 대기하는 등 불편을..."
+      },
+      {
+        "title": "대법, “美 IP기업, 한국에 세금 내라”...韓서 번 특허료, 韓서 과세 원칙",
+        "time": "2025-09-20T12:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/09/800023873_3116.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139370&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139370&page=2&kind=1",
+        "summary": "“외국 특허기술, 국내 제조·판매 등에 사용했다면...국내에 과세권”기존 판례 뒤집어...세수 효과 커미국 업체가 우리나라 기업으로부터 지급받은 특허 사용료도 국내원천소득에 해당, 대한민국이 과세할 수 있다는 대법원 판단이 나왔다.특허 속지주의에 따라 국내에 등록되지 않은 특허에 대해서는 사용을 상정할 수 없고, 그 사용 대가 또한 국내원천소득으로 볼 수 ..."
+      }
+    ]
   }
 ]
