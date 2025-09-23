@@ -3,6 +3,15 @@
     "date": "2025년 09월 23일 화요일",
     "articles": [
       {
+        "title": "[NNA] 지진 소문? 日 찾은 홍콩인 감소",
+        "time": "2025-09-23T12:06:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNU5abGxhZDNCTFZrVkRjWEpwVFJDV0F4amlCQ2dLTWdhUllvQ3FKUU0=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE5IOS1LQ1RfY2pfUFBFNS1tcEJ1TWxvcFE2bnJUZXRlWTdqVkN2LVlzY1pqQkZGZnowLTI3NWFDaHoxMTRCemEtUm82ZktNT1JDMHpN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE5IOS1LQ1RfY2pfUFBFNS1tcEJ1TWxvcFE2bnJUZXRlWTdqVkN2LVlzY1pqQkZGZnowLTI3NWFDaHoxMTRCemEtUm82ZktNT1JDMHpN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
         "title": "[속보] 한미일 외교장관 “한반도 비핵화 원칙, 대북 억제 태세 견지”",
         "time": "2025-09-23T10:29:52+00:00",
         "img": "/api/attachments/CC8iK0NnNVZaSGR2TWxOQlNVaERaRVZMVFJDUkF4ajhCU2dLTWdhOVk1QlNMUWM=-w350-h175-p-df",
@@ -138,11 +147,29 @@
         "date": "2025년 09월 23일 화요일"
       },
       {
+        "title": "“한국 상대 않을 것”이란 김정은에 대통령실 “긴 안목으로 평화 추진”",
+        "time": "2025-09-22T15:26:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNUVObXhQWlhaUWEyOVNNRk5MVFJDb0FSaXJBaWdCTWdZZElKckxvUWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE1UODJfRlZmLTdTaU1hc25fS0ktV3dIejRWcElDZV8tNEtZdlFDNldXdGhXSW1HV0w0SHk3eWJTYlRaR3pidTUtekRyLUx4cm52VUZpUTJQOUppVF9aaVFobHBTRlVkNWxuNnQ1U2IwN0xial9u?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE1UODJfRlZmLTdTaU1hc25fS0ktV3dIejRWcElDZV8tNEtZdlFDNldXdGhXSW1HV0w0SHk3eWJTYlRaR3pidTUtekRyLUx4cm52VUZpUTJQOUppVF9aaVFobHBTRlVkNWxuNnQ1U2IwN0xial9u?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
         "title": "세계 곳곳에서 이동형 불법 기지국 이용 피싱 공격 극성",
         "time": "2025-09-22T10:29:00+00:00",
         "img": "/api/attachments/CC8iI0NnNHROVVkwZGtkTmJYSXpVazltVFJDZkF4ampCU2dLTWdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiX0FVX3lxTE91MGsxODNNUDZvQl8yMHBZVTNsY3l0TXA1eUFxMnJwT2E4WGJWTk1VZHh2QjJPOFlDd2J2Q21fdnpTTDFaa0xvel95ckxMLXhJcUk1V0dTUkFwa2ROWk1n?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiX0FVX3lxTE91MGsxODNNUDZvQl8yMHBZVTNsY3l0TXA1eUFxMnJwT2E4WGJWTk1VZHh2QjJPOFlDd2J2Q21fdnpTTDFaa0xvel95ckxMLXhJcUk1V0dTUkFwa2ROWk1n?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이준석 \"한미동맹 대체하는 자주국방은 북중러의 축배\"",
+        "time": "2025-09-22T10:18:21+00:00",
+        "img": "/api/attachments/CC8iK0NnNTFZeTFYT0hFeE9IcHpOVTVxVFJERUF4aW1CU2dLTWdZcGhZeXVzUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFBIMVZoUGhfRGJaNGNBalhHVFFONmxBZmhPV2J2aHRnRG1Pd1VWU1ByQ1F1eWJKLWxaUU9YUUZaalp0ZkFuUVdLaG94TkNheFMwZWItYzBRcW9iUdIBXkFVX3lxTE9jSUQ3dk9RQTNwNFZmUm9OOGdDaHo3c1RFUUpjY0ZVcjkzZkdQa2l0NHpHdG9aOHZLM2kwSVZhZjZua0FTV2ZiSVdkaWlxZmVWUkxuLTdWblc1MVVJMWc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFBIMVZoUGhfRGJaNGNBalhHVFFONmxBZmhPV2J2aHRnRG1Pd1VWU1ByQ1F1eWJKLWxaUU9YUUZaalp0ZkFuUVdLaG94TkNheFMwZWItYzBRcW9iUdIBXkFVX3lxTE9jSUQ3dk9RQTNwNFZmUm9OOGdDaHo3c1RFUUpjY0ZVcjkzZkdQa2l0NHpHdG9aOHZLM2kwSVZhZjZua0FTV2ZiSVdkaWlxZmVWUkxuLTdWblc1MVVJMWc?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 09월 23일 화요일"
       },
@@ -567,6 +594,285 @@
         "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/23/news-p.v1.20250923.2edea04258114a19b6489475f3820ea9_P1.jpg",
         "url": "https://news.nate.com/view/20250923n10251",
         "original_url": "https://news.nate.com/view/20250923n10251",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "중국 알리바바·BYD 클때…한국 기업은 '대못 규제' 씨름",
+        "time": "2025-09-23T12:07:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/09/23/news-p.v1.20250923.7b3bab348ebb44cd8ecc7da7670ab693_P2.jpg",
+        "url": "https://news.nate.com/view/20250923n18089",
+        "original_url": "https://news.nate.com/view/20250923n18089",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "EU-인니 경제동반자협정 타결…9년 협상, 美관세에 돌파구",
+        "time": "2025-09-23T12:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/23/AKR20250923003200098_01_i.jpg",
+        "url": "https://news.nate.com/view/20250923n17832",
+        "original_url": "https://news.nate.com/view/20250923n17832",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "[글로벌D리포트] 백악관 \"트럼프, 북한 비핵화 위해 김정은과 대화 희망\"",
+        "time": "2025-09-23T11:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/23/202113250_700.jpg",
+        "url": "https://news.nate.com/view/20250923n17234",
+        "original_url": "https://news.nate.com/view/20250923n17234",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이스라엘, 서안지구 60% 합병안 논의 중…팔 국가 인정 대응 명분",
+        "time": "2025-09-23T11:55:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/09/23/20250923501668.jpg",
+        "url": "https://news.nate.com/view/20250923n17393",
+        "original_url": "https://news.nate.com/view/20250923n17393",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 전문직 비자 수수료 폭탄, 인도와 무역 협상에 악영향",
+        "time": "2025-09-23T11:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/23/AKR20250923082400104_01_i.jpg",
+        "url": "https://news.nate.com/view/20250923n17215",
+        "original_url": "https://news.nate.com/view/20250923n17215",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "두테르테 필리핀 전 대통령, ICC서 '반인도 범죄'혐의로 기소",
+        "time": "2025-09-23T11:44:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/09/23/2025092301002099700125571.jpg",
+        "url": "https://news.nate.com/view/20250923n16796",
+        "original_url": "https://news.nate.com/view/20250923n16796",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 이란 외교관 '코스트코 쇼핑' 차단…사치품 구매도 제한",
+        "time": "2025-09-23T11:42:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/09/23/PS25092300541.jpg",
+        "url": "https://news.nate.com/view/20250923n16681",
+        "original_url": "https://news.nate.com/view/20250923n16681",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "푸틴 \"핵무기 제한 협정 연장 준비\" 트럼프에 화해 손짓",
+        "time": "2025-09-23T11:50:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250923n17114",
+        "original_url": "https://news.nate.com/view/20250923n17114",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "고급 인재 내치는 美…모시기 경쟁 나선 영국·중국·UAE",
+        "time": "2025-09-23T11:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/09/23/PS25092300547.jpg",
+        "url": "https://news.nate.com/view/20250923n17042",
+        "original_url": "https://news.nate.com/view/20250923n17042",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "유엔 찾은 이란 당국자들, '코스트코' 못 간다?…美 '쇼핑' 제재",
+        "time": "2025-09-23T11:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/23/NISI20250623_0000439323_web.jpg",
+        "url": "https://news.nate.com/view/20250923n17053",
+        "original_url": "https://news.nate.com/view/20250923n17053",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "[자막뉴스] '국경 차르' 트럼프 최측근 톰 호먼 비리 의혹 터지자…\"절대 아냐, 잘못 없어\" 백악관부터 일제히 급정색",
+        "time": "2025-09-23T11:43:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sv/2025/09/23/202113244_700.jpg",
+        "url": "https://news.nate.com/view/20250923n16721",
+        "original_url": "https://news.nate.com/view/20250923n16721",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 ICC 제재 부과 검토…'이스라엘 전쟁범죄 의혹' 수사 보복?",
+        "time": "2025-09-23T11:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/23/7510338_high.jpg",
+        "url": "https://news.nate.com/view/20250923n17139",
+        "original_url": "https://news.nate.com/view/20250923n17139",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "대만 여고생들 '도시락 시위'…학내 배달음식 허용 얻어냈다",
+        "time": "2025-09-23T11:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/09/23/132443535.3.jpg",
+        "url": "https://news.nate.com/view/20250923n12107",
+        "original_url": "https://news.nate.com/view/20250923n12107",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "트럼프 '커크 암살' 계기로 좌파단체 맹폭…\"안티파 테러단체\" 규정",
+        "time": "2025-09-23T11:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/09/23/2223c900-b07f-449c-aff0-ba52d02c326f.jpg",
+        "url": "https://news.nate.com/view/20250923n15921",
+        "original_url": "https://news.nate.com/view/20250923n15921",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "EU, 러 국경에 '드론 장벽' 건설…슬로바키아·헝가리는 배제",
+        "time": "2025-09-23T11:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/09/23/news_1757490116_1547121_m_1.png",
+        "url": "https://news.nate.com/view/20250923n16052",
+        "original_url": "https://news.nate.com/view/20250923n16052",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"트럼프, 곧 국제형사재판소 전면 제재…이스라엘 수사에 대한 보복\"",
+        "time": "2025-09-23T11:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/09/23/20250923501547.jpg",
+        "url": "https://news.nate.com/view/20250923n15822",
+        "original_url": "https://news.nate.com/view/20250923n15822",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "프랑스도 팔레스타인 국가 인정…이스라엘 고립 가속",
+        "time": "2025-09-23T11:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/09/23/rcv.YNA.20250923.PEP20250923059401009_P1.jpg",
+        "url": "https://news.nate.com/view/20250923n15741",
+        "original_url": "https://news.nate.com/view/20250923n15741",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"월가 은행, 인도 현지 채용 늘릴 것\"…비자 폭탄 부메랑",
+        "time": "2025-09-23T11:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/09/23/202509231116224693_t.jpg",
+        "url": "https://news.nate.com/view/20250923n14973",
+        "original_url": "https://news.nate.com/view/20250923n14973",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "튀르키예 대통령 \"가자지구는 팔레스타인의 일부…즉각 휴전해야\"",
+        "time": "2025-09-23T11:28:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/09/23/7510095_high.jpg",
+        "url": "https://news.nate.com/view/20250923n15677",
+        "original_url": "https://news.nate.com/view/20250923n15677",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "ICC, 두테르테 전 필리핀 대통령 기소…반인도 범죄 혐의",
+        "time": "2025-09-23T11:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/23/AKR20250923112251KiP_01_i.jpg",
+        "url": "https://news.nate.com/view/20250923n15266",
+        "original_url": "https://news.nate.com/view/20250923n15266",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"70%가 인도출신인데\" 트럼프, H-1B 비자폭탄에 美·印 화해 무산 위기",
+        "time": "2025-09-23T11:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/09/23/rcv.YNA.20250923.PEP20250923096201009_P1.jpg",
+        "url": "https://news.nate.com/view/20250923n15145",
+        "original_url": "https://news.nate.com/view/20250923n15145",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "ICC, '마약과의 전쟁' 벌인 필리핀 전 대통령 기소…\"살인 76건 연루\"",
+        "time": "2025-09-23T11:16:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/09/23/news-p.v1.20250923.9b71af2783244b2691263c4616bfe445_P1.jpg",
+        "url": "https://news.nate.com/view/20250923n14787",
+        "original_url": "https://news.nate.com/view/20250923n14787",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "우크라, 해외자금 조달액 대폭 상향…전쟁 장기화 대비",
+        "time": "2025-09-23T11:14:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/09/23/AKR20250923111338qCz_01_i.jpg",
+        "url": "https://news.nate.com/view/20250923n14584",
+        "original_url": "https://news.nate.com/view/20250923n14584",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "트럼프 '항공 외교' 통했다…4년 만에 에어버스 앞지른 보잉",
+        "time": "2025-09-23T11:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/cz/2025/09/23/cz_1758593525310_313618_0.jpg",
+        "url": "https://news.nate.com/view/20250923n14462",
+        "original_url": "https://news.nate.com/view/20250923n14462",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "中 선전, 태풍 라가사 상륙 앞두고 텅 빈 마트 진열대",
+        "time": "2025-09-23T11:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/23/NISI20250923_0000661204_web.jpg",
+        "url": "https://news.nate.com/view/20250923n14355",
+        "original_url": "https://news.nate.com/view/20250923n14355",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "한미일 외교 \"美, 핵 포함한 군사력으로 韓日 철통 방위할 것\"",
+        "time": "2025-09-23T11:08:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/09/23/132443015.3.jpg",
+        "url": "https://news.nate.com/view/20250923n07882",
+        "original_url": "https://news.nate.com/view/20250923n07882",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "극우 본색 트럼프, '반파시즘 운동' 단체 테러조직으로 지정",
+        "time": "2025-09-23T11:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/09/23/53_17585926785566_20250923501351.jpg",
+        "url": "https://news.nate.com/view/20250923n13559",
+        "original_url": "https://news.nate.com/view/20250923n13559",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이탈리아서 '팔레스타인 해방' 수만명 시위…멜로니 \"부끄러운 폭력\"",
+        "time": "2025-09-23T11:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/09/23/NISI20250923_0000661951_web.jpg",
+        "url": "https://news.nate.com/view/20250923n13977",
+        "original_url": "https://news.nate.com/view/20250923n13977",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "미국, 국제형사재판소 통째로 제재 검토 \"이스라엘 수사 보복\"",
+        "time": "2025-09-23T11:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jt/2025/09/23/e2dd2ebe-d0f2-4f0c-b032-6a8b0a1c4801.jpg",
+        "url": "https://news.nate.com/view/20250923n14093",
+        "original_url": "https://news.nate.com/view/20250923n14093",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "韓 두뇌 끌어가는 중국…카이스트 교수도 갔다",
+        "time": "2025-09-23T12:07:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20250923n18067",
+        "original_url": "https://news.nate.com/view/20250923n18067",
+        "source": "nate",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "KAIST 석학, '미국 제재' 중국 대학으로…두뇌 유출 논란(종합)",
+        "time": "2025-09-23T11:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/09/23/AKR20250922128251017_01_i.jpg",
+        "url": "https://news.nate.com/view/20250923n15563",
+        "original_url": "https://news.nate.com/view/20250923n15563",
         "source": "nate",
         "date": "2025년 09월 23일 화요일"
       }
@@ -1844,6 +2150,486 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "[속보] 국힘, 추미애 尹오빠 발언 두고.. \"성인지 감수성 바닥\"",
+        "time": "2025-09-23T12:12:17",
+        "img": "https://imgnews.pstatic.net/image/659/2025/09/23/0000037087_001_20250923121217418.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/659/0000037087",
+        "original_url": "https://n.news.naver.com/mnews/article/659/0000037087",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "李, 미 의원들 만나 ‘3500억달러 불합리’ 조목조목 설명… APEC까지 ‘협상 장기전’",
+        "time": "2025-09-23T12:10:11",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/23/0002738631_002_20250923121011997.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738631",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738631",
+        "summary": "■ 유엔총회 참석차 뉴욕 방문\n\n“관세협상, 한국 외환시장 불안정 우려”\n관세 부당성 호소하며 설득외교 총력전\n‘3500억달러 대미투자’ 돌파구 마련 시도\n\n여한구, 아세안 참석해 미국 측과 후속협의",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "김정은 “절대불가” 외쳤지만…한미일 ‘한반도 비핵화’ 목표 재확인",
+        "time": "2025-09-23T11:49:08",
+        "img": "https://imgnews.pstatic.net/image/009/2025/09/23/0005563334_001_20250923114908705.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005563334",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005563334",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "합참의장 후보 “北 핵잠 러 기술 이전 가능성 있다…계엄조사, 필요는 하지만 빨리 마무리해야”",
+        "time": "2025-09-23T11:48:25",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/23/0002738572_002_20250923114825906.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738572",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738572",
+        "summary": "국회 인사청문 서면답변 “중국군 서해공정 군사활동에 비례성 입각 단호 조치”\n계엄조치 “군 내부 사기 위해 빠른 마무리 필요”",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"포기하지 않겠습니다\"…이재용 회장 장남, 해군 정식 입교",
+        "time": "2025-09-23T11:44:01",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/PYH2025092310490005200_P4_20250923120914896.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643160",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643160",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "3대 특검법 개정안 국무회의 의결...수사기간 연장 가능",
+        "time": "2025-09-23T11:42:39",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002250702",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002250702",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "'증인신문 불출석' 한동훈, 폐조선소 라방…\"조희대 숙청 시도는 탄핵 사유\"",
+        "time": "2025-09-23T11:41:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/437/0000457956",
+        "original_url": "https://n.news.naver.com/mnews/article/437/0000457956",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "[속보]차기 지도자 선호도 野 장동혁 22.5%·與 김민석 14.6% 로 각각 선두-에브리리서치",
+        "time": "2025-09-23T11:40:11",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/23/0002738554_002_20250923114013802.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738554",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738554",
+        "summary": "李 대통령 ‘국정운영평가’ 긍정평가 48.6% 부정평가 47.9%,",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "'曺때리기' 치고나가는 與강경파…탄핵가능성까지 거론하며 압박",
+        "time": "2025-09-23T11:38:51",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/PYH2025092304410001300_P4_20250923113919752.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643115",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643115",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이 대통령 뉴욕 동포간담회 \"세계에 당당하게 '한국인'이라 말 할 나라 만들 것\"",
+        "time": "2025-09-23T11:38:15",
+        "img": "https://imgnews.pstatic.net/image/123/2025/09/23/0002368749_001_20250923113815443.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/123/0002368749",
+        "original_url": "https://n.news.naver.com/mnews/article/123/0002368749",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "'더 센 특검법' 3대 특검 수사기간·인력 늘고 재판중계…개정안 국무회의 통과",
+        "time": "2025-09-23T11:35:09",
+        "img": "https://imgnews.pstatic.net/image/088/2025/09/23/0000971771_001_20250923113509832.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/088/0000971771",
+        "original_url": "https://n.news.naver.com/mnews/article/088/0000971771",
+        "summary": "수사기간 30일 추가 연장 가능…검사·수사관도 대폭 증원",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "李대통령, 블랙록 CEO에 “한국을 亞 AI수도로”",
+        "time": "2025-09-23T11:28:24",
+        "img": "https://imgnews.pstatic.net/image/016/2025/09/23/0002533385_001_20250923112824080.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002533385",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002533385",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "'이재용 회장 장남' 이지호 “포기하지 않겠습니다!”…해군 장교 후보생 입교식 치러",
+        "time": "2025-09-23T12:14:16",
+        "img": "https://imgnews.pstatic.net/image/011/2025/09/23/0004536429_001_20250923122109983.gif?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004536429",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004536429",
+        "summary": "지난 15일 모친·동생 배웅 속 입영\n8일, 군인화 거쳐 139기 정식 입교\n39개월 복무로, 병역 ‘진정성’ 증명",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 골든 돔에 유럽 재무장까지…한투운용 \"글로벌 방산, 장기 성장 산업으로 재평가\"",
+        "time": "2025-09-23T12:12:16",
+        "img": "https://imgnews.pstatic.net/image/011/2025/09/23/0004536428_001_20250923122016235.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004536428",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004536428",
+        "summary": "23일 금융투자협회서 방산 펀드 세미나 개최\n현대 전장서 미사일 방어 시스템 중요성 강조\n유망한 기업들로 로켓랩, 플래닛랩스 등 제시\n한투글로벌우주&amp;방산 펀드, 누적 수익 130%\n지역 중에서는 특히 유럽을 주목하라고 조언\n\"안정적인 매출 성장과 함께 기술 개발도 기대\"\n한투운용, 이날 'ACE 유럽방산TOP10' 상장",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "중국 알리바바·BYD 클때… 한국 기업은 ‘대못 규제’ 씨름",
+        "time": "2025-09-23T12:07:16",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/23/0002738614_002_20250923120812976.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738614",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738614",
+        "summary": "■ 세계 2000대 기업서 韓 감소\n\n신규 진입 기업 금융사에 편중\n제조업 생태계 양적·질적 악화\n“기업 클수록 규제 느는 구조깨야\n규모 아닌 산업별 규제 적용을”",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"빅테크 AI혁신 배우자\"…두산 경영진, 美 실리콘밸리 총출동",
+        "time": "2025-09-23T12:00:31",
+        "img": "https://imgnews.pstatic.net/image/421/2025/09/23/0008503204_001_20250923120129976.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008503204",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008503204",
+        "summary": "박지원 부회장, 핵심 경영진 이끌고 출장길…아마존·엔비디아 등 방문\n피지컬 AI 핵심 어젠다…\"AI시대 경쟁우위 선점할 혁신 로드맵 도출\"",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "엔비디아 훈풍에 대만 상승…중국·홍콩은 부양책 실망감 [Asia오전]",
+        "time": "2025-09-23T11:49:52",
+        "img": "https://imgnews.pstatic.net/image/008/2025/09/23/0005254451_001_20250923115009247.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005254451",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005254451",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "“정치탓에 계좌 끊긴후 가상자산 투자”… 트럼프 두 아들, 韓행사 화상참가",
+        "time": "2025-09-23T11:44:17",
+        "img": "https://imgnews.pstatic.net/image/021/2025/09/23/0002738567_002_20250923114823524.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738567",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738567",
+        "summary": "장남 韓 ‘블록체인 위크’ 참여\n차남은 2주 만에 또 화상 축사",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "초강력 태풍 ‘라가사’ 중국으로 북상 중… 24일 전국 비",
+        "time": "2025-09-23T11:43:10",
+        "img": "https://imgnews.pstatic.net/image/658/2025/09/23/0000120869_001_20250923114310270.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/658/0000120869",
+        "original_url": "https://n.news.naver.com/mnews/article/658/0000120869",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "中항공사, 대만 여권 탑승 거부 논란…\"'하나의 중국' 위배\"",
+        "time": "2025-09-23T12:10:13",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/AKR20250923086600009_01_i_P4_20250923121113591.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643292",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643292",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이스라엘, 서안지구 60% 합병안 논의 중…팔 국가 인정 대응 명분",
+        "time": "2025-09-23T11:52:12",
+        "img": "https://imgnews.pstatic.net/image/028/2025/09/23/0002767745_001_20250923115616887.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002767745",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002767745",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 전문직 비자 수수료 폭탄, 인도와 무역 협상에 악영향",
+        "time": "2025-09-23T11:51:19",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/AKR20250923082400104_01_i_P4_20250923115216650.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643199",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643199",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "“일본인 마음 짓밟는 ‘외국인’에 무언가 해야…” 日자민당 총재 선거 시작하자 터져나온 말은",
+        "time": "2025-09-23T11:37:10",
+        "img": "https://imgnews.pstatic.net/image/016/2025/09/23/0002533407_001_20250923113710044.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002533407",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002533407",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "바이든 공격한 해리스…반복되는 美정·부통령 애증의 역사",
+        "time": "2025-09-23T11:24:21",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/AKR20250923078100009_01_i_P4_20250923113731164.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643020",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643020",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "“70%가 인도출신인데” 트럼프, H-1B 비자폭탄에 美·印 화해 무산 위기",
+        "time": "2025-09-23T11:21:11",
+        "img": "https://imgnews.pstatic.net/image/016/2025/09/23/0002533346_001_20250923112111589.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002533346",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002533346",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"월가 은행, 인도 현지 채용 늘릴 것\"...비자 폭탄 부메랑",
+        "time": "2025-09-23T11:16:22",
+        "img": "https://imgnews.pstatic.net/image/052/2025/09/23/202509231116224693_t_20250923111822233.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/052/0002250687",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002250687",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "KAIST 석학, '미국 제재' 중국 대학으로…두뇌 유출 논란(종합)",
+        "time": "2025-09-23T11:26:09",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/AKR20250922128251017_01_i_P4_20250923112630231.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643029",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643029",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "아리랑 7호, 남미 기아나우주센터로 출발…11월 하순 발사",
+        "time": "2025-09-23T11:20:10",
+        "img": "https://imgnews.pstatic.net/image/366/2025/09/23/0001110142_001_20250923112010028.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001110142",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001110142",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "中연구팀, '무동력 슈퍼로봇손' 개발…\"구조작업·우주서 활용\"",
+        "time": "2025-09-23T12:14:56",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/AKR20250923087500083_03_i_P4_20250923121515743.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643296",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643296",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이재명 대통령, 뉴욕 동포 간담회 참석",
+        "time": "2025-09-23T11:52:52",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/23/NISI20250923_0020989364_web_20250923115252_20250923115320406.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013499515",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013499515",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "교민들과 인사 나누는 이재명 대통령",
+        "time": "2025-09-23T11:52:52",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/23/NISI20250923_0020989365_web_20250923115252_20250923115318301.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013499514",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013499514",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "푸틴 “핵무기 제한 협정 연장 준비” 트럼프에 화해 손짓",
+        "time": "2025-09-23T11:50:13",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738576",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738576",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "美 ICC 제재 부과 검토…'이스라엘 전쟁범죄 의혹' 수사 보복?",
+        "time": "2025-09-23T11:49:15",
+        "img": "https://imgnews.pstatic.net/image/421/2025/09/23/0008503141_001_20250923115009274.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008503141",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008503141",
+        "summary": "기관 전체 대상…급여 지급·은행 계좌 등 광역 영향 전망\nICC, 네타냐후 전쟁범죄 혐의 기소…판·검사들 제재 부과",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "유엔 찾은 이란 당국자들, '코스트코' 못 간다?…美 '쇼핑' 제재",
+        "time": "2025-09-23T11:48:30",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/23/NISI20250623_0000439323_web_20250623074738_20250923114920097.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013499500",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013499500",
+        "summary": "\"흥청망청 쇼핑하게 안 두겠다\"…유엔본부 구역 내로 이동도 제한",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "뉴욕 교민들과 인사하는 이재명 대통령",
+        "time": "2025-09-23T11:48:20",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/PYH2025092310330001300_P4_20250923114913841.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643179",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643179",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이재명 대통령, 뉴욕 동포들과 기념촬영",
+        "time": "2025-09-23T11:48:04",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/PYH2025092310310001300_P4_20250923114825798.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643176",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643176",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "한미일 외교장관 \"한반도 비핵화 원칙·대북억제 태세견지\"",
+        "time": "2025-09-23T11:41:07",
+        "img": "https://imgnews.pstatic.net/image/469/2025/09/23/0000888728_001_20250923114107103.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000888728",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000888728",
+        "summary": "한미일 외교장관 공동성명 발표\n대중견제 메시지 눈길\n\"선진 민간 원자로 개발 및 배치 협력\"",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이재명 대통령, 유엔총회 계기 미 상·하원 의원단 접견",
+        "time": "2025-09-23T11:26:53",
+        "img": "https://imgnews.pstatic.net/image/001/2025/09/23/PYH2025092308860001300_P4_20250923112721744.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015643035",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015643035",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "佛마크롱, '팔 국가 인정' 공식 선언…유엔군 파병 제안도(종합)",
+        "time": "2025-09-23T12:11:42",
+        "img": "https://imgnews.pstatic.net/image/003/2025/09/23/NISI20250923_0000661556_web_20250923082742_20250923121229014.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013499584",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013499584",
+        "summary": "마크롱, 유엔총회 국제회의 주재…\"이제는 평화의 시간\"\n英·加·호주·포르투갈 이어 佛·벨기에·룩셈부르크 등도 합류",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "프랑스, 예고대로 ‘두 국가 해법’ 지지… 대서양동맹 분열",
+        "time": "2025-09-23T11:50:17",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738578",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738578",
+        "summary": "팔레스타인 국가 승인 잇따라\n중동문제 놓고 美-유럽 갈등",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "팔레스타인 국가 인정… 佛 동참·美 반대",
+        "time": "2025-09-23T12:07:19",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/021/0002738615",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002738615",
+        "summary": "佛, 英·濠·加 등에 이어 승인",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "팔레스타인 '국가인정' 프랑스도 동참…미국 \"도움 안돼\"",
+        "time": "2025-09-23T12:18:15",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000784249",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000784249",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이 대통령 \"구금사태 재발 않길…관세협상 '상업적 합리성' 보장\"",
+        "time": "2025-09-23T12:16:50",
+        "img": "https://imgnews.pstatic.net/image/055/2025/09/23/0001294776_001_20250923121716886.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001294776",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001294776",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "\"요리해 버리겠다\" 아이들 위협…히터 최대로 튼 미 스쿨버스 기사 체포",
+        "time": "2025-09-23T12:10:08",
+        "img": "https://imgnews.pstatic.net/image/422/2025/09/23/AKR20250923120910WhD_01_i_20250923121008187.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000784243",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000784243",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "트럼프도 유엔총회 연설‥북한 언급할까",
+        "time": "2025-09-23T12:07:26",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/214/0001451029",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001451029",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "트럼프, 내일 유엔총회 연설…젤렌스키 만나 러 압박도 논의할 듯",
+        "time": "2025-09-23T12:06:37",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012034843",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012034843",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "[글로벌D리포트] 백악관 \"트럼프, 북한 비핵화 위해 김정은과 대화 희망\"",
+        "time": "2025-09-23T11:49:46",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/055/0001294760",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001294760",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "ICC, '반인도 범죄' 두테르테 전 필리핀 대통령 기소",
+        "time": "2025-09-23T11:42:30",
+        "img": "https://imgnews.pstatic.net/image/214/2025/09/23/0001451022_001_20250923115113170.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/214/0001451022",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001451022",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 09월 23일 화요일"
       }
     ]
   },
@@ -2443,6 +3229,168 @@
         "original_url": "https://v.daum.net/v/20250923115114874",
         "source": "daum",
         "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "AI가 확 바꾼 중국·아세안 박람회…디지털 사회자에 7개 언어 실시간 통역까지",
+        "time": "2025-09-23T03:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/ked/20250923121740702azci.jpg",
+        "url": "https://v.daum.net/v/20250923121247935",
+        "original_url": "https://v.daum.net/v/20250923121247935",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "중국 알리바바·BYD 클때… 한국 기업은 ‘대못 규제’ 씨름",
+        "time": "2025-09-23T03:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/munhwa/20250923120827723migu.jpg",
+        "url": "https://v.daum.net/v/20250923120825799",
+        "original_url": "https://v.daum.net/v/20250923120825799",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "기후변화로 빨라지는 북극 해빙 붕괴, 먹이망·탄소순환 흔든다",
+        "time": "2025-09-23T03:38:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/chosunbiz/20250923120740158ujho.jpg",
+        "url": "https://v.daum.net/v/20250923120738775",
+        "original_url": "https://v.daum.net/v/20250923120738775",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "李대통령, 美 의원들에 비자 개선 촉구…의원들도 '긍정'",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/Edaily/20250923122550064vxwc.jpg",
+        "url": "https://v.daum.net/v/20250923122548194",
+        "original_url": "https://v.daum.net/v/20250923122548194",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "[오마이포토] \"이스라엘 무기기업의 ADEX 참여를 금지하라\"",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/ohmynews/20250923121206999mbyx.jpg",
+        "url": "https://v.daum.net/v/20250923121205918",
+        "original_url": "https://v.daum.net/v/20250923121205918",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "트럼프 장남 \"한국 가상자산 잠재력 굉장\" 차남 \"미국에 버금\"",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/sbsi/20250923122712957ycvg.jpg",
+        "url": "https://v.daum.net/v/20250923122711224",
+        "original_url": "https://v.daum.net/v/20250923122711224",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "이 대통령, 미 의원단에 \"구금사태 재발 않길... 관세협상 상업적 합리성 보장을\"",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/hankooki/20250923123215300nwej.jpg",
+        "url": "https://v.daum.net/v/20250923123213350",
+        "original_url": "https://v.daum.net/v/20250923123213350",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "“블랙록, 한국에 AI협력 수조원 파일럿투자 예상”",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/munhwa/20250923121115697ixcz.jpg",
+        "url": "https://v.daum.net/v/20250923121114890",
+        "original_url": "https://v.daum.net/v/20250923121114890",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "한국, 미·일과 “완전 비핵화” 공동성명뒤 따로 “한반도 비핵화”… 북핵 온도차",
+        "time": "2025-09-23T03:37:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/munhwa/20250923121036530bkdo.jpg",
+        "url": "https://v.daum.net/v/20250923121035874",
+        "original_url": "https://v.daum.net/v/20250923121035874",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "트럼프도 유엔총회 연설‥북한 언급할까",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/imbc/20250923121309737jmqp.jpg",
+        "url": "https://v.daum.net/v/20250923121308939",
+        "original_url": "https://v.daum.net/v/20250923121308939",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "佛마크롱, '팔 국가 인정' 공식 선언…유엔군 파병 제안도(종합)",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/newsis/20250923121318249dkqq.jpg",
+        "url": "https://v.daum.net/v/20250923121318951",
+        "original_url": "https://v.daum.net/v/20250923121318951",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "바이든 공격한 해리스…반복되는 美정·부통령 애증의 역사",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/yonhap/20250923112552071xykk.jpg",
+        "url": "https://v.daum.net/v/20250923112552290",
+        "original_url": "https://v.daum.net/v/20250923112552290",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "트럼프, 내일 유엔총회 연설…젤렌스키 만나 러 압박도 논의할 듯",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/kbs/20250923121353132pozm.jpg",
+        "url": "https://v.daum.net/v/20250923121351958",
+        "original_url": "https://v.daum.net/v/20250923121351958",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "“트럼프·김정은 ‘DMZ 회동’ 가능성”  “비핵화 뺀 협상땐 韓 안보부담 커져”",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/munhwa/20250923121034852hmkw.jpg",
+        "url": "https://v.daum.net/v/20250923121033872",
+        "original_url": "https://v.daum.net/v/20250923121033872",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "미국, 전문직비자 발급료 100배 올려…\"인도서 채용 풍선효과\"",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/JTBC/20250923123107597tnei.jpg",
+        "url": "https://v.daum.net/v/20250923123105329",
+        "original_url": "https://v.daum.net/v/20250923123105329",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "해고 압박 ‘사이버 민병대’ 이어 ‘미국판 전교조 명단공개’까지...찰리 커크 암살 후폭풍[디브리핑]",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/ned/20250923113145873yaud.jpg",
+        "url": "https://v.daum.net/v/20250923113145710",
+        "original_url": "https://v.daum.net/v/20250923113145710",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "푸틴 “핵무기 감축 조약 1년 연장하자”…나토 “러와 무력 충돌 위험”",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202509/23/kbs/20250923122944011jbrw.jpg",
+        "url": "https://v.daum.net/v/20250923122942287",
+        "original_url": "https://v.daum.net/v/20250923122942287",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
+      },
+      {
+        "title": "미중 가교·미북 페이스메이커… APEC ‘한국 역할’ 주목",
+        "time": "2025-09-23T03:36:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20250923121036875",
+        "original_url": "https://v.daum.net/v/20250923121036875",
+        "source": "daum",
+        "date": "2025년 09월 23일 Tuesday"
       }
     ]
   },
@@ -2559,6 +3507,26 @@
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=286037",
         "original_url": "https://www.skyedaily.com/news/news_view.html?ID=286037",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "이재명 대통령, 블랙록 회장과 면담… “한국, 아태 AI 수도로 도약”",
+        "time": "2025-09-23T12:08:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=286129&search=",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=286129&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 09월 23일 화요일"
+      },
+      {
+        "title": "한미일 외교장관, ‘북한 완전한 비핵화’ 공동성명 채택",
+        "time": "2025-09-23T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=286110",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=286110",
         "summary": "",
         "source": "skyDaily",
         "date": "2025년 09월 23일 화요일"
