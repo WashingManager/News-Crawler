@@ -55,6 +55,24 @@
         "original_url": "https://www.fnnews.com/news/202510010910173287",
         "source": "Fn",
         "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "[속보] 美 민주, 트럼프 정부 맹비난 \"건강보험 버리려고 셧다운\"",
+        "time": "2025-10-01T13:27:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510011316346017",
+        "original_url": "https://www.fnnews.com/news/202510011316346017",
+        "source": "Fn",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "[속보] 美 트럼프 정부, 결국 7년만에 다시 셧다운",
+        "time": "2025-10-01T13:01:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510011043030400",
+        "original_url": "https://www.fnnews.com/news/202510011043030400",
+        "source": "Fn",
+        "date": "2025년 10월 01일 수요일"
       }
     ]
   },
@@ -2217,6 +2235,42 @@
     "date": "2025년 10월 01일 수요일",
     "articles": [
       {
+        "title": "필리핀 세부섬 규모 6.9 지진...인명피해 잇따라",
+        "time": "2025-10-01T13:09:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVBlRmxsWkhaSVRrRnZSRmhNVFJDZkF4ampCU2dLTWdZcGhaU3RNUWM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE1McmJ2NkJuallfUllBVDBBMndobVVwYjY0Y0JzT1VWQ2Y5clQzT3ZhcE9KWkZQX2FIMFJIT2EtckVGWDFmcE9DWnJMaW5oMFFndEhxWjIxa1JwVEs2SGfSAYMBQVVfeXFMUENTS294MHVPdWNFZnltcmRoa3h0eXJOeVRIMXpxOVRRNktwZjh0bmcyMVlCQ0lkcGJ2czdzdGgwTnZURnVuNVVSekVEcnVTUlVTcmJBNnpFd0tRVTV2RVZudlZTQlUxdnhHUldaSm1kNW5QUnk2MmxzaFZBZ2ttc29iWUE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE1McmJ2NkJuallfUllBVDBBMndobVVwYjY0Y0JzT1VWQ2Y5clQzT3ZhcE9KWkZQX2FIMFJIT2EtckVGWDFmcE9DWnJMaW5oMFFndEhxWjIxa1JwVEs2SGfSAYMBQVVfeXFMUENTS294MHVPdWNFZnltcmRoa3h0eXJOeVRIMXpxOVRRNktwZjh0bmcyMVlCQ0lkcGJ2czdzdGgwTnZURnVuNVVSekVEcnVTUlVTcmJBNnpFd0tRVTV2RVZudlZTQlUxdnhHUldaSm1kNW5QUnk2MmxzaFZBZ2ttc29iWUE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "국군의날, 스텔스 무인기 최초 공개...‘현무-5′ 재등장",
+        "time": "2025-10-01T12:39:15+00:00",
+        "img": "/api/attachments/CC8iJ0NnNWFhbVoyTUVGRVdWVmxkbG94VFJDUkF4ajhCU2dLTWdNaFZBbw=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMikgFBVV95cUxOMHZsVHJGeXg0UUVkY0h1Qm91Q2NZSVpnM0NiNlJ1ZlgtXzNuaFBydTAtc2Z5XzNfY0FLbmdKVkZRRHJ3cWJCLXIyRy1lTFZ1RjlKZDk5b3NPeUVpQkRJS3p5a0xYT2lqWXhORktROG1rYlFaQW90QndTR28wQWx3Z1o1WF9Ja0NQT25yUFViR1dlZ9IBpgFBVV95cUxNSFJvNWlsREZLU0xjelV6al82LVROVkc5TVhsUzd1UGR2WFFvSDNQdER4OERSZUtJbmFUT1I4YnFuVEFkQlgzMEdNZmFqbGphV2k3bnJ4ZnZvN2pJUkdJSkF4cU5wTmNWRkd0b0NTcWU1ak5PeVFnT01sME9fc2dqMlRyVTRFQlNkX2Z0ejNENjhjV2xBSjExeEtUaTBqVTh6RHNqbl9R?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMikgFBVV95cUxOMHZsVHJGeXg0UUVkY0h1Qm91Q2NZSVpnM0NiNlJ1ZlgtXzNuaFBydTAtc2Z5XzNfY0FLbmdKVkZRRHJ3cWJCLXIyRy1lTFZ1RjlKZDk5b3NPeUVpQkRJS3p5a0xYT2lqWXhORktROG1rYlFaQW90QndTR28wQWx3Z1o1WF9Ja0NQT25yUFViR1dlZ9IBpgFBVV95cUxNSFJvNWlsREZLU0xjelV6al82LVROVkc5TVhsUzd1UGR2WFFvSDNQdER4OERSZUtJbmFUT1I4YnFuVEFkQlgzMEdNZmFqbGphV2k3bnJ4ZnZvN2pJUkdJSkF4cU5wTmNWRkd0b0NTcWU1ak5PeVFnT01sME9fc2dqMlRyVTRFQlNkX2Z0ejNENjhjV2xBSjExeEtUaTBqVTh6RHNqbl9R?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "규모 6.9 강진 필리핀 세부 강타…최소 31명 사망·147명 부상",
+        "time": "2025-10-01T12:30:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVVlRTA0ZG13eFpHdzRaVFJPVFJDM0FSaVRBaWdCTWdhSkk0ek10UVk=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE5SQVJaM19VcFVyWXZPekV6X0pIQWhfOFpzRWxMMGw4WTMwZW9UOW5rNUxEMy1jcG9DQXZHX1N3RkZSS0ZxRGdpMVFrYzZwY00?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiT0FVX3lxTE5SQVJaM19VcFVyWXZPekV6X0pIQWhfOFpzRWxMMGw4WTMwZW9UOW5rNUxEMy1jcG9DQXZHX1N3RkZSS0ZxRGdpMVFrYzZwY00?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "안규백 “현역군인 35만, 아웃소싱 15만으로 군 구조 개편”",
+        "time": "2025-10-01T12:10:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVpTVEZZYUdrek5IcE9SRmhKVFJENkFoalFCU2dLTWdhQlJJYk5tUWs=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMikgFBVV95cUxPcTB4RmQ1dkdrUmV0RTZrVncwLWJSNXA3TzlZcjRpY191UmFYeHZyb1lJY0VURlRoa3ZLR3g0UGlqejFfdlJmWHQ0SkhZenMwQmIzU3VFZ3FVMXRjYXdYME1lNEJZb0o3QXlyNi14V3VuSW1HTVVFWi1FOUNnSXBZYmdrcWxtdmJycktma3NmQ3dRQdIBpgFBVV95cUxNUUZGczVXU3Y3dU9ERVhNajhUaC1GN3hQWVZPU1N0cGZHNDRJVjE0M0k2UVhUZUtKWEhnazF6X1J3c1NIckk5ZTJJeVM0Rk9xLWkyWGl5VF9FMWc4UzRLa21Lbk1YdmZrS0Y0Y1d3R3BVZXhGaHJJTDNhdk52U2RzNWZobW1ZUV9jRF9NOWR3eUZWNzV6cVM5RzhkZ1FGUm5RQkNkVXZR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMikgFBVV95cUxPcTB4RmQ1dkdrUmV0RTZrVncwLWJSNXA3TzlZcjRpY191UmFYeHZyb1lJY0VURlRoa3ZLR3g0UGlqejFfdlJmWHQ0SkhZenMwQmIzU3VFZ3FVMXRjYXdYME1lNEJZb0o3QXlyNi14V3VuSW1HTVVFWi1FOUNnSXBZYmdrcWxtdmJycktma3NmQ3dRQdIBpgFBVV95cUxNUUZGczVXU3Y3dU9ERVhNajhUaC1GN3hQWVZPU1N0cGZHNDRJVjE0M0k2UVhUZUtKWEhnazF6X1J3c1NIckk5ZTJJeVM0Rk9xLWkyWGl5VF9FMWc4UzRLa21Lbk1YdmZrS0Y0Y1d3R3BVZXhGaHJJTDNhdk52U2RzNWZobW1ZUV9jRF9NOWR3eUZWNzV6cVM5RzhkZ1FGUm5RQkNkVXZR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
         "title": "이 대통령 “군 통수권자로서 ‘불법계엄 잔재’ 말끔히 청산하겠다”",
         "time": "2025-10-01T12:06:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXBVV3hyWXkxcVRFNUpiM2RQVFJDdUFSaWlBaWdCTWdhcEpJQ3VtUWs=-w100-h100-p-df-rw",
@@ -2258,6 +2312,15 @@
         "img": "/api/attachments/CC8iK0NnNVhSa2hVYkc1RGREbElPRTlHVFJDb0FSaXNBaWdCTWdhQkVZUUdUUU0=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiZkFVX3lxTFBLM2ZBck1SUk84azBlcnB4WlpPS3lUQ016M0pudTNrN3NpSnpxSklPaGNWV3ZJeDJJQ1JTODFqVk1LRS00N25qZmFmelh4RWFEZngwS05yeDhlbkUxazlJZFRpTG1Ldw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiZkFVX3lxTFBLM2ZBck1SUk84azBlcnB4WlpPS3lUQ016M0pudTNrN3NpSnpxSklPaGNWV3ZJeDJJQ1JTODFqVk1LRS00N25qZmFmelh4RWFEZngwS05yeDhlbkUxazlJZFRpTG1Ldw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "中서 곰에게 공격당한 임신부 \"물어뜯긴 뒤 죽은 척 버텨\"",
+        "time": "2025-10-01T11:16:17+00:00",
+        "img": "/api/attachments/CC8iK0NnNTVZaTFmTTB3elMwdHpVR2RoVFJEZ0F4aUFCU2dLTWdhaGxZN3JOUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTFAycHZiZllvTlRxNktDeGVXNVd4WF8zR0gwZHZvVHk3OE9talNzdWF6QXB3d1RmQlM3NGFBRmF1cHVIS1ZDcDhsd3B4REdUZ0h1Rkd6RlFxcHdvbGfSAWBBVV95cUxORUN0Yjc2R3VUbHZfVnNTeFVoV1hnUGFrVlVkaEFIWWxsN3Z1ZGt6a2M3am5EY01XWEpEV0FsUzVjRUxaMFg5dUlvekk3OU0yTHRhVWxmQ2xUUjZ1YjZjc0E?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFAycHZiZllvTlRxNktDeGVXNVd4WF8zR0gwZHZvVHk3OE9talNzdWF6QXB3d1RmQlM3NGFBRmF1cHVIS1ZDcDhsd3B4REdUZ0h1Rkd6RlFxcHdvbGfSAWBBVV95cUxORUN0Yjc2R3VUbHZfVnNTeFVoV1hnUGFrVlVkaEFIWWxsN3Z1ZGt6a2M3am5EY01XWEpEV0FsUzVjRUxaMFg5dUlvekk3OU0yTHRhVWxmQ2xUUjZ1YjZjc0E?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 01일 수요일"
       },
@@ -2334,6 +2397,24 @@
         "date": "2025년 10월 01일 수요일"
       },
       {
+        "title": "\"살아있는 채로 장기를\"…중국인 무비자 입국에 괴담 확산 [이슈+]",
+        "time": "2025-10-01T10:04:20+00:00",
+        "img": "/api/attachments/CC8iL0NnNDJaMUV3VHpKelkwZzJZWEpvVFJDLUJSaTFBeWdLTWdrVkFvek1pU3BLVWdF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9PSy1DRVFEVmd5X3U2RWVfalZ2bnU3VW55Vy0yTkRYY290ZTMzLTlKY3BvRWROLURyeWNJSllvWEZUYzFwVzEtQkNkNlUxZUZsZ0ZhN2xnYkNKUdIBVEFVX3lxTE9TLUhHSi1fc1pCUGphNWswQ1lfa3p3OTk1Ynl2N1pqSEJJQ3FWbXBiUXhkdnVnMHZwRGNqemZDTEdmTFlzbGJhcmk3bkNXbWswbDdBZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE9PSy1DRVFEVmd5X3U2RWVfalZ2bnU3VW55Vy0yTkRYY290ZTMzLTlKY3BvRWROLURyeWNJSllvWEZUYzFwVzEtQkNkNlUxZUZsZ0ZhN2xnYkNKUdIBVEFVX3lxTE9TLUhHSi1fc1pCUGphNWswQ1lfa3p3OTk1Ynl2N1pqSEJJQ3FWbXBiUXhkdnVnMHZwRGNqemZDTEdmTFlzbGJhcmk3bkNXbWswbDdBZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "하동군, 추석 대비 재난형 가축전염병 차단 방역 강화",
+        "time": "2025-10-01T09:42:35+00:00",
+        "img": "/api/attachments/CC8iK0NnNUdkblJ6WTNWdGQyWmhlblpzVFJETEF4allCQ2dLTWdZQnNJck93QVE=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTE9Ta1dVVW1iWTdmTnEzSzNwZDlkMGM5b0lzRlJCUmZLSnotNHh0V05nM2IzY1FiczZ4RWNic0dZbFJyZFBCdEQ2NWJ0WnoxTFJpY0phNlVScmxMMTZvdVB3ZVRrTDZ6cTUwY0Fqa19fOA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTE9Ta1dVVW1iWTdmTnEzSzNwZDlkMGM5b0lzRlJCUmZLSnotNHh0V05nM2IzY1FiczZ4RWNic0dZbFJyZFBCdEQ2NWJ0WnoxTFJpY0phNlVScmxMMTZvdVB3ZVRrTDZ6cTUwY0Fqa19fOA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
         "title": "지진이 발생한 이후로 최소 20 명이 사망했으며, 필리핀 중부에서 이미 파괴 된 폭풍의 지방",
         "time": "2025-10-01T09:41:18+00:00",
         "img": "/api/attachments/CC8iL0NnNVRaSEY1T1RkUmRtUm9kelJJVFJDZkF4ampCU2dLTWdtQlFKaVdHQ3JZS1FJ=-w100-h100-p-df-rw",
@@ -2357,6 +2438,15 @@
         "img": "/api/attachments/CC8iK0NnNWxibVZzUVdsNlUySXpiV1F6VFJDekFSaWFBaWdCTWdZQnM0eHZRUVU=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiaEFVX3lxTE11dmVwY1Jkajc0TFIxV01UbHhHTkxON1Q3dkRnQVVCMFV3QXRFSU1EeU1adW9zQjE5Wm5xM2NUdTJJVS02eFpjS25LVkJIUkV0OWtVODB5UGFnTHQwRFJrZkE4TTVldk5y?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiaEFVX3lxTE11dmVwY1Jkajc0TFIxV01UbHhHTkxON1Q3dkRnQVVCMFV3QXRFSU1EeU1adW9zQjE5Wm5xM2NUdTJJVS02eFpjS25LVkJIUkV0OWtVODB5UGFnTHQwRFJrZkE4TTVldk5y?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "차기 대통령 적합도, 장동혁 18.3%·김민석 14.3%·조국 12.4% [에이스리서치]",
+        "time": "2025-10-01T09:25:01+00:00",
+        "img": "/api/attachments/CC8iL0NnNVRURTU1WlU5TVpHOXNlRGRUVFJERUF4aW1CU2dLTWdrUlE1d3lIZXFwU1FJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE11bDhBemVGWVZpOUdTb29IbEJTVzZlSHRLOUNQUGZpbXBpaURxNS1PQ1YxX0owbm1wY1VncENMVi1CdXI1M1l3YWt6S3NLQzlJdzdJNWo5d3NsZ9IBVEFVX3lxTFBvb3pLQ2dTbjRLN0RRdnpDN2ZId0RKaXpDcWs3VUFRaUZ5a3cyU2VuSmxvY3NXbmw4Sll1TFdQeTAyVlFOVmszMVpZd2ZEWmlIUjR5UQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE11bDhBemVGWVZpOUdTb29IbEJTVzZlSHRLOUNQUGZpbXBpaURxNS1PQ1YxX0owbm1wY1VncENMVi1CdXI1M1l3YWt6S3NLQzlJdzdJNWo5d3NsZ9IBVEFVX3lxTFBvb3pLQ2dTbjRLN0RRdnpDN2ZId0RKaXpDcWs3VUFRaUZ5a3cyU2VuSmxvY3NXbmw4Sll1TFdQeTAyVlFOVmszMVpZd2ZEWmlIUjR5UQ?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 01일 수요일"
       },
@@ -2389,6 +2479,15 @@
       },
       {
         "title": "병원 밖에서 치료받는 필리핀 지진 부상자들",
+        "time": "2025-10-01T08:44:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNXdWVjl4TW1GNVRqbDZjMVpKVFJDWEF4amlCQ2dLTWdrQmNJaUZ0Q1ZNOVFB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTE1mWlZIQTAzNWFJSkc1UlNvWjhuM1VveXBJclBJTW9wUWh0SHhWa0FyOHg3WkVjaC1JdjNjSXhEbWV3cEVwRlBJNHV2a2gxY1RGVl9V?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE1mWlZIQTAzNWFJSkc1UlNvWjhuM1VveXBJclBJTW9wUWh0SHhWa0FyOHg3WkVjaC1JdjNjSXhEbWV3cEVwRlBJNHV2a2gxY1RGVl9V?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "병원 밖에서 치료받는 필리핀 지진 부상자들",
         "time": "2025-10-01T08:43:44+00:00",
         "img": "/api/attachments/CC8iL0NnNWhlRFV5VlZCQ1IwWkdSRFJYVFJERUF4aW1CU2dLTWdrQmNJaUZ0Q1ZNOVFB=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiZkFVX3lxTE5QOTlzcDJQSjlyNG4yeUQzYVpmajRZS205RWFuVS1FcFNDcHRuN2p3cXYwTFpTLTlfNDhmT2NhbmhFVWFSaGJNdWtINnRnOWVaWDlpVWUzRElmVGhOQUJPT2RhUlFZQQ?hl=ko&gl=KR&ceid=KR%3Ako",
@@ -2402,6 +2501,15 @@
         "img": "/api/attachments/CC8iNkNnNVJSRFJhVDBkUVQwUmlNREprVFJERUF4aW1CU2dLTWc0QkFJb3FqZVpGakltc29jWkVGUQ=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMibEFVX3lxTE9mOHo3MGNoRXdvSzVTNzk2OGVhdmNsNTI5VmdjZGg1QkpzOTNnZ1VwT1JRaTkwZTRETW1hOGtMZ3RpMDhtd0wxSjdjcUE0aW9RRUQ3cUlIMjVZQkNPQWhtbkliN3dSNkliZU9Sdw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMibEFVX3lxTE9mOHo3MGNoRXdvSzVTNzk2OGVhdmNsNTI5VmdjZGg1QkpzOTNnZ1VwT1JRaTkwZTRETW1hOGtMZ3RpMDhtd0wxSjdjcUE0aW9RRUQ3cUlIMjVZQkNPQWhtbkliN3dSNkliZU9Sdw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "“ESTA로도 미국 내 작업 가능”···‘구금 재발 방지’ 한·미 워킹그룹 첫 회의",
+        "time": "2025-10-01T08:39:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNTVSVGRmWWkxbk1XZE9WbVYzVFJEZ0F4aUFCU2dLTWdrQndJaWp3dVVkY0FF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9zRnJ6b1M1V0ljd1lwVkktMGlxTG9NRjRKdkZfa2xpcVBEbjdUSTlRUURIZ1FNckZlNXF5cEFXOHlOTjM3YkpTUWlWaHhjb0FQc1I3amNjamltUdIBX0FVX3lxTE90dFFsNzlmQzM3Vk1BM0JkdmZfMDlNNnVUU3RPQXplOFl5WXg3VXFYZzJlN0VjVUNwcHZvLXQzTGNQR2lGOWRBNDVodXVIMlZpbXZfcXNkYXhBNEFJSDhZ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE9zRnJ6b1M1V0ljd1lwVkktMGlxTG9NRjRKdkZfa2xpcVBEbjdUSTlRUURIZ1FNckZlNXF5cEFXOHlOTjM3YkpTUWlWaHhjb0FQc1I3amNjamltUdIBX0FVX3lxTE90dFFsNzlmQzM3Vk1BM0JkdmZfMDlNNnVUU3RPQXplOFl5WXg3VXFYZzJlN0VjVUNwcHZvLXQzTGNQR2lGOWRBNDVodXVIMlZpbXZfcXNkYXhBNEFJSDhZ?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 01일 수요일"
       },
@@ -2429,6 +2537,15 @@
         "img": "/api/attachments/CC8iI0NnNU1TemRCVkdGRVVEWkVkV3hHVFJEekFoaTdCaWdLTWdB=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMibkFVX3lxTE9lMEpfN1htM20xaXZ3UThpN2gxZG1zbGNUckZVeVNPLV9TalBVWUtWTGxoalFwODVxSjAzYWcyNzc4TzY1S2RnMDNCZFJuZF9TMW9jZmZfNjZELXhzdFVERXJxUzh3VjVaWERTNUxn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMibkFVX3lxTE9lMEpfN1htM20xaXZ3UThpN2gxZG1zbGNUckZVeVNPLV9TalBVWUtWTGxoalFwODVxSjAzYWcyNzc4TzY1S2RnMDNCZFJuZF9TMW9jZmZfNjZELXhzdFVERXJxUzh3VjVaWERTNUxn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "\"TV가 안 나와요\"…한국선 먹통인 中 샤오미, 알고보니 '황당'",
+        "time": "2025-10-01T06:32:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXFXbEEwU1cwM01XbHNaVkZGVFJDUkF4aVNCU2dLTWdZWlVZb0xxUVU=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE1SdlhQWEVfV21qenpZRVYxdmNIZ1E4SGswYlhSUXFBUGxlQTNsRnRTNGtQaTMzd293SF9ObkN1TDVoSkJ1NWw3TWZocURrdDA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiT0FVX3lxTE1SdlhQWEVfV21qenpZRVYxdmNIZ1E4SGswYlhSUXFBUGxlQTNsRnRTNGtQaTMzd293SF9ObkN1TDVoSkJ1NWw3TWZocURrdDA?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 01일 수요일"
       },
@@ -2528,6 +2645,15 @@
         "img": "/api/attachments/CC8iK0NnNU1aSFpNYkVkWFR5MUdkRFp0VFJDVEJCakJCQ2dLTWdhZFE0Nk5xUVk=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMickFVX3lxTFBaZUh4Nmo5Y0RudlZ0TWdCV1Fkb0tKSjJaWmo5cjV5U3B4VTFjc3YtVGNFeDVpekYzZHRhQjZ3RGItU2VVVEdXUnJ5bFhVVXJneFh3UEpJc0NLdFN2aHY2eGhZSkF3Y3JQSWhpbVY3NTIxdw?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMickFVX3lxTFBaZUh4Nmo5Y0RudlZ0TWdCV1Fkb0tKSjJaWmo5cjV5U3B4VTFjc3YtVGNFeDVpekYzZHRhQjZ3RGItU2VVVEdXUnJ5bFhVVXJneFh3UEpJc0NLdFN2aHY2eGhZSkF3Y3JQSWhpbVY3NTIxdw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "전북자치도, '동절기 가축전염병' 맞춤형 특별방역 추진",
+        "time": "2025-09-30T12:36:23+00:00",
+        "img": "/api/attachments/CC8iL0NnNVpPV1owY3psV2RuZDVZVnBNVFJDUEF4allCQ2dLTWdrQndJREYyYUJjMVFB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiZEFVX3lxTE4yNDBNaE42N3ZBNWNhNUtqaVJubERMMjhGam9EOUpWVjJ0WGtudERuWVg1QWpNRHdyZ3g0MWQ0MGtET216SzZibHhZR19QYWZuZVg0dXBseVhoanJGeUh2QzN2UV8?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZEFVX3lxTE4yNDBNaE42N3ZBNWNhNUtqaVJubERMMjhGam9EOUpWVjJ0WGtudERuWVg1QWpNRHdyZ3g0MWQ0MGtET216SzZibHhZR19QYWZuZVg0dXBseVhoanJGeUh2QzN2UV8?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 01일 수요일"
       },
@@ -2680,6 +2806,46 @@
         "img": "",
         "url": "https://www.skyedaily.com/news/news_view.html?ID=286946",
         "original_url": "https://www.skyedaily.com/news/news_view.html?ID=286946",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "계엄해제 방해 핵심 증인 소환 불발… 재판·수사 일정 불투명",
+        "time": "2025-10-01T13:03:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=287024&search=",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=287024&search=",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "李대통령 “자주국방은 필연…한미동맹 기반 전작권 회복할 것”",
+        "time": "2025-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=287009",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=287009",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "李대통령-이시바 총리, 한반도 완전한 비핵화 의지 재확인… 셔틀외교 정착 강조",
+        "time": "2025-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=287015",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=287015",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 10월 01일 수요일"
+      },
+      {
+        "title": "진영승 제45대 합참의장 취임 “헌법적 가치 수호, 국민 신뢰 받는 군대”",
+        "time": "2025-10-01T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=286999",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=286999",
         "summary": "",
         "source": "skyDaily",
         "date": "2025년 10월 01일 수요일"
@@ -3397,6 +3563,141 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/kbs/20251001123351584wckh.jpg",
         "url": "https://v.daum.net/v/20251001123349365",
         "original_url": "https://v.daum.net/v/20251001123349365",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "안규백 “주한미군 철수·감축, 한·미 논의한 바 없다”",
+        "time": "2025-10-01T04:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/khan/20251001133115593ikzt.jpg",
+        "url": "https://v.daum.net/v/20251001133113789",
+        "original_url": "https://v.daum.net/v/20251001133113789",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "미국인 62%, 韓의 대미투자 긍정…韓수입품 관세인상 10%만 찬성",
+        "time": "2025-10-01T04:34:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251001133300843",
+        "original_url": "https://v.daum.net/v/20251001133300843",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "김동연 \"은닉재산 끝까지 추적\" 고액체납자와 전쟁 선포",
+        "time": "2025-10-01T04:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/Edaily/20251001133149358unmb.jpg",
+        "url": "https://v.daum.net/v/20251001133147816",
+        "original_url": "https://v.daum.net/v/20251001133147816",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "오세훈 \"민간임대 규제와의 전쟁\" 선포…비아파트 주택공급 활성화",
+        "time": "2025-10-01T04:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/moneytoday/20251001130448078summ.jpg",
+        "url": "https://v.daum.net/v/20251001130446002",
+        "original_url": "https://v.daum.net/v/20251001130446002",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "필리핀 세부섬 규모 6.9 지진...인명피해 잇따라",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251001131203232",
+        "original_url": "https://v.daum.net/v/20251001131203232",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "미국, 1일 0시 1분부터 셧다운 돌입…트럼프 “대규모 해고 불가피”(종합)",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/Edaily/20251001133249277qwad.jpg",
+        "url": "https://v.daum.net/v/20251001130451009",
+        "original_url": "https://v.daum.net/v/20251001130451009",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "中, 美와 정상회담 앞두고 대만 부각…\"中영토 분할 허용 못해\"",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/yonhap/20251001132418218hwig.jpg",
+        "url": "https://v.daum.net/v/20251001132418568",
+        "original_url": "https://v.daum.net/v/20251001132418568",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "북방정책, 좌초시킬 수 없다",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/mk/20251001130002641tuvp.jpg",
+        "url": "https://v.daum.net/v/20251001130001829",
+        "original_url": "https://v.daum.net/v/20251001130001829",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "미 상무, 대만에 \"칩 절반 미국서 만들어야…대만 \"동의 못해\"",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/newsy/20251001131319080xalm.jpg",
+        "url": "https://v.daum.net/v/20251001131319268",
+        "original_url": "https://v.daum.net/v/20251001131319268",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "[속보] “사망자 60명 넘어”…필리핀 세부 규모 6.9 강진",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/kukminilbo/20251001132051163yuxx.jpg",
+        "url": "https://v.daum.net/v/20251001131738394",
+        "original_url": "https://v.daum.net/v/20251001131738394",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "[포착] 네가 왜 여기서 나와?…300㎏ 폭탄 실은 우크라 해상 드론, 터키서 발견 (영상)",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/seoul/20251001132916278xxyt.jpg",
+        "url": "https://v.daum.net/v/20251001132914747",
+        "original_url": "https://v.daum.net/v/20251001132914747",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "민주콩고 법원, ‘반역·전쟁범죄 혐의’ 전 대통령 궐석재판서 ‘사형’ 선고",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/khan/20251001131848078wmdk.jpg",
+        "url": "https://v.daum.net/v/20251001131846421",
+        "original_url": "https://v.daum.net/v/20251001131846421",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "7년 만에 美정부 셧다운…트럼프 \"불필요 공무원 해고\" 압박",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/ked/20251001132850258vmer.jpg",
+        "url": "https://v.daum.net/v/20251001132046453",
+        "original_url": "https://v.daum.net/v/20251001132046453",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "[포착] 러시아군, 70년 만에 기병대 부활…우크라 전선 투입",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/seoul/20251001130524953peht.jpg",
+        "url": "https://v.daum.net/v/20251001130521028",
+        "original_url": "https://v.daum.net/v/20251001130521028",
+        "source": "daum",
+        "date": "2025년 10월 01일 Wednesday"
+      },
+      {
+        "title": "트럼프 \"핵 업그레이드\"…백악관 \"조건없는 북미대화\"",
+        "time": "2025-10-01T04:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/01/newsy/20251001131227954pexu.jpg",
+        "url": "https://v.daum.net/v/20251001131227248",
+        "original_url": "https://v.daum.net/v/20251001131227248",
         "source": "daum",
         "date": "2025년 10월 01일 Wednesday"
       }
