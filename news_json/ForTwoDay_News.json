@@ -1,5 +1,866 @@
 [
   {
+    "date": "2025년 10월 07일 화요일",
+    "articles": [
+      {
+        "title": "美 정부 셧다운 해제 또 불발...트럼프 \"일어나지 말았어야 할 일\"",
+        "time": "2025-10-07T10:32:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510071028277930",
+        "original_url": "https://www.fnnews.com/news/202510071028277930",
+        "source": "Fn",
+        "date": "2025년 10월 07일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 07일 화요일",
+    "articles": [
+      {
+        "title": "이재명 정부 100일, ‘외교 대응’이 신뢰도 높였지만··· [2025 신뢰도 조사]",
+        "time": "2025-10-07T09:06:02",
+        "img": "https://imgnews.pstatic.net/image/308/2025/10/07/0000037304_001_20251007091110225.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/308/0000037304",
+        "original_url": "https://n.news.naver.com/mnews/article/308/0000037304",
+        "summary": "2025년 〈시사IN〉 신뢰도 조사 결과 이재명 대통령이 모든 정치인 중 가장 높은 점수를 얻었다. 외교·통상 대응이 신뢰도 상승을 이끌었다. ‘모두의 대통령’이 되려면 남은 과제가 만만치 않다.",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "정청래, 장동혁, 조국, 이준석 중 유력 차기 주자는? [2025 신뢰도 조사]",
+        "time": "2025-10-07T09:06:00",
+        "img": "https://imgnews.pstatic.net/image/308/2025/10/07/0000037305_001_20251007091114606.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/308/0000037305",
+        "original_url": "https://n.news.naver.com/mnews/article/308/0000037305",
+        "summary": "차기 대권 구도 향방을 예측하기 위해 주요 정당 및 대표 신뢰도를 물었다. 신뢰 경쟁보다는 불신 경쟁이 더 두드러진다. 내년 6월 지방선거에서 누가 ‘스윙보터’가 될지도 주목된다.",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "러시아 지원 받는 北, 軍 첨단 AI 무기체계 개발로 대응",
+        "time": "2025-10-07T09:01:13",
+        "img": "https://imgnews.pstatic.net/image/016/2025/10/07/0002539423_001_20251007090113883.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002539423",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002539423",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "북한, 2년 만의 대규모 열병식 임박…신형 ICBM 등장할 듯",
+        "time": "2025-10-07T08:56:13",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788624",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788624",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "美, 14일부터 中선박에 입항수수료…K조선 '반사 이익' 누리나",
+        "time": "2025-10-07T09:30:00",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/07/AKR20251006024800003_01_i_P4_20251007093016040.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015667338",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015667338",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "아들에 용돈 50만원 보냈다가 큰일?…증여세 폭탄 던진다는 AI, 진실은",
+        "time": "2025-10-07T09:30:00",
+        "img": "https://imgnews.pstatic.net/image/008/2025/10/07/0005260328_001_20251007093015110.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005260328",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005260328",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "세계는 화합물반도체 전쟁 중, 韓 생태계 육성부터",
+        "time": "2025-10-07T09:02:18",
+        "img": "https://imgnews.pstatic.net/image/262/2025/10/07/0000018813_001_20251007090218896.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/262/0000018813",
+        "original_url": "https://n.news.naver.com/mnews/article/262/0000018813",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "“재벌 회장에게 운동은 생존 수단… 아무리 바빠도 안 걸러”",
+        "time": "2025-10-07T09:02:18",
+        "img": "https://imgnews.pstatic.net/image/037/2025/10/07/0000037072_001_20251007090218765.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/037/0000037072",
+        "original_url": "https://n.news.naver.com/mnews/article/037/0000037072",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "법정·주총·여론전까지, 끝나지 않는 '쩐의 전쟁'[고려아연 경영권 분쟁 1년-중]",
+        "time": "2025-10-07T09:01:09",
+        "img": "https://imgnews.pstatic.net/image/119/2025/10/07/0003010799_001_20251007093809335.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0003010799",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0003010799",
+        "summary": "공개매수 이후 2조5000억원 유상증자 발표했다가 철회\n주총 앞두고 순환출자 구조로 영풍 의결권 무력화 시도\n임시주총 파행 끝 집중투표제 도입…법원 일부 효력 인정\n양측 모두 물러서지 않으며 지배구조 총력전 장기화",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "[뉴스초점] 오늘도 가끔 비, 궂은 날씨…태풍 '할롱' 북상 중",
+        "time": "2025-10-07T09:24:12",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788632",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788632",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "[날씨] 귀경길 궂은 날씨, 비·풍랑...태풍 '할롱' C자로 꺾어 일본으로",
+        "time": "2025-10-07T08:23:16",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002256469",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002256469",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "“히말라야서 韓 등산객 1명 사망, 시신 수습…셰르파는 극적 구조”",
+        "time": "2025-10-07T09:39:10",
+        "img": "https://imgnews.pstatic.net/image/081/2025/10/07/0003580580_001_20251007093910508.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/081/0003580580",
+        "original_url": "https://n.news.naver.com/mnews/article/081/0003580580",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 행정부, '中대두분쟁' 타격 美농가에 대규모 지원 예정",
+        "time": "2025-10-07T09:32:15",
+        "img": "https://imgnews.pstatic.net/image/123/2025/10/07/0002369471_001_20251007093215563.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/123/0002369471",
+        "original_url": "https://n.news.naver.com/mnews/article/123/0002369471",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"반란법 발동해 시위 진압\"…셧다운은 엿새째 평행선",
+        "time": "2025-10-07T09:15:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788627",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788627",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "\"쉽게 땄었는데 왜 갑자기\"…외국인 관광객 운전면허에 '초강수' 규제 꺼낸 日, 무슨 일?",
+        "time": "2025-10-07T09:07:08",
+        "img": "https://imgnews.pstatic.net/image/011/2025/10/07/0004541182_001_20251007090708898.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004541182",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004541182",
+        "summary": "[지금 일본에선]",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프, 우크라에 '공격무기' 토마호크 공급하나…\"거의 결정\"",
+        "time": "2025-10-07T09:02:59",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/07/0008527472_001_20251007090310260.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008527472",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008527472",
+        "summary": "저고도 비행 정밀 타격 무기, \"사용처는 확인할 필요\"\n\"러시아·우크라 전쟁은 판단 착오, 양측 모두의 잘못\"",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "가자전쟁 2주년…휴전 협상에도 여전한 난제",
+        "time": "2025-10-07T08:55:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788622",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788622",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "美, 임시예산안 처리 또 불발…트럼프, 민주당과 협상 시사",
+        "time": "2025-10-07T08:54:08",
+        "img": "https://imgnews.pstatic.net/image/079/2025/10/07/0004073283_001_20251007090509017.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004073283",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004073283",
+        "summary": "셧다운 2주차 접어들어…장기화에 대한 우려도\n트럼프 \"협상중이며, 좋은 결과로 이어질 수도\"\n\"현재 ACA 보조금, 수십억달러 낭비되고 있어\"",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "네팔 메라피크서 한국인 40대 등산객 1명 사망…시신 수습",
+        "time": "2025-10-07T08:50:18",
+        "img": "https://imgnews.pstatic.net/image/016/2025/10/07/0002539418_001_20251007092813727.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002539418",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002539418",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "에베레스트 눈보라 고립…네팔서 40대 한국인 사망",
+        "time": "2025-10-07T08:39:11",
+        "img": "https://imgnews.pstatic.net/image/660/2025/10/07/0000094302_001_20251007083911294.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/660/0000094302",
+        "original_url": "https://n.news.naver.com/mnews/article/660/0000094302",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "비트코인, 또 최고가 찍었다…12만6000달러 돌파",
+        "time": "2025-10-07T08:30:08",
+        "img": "https://imgnews.pstatic.net/image/016/2025/10/07/0002539413_001_20251007083008126.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002539413",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002539413",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "‘침팬지들의 어머니’ 구달, 생전에 “트럼프 우주로 보내버려야”",
+        "time": "2025-10-07T09:41:10",
+        "img": "https://imgnews.pstatic.net/image/020/2025/10/07/0003665887_001_20251007095816429.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003665887",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003665887",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "러시아 “경주 APEC에 대표단 파견”…푸틴은 못와",
+        "time": "2025-10-07T08:57:09",
+        "img": "https://imgnews.pstatic.net/image/020/2025/10/07/0003665879_001_20251007085809925.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003665879",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003665879",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "에베레스트 인근서 한국인 등산객 1명 사망…시신 수습",
+        "time": "2025-10-07T08:55:03",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/07/NISI20251007_0001962048_web_20251007084919_20251007085619764.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013524545",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013524545",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 “11월 1일부터 모든 중·대형트럭에 25% 관세”",
+        "time": "2025-10-07T08:51:09",
+        "img": "https://imgnews.pstatic.net/image/020/2025/10/07/0003665878_001_20251007100615638.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003665878",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003665878",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 후원자 아들이 인수한 美CBS, '워크 비판가' 보도국장에",
+        "time": "2025-10-07T09:49:26",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/07/PAF20251007051001009_P4_20251007095010744.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015667355",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015667355",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "푸틴, APEC 정상회의에 대표단 파견 지시…국제부총리 방한 전망",
+        "time": "2025-10-07T09:41:09",
+        "img": "https://imgnews.pstatic.net/image/079/2025/10/07/0004073294_001_20251007094109307.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004073294",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004073294",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "美, 중국산 선박에 입항 수수료…韓 반사이익 기대",
+        "time": "2025-10-07T10:06:17",
+        "img": "https://imgnews.pstatic.net/image/660/2025/10/07/0000094310_001_20251007100617226.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/660/0000094310",
+        "original_url": "https://n.news.naver.com/mnews/article/660/0000094310",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "네팔 메라피크서 한국인 등산객 1명 사망…셰르파는 구조",
+        "time": "2025-10-07T10:03:12",
+        "img": "https://imgnews.pstatic.net/image/422/2025/10/07/AKR20251007100304ExB_01_i_20251007100312063.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788644",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788644",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "네팔 메라피크서 한국인 등산객 1명 사망…시신 수습",
+        "time": "2025-10-07T10:02:16",
+        "img": "https://imgnews.pstatic.net/image/629/2025/10/07/202518691759798305_20251007100216588.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/629/0000432463",
+        "original_url": "https://n.news.naver.com/mnews/article/629/0000432463",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"11월부터 중·대형 트럭에 25% 관세 부과\"",
+        "time": "2025-10-07T09:54:10",
+        "img": "https://imgnews.pstatic.net/image/417/2025/10/07/0001105541_001_20251007095509656.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/417/0001105541",
+        "original_url": "https://n.news.naver.com/mnews/article/417/0001105541",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"가자 평화 협상 성공적…실무팀이 세부사항 논의할 것\"",
+        "time": "2025-10-07T09:53:52",
+        "img": "https://imgnews.pstatic.net/image/417/2025/10/07/0001105540_001_20251007095409617.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/417/0001105540",
+        "original_url": "https://n.news.naver.com/mnews/article/417/0001105540",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"11월 1일부터 중·대형 트럭에 25% 관세\"",
+        "time": "2025-10-07T09:50:08",
+        "img": "https://imgnews.pstatic.net/image/469/2025/10/07/0000890941_001_20251007095708688.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000890941",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000890941",
+        "summary": "당초 밝힌 것보다 한 달 늦춰져",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "에베레스트 인근 눈보라로 한국인 1명 사망… 시신 수습",
+        "time": "2025-10-07T09:48:16",
+        "img": "https://imgnews.pstatic.net/image/030/2025/10/07/0003357488_001_20251007094816394.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/030/0003357488",
+        "original_url": "https://n.news.naver.com/mnews/article/030/0003357488",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"11월 1일부터 모든 중·대형트럭에 25% 관세\"",
+        "time": "2025-10-07T09:46:49",
+        "img": "https://imgnews.pstatic.net/image/025/2025/10/07/0003473959_001_20251007094910493.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003473959",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003473959",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프, 日 다카이치 선출 축하… “지혜롭고 강인한 인물”",
+        "time": "2025-10-07T09:39:12",
+        "img": "https://imgnews.pstatic.net/image/023/2025/10/07/0003933301_001_20251007093912615.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003933301",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003933301",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 “11월 1일부터 중·대형 트럭에 25% 관세”",
+        "time": "2025-10-07T09:37:56",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012043044",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012043044",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "이·하마스, 간접 협상 돌입…트럼프 “합의 곧 나올 것”",
+        "time": "2025-10-07T09:36:46",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012043043",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012043043",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "이스라엘, 툰베리 등 가자 구호선단 활동가 171명 추방",
+        "time": "2025-10-07T09:14:14",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788626",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788626",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "이스라엘·하마스, 이집트서 휴전협상 돌입…트럼프 \"합의 꽤 확신\"",
+        "time": "2025-10-07T09:13:06",
+        "img": "https://imgnews.pstatic.net/image/008/2025/10/07/0005260324_001_20251007091311219.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005260324",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005260324",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "제인 구달 \"트럼프·머스크, 우주로 보내버리고 싶어\"",
+        "time": "2025-10-07T09:08:16",
+        "img": "https://imgnews.pstatic.net/image/422/2025/10/07/AKR20251007090753Prz_01_i_20251007090816484.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788625",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788625",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "네팔 메라피크서 40대 한국인 등산객 사망 …“눈보라에 고립된 듯”",
+        "time": "2025-10-07T09:03:08",
+        "img": "https://imgnews.pstatic.net/image/023/2025/10/07/0003933293_001_20251007090414062.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003933293",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003933293",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "푸틴, 경주APEC에 부총리 파견하기로...관계 개선 타진하나?",
+        "time": "2025-10-07T09:00:14",
+        "img": "https://imgnews.pstatic.net/image/053/2025/10/07/0000052751_001_20251007090014115.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/053/0000052751",
+        "original_url": "https://n.news.naver.com/mnews/article/053/0000052751",
+        "summary": "북한 조선노동당 창당 80주년 행사에 메드베데프 부의장 파견",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "푸틴, APEC 정상회의에 대표단 파견 지시",
+        "time": "2025-10-07T08:55:15",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000788623",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000788623",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 07일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 07일 화요일",
+    "articles": [
+      {
+        "title": "눈보라 친 에베레스트서 한국인 등산객 1명 사망…주검 수습",
+        "time": "2025-10-07T10:14:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNUNVMVZvUlZoV2VEbDVNbTVoVFJDdkFSaWdBaWdCTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMickFVX3lxTE5WNTZnbUdRLUJNM0lPUEgzV3JFR1hPRlBrZ3NFaUQzYXJ3RmlXS2pad3VqNWF4OXdCNW5ZQ2ZRSHI1WGRGQlVaR1Uxb1pmR2pQbldWblMwRVJjTUx3NnFfUWY3cHF0WmVQTGVtekdCUWlEZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMickFVX3lxTE5WNTZnbUdRLUJNM0lPUEgzV3JFR1hPRlBrZ3NFaUQzYXJ3RmlXS2pad3VqNWF4OXdCNW5ZQ2ZRSHI1WGRGQlVaR1Uxb1pmR2pQbldWblMwRVJjTUx3NnFfUWY3cHF0WmVQTGVtekdCUWlEZw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "APEC 앞둔 경북도, 재난형 가축전염병 방역 강화",
+        "time": "2025-10-07T09:32:06+00:00",
+        "img": "/api/attachments/CC8iK0NnNVBSVVpwT1ZKT1Rua3hOa1J3VFJEVUF4aVBCU2dLTWdhQjhZYkd6UU0=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiX0FVX3lxTE85VHdwTkh0Ri1XZm03eEQ5Yy1aVXBFUE5YU29hUm9CQ2M0QzJJUVdDalRjYnlPVHRaMjVJNDhSeHpybm1yajhJaEx0RWI4YXp2Z0Roek5NVkZQTVN1WHhZ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiX0FVX3lxTE85VHdwTkh0Ri1XZm03eEQ5Yy1aVXBFUE5YU29hUm9CQ2M0QzJJUVdDalRjYnlPVHRaMjVJNDhSeHpybm1yajhJaEx0RWI4YXp2Z0Roek5NVkZQTVN1WHhZ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"이스라엘-하마스 협상 합의 확신한다\"",
+        "time": "2025-10-07T08:22:10+00:00",
+        "img": "/api/attachments/CC8iK0NnNVNWREIxYTE5MVUxOVdTbk5pVFJEU0FoajBBeWdLTWdZaGRvcnJMUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiZ0FVX3lxTFB4QU10NW9MNzM5amp2OUp2blhiaDZUSms1SWliMEVvZkVSWGhYUXNtMTdHTm1UUERwN0lIcW55T0RxVGs4WFNQblJXaGNPOTNYa2pKUUZOWjM1UHZYTTNmOUlSRDM4WkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZ0FVX3lxTFB4QU10NW9MNzM5amp2OUp2blhiaDZUSms1SWliMEVvZkVSWGhYUXNtMTdHTm1UUERwN0lIcW55T0RxVGs4WFNQblJXaGNPOTNYa2pKUUZOWjM1UHZYTTNmOUlSRDM4WkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 “11월 1일부터 중·대형 트럭에 25% 관세\"",
+        "time": "2025-10-07T08:15:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNXRlWEJFTjI1dFdtdGxTWGgyVFJDUkF4ajhCU2dLTWdhOUE0SnlDUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxQYXhFbFZTQjBpRV9SbEdXbHpBV2M2TEhJWG50NFk0UUhiTnZVdzFnQzhpQ25CNXItV29nSnM0WEl1NS1RZW9Db1VfMFFrelZLbFBUWWxiTEpPeHlvdExWckNHdTlQc3ZnWlB6RmhxX1U1cjdPeUxaaHYzQjI5cjhOeUxoN1JrQWc0d0t0a0NDcG9abDBLSWhVeFR2cEVPUdIBsgFBVV95cUxOWEFZYjZJZ1R3dkpaeUE3QjVKbm15VlJsX1B1eXdidV9jbGVLNWFvWGEtazhKX0xTWVdybXNIWkZ3ZEhJNkNHa0dTN2N5V09CS1RZMG56S2NYV0FXYVMtaS10UVdsdXdaM0twc1MyUUNzWlJCUHZSWGVYU2t5QUk4U0tPeFU0NWpJcEQ3TGJIclVEYWI4ajBfd2QwWVFlOFNGV0t1UVQ5dXdhQy1oX2JpSXBn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxQYXhFbFZTQjBpRV9SbEdXbHpBV2M2TEhJWG50NFk0UUhiTnZVdzFnQzhpQ25CNXItV29nSnM0WEl1NS1RZW9Db1VfMFFrelZLbFBUWWxiTEpPeHlvdExWckNHdTlQc3ZnWlB6RmhxX1U1cjdPeUxaaHYzQjI5cjhOeUxoN1JrQWc0d0t0a0NDcG9abDBLSWhVeFR2cEVPUdIBsgFBVV95cUxOWEFZYjZJZ1R3dkpaeUE3QjVKbm15VlJsX1B1eXdidV9jbGVLNWFvWGEtazhKX0xTWVdybXNIWkZ3ZEhJNkNHa0dTN2N5V09CS1RZMG56S2NYV0FXYVMtaS10UVdsdXdaM0twc1MyUUNzWlJCUHZSWGVYU2t5QUk4U0tPeFU0NWpJcEQ3TGJIclVEYWI4ajBfd2QwWVFlOFNGV0t1UVQ5dXdhQy1oX2JpSXBn?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "윤석열 비상계엄 ‘최종 목적’은?…특검, 부실한 공소장 메운다 [특검 완전정복]",
+        "time": "2025-10-07T08:11:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNWlkR1V5ZHpSVE1EZEhiWGg1VFJDUUF4ai1CU2dLTWdB=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMickFVX3lxTE1CbVJucUJDQ19HcHMzXy1jNG5WTUtldE5FRWtmbEJQWk9kMS1RLTFWZFc4NjNua1hTSnZBVHN2MzhUZUFiZFFFMGJ6N0F1aEJQTmJwczZnV0piRkN2eXNqS2tGWGRHdFdETGQ2VEJyTHBHUQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMickFVX3lxTE1CbVJucUJDQ19HcHMzXy1jNG5WTUtldE5FRWtmbEJQWk9kMS1RLTFWZFc4NjNua1hTSnZBVHN2MzhUZUFiZFFFMGJ6N0F1aEJQTmJwczZnV0piRkN2eXNqS2tGWGRHdFdETGQ2VEJyTHBHUQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "강북 94.5% vs 강남 54.5%…‘같은 서울’ 맞나요?",
+        "time": "2025-10-07T07:00:08+00:00",
+        "img": "/api/attachments/CC8iK0NnNDBUMlJ4V1Rkd1pVZHZOSEpXVFJDdEF4akxCU2dLTWdZQlVJck9yUVk=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWEFVX3lxTFBnenY1QnBJMjJpN2NhQUExSjgyVVJ6bVBLQTNieXgtUzNDNllkX1FtSmtjSEp1TWJoTFFHOWV3LUU5RmdpSGVuSlFXMk96N1RJeDhnbTk2LVXSAVRBVV95cUxQek1UQzBoMmRJME1NUXUzTWpYN3I4eDdhSklqdkpDaTJ6SVdHejQzS2dIRmlGeUdnd2sxQVBzUDUzOUVBTl83ZU5ZVmlmUTJRY3BxY2k?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWEFVX3lxTFBnenY1QnBJMjJpN2NhQUExSjgyVVJ6bVBLQTNieXgtUzNDNllkX1FtSmtjSEp1TWJoTFFHOWV3LUU5RmdpSGVuSlFXMk96N1RJeDhnbTk2LVXSAVRBVV95cUxQek1UQzBoMmRJME1NUXUzTWpYN3I4eDdhSklqdkpDaTJ6SVdHejQzS2dIRmlGeUdnd2sxQVBzUDUzOUVBTl83ZU5ZVmlmUTJRY3BxY2k?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "[단독] “다친 군인 CT 찍는 데 3일”…군의관 감소 직격탄 맞은 이곳",
+        "time": "2025-10-07T05:56:12+00:00",
+        "img": "/api/attachments/CC8iK0NnNW1VRVZ2VGpsMlkwMUtSeTFwVFJETkFoajBBeWdLTWdhQmQ0akRMZ2M=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE1OV0phYmQ3eVpEc1VOaXQzR3hubUVvS29QWGRwSWtYRmdBSzZxTlVTOGJkSmVkRGM2UmQ4TXd4LUZJWWVoSjhXeGpteE5ZTXluT095MjdB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE1OV0phYmQ3eVpEc1VOaXQzR3hubUVvS29QWGRwSWtYRmdBSzZxTlVTOGJkSmVkRGM2UmQ4TXd4LUZJWWVoSjhXeGpteE5ZTXluT095MjdB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "中 왜 이러나? \"韓, 우리 문화 또 훔쳤다!\" 맨시티 추석 인사에 '분통'…\"홀란이 중국 모욕, 더 이상 지지 안 해\"",
+        "time": "2025-10-07T00:20:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVFlbVpSYlZwbVpsOUZkVVpQVFJDREJSamRBeWdLTWdZdGRJU1BLUWc=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXEFVX3lxTE9ncWpsU0N4OUZpeFlmLTJBTUdDSTFMVkItLU1JMlBvOVBJRXQ0ZkVMZTFZSzBZMVo0Y2RhR3A1b3BpWVI3UmZPYXdmUk1IN25ESWY5alFmS3lPQUdJ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXEFVX3lxTE9ncWpsU0N4OUZpeFlmLTJBTUdDSTFMVkItLU1JMlBvOVBJRXQ0ZkVMZTFZSzBZMVo0Y2RhR3A1b3BpWVI3UmZPYXdmUk1IN25ESWY5alFmS3lPQUdJ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "中 남부 강타한 21호 태풍 ‘마트모’…34만명 긴급 대피",
+        "time": "2025-10-06T15:48:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNVNWRUpVWkVGUVRFdEhWVGcyVFJDUkF4ajhCU2dLTWdrUkFvcEx0YVE4aHdJ=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMingFBVV95cUxQUUpQejQtVWYxZ2FBTF9WR0taYUhTeW54VnNoVE5Bc1V2X050M3dDQVV6V0JCU19Ib28xSFc0MWVIUWpHWWc1U0sxa0tDaDhaTFBJVDVtZ2JrMWZ2RjJqYlZzR2R2dXBNZnZYVjExVWRITzdxYWptY1ZWbXpINFJYNzhLaXMxbE8yb1JLNndwZDkxNlRPR3g4OGdvb1dtZ9IBsgFBVV95cUxNR0lnNXlidkZmcDUxY0JsQ25MaE1yT1QySjZCMFl6SEdsdGl3Slc4YjZXVjhjb0VXc2M0cTZSc29fQkVZdlFJaDVORGZuc1ZFX1ZGN3VHQ1VKNmM5dVptcTVoVTAxMl8xVTFwNWpQSFdrNWx0Q2s5MXpORHFFc0o4a05oSTUyREI1aHRzSkdKTms0amwyR3RDT2tuSGcxbnJWR295VThIT2NxLVVuNGU2WTZB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMingFBVV95cUxQUUpQejQtVWYxZ2FBTF9WR0taYUhTeW54VnNoVE5Bc1V2X050M3dDQVV6V0JCU19Ib28xSFc0MWVIUWpHWWc1U0sxa0tDaDhaTFBJVDVtZ2JrMWZ2RjJqYlZzR2R2dXBNZnZYVjExVWRITzdxYWptY1ZWbXpINFJYNzhLaXMxbE8yb1JLNndwZDkxNlRPR3g4OGdvb1dtZ9IBsgFBVV95cUxNR0lnNXlidkZmcDUxY0JsQ25MaE1yT1QySjZCMFl6SEdsdGl3Slc4YjZXVjhjb0VXc2M0cTZSc29fQkVZdlFJaDVORGZuc1ZFX1ZGN3VHQ1VKNmM5dVptcTVoVTAxMl8xVTFwNWpQSFdrNWx0Q2s5MXpORHFFc0o4a05oSTUyREI1aHRzSkdKTms0amwyR3RDT2tuSGcxbnJWR295VThIT2NxLVVuNGU2WTZB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 07일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 07일 Tuesday",
+    "articles": [
+      {
+        "title": "“재벌 회장에게 운동은 생존 수단… 아무리 바빠도 안 걸러”",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/weeklydonga/20251007090316964swsn.jpg",
+        "url": "https://v.daum.net/v/20251007090315583",
+        "original_url": "https://v.daum.net/v/20251007090315583",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "에스트래픽, 美서 잇단 낭보…북미 시장 확대 가속",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/newsis/20251007100141158osjf.jpg",
+        "url": "https://v.daum.net/v/20251007100141336",
+        "original_url": "https://v.daum.net/v/20251007100141336",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "러시아 지원 받는 北, 軍 첨단 AI 무기체계 개발로 대응",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/ned/20251007090204896mgro.jpg",
+        "url": "https://v.daum.net/v/20251007090204523",
+        "original_url": "https://v.daum.net/v/20251007090204523",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "북한, 2년 만의 대규모 열병식 임박…신형 ICBM 등장할 듯",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/newsy/20251007085717862osyp.jpg",
+        "url": "https://v.daum.net/v/20251007085717416",
+        "original_url": "https://v.daum.net/v/20251007085717416",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "[르포] “북녘서 밀려오는 파도 즐기는 ‘평화 서핑’ 어때?”",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/kado/20251007094851014vybz.jpg",
+        "url": "https://v.daum.net/v/20251007094849148",
+        "original_url": "https://v.daum.net/v/20251007094849148",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "BBC가 꼽은 '최측근'이 윤석열로부터 20번 들었다는 말 [12.7 탄핵박제 105인]",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/ohmynews/20251007104509619sqyr.jpg",
+        "url": "https://v.daum.net/v/20251007104508898",
+        "original_url": "https://v.daum.net/v/20251007104508898",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "‘유럽의 병자’였던 스페인, 디지털·녹색 전환으로 한국에 훈수",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/hani/20251007090630122dznk.jpg",
+        "url": "https://v.daum.net/v/20251007090628632",
+        "original_url": "https://v.daum.net/v/20251007090628632",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "[단독] “머리 부상에도 MRI까지 5일”…서해 군인들, 골든타임 지키려면",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/mk/20251007103002346zmtc.jpg",
+        "url": "https://v.daum.net/v/20251007103000712",
+        "original_url": "https://v.daum.net/v/20251007103000712",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "한국이 세계 최장 현수교 건설 중인 튀르키예, ‘협력의 허브’로",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/hani/20251007090621815frvc.jpg",
+        "url": "https://v.daum.net/v/20251007090620628",
+        "original_url": "https://v.daum.net/v/20251007090620628",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "푸틴 불참·트럼프 불투명…경주 APEC, ‘맥 빠진 회의’ 되나",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/551752-SREzwmR/20251007104501851vvjr.jpg",
+        "url": "https://v.daum.net/v/20251007104500895",
+        "original_url": "https://v.daum.net/v/20251007104500895",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "이·하마스, 간접 협상 돌입…트럼프 “합의 곧 나올 것”",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/kbs/20251007094449437gljv.jpg",
+        "url": "https://v.daum.net/v/20251007094447097",
+        "original_url": "https://v.daum.net/v/20251007094447097",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "충북도, 택시 요금 인상 2년마다 검토",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/551762-Ul13sr0/20251007100654088ztof.jpg",
+        "url": "https://v.daum.net/v/20251007100652442",
+        "original_url": "https://v.daum.net/v/20251007100652442",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "[현장] “이러니 북적북적” 연휴에도 멈춤 없는 양구 스포츠마케팅!",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/dailian/20251007102116057opki.jpg",
+        "url": "https://v.daum.net/v/20251007102114598",
+        "original_url": "https://v.daum.net/v/20251007102114598",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "‘AI 비서’ 시리로 대화 무단 수집?…프랑스 당국, ‘애플’ 수사",
+        "time": "2025-10-07T01:59:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/hani/20251007104117739ollb.jpg",
+        "url": "https://v.daum.net/v/20251007104116852",
+        "original_url": "https://v.daum.net/v/20251007104116852",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "트럼프 “11월 1일부터 중·대형 트럭에 25% 관세”",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/kbs/20251007094649690ybou.jpg",
+        "url": "https://v.daum.net/v/20251007094647127",
+        "original_url": "https://v.daum.net/v/20251007094647127",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "김정은, 푸틴 생일 축전…\"북러 동맹, 다극화 세계질서 기여\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/THEFACT/20251007102849970xpey.jpg",
+        "url": "https://v.daum.net/v/20251007102847697",
+        "original_url": "https://v.daum.net/v/20251007102847697",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "트럼프, 우크라에 '공격무기' 토마호크 공급하나…\"거의 결정\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/NEWS1/20251007090413280acvl.jpg",
+        "url": "https://v.daum.net/v/20251007090412596",
+        "original_url": "https://v.daum.net/v/20251007090412596",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "구달의 별세 전 일침…\"트럼프·머스크, 우주로 보내고 싶어\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/newsis/20251007103214092suyb.jpg",
+        "url": "https://v.daum.net/v/20251007103213738",
+        "original_url": "https://v.daum.net/v/20251007103213738",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "제인 구달, 별세 전 인터뷰서 \"트럼프·머스크 우주로 추방하고파\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/NEWS1/20251007104226369ejwy.jpg",
+        "url": "https://v.daum.net/v/20251007104226867",
+        "original_url": "https://v.daum.net/v/20251007104226867",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "트럼프 \"日 첫 여성총리 축하\"···다카이치 \"한국과 협력하는 것 매우 중요\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/seouleconomy/20251007102116522ompz.jpg",
+        "url": "https://v.daum.net/v/20251007102114599",
+        "original_url": "https://v.daum.net/v/20251007102114599",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "美, 중국산 선박에 입항 수수료…韓 반사이익 기대",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/kbc/20251007100606012jcac.jpg",
+        "url": "https://v.daum.net/v/20251007100601430",
+        "original_url": "https://v.daum.net/v/20251007100601430",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "김정은, 푸틴 생일 맞아 축전‥\"북러 동맹, 다극화된 세계질서 수립 기여\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/imbc/20251007103109506rcol.jpg",
+        "url": "https://v.daum.net/v/20251007103109721",
+        "original_url": "https://v.daum.net/v/20251007103109721",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "日언론도 다카이치 '독도·역사 강경론' 조명…\"韓과 협력 필수\"",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/yonhap/20251007103615857lvva.jpg",
+        "url": "https://v.daum.net/v/20251007103615780",
+        "original_url": "https://v.daum.net/v/20251007103615780",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "느닷없는 '타이레놀' 논란…미 '백신 회의론'도 확산",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/newsy/20251007102750827vzfo.jpg",
+        "url": "https://v.daum.net/v/20251007102750681",
+        "original_url": "https://v.daum.net/v/20251007102750681",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      },
+      {
+        "title": "“한국인처럼 입고, 먹고, 살래요”···日 MZ 사로잡은 K리빙스타일 뭐길래? [지금 일본에선]",
+        "time": "2025-10-07T01:58:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/07/seouleconomy/20251007103716546jpvf.png",
+        "url": "https://v.daum.net/v/20251007103714803",
+        "original_url": "https://v.daum.net/v/20251007103714803",
+        "source": "daum",
+        "date": "2025년 10월 07일 Tuesday"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 07일 화요일",
+    "articles": [
+      {
+        "title": "미국 정부 셧다운 결국 2주차 돌입…트럼프 \"일어나지 말았어야 할 일\"",
+        "time": "2025-10-07T10:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mk/2025/10/07/news-p.v1.20251007.2212e3bbce464d228be6acdf462fcf11_P1.png",
+        "url": "https://news.nate.com/view/20251007n04034",
+        "original_url": "https://news.nate.com/view/20251007n04034",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "'AI 비서' 시리로 대화 무단 수집?…프랑스 당국, '애플' 수사",
+        "time": "2025-10-07T10:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/10/07/20251007500252.jpg",
+        "url": "https://news.nate.com/view/20251007n03877",
+        "original_url": "https://news.nate.com/view/20251007n03877",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "美 정부 셧다운 해제 또 불발…트럼프 \"일어나지 말았어야 할 일\"",
+        "time": "2025-10-07T10:33:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/fn/2025/10/07/202510070914458107_l.jpg",
+        "url": "https://news.nate.com/view/20251007n03767",
+        "original_url": "https://news.nate.com/view/20251007n03767",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "이스라엘-하마스 협상 시작…트럼프 \"가자지구 합의 곧 도달\"",
+        "time": "2025-10-07T10:34:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/do/2025/10/07/132523280.1.jpg",
+        "url": "https://news.nate.com/view/20251007n03515",
+        "original_url": "https://news.nate.com/view/20251007n03515",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프, 日 다카이치 선출 축하…\"지혜롭고 강인한 인물\"",
+        "time": "2025-10-07T10:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/10/07/ch_1759801264736_399096_0.jpg",
+        "url": "https://news.nate.com/view/20251007n03079",
+        "original_url": "https://news.nate.com/view/20251007n03079",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "이스라엘, 툰베리 등 가자지구 구호선단 활동가 171명 추방",
+        "time": "2025-10-07T10:35:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/kx/2025/10/07/2025100710331531636_1759800795_0028795752.jpg",
+        "url": "https://news.nate.com/view/20251007n03795",
+        "original_url": "https://news.nate.com/view/20251007n03795",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "\"미국의 그림자 대통령\"…트럼프 등에 올라탄 엘리슨 가문",
+        "time": "2025-10-07T10:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/10/07/7031156a-0054-4474-be12-2909786cdf96.jpg",
+        "url": "https://news.nate.com/view/20251007n01060",
+        "original_url": "https://news.nate.com/view/20251007n01060",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "트럼프 \"日 첫 여성총리 축하\"···다카이치 \"한국과 협력하는 것 매우 중요\"",
+        "time": "2025-10-07T10:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/se/2025/10/07/2GZ32SYLPM_1.jpg",
+        "url": "https://news.nate.com/view/20251007n03622",
+        "original_url": "https://news.nate.com/view/20251007n03622",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      },
+      {
+        "title": "강경화 주미대사 \"트럼프 방한서 한미 가교 역할 충실히 수행\"",
+        "time": "2025-10-07T10:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/10/07/rcv.YNA.20251007.PYH2025100700180007100_P1.jpg",
+        "url": "https://news.nate.com/view/20251007n03583",
+        "original_url": "https://news.nate.com/view/20251007n03583",
+        "source": "nate",
+        "date": "2025년 10월 07일 화요일"
+      }
+    ]
+  },
+  {
     "date": "2025년 10월 06일 월요일",
     "articles": [
       {
