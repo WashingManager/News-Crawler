@@ -124399,11 +124399,32 @@
     "date": "2025년 10월 07일 화요일",
     "articles": [
       {
+        "title": "파푸아뉴기니 동부 규모 6.6 지진…쓰나미 경보 없어",
+        "time": "2025-10-07T21:30:48+00:00",
+        "img": "/api/attachments/CC8iK0NnNTVaVFZNYmxGdU1uZG1kRXhtVFJES0F4amNCQ2dLTWdhQmtZd1RQUVk=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE5hM2FwUVFKdW5aR1RpcWRtaVc3SGRFV3UtdEFkTjRLcXRuQ0QtektuTjlTcU1YU040NG1aMlMzQ3hwUWxaWVBSRExmNUYwSGZsR3RXQlNiVTZ5aG94bXc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE5hM2FwUVFKdW5aR1RpcWRtaVc3SGRFV3UtdEFkTjRLcXRuQ0QtektuTjlTcU1YU040NG1aMlMzQ3hwUWxaWVBSRExmNUYwSGZsR3RXQlNiVTZ5aG94bXc?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "[속보] 파푸아뉴기니 인근서 규모 6.6 지진 발생…국내 영향 없어",
         "time": "2025-10-07T20:34:50+00:00",
         "img": "/api/attachments/CC8iJ0NnNDFXVEJuY1hKVU5sWm1TV3hNVFJDQUJCaldCQ2dLTWdNUkJSUQ=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiaEFVX3lxTE9ScVI3Q0lHbGZrbHJqSmlMSmhKOUhwckJveWtVU1JPa0NUY01yc2NuT0hjejB4Vjg2VWFTVnd4dllXeTB1T0IwdkhudjVyS2NiYXVfVnNld3ZvV1BJN2toQmt2X3JZcTFI?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiaEFVX3lxTE9ScVI3Q0lHbGZrbHJqSmlMSmhKOUhwckJveWtVU1JPa0NUY01yc2NuT0hjejB4Vjg2VWFTVnd4dllXeTB1T0IwdkhudjVyS2NiYXVfVnNld3ZvV1BJN2toQmt2X3JZcTFI?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보]올해 노벨물리학상에 ‘양자역학 연구’ 클라크·드보레·마티니스",
+        "time": "2025-10-07T20:18:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNXJiRlZZYVVabFZsTjFNbHB3VFJERUF4aW1CU2dLTWdB=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE13NjRzUHlUamJMZzdJWElpMTk0c3o0V3VaLTMzMVpHYkNGSWNPdDd6cXBtdk9EUjFmYk5IaGx0S1JFSHdvWXhtZVR0dGtHcGJsWHJBTnFoZFlSd9IBX0FVX3lxTFBlT2tNM3ljYjJTc3dQNU16dWlOcXNXOHZUU0s0anAweC1XS3ZDVHlNYnRVaW5NdE1pdlBMcXc0V0Q1ZDZDdGZJYUtvUWhzblJtT3plOGRlSUNEX3ltbjU4?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE13NjRzUHlUamJMZzdJWElpMTk0c3o0V3VaLTMzMVpHYkNGSWNPdDd6cXBtdk9EUjFmYk5IaGx0S1JFSHdvWXhtZVR0dGtHcGJsWHJBTnFoZFlSd9IBX0FVX3lxTFBlT2tNM3ljYjJTc3dQNU16dWlOcXNXOHZUU0s0anAweC1XS3ZDVHlNYnRVaW5NdE1pdlBMcXc0V0Q1ZDZDdGZJYUtvUWhzblJtT3plOGRlSUNEX3ltbjU4?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "경북도, 동절기 재난형 가축전염병 선제 차단… 방역약품 조기 배포로 ‘빈틈없는 방역망’ 구축",
+        "time": "2025-10-07T20:15:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVRTQzFYTUdsNVN6VkVNRmhIVFJEVUF4aVBCU2dLTWdhQjhZYkd6UU0=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMicEFVX3lxTFB1eXZveUZtWENkTkpTOHc4dE9BNDFJTnBDTFJ0Zll0SFJNZjdIUUlPek04eEs0UEZ1ZFNVR3RhbEwxQUpST1dEX3ZCSXZyRDRsdzhzdDlVcWpPZldrR19XYkdhVFEzX3FicGZmT2pCeGTSAXRBVV95cUxPRTJ5dm8tTUh3akItUldUQkQxNjZqQ3gtVFR4NFRPYUs4Q05UNEZPUUV1eWZmZnhFaDNtZGphVElhd0tHb2JZWnU3X0Q1T1hSRDVndWlxVEV2cG9yWGVPRUZxVDJid1NZMHpGSG02SWp2RS11VQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMicEFVX3lxTFB1eXZveUZtWENkTkpTOHc4dE9BNDFJTnBDTFJ0Zll0SFJNZjdIUUlPek04eEs0UEZ1ZFNVR3RhbEwxQUpST1dEX3ZCSXZyRDRsdzhzdDlVcWpPZldrR19XYkdhVFEzX3FicGZmT2pCeGTSAXRBVV95cUxPRTJ5dm8tTUh3akItUldUQkQxNjZqQ3gtVFR4NFRPYUs4Q05UNEZPUUV1eWZmZnhFaDNtZGphVElhd0tHb2JZWnU3X0Q1T1hSRDVndWlxVEV2cG9yWGVPRUZxVDJid1NZMHpGSG02SWp2RS11VQ?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[속보] 노벨 물리학상에 ‘양자컴퓨터 개척’ 존 클라크 등 3인",
@@ -124523,6 +124544,13 @@
         "img": "/api/attachments/CC8iK0NnNTNjWE51YlY5bVFqQlVha041VFJERUF4aW1CU2dLTWdhTlVKSUhvUWc=-w350-h175-p-df-rw",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTE4xTXVYSS1sbGVtUVlrbjBfNXFTTDhYYlcwMDZudGNoVTZYOTUwZHR1ZDBZMlpNY2FJak9fdC1nb1dzVndDWUwxejhQYzQ0eTZFLU11d09YR3F1d9IBX0FVX3lxTE5Jcy0wV0FBcGdlTHNsdG1QTU1nSFo2WTNDcHhpTnAzanlSNkxPWE0xX29LUjhDV1NhNGF0cUpMa0FIdWtQWGhoWGlFcU1aTktMd25McTNyeTZ4ZUxONFdF?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE4xTXVYSS1sbGVtUVlrbjBfNXFTTDhYYlcwMDZudGNoVTZYOTUwZHR1ZDBZMlpNY2FJak9fdC1nb1dzVndDWUwxejhQYzQ0eTZFLU11d09YR3F1d9IBX0FVX3lxTE5Jcy0wV0FBcGdlTHNsdG1QTU1nSFo2WTNDcHhpTnAzanlSNkxPWE0xX29LUjhDV1NhNGF0cUpMa0FIdWtQWGhoWGlFcU1aTktMd25McTNyeTZ4ZUxONFdF?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "대선 때 \"이재명 두 아들 군 면제\" 허위글 게시한 이수정 송치",
+        "time": "2025-10-07T13:50:18+00:00",
+        "img": "/api/attachments/CC8iL0NnNXVNbUl6V2pKeE5URkRXRmh1VFJEVUF4aVBCU2dLTWdtZEpJcEtGbXR6TXdF=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE9ETnpHS0tUb1ExN0k2ZloyejNYdWlmNUxFX0ZpSC1aSVRmZ0xXTVVCSlgxaWx0UzBuS3RKemFSU2pwTFBaZVV2b1ltdHdYcnNqbGs1eGl4TF94NFnSAWBBVV95cUxQUnRnaFFDaGZEX01pSDZLTHJUYUN5dWlYV1llSmpNa0RSY0pNVlVoWDR6aFBFNEpWZExUWm13OC1LYjF4MDhxNl9OV085RG9xMHg4aUwxbkg0cW4wdnBKa2o?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9ETnpHS0tUb1ExN0k2ZloyejNYdWlmNUxFX0ZpSC1aSVRmZ0xXTVVCSlgxaWx0UzBuS3RKemFSU2pwTFBaZVV2b1ltdHdYcnNqbGs1eGl4TF94NFnSAWBBVV95cUxQUnRnaFFDaGZEX01pSDZLTHJUYUN5dWlYV1llSmpNa0RSY0pNVlVoWDR6aFBFNEpWZExUWm13OC1LYjF4MDhxNl9OV085RG9xMHg4aUwxbkg0cW4wdnBKa2o?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "북 김정은, 푸틴에 생일 축전 “우리의 친선은 영원불멸”",
