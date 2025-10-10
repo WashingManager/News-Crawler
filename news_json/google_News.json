@@ -127144,11 +127144,39 @@
     "date": "2025년 10월 10일 금요일",
     "articles": [
       {
+        "title": "필리핀 또 진도 7.6 지진...인도네시아까지 쓰나미 경보 발령",
+        "time": "2025-10-10T16:35:31+00:00",
+        "img": "/api/attachments/CC8iK0NnNXNVakJJTjNCQmRXRkliSEp3VFJEd0FSakFBaWdLTWdZQkE0d0lyZ1U=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE5PT2g1WXVsX3JpTWVCbmJ3eHFjWXVrSFRSR1JTQk9CUWdSV3JxRnE4MU5kbFQxM256cjM1Q2FOVm5iTGR1S0Z6OVc0eG1yeVRzTXZNanFJa284UdIBXkFVX3lxTE8yZlp0MVJrWE1kQTF2aVh2Uk9oaDRFVzFtOVU4R2xNVHNtNk5vV2FCbUhybkhwUnNja0swaVBTQUdYV08taEVWaVAwNWM0dXAzalphb0pLLXBSbzhQMVE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE5PT2g1WXVsX3JpTWVCbmJ3eHFjWXVrSFRSR1JTQk9CUWdSV3JxRnE4MU5kbFQxM256cjM1Q2FOVm5iTGR1S0Z6OVc0eG1yeVRzTXZNanFJa284UdIBXkFVX3lxTE8yZlp0MVJrWE1kQTF2aVh2Uk9oaDRFVzFtOVU4R2xNVHNtNk5vV2FCbUhybkhwUnNja0swaVBTQUdYV08taEVWaVAwNWM0dXAzalphb0pLLXBSbzhQMVE?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] 日 공명당, 집권 자민당과 결별... 다카이치 총리 선출 빨간불",
+        "time": "2025-10-10T16:09:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHlVVmRqTUdWR05XUlVURkZ1VFJDUkF4ajhCU2dLTWdZZFZZWXFwZ1k=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiiAFBVV95cUxNNVBvMVBRMDZxS1NwajR1a2NFVm5vQlVaeUFmeWNZVGQ5VnM1WDRFanNfb09kUkRGYTlCWjVFUm9TOHQ4ZFBtSWttaGpCYTB5X1k0VXNnV1MtS1lrTE4tbEdpTGVKYUlMcEZ3YVZSSERjVlRaRjRqQVZxaElQd1lkTXdscV9wa2Zq0gGcAUFVX3lxTFB5cFE3Y2lkZ3h6eFpaa0hzX0VLaXlqZW5uTWF1LVV0amg2VHJTbEFVUTJEQUtWdmxzYUpfVEx4SHVyODZ4dWpVZVhoWXdwWE5OQU96dWNOSVlzc0g3M0xZTHhCLWI5eFZmLWpOaWlXdlJhQU5PSWZGcl8xS0QwYWgwMUh5azRPbWlSSmZSSVowMEg3cGR2b2FnalRsdw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiiAFBVV95cUxNNVBvMVBRMDZxS1NwajR1a2NFVm5vQlVaeUFmeWNZVGQ5VnM1WDRFanNfb09kUkRGYTlCWjVFUm9TOHQ4ZFBtSWttaGpCYTB5X1k0VXNnV1MtS1lrTE4tbEdpTGVKYUlMcEZ3YVZSSERjVlRaRjRqQVZxaElQd1lkTXdscV9wa2Zq0gGcAUFVX3lxTFB5cFE3Y2lkZ3h6eFpaa0hzX0VLaXlqZW5uTWF1LVV0amg2VHJTbEFVUTJEQUtWdmxzYUpfVEx4SHVyODZ4dWpVZVhoWXdwWE5OQU96dWNOSVlzc0g3M0xZTHhCLWI5eFZmLWpOaWlXdlJhQU5PSWZGcl8xS0QwYWgwMUh5azRPbWlSSmZSSVowMEg3cGR2b2FnalRsdw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "필리핀 민다나오섬 해상서 7.4 강진…2명 사망·건물 파손(종합2보)",
+        "time": "2025-10-10T16:02:05+00:00",
+        "img": "/api/attachments/CC8iK0NnNDJiak5vVTJoRGVsWXpUazQ1VFJETkFoajBBeWdLTWdZQmtZNm51QVU=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE1EMHZqQzk4RmdaZFZrMWRWcUJaRUVlc1hPTTl5UVhCWFRpMWJrejlLZmlMLVFRUXhTcDgyNFdwRnBHLURMdE1YUUhiZHdpNnAwejhHYzBOWW9TajjSAWBBVV95cUxOSWlGWlZNUFJoUlJNTlU2dlo0eVVnYzJnWE1tVkVlRXlTZ29ON0tuLTRsb0hTX1gwQ25JLTk2UkpKNW5lNDExRDdDWU1oRlNLdVBnZWVJQ2QzLXlqUzhZVU0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE1EMHZqQzk4RmdaZFZrMWRWcUJaRUVlc1hPTTl5UVhCWFRpMWJrejlLZmlMLVFRUXhTcDgyNFdwRnBHLURMdE1YUUhiZHdpNnAwejhHYzBOWW9TajjSAWBBVV95cUxOSWlGWlZNUFJoUlJNTlU2dlo0eVVnYzJnWE1tVkVlRXlTZ29ON0tuLTRsb0hTX1gwQ25JLTk2UkpKNW5lNDExRDdDWU1oRlNLdVBnZWVJQ2QzLXlqUzhZVU0?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "지진 부상자 급히 이송하는 필리핀 구급대",
         "time": "2025-10-10T15:37:00+00:00",
         "img": "/api/attachments/CC8iK0NnNU5iVFJ0UXpkU1oxVk5USGg0VFJDbUJSakVBeWdLTWdZQlVKSkZMUWM=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiU0FVX3lxTE55RFF3SndjazF6N2tCU1RmWGxXSlk2T29ZMnVyZlUtWXpxRUFtMmRGRUZyZFhCZTNwQmRKdmtiZTNtc2FQTzVQNDN1LVp2SVI0cHpj?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiU0FVX3lxTE55RFF3SndjazF6N2tCU1RmWGxXSlk2T29ZMnVyZlUtWXpxRUFtMmRGRUZyZFhCZTNwQmRKdmtiZTNtc2FQTzVQNDN1LVp2SVI0cHpj?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "'불의 고리' 이틀만에 또...필리핀 규모 7 강진에 쓰나미 경보까지",
+        "time": "2025-10-10T14:47:30+00:00",
+        "img": "/api/attachments/CC8iK0NnNVdOMmhoVDFJM1kwcGlhek0xVFJDdUFSaWlBaWdCTWdZQkJveEdvZ1k=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXEFVX3lxTE03TVFyNExZdG4zSzFDdlJOeVI0RU54M196a0ItRzk3eHg3S1pJSGR0NzgtamVYU0o4Wk8teE9keXExRGJQcDkxVEpleVBMNUZEQ2VrNzFCelhSRGNi?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXEFVX3lxTE03TVFyNExZdG4zSzFDdlJOeVI0RU54M196a0ItRzk3eHg3S1pJSGR0NzgtamVYU0o4Wk8teE9keXExRGJQcDkxVEpleVBMNUZEQ2VrNzFCelhSRGNi?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "[속보] 특검, ‘정교유착’ 의혹 한학자 총재 구속기소",
@@ -127289,6 +127317,13 @@
         "img": "/api/attachments/CC8iL0NnNU5jbEZmT1hGR1VVTkJiV3hIVFJESUFSaXNBaWdLTWdrQndJQU8xT0p6UEFB=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMiZEFVX3lxTE9FUFVyZS1ZNXBnMkJFLTRsY3RlRWdIb1FFakxIVHEtSUlXMVFscTUtdFBpOG5UOU55eXhod2YzeHNPTFp4cWxNV0hhS2Jucm03allmN2xMcU03ai1STFNybjluUVc?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiZEFVX3lxTE9FUFVyZS1ZNXBnMkJFLTRsY3RlRWdIb1FFakxIVHEtSUlXMVFscTUtdFBpOG5UOU55eXhod2YzeHNPTFp4cWxNV0hhS2Jucm03allmN2xMcU03ai1STFNybjluUVc?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "필리핀 남부 해역서 규모 7.4 지진…기상청 \"국내 영향 없어\"",
+        "time": "2025-10-10T11:15:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNNalU1VmpaQlVWaGhRa05wVFJEdUFoaXdCQ2dLTWdZUkJJN3RwUWM=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiU0FVX3lxTFB4cVFoQXItbXduUWFMUVo5LUF6Z28wU2dvWnhpMDZWRHRzYS1WaTFLMXBLVWxSaXVpM2xBSklHUm5HMXQxMWNrcXlacnR4M1dORjVR?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiU0FVX3lxTFB4cVFoQXItbXduUWFMUVo5LUF6Z28wU2dvWnhpMDZWRHRzYS1WaTFLMXBLVWxSaXVpM2xBSklHUm5HMXQxMWNrcXlacnR4M1dORjVR?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "필리핀 남부 해역서 규모 7.4 지진…기상청 \"국내 영향 없어\"",
@@ -127527,6 +127562,13 @@
         "img": "/api/attachments/CC8iJ0NnNTZaMVpvV1dWaFlubFZiVUowVFJEVkF4allCQ2dLTWdPQkl3NA=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMibEFVX3lxTE9HTDJMckhJUnFYdkhzaVRaNzZ2VnNnOTlDLWdmbWxwRHpaM2ZBa0szZEdYZjVmV3gtdU5jc3NoUGwyOTlMTHJJbGUyYU9hdFJsYUZJbkJPRk5VVGs3eFNZU21IOXgtY3dVbTF1Ng?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMibEFVX3lxTE9HTDJMckhJUnFYdkhzaVRaNzZ2VnNnOTlDLWdmbWxwRHpaM2ZBa0szZEdYZjVmV3gtdU5jc3NoUGwyOTlMTHJJbGUyYU9hdFJsYUZJbkJPRk5VVGs3eFNZU21IOXgtY3dVbTF1Ng?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "\"물고기 반, 중국인 반\"...'유커 특수'에 지구촌 북새통",
+        "time": "2025-10-08T21:04:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNaMjgyYmkxSVNYVkVUMmRpVFJDZkF4ampCU2dLTWdZQklKQnJtUWM=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE91NkZSUThuMGgxRFZWNUlobmRicFZaNVhOQThVNlpqQk5TblhtcWd3VzNvTnZDLVU2aEZSRl80TDcwcGZwSHlaYUNLTVhZTWtELUpNN0p5dEV6bTdzcWfSAYMBQVVfeXFMTXMwSzRKRzctaDZIWDZuVXRobzhxNVFMZGlSOWI5NXpNdC1PN3VQbjR3anY0bFp6LVlwY1JTUXRTenU3X2VBVElQdHhSOWtabmdqUjlPTWlmV3AxakVtWVdkZkRuOTViMVRGb2ZILUoxS3ZWQ2dvSnN3ZnlQaWhtQUdXdkE?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE91NkZSUThuMGgxRFZWNUlobmRicFZaNVhOQThVNlpqQk5TblhtcWd3VzNvTnZDLVU2aEZSRl80TDcwcGZwSHlaYUNLTVhZTWtELUpNN0p5dEV6bTdzcWfSAYMBQVVfeXFMTXMwSzRKRzctaDZIWDZuVXRobzhxNVFMZGlSOWI5NXpNdC1PN3VQbjR3anY0bFp6LVlwY1JTUXRTenU3X2VBVElQdHhSOWtabmdqUjlPTWlmV3AxakVtWVdkZkRuOTViMVRGb2ZILUoxS3ZWQ2dvSnN3ZnlQaWhtQUdXdkE?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "한반도 남쪽 2개 태풍 동시 북상…′쌍태풍′ 영향은?",
