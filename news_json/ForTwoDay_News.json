@@ -118,6 +118,15 @@
         "original_url": "https://www.fnnews.com/news/202510141625042127",
         "source": "Fn",
         "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "[속보]대통령실, 캄보디아 사태에 \"사망 국민 조속한 부검과 국내 운구 추진\"",
+        "time": "2025-10-14T18:53:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510141851519937",
+        "original_url": "https://www.fnnews.com/news/202510141851519937",
+        "source": "Fn",
+        "date": "2025년 10월 14일 화요일"
       }
     ]
   },
@@ -131,6 +140,51 @@
         "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=365537",
         "original_url": "https://www.fntoday.co.kr/news/articleView.html?idxno=365537",
         "source": "fntoday",
+        "date": "2025년 10월 14일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 14일 화요일",
+    "articles": [
+      {
+        "title": "[탐사기록] 한미 관세협상 30일간의 기록… ‘거짓의 시간’",
+        "time": "2025-10-14T00:00:00",
+        "img": "",
+        "url": "https://hanmiilbo.kr/news/view.php?idx=3050&mcode=m247tk9",
+        "original_url": "https://hanmiilbo.kr/news/view.php?idx=3050&mcode=m247tk9",
+        "summary": "",
+        "source": "hanmiilbo",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "현직 국회의원 “김현지, 김일성 추종 경기동부연합 연결” 폭로",
+        "time": "2025-10-14T00:00:00",
+        "img": "",
+        "url": "https://hanmiilbo.kr/news/view.php?idx=3049&mcode=m247tk9",
+        "original_url": "https://hanmiilbo.kr/news/view.php?idx=3049&mcode=m247tk9",
+        "summary": "",
+        "source": "hanmiilbo",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "'북한 찬양' 불법정보 1만건…국정자원 화재에 소실 우려",
+        "time": "2025-10-14T00:00:00",
+        "img": "",
+        "url": "https://hanmiilbo.kr/news/view.php?idx=3045&mcode=m37525y",
+        "original_url": "https://hanmiilbo.kr/news/view.php?idx=3045&mcode=m37525y",
+        "summary": "",
+        "source": "hanmiilbo",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "트럼프 \"중동에 평화 왔다\"…이집트서 '가자평화선언' 서명",
+        "time": "2025-10-14T00:00:00",
+        "img": "",
+        "url": "https://hanmiilbo.kr/news/view.php?idx=3046&mcode=m38dz78",
+        "original_url": "https://hanmiilbo.kr/news/view.php?idx=3046&mcode=m38dz78",
+        "summary": "",
+        "source": "hanmiilbo",
         "date": "2025년 10월 14일 화요일"
       }
     ]
@@ -5867,12 +5921,311 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "'검찰, 평일에도 불러 조사했다'던 이화영, 평일 접견 '수두룩'",
+        "time": "2025-10-14T19:00:06",
+        "img": "https://imgnews.pstatic.net/image/053/2025/10/14/0000052895_001_20251014190006143.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/053/0000052895",
+        "original_url": "https://n.news.naver.com/mnews/article/053/0000052895",
+        "summary": "\"주말까지 불러 진술 회유했다\"고 주장한 李\n\"'대북송금' 보고했다\" 진술 이후...평일 접견 '빼곡'",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "김현지, 이화영 변호인 교체 개입 의혹… 전 변호인 “소통은 사실”",
+        "time": "2025-10-14T18:52:15",
+        "img": "https://imgnews.pstatic.net/image/005/2025/10/14/2025101418510457712_1760435750_1760434042_20251014185709804.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001807719",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001807719",
+        "summary": "“金에게 질책 받아 사임했다 들어”\n대북송금 수사 검사 출석해 증언 \n이화영 “검찰 돕는 행태 보여 설전”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "軍 당국 ‘침묵의 암살자’ 北 북극성 SLBM 실전 투입 가능성 촉각",
+        "time": "2025-10-14T18:49:09",
+        "img": "https://imgnews.pstatic.net/image/005/2025/10/14/2025101418450757695_1760435107_1760429311_20251014184909600.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001807718",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001807718",
+        "summary": "“한·미 정찰 자산 활용 동향 주시”  \n실전 배치 수준 도달하지 못한 듯",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "'한 방' 없이 김현지만 물고 늘어지는 국힘... 난데없는 종북 공세에 \"너무 나갔다\"",
+        "time": "2025-10-14T18:30:14",
+        "img": "https://imgnews.pstatic.net/image/469/2025/10/14/0000891876_001_20251014184412520.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000891876",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000891876",
+        "summary": "정부 여당 실책 파헤치는 야당 무대지만\n제대로 된 견제나 대안 없이 존재감 부재\n金-경기동부연합 유착설 결정적 근거 없어\n대통령실 \"5공 때도 안 먹힐 프레임\" 일축",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "주한美공군 근무 韓노동자 10월 급여 안나온 이유는?…주한미군 “해결중”",
+        "time": "2025-10-14T18:11:11",
+        "img": "https://imgnews.pstatic.net/image/021/2025/10/14/0002742501_002_20251014181112044.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002742501",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002742501",
+        "summary": "美셧다운 여파 가능성에 주한미군 “韓직원 급여에는 영향 없어”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "미-중 ‘입항료 전쟁’ 시작…중 ‘마스가 핵심’ 한화오션 때렸다",
+        "time": "2025-10-14T19:02:23",
+        "img": "https://imgnews.pstatic.net/image/028/2025/10/14/0002770801_001_20251014190223097.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002770801",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002770801",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "美·中갈등 불똥, '마스가 협력' 한화에 튀어…재계 \"정부 역할 필요\"",
+        "time": "2025-10-14T19:01:11",
+        "img": "https://imgnews.pstatic.net/image/079/2025/10/14/0004075047_001_20251014190111264.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/079/0004075047",
+        "original_url": "https://n.news.naver.com/mnews/article/079/0004075047",
+        "summary": "중국 상무부 '한화오션 5개 미국 자회사 제재' 발표\n한미 조선협력 상징 '필리조선소'도 포함\n모회사 한화오션 \"사업적 영향 면밀히 검토 중\" 당혹 기류\n재계서는 \"정부 차원 대책 마련과 지원 필요\" 의견도",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "강달러 올라탄 美 장기채 ETF… 엔화형은 환차손에 발목",
+        "time": "2025-10-14T18:52:20",
+        "img": "https://imgnews.pstatic.net/image/014/2025/10/14/0005419197_001_20251014185220903.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005419197",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005419197",
+        "summary": "미·중 갈등에 미국채 금리 4%대로\n달러 연동 ETF 수익률 5% 육박\n‘약세’ 엔화형은 평가이익 반납\n美 셧다운으로 FOMC 판단 공백\n증권가 \"금리 추가 하락은 제한적\"",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "‘마스가’에 재 뿌린 중국…한화오션 미국 자회사 5곳 제재",
+        "time": "2025-10-14T18:52:15",
+        "img": "https://imgnews.pstatic.net/image/009/2025/10/14/0005572813_001_20251014185215541.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005572813",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005572813",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "조좌진 대표 “해킹 이후 180억 긴급 투입, 연말까지 투자안 보고”",
+        "time": "2025-10-14T18:17:10",
+        "img": "https://imgnews.pstatic.net/image/243/2025/10/14/0000086345_001_20251014181710071.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/243/0000086345",
+        "original_url": "https://n.news.naver.com/mnews/article/243/0000086345",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "중국 최대 지하교회 이끌던 조선족 목사 김명일 전격 체포[시스루피플]",
+        "time": "2025-10-14T19:07:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/10/14/0003401946_001_20251014190810742.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003401946",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003401946",
+        "summary": "중, 비인가 시온교회 목사 30명 체포\n펜데믹 시절 온라인으로 1만명 모아\n미국 종교의 자유 요구 두고 갈등 예상",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "한화오션에 날아든 미·중 갈등 ‘불똥’…“미국 자회사 5곳 제재”",
+        "time": "2025-10-14T18:56:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/10/14/0003401943_001_20251014185814653.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003401943",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003401943",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "가자지구 해결 후 우크라로 눈 돌리는 트럼프",
+        "time": "2025-10-14T18:48:22",
+        "img": "https://imgnews.pstatic.net/image/005/2025/10/14/2025101418400757666_1760434807_1760432626_20251014184822380.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001807715",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001807715",
+        "summary": "17일 백악관서 젤렌스키 만나기로\n“가자 성과로 피스메이커 능력 입증”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "쯔양 “악플 남길때 상대방 생각하길..2차 보복 두려웠다”",
+        "time": "2025-10-14T19:00:09",
+        "img": "https://imgnews.pstatic.net/image/018/2025/10/14/0006138102_001_20251014190113213.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006138102",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006138102",
+        "summary": "[2025 국감]\n유튜버 쯔양, 사이버 렉카 피해 증언\n“유튜브 확산 속도에 비해 삭제조치 느려”\n고액의 소송 비용과 2차 가해의 두려움\n과방위 “정기 국회 내 관련 입법 처리할 것”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "\"이재명-트럼프 어떤 협상 있었나 몰라도…美 온플법 반발은 언어도단\"[2025 국감]",
+        "time": "2025-10-14T18:58:14",
+        "img": "https://imgnews.pstatic.net/image/119/2025/10/14/0003012527_001_20251014190813465.jpeg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0003012527",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0003012527",
+        "summary": "박범계 민주당 의원, 정무위 국감서 구글 '과도한 수수료' 지적\n\"美 법원은 수수료 규제 판결\"…미국측 온플법 문제 제기 비판\n\"시장경제 체제에서 독점은 안돼…양국 협상 떠나 반드시 준수\"",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "[속보] 카카오 “카톡 업데이트 이전으로 롤백 불가”",
+        "time": "2025-10-14T18:40:10",
+        "img": "https://imgnews.pstatic.net/image/011/2025/10/14/0004543215_001_20251014190210677.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004543215",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004543215",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "애플코리아 사장 \"수수료갑질·영업보복 사항 본사에 잘 전달\"",
+        "time": "2025-10-14T18:22:50",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/14/0008537760_001_20251014182316025.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008537760",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008537760",
+        "summary": "[국감현장]영업보복 지적에 \"수십만건 앱 심사로 바빠\" 해명\n최대 30% 수수료엔 최적용기업 비율 '눈속임' 반복",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "트럼프 2기 ‘AI 대장기업’ 오라클 콘퍼런스에 달아오르는 라스베이거스… AI 거품론 불식될까",
+        "time": "2025-10-14T17:39:13",
+        "img": "https://imgnews.pstatic.net/image/029/2025/10/14/0002987051_002_20251014190311983.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002987051",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002987051",
+        "summary": "트럼프 2기에만 주가 40% 급등\n1.5만명 집결… 14일부터 새소식\n오라클DB·솔루션 등 대거 나올듯\n진입장벽 완화·판도변화에 주목",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "中왕이, EU·캐나다 등 서방국가들과 잇달아 회동",
+        "time": "2025-10-14T19:08:44",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/14/NISI20250710_0000481207_web_20250710112120_20251014190921822.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013534336",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013534336",
+        "summary": "스페인·프랑스·스웨덴·캐나다 외교수장과 만남",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "[속보] 대통령실 \"캄보디아서 사망한 韓국민 부검 및 국내운구 추진\"",
+        "time": "2025-10-14T18:58:40",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/14/PYH2025101416520001300_P4_20251014190215656.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015677699",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015677699",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "[속보] 대통령실 \"한-캄보디아 정부 '스캠 합동대응 TF' 구성 합의\"",
+        "time": "2025-10-14T18:58:22",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/14/PYH2025101416580001300_P4_20251014190213669.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015677698",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015677698",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "중국, 한화오션 미국 자회사 5곳 제재… 한·미 조선협력 견제",
+        "time": "2025-10-14T18:48:24",
+        "img": "https://imgnews.pstatic.net/image/005/2025/10/14/2025101418390457656_1760434744_1760433697_20251014184824517.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001807716",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001807716",
+        "summary": "“미국 조사 협조해 中에 해 끼쳤다”\n필리조선소 등에 미·중 갈등 유탄\n양국 입항수수료 징수 ‘해운 확전’",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "새 日총리 오리무중이지만… 다카이치, 탕평 내각 준비 중",
+        "time": "2025-10-14T18:48:18",
+        "img": "https://imgnews.pstatic.net/image/005/2025/10/14/2025101418401057668_1760434810_1760431270_20251014184818191.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001807714",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001807714",
+        "summary": "고이즈미 등 경쟁자들 중용 방침\n제3야당 다마키도 집권 의지 표명",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "노벨경제학상 3인, 트럼프 고관세·반이민 정책 비판 '이구동성'",
+        "time": "2025-10-14T19:01:12",
+        "img": "https://imgnews.pstatic.net/image/469/2025/10/14/0000891891_001_20251014190112367.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000891891",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000891891",
+        "summary": "개방성 강조 “국경 막히면 혁신 불가”\n“독점·저출생, 한국 경제 성장 걸림돌”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "우크라 무기지원 하반기 들어 43％ 급감",
+        "time": "2025-10-14T18:54:56",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/14/AKR20251014175100082_01_i_P4_20251014185513164.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015677692",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015677692",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "뜬금 솟아오른 러 잠수함…나토 \"정비공 찾아 다니냐\"",
+        "time": "2025-10-14T19:09:15",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/14/0008537831_001_20251014191017343.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008537831",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008537831",
+        "summary": "러 잠수함 노보로시스크, 북해서 수면 위 부상",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "강제퇴거 저항위해 가스탱크 폭발시켜 伊군사경찰 3명 사망 13명 부상",
+        "time": "2025-10-14T18:40:47",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/14/NISI20251014_0000715771_web_20251014183844_20251014184125715.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013534320",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013534320",
+        "summary": "버려진 건물 점거했던 중년 남성 2명과 여동생 체포",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "군부도 시위대 합류하자···라조엘리나 마다가스카르 대통령, 사퇴 거부하고 도피",
+        "time": "2025-10-14T18:41:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/10/14/0003401939_001_20251014184816515.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003401939",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003401939",
+        "summary": "SNS서 “암살·쿠데타 시도 있었다” 주장\n프랑스 언론, 유력 행선지로 두바이 지목\n“이번 도피는 마크롱과 협의 따라 이뤄져”",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "우크라 무기 지원, 올해 하반기에 급감",
+        "time": "2025-10-14T19:05:25",
+        "img": "https://imgnews.pstatic.net/image/056/2025/10/14/0012046389_001_20251014190935447.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012046389",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012046389",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 14일 화요일"
       }
     ]
   },
   {
     "date": "2025년 10월 14일 화요일",
     "articles": [
+      {
+        "title": "[속보] 대통령실 “한-캄 스캠 합동 대응 TF…특별항공편 투입 범죄 혐의자 송환”",
+        "time": "2025-10-14T19:03:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHdNa1o0VlU0MFkyVTNORWRyVFJDb0FSaXNBaWdCTWdZMUpKSndyUVk=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE1NVEFRXzRHci04RlRCRlAzZ3JKQm51NFJwN3RyWmN6eFRPd1UzM2NLVWpiZHpMSW5NTF9GQUw5M3pCeG9vTjBXMlZDNW5jd00?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiT0FVX3lxTE1NVEFRXzRHci04RlRCRlAzZ3JKQm51NFJwN3RyWmN6eFRPd1UzM2NLVWpiZHpMSW5NTF9GQUw5M3pCeG9vTjBXMlZDNW5jd00?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 14일 화요일"
+      },
       {
         "title": "[속보] 경찰, 캄보디아 구금 한국인 63명 한 달 내 전원 송환 목표… 국수본부장 현지 급파",
         "time": "2025-10-14T17:58:00+00:00",
@@ -6362,6 +6715,81 @@
         "url": "https://www.gukjenews.com/news/articleView.html?idxno=3400316",
         "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3400316",
         "source": "Gukje",
+        "date": "2025년 10월 14일 화요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 10월 14일 화요일",
+    "articles": [
+      {
+        "title": "[AI와 보안] 잇따른 해킹 사고 후...최고 관심 솔루션은 ‘AI 보안 자동화’",
+        "time": "2025-10-14T18:04:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781311273_586.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139750&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139750&page=1&kind=1",
+        "summary": "[3줄 요약]1. 국내 보안 분야 종사자 998명 대상 설문조사 실시2. ‘AI 기반 보안 자동화’가 관심 솔루션 1위3. 위협 탐지와 대응 효율 향상 효과[보안뉴스 강현주 기자] 올해 잇따라 발생한 해킹 사고들을 겪은 이후 보안업  종사자들의 관심을 가장 많이 받는 분야는 ‘AI 기반 보안 자동화’인 것으로 나타났다. 특히 사이버 위협 탐지와 대응 시 효...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "[AI와 보안] 악성 문서 250개만 있어도 초거대 AI 모델 해킹 통로 뚫린다",
+        "time": "2025-10-14T14:47:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781246421_9488.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139746&page=1&kind=4",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139746&page=1&kind=4",
+        "summary": "오염 여부는 모델 크기와 상관없어…“악성 문서 250개면 해킹 통로 뚫린다”[보안뉴스 김형근 기자] 고성능 AI 챗봇의 기반인 거대 언어 모델(LLMs)이 당초 생각보다 데이터 오염 공격에 더 취약한 것으로 드러났다.미국 앤트로픽과 영국 AI 보안 연구소(UK AI Security Institute), 앨런튜링연구소(Alan Turing Institute)...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "씨프로, 딥러닝 학습 방식 기반의 엣지 기반 AI 코너 돔 IP 카메라",
+        "time": "2025-10-14T18:14:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781319371_2971.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139752&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139752&page=1&kind=3",
+        "summary": "NST18-75L-R특수한 목적 맞춘 디자인과 컴팩트한 사이즈의 강력한 성능 탑재기존 감시 시스템보다 지능적이고 효율적인 운영 가능[보안뉴스 엄호식 기자] 씨프로가 딥러닝 학습 방식을 기반으로 차원이 다른 객체 인식 성능을 자랑하는 ‘엣지 기반 AI 코너 돔 IP 카메라(AI 5M IP IR Mini Corner Dome: NST18-75L-R)’를 선보였...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "소방청,기후위기 등 미래 재난대응 역량 강화 위한 AI 전담조직 가동",
+        "time": "2025-10-14T13:38:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781245727_1911.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139742&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139742&page=1&kind=2",
+        "summary": "기후위기 및 초대형 재난에 선제·과학적으로 대응하는 AI 전담조직 운영미래 재난에 강한 안전사회를 만들기 위한 초석[보안뉴스 강초희 기자] 소방청(청장 직무대행 김승룡)은 급격히 심화되는 기후위기와 AI 시대의 도래에 대응하기 위해 기존 자율기구인 ‘소방과학기술과’를 ‘소방AI기후위기대응과’로 개편한다고 밝혔다.▲소방청 로고 [자료: 소방청]최근 이상기후로...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "티피링크, 글로벌 인재 3인 핵심 임원으로 영입...미국 본사 B2B 조직 확대",
+        "time": "2025-10-14T09:37:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567813739_7597.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139729&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139729&page=1&kind=3",
+        "summary": "글로벌 업계 출신의 임원 합류로 미국 시장 내 리더십 및 파트너 가치 강화미국 B2B 비즈니스 ‘Omada’ 중심으로 영업·서비스·채널 역량 확대[보안뉴스 강초희 기자] 글로벌 네트워킹 및 스마트홈 솔루션 선도기업 TP-Link Systems Inc.는 미국 시장 내 B2B 사업 역량 강화를 위해 3명의 핵심 임원을 새롭게 영입했다고 밝혔다.▲(좌측부터) ...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "전북자치도, 도민 자동 가입 ‘도민안전보험’으로 지역 안전 보장 책임져",
+        "time": "2025-10-13T11:27:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567434841_6918.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139714&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139714&page=2&kind=2",
+        "summary": "전북도민이 별도의 가입 절차 없이 자동 가입되는 안전보험재난·사고의 든든한 안전망...올해만 2,505명 보상, 지급액 18억 3,000만원[보안뉴스 강초희 기자] 전북특별자치도가 운영하는 ‘도민안전보험’이 일상에서 발생하는 각종 사고와 재난으로 피해를 입은 도민들에게 든든한 안전망 역할을 하고 있다.▲전북특별자치도가 운영하는 ‘도민안전보험’ 보장 내역 [...",
+        "source": "boannews",
+        "date": "2025년 10월 14일 화요일"
+      },
+      {
+        "title": "기원테크, AI 기반 통합 보안 플랫폼 ‘이지플랫폼’으로 랜섬웨어 선제적 방어 나서",
+        "time": "2025-10-13T11:26:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567432383_8241.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139716&page=2&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139716&page=2&kind=3",
+        "summary": "랜섬웨어 진원지 이메일, 가상 공간 분석 및 3단계 행위 검사로 위협 원천 차단국제표준 기술력 기반 통합 보안, 신종 APT 및 표적형 공격 무력화 시대 개막[보안뉴스 조재호 기자] 기원테크는 지능화된 랜섬웨어 공격에 대응하기 위해 인공지능(AI) 및 머신러닝 기술을 통합한 자사의 이메일 보안 플랫폼 ‘이지플랫폼’(EG-Platform)의 방어 기술력을 한...",
+        "source": "boannews",
         "date": "2025년 10월 14일 화요일"
       }
     ]
@@ -9135,6 +9563,195 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/hankooki/20251014183251285kizw.jpg",
         "url": "https://v.daum.net/v/20251014183249510",
         "original_url": "https://v.daum.net/v/20251014183249510",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "사망 공무원 변호인 \"강압 수사\"…특검팀 \"변호인 권한 있나\"",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/inews24/20251014191024596dtxn.jpg",
+        "url": "https://v.daum.net/v/20251014191022710",
+        "original_url": "https://v.daum.net/v/20251014191022710",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "교육 수장들 \"고교학점제 중단 안 해…심각한 선행 사교육, 규제 논의해야\"(종합2보)",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/newsis/20251014192115223jqpu.jpg",
+        "url": "https://v.daum.net/v/20251014192115976",
+        "original_url": "https://v.daum.net/v/20251014192115976",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "전북대 등 국제화 지표 부진, 서울대 10개 만들기’ 의문",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/551733-DUdnLPA/20251014191941332emct.jpg",
+        "url": "https://v.daum.net/v/20251014191940942",
+        "original_url": "https://v.daum.net/v/20251014191940942",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "맨손으로 '이것' 만지고 웃는 손님…'스시 테러' 또?",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/akn/20251014184913717jgso.jpg",
+        "url": "https://v.daum.net/v/20251014184912024",
+        "original_url": "https://v.daum.net/v/20251014184912024",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "합참의장 “불법 계엄은 내란 행위”…여야 정면충돌 [2025 국감]",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kukinews/20251014191148579prcl.jpg",
+        "url": "https://v.daum.net/v/20251014191147747",
+        "original_url": "https://v.daum.net/v/20251014191147747",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "우크라 무기지원 하반기 들어 43％ 급감",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/yonhap/20251014185711017whrm.jpg",
+        "url": "https://v.daum.net/v/20251014185710314",
+        "original_url": "https://v.daum.net/v/20251014185710314",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "美, 철강·알루미늄 품목관세 확대…대응력 취약 中企 큰 타격",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/551746-KJTfZ0q/20251014192135286vakp.jpg",
+        "url": "https://v.daum.net/v/20251014192134987",
+        "original_url": "https://v.daum.net/v/20251014192134987",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "캄보디아 등 軍 국민 보호 지적에… 진영승 합참의장 “동의”",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kukminilbo/20251014185047919fzgi.jpg",
+        "url": "https://v.daum.net/v/20251014184854015",
+        "original_url": "https://v.daum.net/v/20251014184854015",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "합참의장 \"北 ICBM 화성-20형, 러 기술지원 가능성 충분\"",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/hankooki/20251014190214368bavn.jpg",
+        "url": "https://v.daum.net/v/20251014190212479",
+        "original_url": "https://v.daum.net/v/20251014190212479",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "개성공단 복원되나… 남북교류 협력기구들 되살린다 [李정부 첫 국정감사]",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/fnnewsi/20251014191850757zmgd.jpg",
+        "url": "https://v.daum.net/v/20251014191850931",
+        "original_url": "https://v.daum.net/v/20251014191850931",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "軍 당국 ‘침묵의 암살자’ 北 북극성 SLBM 실전 투입 가능성 촉각",
+        "time": "2025-10-14T10:34:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kukminilbo/20251014185052418hpbw.jpg",
+        "url": "https://v.daum.net/v/20251014185051074",
+        "original_url": "https://v.daum.net/v/20251014185051074",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "[새벽메아리] 팔레스타인 평화를 위한 세계시민연대",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/551733-DUdnLPA/20251014191301455upeo.jpg",
+        "url": "https://v.daum.net/v/20251014191300797",
+        "original_url": "https://v.daum.net/v/20251014191300797",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "미-중 ‘입항료 전쟁’ 시작…중 ‘마스가 핵심’ 한화오션 때렸다",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/hani/20251014190621569adrv.jpg",
+        "url": "https://v.daum.net/v/20251014190620604",
+        "original_url": "https://v.daum.net/v/20251014190620604",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "한화오션에 날아든 미·중 갈등 ‘불똥’…“미국 자회사 5곳 제재”",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/khan/20251014185915836fyup.jpg",
+        "url": "https://v.daum.net/v/20251014185914391",
+        "original_url": "https://v.daum.net/v/20251014185914391",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "미 재무 “트럼프, 시진핑 만날 것…정부 셧다운 여파 심각”",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kbs/20251014193150607xfzx.jpg",
+        "url": "https://v.daum.net/v/20251014193148218",
+        "original_url": "https://v.daum.net/v/20251014193148218",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "[르포] 중국 부호들이 장악한 '감옥 도시' 캄보디아 시하누크빌",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/yonhap/20251014192623829sooa.jpg",
+        "url": "https://v.daum.net/v/20251014192623082",
+        "original_url": "https://v.daum.net/v/20251014192623082",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "영국서 '가자휴전에 중대역할 했나' 정치권 실랑이",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/yonhap/20251014192216749nffg.jpg",
+        "url": "https://v.daum.net/v/20251014192216008",
+        "original_url": "https://v.daum.net/v/20251014192216008",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "가자지구 해결 후 우크라로 눈 돌리는 트럼프",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kukminilbo/20251014184854242vpnp.jpg",
+        "url": "https://v.daum.net/v/20251014184853014",
+        "original_url": "https://v.daum.net/v/20251014184853014",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "새 日총리 오리무중이지만… 다카이치, 탕평 내각 준비 중",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/kukminilbo/20251014184852488fpgo.jpg",
+        "url": "https://v.daum.net/v/20251014184851011",
+        "original_url": "https://v.daum.net/v/20251014184851011",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "中, 한화오션 美자회사 5곳 제재… 경주담판 앞두고 총공세 [마스가 견제 나선 中]",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/fnnewsi/20251014191426491bebq.jpg",
+        "url": "https://v.daum.net/v/20251014191426829",
+        "original_url": "https://v.daum.net/v/20251014191426829",
+        "source": "daum",
+        "date": "2025년 10월 14일 Tuesday"
+      },
+      {
+        "title": "중국 최대 지하교회 이끌던 조선족 목사 김명일 전격 체포[시스루피플]",
+        "time": "2025-10-14T10:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/14/khan/20251014190948740hpya.png",
+        "url": "https://v.daum.net/v/20251014190947698",
+        "original_url": "https://v.daum.net/v/20251014190947698",
         "source": "daum",
         "date": "2025년 10월 14일 Tuesday"
       }
