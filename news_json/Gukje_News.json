@@ -16571,6 +16571,21 @@
   },
   {
     "date": "2025년 10월 15일 수요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "'페루 대선 후보' 포키, '갱단과의 전쟁' 선포",
+        "time": "2025-10-15T11:12:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202510/3400963_3532256_125_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3400963",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3400963"
+      },
+      {
+        "title": "인도네시아 화산 폭발, 밤하늘에 화산재 분출",
+        "time": "2025-10-15T11:22:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202510/3401006_3532273_2157_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3401006",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3401006"
+      }
+    ]
   }
 ]
