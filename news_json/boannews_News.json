@@ -4500,5 +4500,58 @@
         "summary": "랜섬웨어 진원지 이메일, 가상 공간 분석 및 3단계 행위 검사로 위협 원천 차단국제표준 기술력 기반 통합 보안, 신종 APT 및 표적형 공격 무력화 시대 개막[보안뉴스 조재호 기자] 기원테크는 지능화된 랜섬웨어 공격에 대응하기 위해 인공지능(AI) 및 머신러닝 기술을 통합한 자사의 이메일 보안 플랫폼 ‘이지플랫폼’(EG-Platform)의 방어 기술력을 한..."
       }
     ]
+  },
+  {
+    "date": "2025년 10월 15일 수요일",
+    "articles": [
+      {
+        "title": "서버 보안의 새로운 패러다임 제시... IAM을 넘어 ‘커널’까지 통제",
+        "time": "2025-10-15T09:14:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781529188_477.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139755&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139755&page=1&kind=3",
+        "summary": "넷앤드, ‘실시간 무결성 관리’와 ‘세분화된 파일 접근 통제’ 기능으로 심층 방어 체계 확장[보안뉴스 원병철 기자] 통신사 해킹과 김수키 조직의 정부기관 침투 사건 등 최근 잇따른 대규모 사이버 침해 사고는 기존 보안 체계에 대한 근본적인 질문을 던지고 있다. “일단 안으로 들어온 공격자는 어떻게 막을 것인가?”[자료: gettyimagesbank]통합 접..."
+      },
+      {
+        "title": "[AI와 보안] 악성 문서 250개만 있어도 초거대 AI 모델 해킹 통로 뚫린다",
+        "time": "2025-10-14T14:47:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781246421_9488.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139746&page=2&kind=4",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139746&page=2&kind=4",
+        "summary": "오염 여부는 모델 크기와 상관없어…“악성 문서 250개면 해킹 통로 뚫린다”[보안뉴스 김형근 기자] 고성능 AI 챗봇의 기반인 거대 언어 모델(LLMs)이 당초 생각보다 데이터 오염 공격에 더 취약한 것으로 드러났다.미국 앤트로픽과 영국 AI 보안 연구소(UK AI Security Institute), 앨런튜링연구소(Alan Turing Institute)..."
+      },
+      {
+        "title": "소방청,기후위기 등 미래 재난대응 역량 강화 위한 AI 전담조직 가동",
+        "time": "2025-10-14T13:38:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/781245727_1911.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139742&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139742&page=2&kind=2",
+        "summary": "기후위기 및 초대형 재난에 선제·과학적으로 대응하는 AI 전담조직 운영미래 재난에 강한 안전사회를 만들기 위한 초석[보안뉴스 강초희 기자] 소방청(청장 직무대행 김승룡)은 급격히 심화되는 기후위기와 AI 시대의 도래에 대응하기 위해 기존 자율기구인 ‘소방과학기술과’를 ‘소방AI기후위기대응과’로 개편한다고 밝혔다.▲소방청 로고 [자료: 소방청]최근 이상기후로..."
+      },
+      {
+        "title": "티피링크, 글로벌 인재 3인 핵심 임원으로 영입...미국 본사 B2B 조직 확대",
+        "time": "2025-10-14T09:37:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567813739_7597.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139729&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139729&page=3&kind=3",
+        "summary": "글로벌 업계 출신의 임원 합류로 미국 시장 내 리더십 및 파트너 가치 강화미국 B2B 비즈니스 ‘Omada’ 중심으로 영업·서비스·채널 역량 확대[보안뉴스 강초희 기자] 글로벌 네트워킹 및 스마트홈 솔루션 선도기업 TP-Link Systems Inc.는 미국 시장 내 B2B 사업 역량 강화를 위해 3명의 핵심 임원을 새롭게 영입했다고 밝혔다.▲(좌측부터) ..."
+      },
+      {
+        "title": "전북자치도, 도민 자동 가입 ‘도민안전보험’으로 지역 안전 보장 책임져",
+        "time": "2025-10-13T11:27:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567434841_6918.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139714&page=3&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139714&page=3&kind=2",
+        "summary": "전북도민이 별도의 가입 절차 없이 자동 가입되는 안전보험재난·사고의 든든한 안전망...올해만 2,505명 보상, 지급액 18억 3,000만원[보안뉴스 강초희 기자] 전북특별자치도가 운영하는 ‘도민안전보험’이 일상에서 발생하는 각종 사고와 재난으로 피해를 입은 도민들에게 든든한 안전망 역할을 하고 있다.▲전북특별자치도가 운영하는 ‘도민안전보험’ 보장 내역 [..."
+      },
+      {
+        "title": "기원테크, AI 기반 통합 보안 플랫폼 ‘이지플랫폼’으로 랜섬웨어 선제적 방어 나서",
+        "time": "2025-10-13T11:26:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/567432383_8241.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139716&page=3&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139716&page=3&kind=3",
+        "summary": "랜섬웨어 진원지 이메일, 가상 공간 분석 및 3단계 행위 검사로 위협 원천 차단국제표준 기술력 기반 통합 보안, 신종 APT 및 표적형 공격 무력화 시대 개막[보안뉴스 조재호 기자] 기원테크는 지능화된 랜섬웨어 공격에 대응하기 위해 인공지능(AI) 및 머신러닝 기술을 통합한 자사의 이메일 보안 플랫폼 ‘이지플랫폼’(EG-Platform)의 방어 기술력을 한..."
+      }
+    ]
   }
 ]
