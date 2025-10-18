@@ -134275,6 +134275,13 @@
     "date": "2025년 10월 18일 토요일",
     "articles": [
       {
+        "title": "의성군, 가축전염병 ‘특별방역대책기간’ 돌입…거점소독시설 24시간 가동 돌입",
+        "time": "2025-10-18T23:00:41+00:00",
+        "img": "/api/attachments/CC8iK0NnNUllbWxRUmtwQ2VYTTJaWGt0VFJEZ0F4aUFCU2dLTWdhWkVvRE5zUVE=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMib0FVX3lxTFA4Z0pzLU02RGtfd3FsQy1ZVGxOZHFQXzFGQmFsbmN2bXhMQXB2VzlFNXZLSzFPU3JFTXdMMndCZzFBcnRKYk5nSzZZYW9mSFNtSDlYTE1pNHBaTnpxOVU2dVBkczlteUg4LURGNThkcw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMib0FVX3lxTFA4Z0pzLU02RGtfd3FsQy1ZVGxOZHFQXzFGQmFsbmN2bXhMQXB2VzlFNXZLSzFPU3JFTXdMMndCZzFBcnRKYk5nSzZZYW9mSFNtSDlYTE1pNHBaTnpxOVU2dVBkczlteUg4LURGNThkcw?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
         "title": "필리핀 민다나오섬 규모 5.7 지진",
         "time": "2025-10-18T22:18:05+00:00",
         "img": "/api/attachments/CC8iK0NnNXJTbXM1U1hwek1tZElVVmd0VFJDZkF4ampCU2dLTWdhaE5ZZ01vZ2M=-w100-h100-p-df",
@@ -134336,6 +134343,20 @@
         "img": "/api/attachments/CC8iL0NnNUNUekF4Ym1oQmVrUkVVWE5rVFJDN0FoallCQ2dLTWdtVkk1eFJJU21heFFJ=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMingFBVV95cUxOV09Rd0txWHo3NlN6eWhkeWdhaV9mNWpwZUlYR3hodDlqbVJDbkxaYnlfSDdkTUJJNFFXdm1SRHVmb3lvZ1NqYUNfWkhrSGZYbkhVZVNLYXNSVFVBd0VIWktURUsyZkhKRmItX1BuUUNkeFNUUnJiazloODdRWm9TZ1hKaUM5enZOS0lOSzh2UFpXS3VlTmhhcGdPX09yUdIBsgFBVV95cUxNQTBGNFAyVnFiVmIyZHViaVhzUGtNelZRX3ltWnROeWluaWVGVVpFcjhCT3IxekxXbWllaUx3YXlaZ3k5Y1dBRjU0Q0Nub0ZwSGhKc1k5aktLWW9heFBRb3FKZ191QWtZZFBsRnhLalFxVmJoelFfdzlYVlZreGYtQnZLWXhZVXZkVDY3ZVB0N1ViTVV1c3Frc1RTbV85d1JJRUJYQU1kblA1bFJnTHpKampn?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMingFBVV95cUxOV09Rd0txWHo3NlN6eWhkeWdhaV9mNWpwZUlYR3hodDlqbVJDbkxaYnlfSDdkTUJJNFFXdm1SRHVmb3lvZ1NqYUNfWkhrSGZYbkhVZVNLYXNSVFVBd0VIWktURUsyZkhKRmItX1BuUUNkeFNUUnJiazloODdRWm9TZ1hKaUM5enZOS0lOSzh2UFpXS3VlTmhhcGdPX09yUdIBsgFBVV95cUxNQTBGNFAyVnFiVmIyZHViaVhzUGtNelZRX3ltWnROeWluaWVGVVpFcjhCT3IxekxXbWllaUx3YXlaZ3k5Y1dBRjU0Q0Nub0ZwSGhKc1k5aktLWW9heFBRb3FKZ191QWtZZFBsRnhLalFxVmJoelFfdzlYVlZreGYtQnZLWXhZVXZkVDY3ZVB0N1ViTVV1c3Frc1RTbV85d1JJRUJYQU1kblA1bFJnTHpKampn?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "[속보] “트럼프, 아시아 방문 때 ‘김정은 회동’ 비공식 논의 중”···성사 가능성은",
+        "time": "2025-10-18T20:19:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVlZVWxQTnpndFYwbFNOamg0VFJERUF4aW1CU2dLTWdZQlFaWXJJUWs=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE5YWFZsWjJzQ0ZFLW9yc19vUVF0RTlQeVI4bzFJYzh2bVlfVXRiMU1fNU9mZU9mM29CcnI3aHR6X2ZiN3VBN0JDV0NqQmMyRmF6X01kQmMydnJHQdIBX0FVX3lxTE5vaXZnZGJZY3RIaXNabzVYdlN6UmlZVFcwZlVQNzFZU2NjVG5EYW10ZHl1eVJoWmNzZkVULXZ0ZzZkRGoxdDZNLVRGWXNoeHJRVDF5Tm1HVDdBZGxlakhv?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE5YWFZsWjJzQ0ZFLW9yc19vUVF0RTlQeVI4bzFJYzh2bVlfVXRiMU1fNU9mZU9mM29CcnI3aHR6X2ZiN3VBN0JDV0NqQmMyRmF6X01kQmMydnJHQdIBX0FVX3lxTE5vaXZnZGJZY3RIaXNabzVYdlN6UmlZVFcwZlVQNzFZU2NjVG5EYW10ZHl1eVJoWmNzZkVULXZ0ZzZkRGoxdDZNLVRGWXNoeHJRVDF5Tm1HVDdBZGxlakhv?hl=ko&gl=KR&ceid=KR%3Ako"
+      },
+      {
+        "title": "장동혁 결국 윤석열 면회…민주 “위헌정당 스스로 확인”",
+        "time": "2025-10-18T20:19:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNDFSbDlxU21vME5GWkNlSE5ZVFJDdUFSaWlBaWdCTWdtTmNZeldNS2FweXdF=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMidEFVX3lxTE5Xd0ItY0dFN2swcldoQUVSbkdYYWI1bUJGNlNJZjZVeXZVMElkX0dGMGU5a1NaZWliVDZhQlU1TTg3d0RKdzFIaDBSX2hjNWVEblg3b2p2REtrZmF2amxIbWR3YXNKX1NiQXJmWGxCVzRlYlV1?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMidEFVX3lxTE5Xd0ItY0dFN2swcldoQUVSbkdYYWI1bUJGNlNJZjZVeXZVMElkX0dGMGU5a1NaZWliVDZhQlU1TTg3d0RKdzFIaDBSX2hjNWVEblg3b2p2REtrZmF2amxIbWR3YXNKX1NiQXJmWGxCVzRlYlV1?hl=ko&gl=KR&ceid=KR%3Ako"
       },
       {
         "title": "트럼프, 한국 콕 집어 ‘공정한 대우’ 요구…‘500조’ 선불 투자 압박",
