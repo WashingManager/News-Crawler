@@ -16871,6 +16871,21 @@
   },
   {
     "date": "2025년 10월 19일 일요일",
-    "articles": []
+    "articles": [
+      {
+        "title": "경찰, 부동산 범죄와의 전쟁 선포",
+        "time": "2025-10-19T11:31:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202510/3404292_3536166_318_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3404292",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3404292"
+      },
+      {
+        "title": "미국 전역, 트럼프 정책 반대 시위로 들끓다",
+        "time": "2025-10-19T12:03:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202510/3404307_3536178_37_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3404307",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3404307"
+      }
+    ]
   }
 ]
