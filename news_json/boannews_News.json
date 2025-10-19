@@ -4712,5 +4712,26 @@
         "summary": "정부·지자체·산업계 협력 강화특강 및 지역 기업 연구성과 발표도 진행[보안뉴스 엄호식 기자] 한국재난안전산업협회(회장 서병일)는 10월 17일 경일대학교(경북 경산시)에서 ‘대경지부 개소식 및 재난안전산업 발전 간담회’를 열고, 지역 기반의 연구개발 성과를 공유하며 정부·지자체·산업계 간 협력 방안을 논의했다.▲한국재난안전산업협회가 대경지부 개소식 및 재난..."
       }
     ]
+  },
+  {
+    "date": "2025년 10월 19일 일요일",
+    "articles": [
+      {
+        "title": "中 국가안보부, “미국이 中 국가 연구기관 해킹”",
+        "time": "2025-10-19T16:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/562926900_3746.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139827&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139827&page=1&kind=1",
+        "summary": "[보안뉴스 한세희 기자] 미국이 중국 국가시간서비스센터를 겨냥해 장기간 사이버 공격을 수행했다고 중국 국가안보부가 19일 밝혔다.중국 북서부 시안에 있는 중국과학원 산하 국가시간서비스센터는 중국 표준시를 생성 및 유지하고 송출하는 역할을 한다.국가안보부는 공식 위챗 계정에 올린 설명에서 “미국 국가안보국(NSA)이 2022년 3월부터 국가시간서비스센터 직원..."
+      },
+      {
+        "title": "CISA, 어도비 핵심 취약점 긴급 경고... CVSS 10점 기록, 이미 실제 공격에 사용",
+        "time": "2025-10-19T08:01:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/349433618_7924.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139823&page=1&kind=4",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139823&page=1&kind=4",
+        "summary": "한번 HTTP 요청만으로 임의 시스템 명령 실행 가능...시스템 탈취 위험[보안뉴스 김형근 기자] 미국 사이버보안및인프라 보안국(CISA)이 어도비 익스피리언스 매니저(AEM, Adobe Experience Manager)에 영향을 미치는 치명적 보안 결함을 발견했다.CISA는 이 결함을 ‘활발하게 악용되는 취약점’(KEV) 목록에 추가하고 연방 기관들에 ..."
+      }
+    ]
   }
 ]
