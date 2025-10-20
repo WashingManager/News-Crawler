@@ -4733,5 +4733,66 @@
         "summary": "한번 HTTP 요청만으로 임의 시스템 명령 실행 가능...시스템 탈취 위험[보안뉴스 김형근 기자] 미국 사이버보안및인프라 보안국(CISA)이 어도비 익스피리언스 매니저(AEM, Adobe Experience Manager)에 영향을 미치는 치명적 보안 결함을 발견했다.CISA는 이 결함을 ‘활발하게 악용되는 취약점’(KEV) 목록에 추가하고 연방 기관들에 ..."
       }
     ]
+  },
+  {
+    "date": "2025년 10월 20일 월요일",
+    "articles": [
+      {
+        "title": "소더비, 고객 정보 해킹 확인... 금융정보 등 유출",
+        "time": "2025-10-20T11:44:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/563209800_7657.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=139837&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139837&page=1&kind=1",
+        "summary": "7월 개인정보 유출...2달 간 조사 후 피해 고객 통지경매, 명품 등 부유층 고객 많은 산업군 노린 사이버 범죄 기승[보안뉴스 김형근 기자] 세계적 경매 기업 소더비(Sotheby’s)가 7월 발생한 대규모 데이터 유출 사건에 대한 약 두 달 간의 조사를 마치고 최근 피해 고객에 관련 내용을 통지했다.이 사고로 고객의 이름, 사회보장번호(SSN), 금융 ..."
+      },
+      {
+        "title": "8베이스 랜섬웨어 그룹, 폭스바겐 데이터 탈취 주장...폭스바겐, “핵심 IT 시스템 침해 없어”",
+        "time": "2025-10-20T10:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/563209800_7377.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139835&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139835&page=1&kind=1",
+        "summary": "랜섬웨어 그룹, 폭스바겐 데이터 탈취 추장폭스바겐 “자사 IT 시스템 침해 없다”...협력사 등 통한 자료 유출 가능성 시사[보안뉴스 한세희 기자] 랜섬웨어 그룹 ‘8베이스’(8Base)가 글로벌 자동차 제조사 폭스바겐그룹의 데이터를 탈취했다고 주장했다. 폭스바겐은 자사 IT 시스템은 침해당하지 않았다고 밝혔다.8베이스는 최근 폭스바겐의 회계 문서, 직원 ..."
+      },
+      {
+        "title": "재난대응 안전한국훈련으로 더 안전한 대한민국 만든다",
+        "time": "2025-10-20T16:40:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/776666429_5290.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139844&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139844&page=1&kind=2",
+        "summary": "2025 하반기 재난대응 안전한국훈련, 10월 20일부터 31일까지 197개 기관 참여정부·지자체·국민이 함께 참여해 사회재난 대응체계와 현장 대응 역량 점검[보안뉴스 강초희 기자] 행정안전부(장관 윤호중)는 10월 20일부터 31일까지 2주간 ‘2025년 하반기 재난대응 안전한국훈련’을 실시한다.▲행정안전부 로고 [자료: 행정안전부]안전한국훈련은 다양한 ..."
+      },
+      {
+        "title": "보안 주권 지키자...KISIA, ‘소버린 시큐리티’ 산업계 긴급회의 개최",
+        "time": "2025-10-20T15:55:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/776645667_3539.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139843&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139843&page=1&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 지정학적 경쟁 심화와 데이터 주권 확보 필요성이 대두되는 가운데, 한국정보보호산업협회(KISIA)는 국가 주권을 지키기 위한 ‘소버린 시큐리티’(Sovereign Security)를 주제로 산업계 긴급회의를 열었다고 20일 밝혔다.▲KISIA 자율보안협의체, 소버린 시큐리티 관련 정보보호 산업계 긴급회의 개최 [자료: KISA]이 ..."
+      },
+      {
+        "title": "과기정통부-공군, 양자 기술 국방 적용 협력",
+        "time": "2025-10-20T13:00:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/776645667_4666.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139828&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139828&page=1&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 과기정통부와 공군이 양자 기술의 국방 적용을 위해 협력한다.과학기술정보통신부와 공군은 20일 류제명 과학기술정보통신부 제2차관과 손성락 공군 참모총장이 참석한 가운데, 일산 킨텍스에서 양자과학기술분야 상호협력을 위한 업무협약을 체결했다.▲류제명 과기술정통부 차관(오른쪽)과 손석락 공군참모총장이 20일 고양시 킨텍스에서 양자과학기술분..."
+      },
+      {
+        "title": "“AI가 통화 이력 궁금한 내용 찾아준다”...LG유플러스 ‘익시오 2.0’ 공개",
+        "time": "2025-10-20T11:18:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/563187046_2408.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139836&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139836&page=1&kind=3",
+        "summary": "대화 검색·스마트 요약·디스커버 2.0 등 AI 기능 탑재...초개인화 AI 에이전트 지향안드로이드 사용자엔 피싱 위험 URL 접속 알림 제공[보안뉴스 조재호 기자] LG유플러스가 개인 맞춤형 기능을 추가한 ‘익시오 2.0’(ixi-O 2.0)을 20일 공개했다. 단순 기록이나 반복 업무를 넘어 사용자 맥락을 이해하고 답변을 제공하는 인공지능(AI)를 활용..."
+      },
+      {
+        "title": "안랩클라우드메이트, 한국개발연구원 ‘AI 기반 연구 탐색 서비스 구축 사업’ 수주",
+        "time": "2025-10-20T10:59:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/10/563187046_2305.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=139830&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=139830&page=1&kind=3",
+        "summary": "AI 어시스턴스 구축 지원 플랫폼 ‘애크미아이’ 생성형 AI 데이터 보안 솔루션 ‘시큐어브리지 공급’“KDI가 N2SF 등 주요 컴플라이언스 요건 갖춘 안전한 AI 서비스 활용하도록 지원”[보안뉴스 조재호 기자] 안랩의 AX·MSP 전문 자회사 안랩클라우드메이트는 한국개발연구원(KDI)의 ‘글로벌 확산을 위한 인공지능(AI) 기반 연구 탐색 서비스 구축’ ..."
+      }
+    ]
   }
 ]
