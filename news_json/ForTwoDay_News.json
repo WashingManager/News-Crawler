@@ -100,6 +100,33 @@
         "original_url": "https://www.fnnews.com/news/202510311124343385",
         "source": "Fn",
         "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이재용·젠슨 황, 'AI 동맹' 맺었다...세계 최대 AI팩토리·HBM4 공급 [경주 APEC]",
+        "time": "2025-10-31T15:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510311440364567",
+        "original_url": "https://www.fnnews.com/news/202510311440364567",
+        "source": "Fn",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "현대차그룹, 엔비디아와 'AI 동맹' 강화…블랙웰 5만장으로 AI혁신 발판",
+        "time": "2025-10-31T15:00:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510311114397777",
+        "original_url": "https://www.fnnews.com/news/202510311114397777",
+        "source": "Fn",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "李, 젠슨 황 만나 피지컬 AI 논의…엔비디아 GPU 26만장 이상 확보",
+        "time": "2025-10-31T14:59:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202510311106547041",
+        "original_url": "https://www.fnnews.com/news/202510311106547041",
+        "source": "Fn",
+        "date": "2025년 10월 31일 금요일"
       }
     ]
   },
@@ -2995,12 +3022,651 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "李대통령, 엔비디아 젠슨 황과 AI 협력 확대키로… “대한민국 AI수도로”",
+        "time": "2025-10-31T15:08:10",
+        "img": "https://imgnews.pstatic.net/image/022/2025/10/31/20251031510625_20251031151706988.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004079241",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004079241",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "드디어 공개된 깜짝 선물…李대통령, 젠슨 황 만나 엔비디아 GPU 26만장 확보[경주APEC]",
+        "time": "2025-10-31T15:06:18",
+        "img": "https://imgnews.pstatic.net/image/277/2025/10/31/0005672831_001_20251031152214913.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005672831",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005672831",
+        "summary": "삼성·SK·현대차·네이버와 피지컬 AI 협력\n국내 산학연 기술 협력 및 AI인재 양성도\n李 \"韓 AI 생태계 함께 만들어가길 기대\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이 대통령, 시진핑과 APEC 정상회의장서 첫 대면…시 \"황남빵 맛있게 먹었다\" (종합)",
+        "time": "2025-10-31T15:04:55",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/31/NISI20251031_0021039100_web_20251031135829_20251031150636414.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013572973",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013572973",
+        "summary": "이 대통령, 中 대표단에 황남빵 200상자 보내\n시진핑 \"경주, 매우 인상적인 곳\" 감사 표해",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "홍준표, 이례적 李 대통령 칭찬…\"트럼프 관세 갑질에 선방\"",
+        "time": "2025-10-31T15:03:10",
+        "img": "https://imgnews.pstatic.net/image/586/2025/10/31/0000114970_001_20251031150310019.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/586/0000114970",
+        "original_url": "https://n.news.naver.com/mnews/article/586/0000114970",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "李대통령, 젠슨황과 '피지컬 AI' 논의…엔비디아 GPU 26만장 이상 확보",
+        "time": "2025-10-31T15:00:07",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/31/0008577324_001_20251031150102098.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008577324",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008577324",
+        "summary": "[경주 APEC] 정상회의서 젠슨황 접견…韓-엔비디아 협력 논의\n李대통령 \"韓, 엔비디아의 최적 파트너\"…'HBM 공급 확대' 파트너십도",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "15분 지각한 시진핑 '의도적?'…\"핵잠수함 만들어\" 트럼프에 긁혔나 [자막뉴스]",
+        "time": "2025-10-31T14:57:58",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/055/0001304423",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001304423",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "밤새 추경호 기다린 장동혁…“희희낙락 안돼” APEC 만찬 불참",
+        "time": "2025-10-31T14:48:37",
+        "img": "https://imgnews.pstatic.net/image/025/2025/10/31/0003479511_001_20251031144920520.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003479511",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003479511",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "李대통령, 젠슨 황 만났다…\"韓 '아·태 AI 허브' 도약에 엔비디아 동참해달라\" {APEC 정상회의]",
+        "time": "2025-10-31T14:48:08",
+        "img": "https://imgnews.pstatic.net/image/123/2025/10/31/0002371052_001_20251031145419391.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/123/0002371052",
+        "original_url": "https://n.news.naver.com/mnews/article/123/0002371052",
+        "summary": "李 대통령 \"韓, 아·태 AI 수도 목표…AI 생태계 함께 만들어가길\"  \n\n글로벌 AI 기술협력 논의…삼성·현대차·SK·네이버 등 기업총수들 한 자리에 \n\n\"'AI 3대 강국', 'AI 기본사회' 실현 기반 조성\"  \n\nAI 인프라구축·기술공동연구·스타트업 지원 등 전방위 협력 추진",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"이재명, 모두의 대통령 인정\"…국힘서도 '핵추진 잠수함 추진' 긍정 평가",
+        "time": "2025-10-31T14:44:09",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/437/0000462671",
+        "original_url": "https://n.news.naver.com/mnews/article/437/0000462671",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "尹멘토 신평 극찬 \"이재명의 승리, 모든 공은 李대통령에게 돌아가야 한다\"",
+        "time": "2025-10-31T14:43:13",
+        "img": "https://imgnews.pstatic.net/image/002/2025/10/31/0002412448_001_20251031144313070.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/002/0002412448",
+        "original_url": "https://n.news.naver.com/mnews/article/002/0002412448",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "국방부, '12·3 비상계엄' 명령 이행 거부한 7명 특별진급",
+        "time": "2025-10-31T14:43:11",
+        "img": "https://imgnews.pstatic.net/image/008/2025/10/31/0005271560_001_20251031144325435.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005271560",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005271560",
+        "summary": "[the300]",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "12·3 비상계엄 명령 거부한 군인 7명 특별진급 시키기로",
+        "time": "2025-10-31T14:39:14",
+        "img": "https://imgnews.pstatic.net/image/119/2025/10/31/0003019348_001_20251031143914729.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0003019348",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0003019348",
+        "summary": "6명은 정상 진급시기보다 2~3년 앞당겨 진급",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "내일 한중 정상회담…'한한령·경제협력 복원' 주목",
+        "time": "2025-10-31T14:36:20",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/215/0001229100",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001229100",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "軍 정찰위성 5호기 내달 2일 발사…3축체계 '킬체인' 강화",
+        "time": "2025-10-31T14:31:14",
+        "img": "https://imgnews.pstatic.net/image/018/2025/10/31/0006152620_001_20251031143114799.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006152620",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006152620",
+        "summary": "美 케이프 커내버럴에서 팰콘-9 타고 우주행\n초고해상도 SAR 탑재, 北 도발 징후 탐지\n425사업 마무리…北 전략표적 감시능력 고도화",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이규연 홍보수석 \"대통령-젠슨 황 회동, GPU 확보로 AI 역량 강화\" [APEC 인터뷰]",
+        "time": "2025-10-31T15:14:13",
+        "img": "https://imgnews.pstatic.net/image/374/2025/10/31/0000472106_001_20251031151413909.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/374/0000472106",
+        "original_url": "https://n.news.naver.com/mnews/article/374/0000472106",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "정부, 엔비디아 초대형 'AI 동맹'…GPU 26만장 온다",
+        "time": "2025-10-31T15:05:07",
+        "img": "https://imgnews.pstatic.net/image/374/2025/10/31/0000472099_001_20251031151515395.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/374/0000472099",
+        "original_url": "https://n.news.naver.com/mnews/article/374/0000472099",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "삼성전자-엔비디아 'AI 동맹' 선언…HBM4부터 로봇까지 생태계 구축",
+        "time": "2025-10-31T15:03:51",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/31/0008577339_001_20251031150427797.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008577339",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008577339",
+        "summary": "엔비디아 GPU 5만장 도입 '반도체 AI 팩토리' 구축…HBM4 납품 협의\nAI모델부터 지능형 기지국까지 전방위 협력…이재용·젠슨황 25년 우정 결실",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "‘AI 깐부’ 젠슨 황의 “좋은 소식”…‘품귀’ 최신 칩셋 20조어치 한국에 푼다",
+        "time": "2025-10-31T15:02:17",
+        "img": "https://imgnews.pstatic.net/image/028/2025/10/31/0002773962_001_20251031151807740.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002773962",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002773962",
+        "summary": "“내일 더 좋은 소식이 있다” 예고한 젠슨 황\n‘품귀’ 블랙웰 GPU 26만장 공급협력 밝혀\n글로벌 AI 민∙관 협력으로 AI G3 도전",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이재용·젠슨 황, 'AI 동맹' 맺었다...세계 최대 AI팩토리·HBM4 공급 [경주 APEC]",
+        "time": "2025-10-31T15:01:17",
+        "img": "https://imgnews.pstatic.net/image/014/2025/10/31/0005427817_001_20251031150117124.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005427817",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005427817",
+        "summary": "삼성, 엔비디아서 GPU 5만장 이상 확보\n세계 최대 AI 팩토리 구축 본격화 \nHBM4, GDDR7 공급...SK하이닉스 독주체제 균열\n젠슨 황 \"삼성, 전 세계 산업 혁신 이끌 것\" \n이재용 \"엔비디아와 오랜 동행, AI팩토리로 이어져\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "LG전자 ‘데이터’와 엔비디아 ‘플랫폼’이 만났다…AI 동맹 확장",
+        "time": "2025-10-31T15:01:09",
+        "img": "https://imgnews.pstatic.net/image/119/2025/10/31/0003019368_001_20251031150109707.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/119/0003019368",
+        "original_url": "https://n.news.naver.com/mnews/article/119/0003019368",
+        "summary": "피지컬 AI 및 디지털트윈 등 미래기술 협력 속도\nAI DC 분야 파트너십 기대...냉각솔루션 등 기회",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[APEC 2025] 엔비디아, AI GPU 한국에 26만장 이상 공급",
+        "time": "2025-10-31T15:01:09",
+        "img": "https://imgnews.pstatic.net/image/031/2025/10/31/0000976962_001_20251031150109230.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/031/0000976962",
+        "original_url": "https://n.news.naver.com/mnews/article/031/0000976962",
+        "summary": "초대형 AI데이터센터 2기 물량\n공급물량 약 7조~10조원대 추정\n정부·삼성·SK·현대차·네이버에 20만장\n\"국가 AI 인프라 구축의 첫 걸음\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "정의선-젠슨황 ‘치맥 깐부’는 예고편…현대차그룹-엔디비아, 한국을 AI 강국으로",
+        "time": "2025-10-31T15:06:09",
+        "img": "https://imgnews.pstatic.net/image/009/2025/10/31/0005582568_001_20251031150712359.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005582568",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005582568",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[컨콜] 기아 \"4분기 미국은 하이브리드, 유럽은 EV 수요 지속\"",
+        "time": "2025-10-31T14:50:47",
+        "img": "https://imgnews.pstatic.net/image/417/2025/10/31/0001110478_001_20251031145107461.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/417/0001110478",
+        "original_url": "https://n.news.naver.com/mnews/article/417/0001110478",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "트럼프 韓 핵잠 건조 승인에…美 유력 군사 매체 “사실상 개발 착수”",
+        "time": "2025-10-31T14:51:08",
+        "img": "https://imgnews.pstatic.net/image/081/2025/10/31/0003587028_001_20251031145108309.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/081/0003587028",
+        "original_url": "https://n.news.naver.com/mnews/article/081/0003587028",
+        "summary": "한미정상회담 직후 트루스소셜 통해 전격 발표…필라델피아 조선소 언급",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "홍준표, 李 대통령 호평 “핵 잠수함 승인, 안보에 큰 기여”",
+        "time": "2025-10-31T14:47:17",
+        "img": "https://imgnews.pstatic.net/image/029/2025/10/31/0002990644_002_20251031144808372.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/029/0002990644",
+        "original_url": "https://n.news.naver.com/mnews/article/029/0002990644",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이 대통령-시진핑 첫 대면...내일 한중정상회담 의제는?",
+        "time": "2025-10-31T14:44:27",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/052/0002266908",
+        "original_url": "https://n.news.naver.com/mnews/article/052/0002266908",
+        "summary": "APEC 본회의 개막…이 대통령-시진핑 첫 대면\n시진핑 맨 마지막 입장…함께 이동하며 환담\n차기 APEC 회의 의장국인 중국 정상 예우\n트럼프 APEC 본회의 불참…시진핑 존재감 두드러져",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "'시진핑 판정승' 평가에 환호하는 중국…\"기념비적 정상회담\"",
+        "time": "2025-10-31T14:42:14",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/437/0000462669",
+        "original_url": "https://n.news.naver.com/mnews/article/437/0000462669",
+        "summary": "방어에 반격까지 성공한 2차 무역전쟁…관영매체들도 '고무'",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "엔비디아 블랙웰 26만장 한국행…'AI 인프라 허브' 도약 신호탄",
+        "time": "2025-10-31T15:05:08",
+        "img": "https://imgnews.pstatic.net/image/092/2025/10/31/0002396369_001_20251031150508573.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002396369",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002396369",
+        "summary": "네이버클라우드, 소버린·피지컬 AI 협력 강화…정부 AI 사업도 활성화 전망",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "삼성전자, 엔비디아와 HBM 동맹 강화…AI 팩토리로 제조 혁신 가속",
+        "time": "2025-10-31T15:04:16",
+        "img": "https://imgnews.pstatic.net/image/092/2025/10/31/0002396368_001_20251031150416512.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002396368",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002396368",
+        "summary": "25년 협력의 결실, 제조·AI·메모리 삼박자 전략",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"피지컬AI 시대 열려\"...네이버, 엔비디아 손잡고 韓 제조 AI전환 나선다",
+        "time": "2025-10-31T15:02:11",
+        "img": "https://imgnews.pstatic.net/image/014/2025/10/31/0005427818_001_20251031150211176.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005427818",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005427818",
+        "summary": "-네이버클라우드-엔비디아, 현실과 디지털 공간 연결하는 차세대 ‘피지컬 AI’ 플랫폼 공동 개발\r\n-조선, 에너지, 바이오 등 주요 산업별 특화 AI 적용 모델 발굴·확산",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "한국발 'AI 빅뱅' 몰아친다… 총 26만장 엔비디아 GPU 구매",
+        "time": "2025-10-31T15:01:12",
+        "img": "https://imgnews.pstatic.net/image/030/2025/10/31/0003365451_001_20251031151310545.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/030/0003365451",
+        "original_url": "https://n.news.naver.com/mnews/article/030/0003365451",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "엔비디아 AI 인프라 한국으로···\"26만장 GPU로 성장 견인\"",
+        "time": "2025-10-31T15:01:09",
+        "img": "https://imgnews.pstatic.net/image/018/2025/10/31/0006152702_001_20251031150109573.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006152702",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006152702",
+        "summary": "레이몬드 테 엔비디아 부사장 주재 사전브리핑\n삼성전자·SK그룹·현대차 등과 AI 팩토리·연구 협력",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "엔비디아, 한국과 ‘AI 동맹’ 강화.. GPU 26만장 우선 공급",
+        "time": "2025-10-31T15:01:07",
+        "img": "https://imgnews.pstatic.net/image/023/2025/10/31/0003938134_001_20251031152209715.JPG?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003938134",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003938134",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[경주APEC] 네이버, 엔비디아 손잡고 피지컬 AI 플랫폼 공동 개발",
+        "time": "2025-10-31T15:00:03",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/31/PYH2025052302930001300_P4_20251031150039647.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015716047",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015716047",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[경주APEC] 정부, '엔비디아 GPU 5만장' 공공 AI에 투입",
+        "time": "2025-10-31T15:00:02",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/31/PYH2025103035660001300_P4_20251031150030073.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015716043",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015716043",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "차세대 AI칩 블랙웰 정체는…韓 AI 생태계 '게임체인저'",
+        "time": "2025-10-31T15:00:00",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/31/0008577320_001_20251031150047721.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008577320",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008577320",
+        "summary": "젠슨 황, 韓에 GPU 26만장 공급…AI 인프라 질적 도약 신호탄\n삼성·현대차·SK·네이버 '블랙웰 동맹'…AI 생태계 혁신 가속",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "中·日 정상, 경주서 오늘 오후 만난다…日 총리 취임 후 첫 대면",
+        "time": "2025-10-31T14:55:11",
+        "img": "https://imgnews.pstatic.net/image/092/2025/10/31/0002396362_001_20251031145511263.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002396362",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002396362",
+        "summary": "[APEC2025] 다카이치 사나에·시진핑, 희토류·군사 등 민감 의제 꺼낼지 관심",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "헤그세스 미 국방 “남중국해 중국 활동 심각”···인도와 ‘10년 국방협력’ 서명",
+        "time": "2025-10-31T15:18:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/10/31/0003405860_001_20251031151907663.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003405860",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003405860",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "美中 정상 합의에도 기업 불안…\"관세 아직 높고 희토류 엄격\"",
+        "time": "2025-10-31T15:17:54",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/31/0008577362_001_20251031151810040.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008577362",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008577362",
+        "summary": "미중 9~10월 최근 조치만 유예…\"中 핵심광물 건별 승인 유지\"\n전문가 \"9월 29일 이전 현상유지로 돌아갔을 뿐…재긴장 가능\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "“버거킹 됐다”… 트럼프의 금관 선물, 美 방송 3사 토크쇼 폭소",
+        "time": "2025-10-31T15:16:11",
+        "img": "https://imgnews.pstatic.net/image/020/2025/10/31/0003671215_001_20251031151611526.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/020/0003671215",
+        "original_url": "https://n.news.naver.com/mnews/article/020/0003671215",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"美中정상회담 소폭 성과…中, 희토류 위력 증명\" 美전문가",
+        "time": "2025-10-31T15:13:55",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/31/NISI20251030_0000754891_web_20251030123756_20251031151425929.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013573002",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013573002",
+        "summary": "\"양국관계 근본적 문제 해결 못 해…中희토류 위력 당분간 유지될 것\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "“트럼프와 팔짱까지 꼈다고?” 日총리 행동 논란",
+        "time": "2025-10-31T15:08:13",
+        "img": "https://imgnews.pstatic.net/image/021/2025/10/31/0002746735_002_20251031150813644.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002746735",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002746735",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "트럼프 빠진 APEC서 시진핑 \"亞태평양 공동체 만들자\"[경주APEC]",
+        "time": "2025-10-31T15:03:09",
+        "img": "https://imgnews.pstatic.net/image/277/2025/10/31/0005672827_001_20251031151708928.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005672827",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005672827",
+        "summary": "트럼프, 본행사 불참한 채 美귀국\n시진핑 주석, 정상회의 연설\n다자무역·다자주의 강조",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "日서 아동 성착취물 판매한 한국인 남성…아동보육시설 직원이었다",
+        "time": "2025-10-31T14:51:09",
+        "img": "https://imgnews.pstatic.net/image/014/2025/10/31/0005427806_001_20251031150418847.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/014/0005427806",
+        "original_url": "https://n.news.naver.com/mnews/article/014/0005427806",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "미중 국방장관도 말레이서 첫 대면 회담…美 \"유익하고 건설적\"",
+        "time": "2025-10-31T14:47:16",
+        "img": "https://imgnews.pstatic.net/image/421/2025/10/31/0008577269_001_20251031144811102.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/421/0008577269",
+        "original_url": "https://n.news.naver.com/mnews/article/421/0008577269",
+        "summary": "아세안 국방장관 회의 계기 성사…美 \"中 활동에 대한 우려 분명히 전달\"",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "일 정부 “오늘 오후 한국서 중·일 정상회담” 공식 발표",
+        "time": "2025-10-31T14:46:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/10/31/0003405843_001_20251031144707111.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003405843",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003405843",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "두산, 엔비디아와 '피지컬 AI' 전략 동맹…건설기계·로봇 기술 키운다",
+        "time": "2025-10-31T15:15:00",
+        "img": "https://imgnews.pstatic.net/image/277/2025/10/31/0005672840_001_20251031151614060.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005672840",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005672840",
+        "summary": "건설기계·발전기기·로봇 등 전 사업군에 도입\n엔비디아 인프라 기반으로 맞춤형 모델 구축\n스탠포드대 협력 이어 글로벌 생태계 협업 확대",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "이재명 대통령, 1일 시진핑과 첫 회담…한중관계 정상화 합의할까",
+        "time": "2025-10-31T14:42:35",
+        "img": "https://imgnews.pstatic.net/image/008/2025/10/31/0005271558_001_20251031144318735.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005271558",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005271558",
+        "summary": "[the300][APEC 정상회의] 한한령 해제·한반도 비핵화·서해 PMZ 구조물까지 폭넓은 현안 다뤄질 전망",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"러, 우크라와 전투 거부한 군인 고문·처형 뒤 전사 처리\"",
+        "time": "2025-10-31T14:56:48",
+        "img": "https://imgnews.pstatic.net/image/001/2025/10/31/PAP20251022178601009_P4_20251031145716160.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015716033",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015716033",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"동유럽, EU-우크라 FTA에 '농업 붕괴' 반발…집행위 대응 고심\"",
+        "time": "2025-10-31T14:52:01",
+        "img": "https://imgnews.pstatic.net/image/003/2025/10/31/NISI20220810_0019119932_web_20220810100806_20251031145225479.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013572916",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013572916",
+        "summary": "폴란드 등 3국, '우크라 곡물 금수' 유지\n\"EU에 '우크라와 우리 중 누구' 묻는 것\"\nEU \"전혀 이유안돼\" 일축…조치는 고심",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "\"한국, XX 대체 뭐하냐\"…'No Kings' 시위중 금관 선물에 美와글와글",
+        "time": "2025-10-31T15:21:07",
+        "img": "https://imgnews.pstatic.net/image/088/2025/10/31/0000978542_001_20251031152107733.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/088/0000978542",
+        "original_url": "https://n.news.naver.com/mnews/article/088/0000978542",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "中 시진핑 \"다자무역 함께 지키고 다자주의 이행하자\"",
+        "time": "2025-10-31T15:14:13",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000796816",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000796816",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "日언론 “다카이치 총리, 한일 관계 현실주의 노선으로 전환”",
+        "time": "2025-10-31T15:13:06",
+        "img": "https://imgnews.pstatic.net/image/022/2025/10/31/20251031510830_20251031151306553.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004079244",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004079244",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "미 국방 \"남중국해 중국 활동 심각\"…인도와 '10년 국방협력' 서명",
+        "time": "2025-10-31T15:02:32",
+        "img": "https://imgnews.pstatic.net/image/055/2025/10/31/0001304425_001_20251031150307479.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001304425",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001304425",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[2025 APEC] 日 \"다카이치, 오늘 오후 韓서 시진핑과 첫 정상회담\"",
+        "time": "2025-10-31T15:02:09",
+        "img": "https://imgnews.pstatic.net/image/629/2025/10/31/202531091761890095_20251031150209523.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/629/0000439445",
+        "original_url": "https://n.news.naver.com/mnews/article/629/0000439445",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "美국방 \"남중국해 中활동 심각\"‥인도와 '10년 국방협력' 서명",
+        "time": "2025-10-31T15:01:45",
+        "img": "https://imgnews.pstatic.net/image/214/2025/10/31/0001458730_001_20251031150610843.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/214/0001458730",
+        "original_url": "https://n.news.naver.com/mnews/article/214/0001458730",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "일본 정부 \"오늘 오후 한국서 중일 정상회담\"",
+        "time": "2025-10-31T15:00:12",
+        "img": "https://imgnews.pstatic.net/image/057/2025/10/31/0001916277_001_20251031150012585.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/057/0001916277",
+        "original_url": "https://n.news.naver.com/mnews/article/057/0001916277",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "중국 견제하는 미-인도 ‘10년 국방협력’ 서명",
+        "time": "2025-10-31T14:59:47",
+        "img": "https://imgnews.pstatic.net/image/056/2025/10/31/0012057569_001_20251031150709780.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012057569",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012057569",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[속보] 李대통령, 경주 APEC 계기 젠슨 황 엔비디아 CEO 접견",
+        "time": "2025-10-31T14:49:59",
+        "img": "https://imgnews.pstatic.net/image/025/2025/10/31/0003479512_001_20251031151508839.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003479512",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003479512",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "아기 울부짖는데 강제로 문신…9천만 원 건 러시아 '극한 챌린지' 논란",
+        "time": "2025-10-31T14:43:14",
+        "img": "https://imgnews.pstatic.net/image/422/2025/10/31/AKR20251031144241f4s_01_i_20251031144314785.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000796797",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000796797",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "미 재무 \"무역협상 다음주 서명 가능\"…'전술적 휴전' 평가",
+        "time": "2025-10-31T14:42:11",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000796796",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000796796",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "러, 평시 예비군 동원 가능법 긴급 발의",
+        "time": "2025-10-31T14:42:11",
+        "img": "https://imgnews.pstatic.net/image/023/2025/10/31/0003938128_001_20251031151424797.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/023/0003938128",
+        "original_url": "https://n.news.naver.com/mnews/article/023/0003938128",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "日정부 \"오늘 오후 중일 정상회담 개최\" 공식 발표",
+        "time": "2025-10-31T14:23:11",
+        "img": "https://imgnews.pstatic.net/image/088/2025/10/31/0000978528_001_20251031144512157.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/088/0000978528",
+        "original_url": "https://n.news.naver.com/mnews/article/088/0000978528",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 10월 31일 금요일"
       }
     ]
   },
   {
     "date": "2025년 10월 31일 금요일",
     "articles": [
+      {
+        "title": "트럼프 없는 APEC서… 시진핑, 美 일방주의 때렸다",
+        "time": "2025-10-31T14:15:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNTNkMDVqUzBRNVJEaFdSbEZQVFJDUkF4ajhCU2dLTWdZQlFKcERKUWs=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMikAFBVV95cUxNNWVfN3V3QmxKVnlpU2FHRF9tOVFhbFZJbzg5TGkxVUdzM2hzaHo1aUQ1MDVPbTgzSGJ1RFBYZzJlN2tvMG5fTEh6cHRjQ01tem5XWjhDVlNUUUszbEwyRS00MnBZakxWOEdPY0ZzRXRkOThKX09GeUJyelBNWC0yRlZJbkF3RVVVemt4SUpwNFPSAaQBQVVfeXFMTTFhQkVZVDh6S1c2M0NMak1Ra2RHRWlGbENLa1RkTXdZUU9iRnQtQ1hEd1R1b21GcTNqSmlCazJRdGYydTFBNkNJSWJzZzJlR3BvU28yZUJPdlBJc2JyTUI2SVNPOWlpWWRaWU9INzR3V2ZNU0ZhVUdCbEdRbkhCQlkyWHdKZGdJbTdVdExEbE9oYnJrX29ONktBdDFRb0poS1RQbzg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMikAFBVV95cUxNNWVfN3V3QmxKVnlpU2FHRF9tOVFhbFZJbzg5TGkxVUdzM2hzaHo1aUQ1MDVPbTgzSGJ1RFBYZzJlN2tvMG5fTEh6cHRjQ01tem5XWjhDVlNUUUszbEwyRS00MnBZakxWOEdPY0ZzRXRkOThKX09GeUJyelBNWC0yRlZJbkF3RVVVemt4SUpwNFPSAaQBQVVfeXFMTTFhQkVZVDh6S1c2M0NMak1Ra2RHRWlGbENLa1RkTXdZUU9iRnQtQ1hEd1R1b21GcTNqSmlCazJRdGYydTFBNkNJSWJzZzJlR3BvU28yZUJPdlBJc2JyTUI2SVNPOWlpWWRaWU9INzR3V2ZNU0ZhVUdCbEdRbkhCQlkyWHdKZGdJbTdVdExEbE9oYnJrX29ONktBdDFRb0poS1RQbzg?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
       {
         "title": "윤준병 의원, 고창군 묵은 현안 해결 기여…\"원전 방사능 안전 교부세 지원 확정\"",
         "time": "2025-10-31T13:48:00+00:00",
@@ -3164,6 +3830,15 @@
         "date": "2025년 10월 31일 금요일"
       },
       {
+        "title": "[속보] 윤석열 이틀 연속 법정 출석…‘호위무사’ 김성훈 신문 예정",
+        "time": "2025-10-31T10:39:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNDBjVWx0WkdwM2JIbEZjM2gxVFJEWEF4aU1CU2dLTWdhcE1wYXRHUW8=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFB2VG1YbUdTdlVjVjNFVE1DWXgycEk5MlozbnRSUzljWHVSVDZMbktyaHc2Yy1mRWxVQzBKdUdWbW1say0yQWhGZjFrdHloZEhMdVQyeHZmS1RDQdIBX0FVX3lxTFB6RFc4R25UdldmWUFEd0xiRFVLZzhiXzIwVUpLVjdhNFQ3blYwUEFuN0loZEo1N3lEN2trTXhZQ1BaNmEyM2FEY0xMTGtRdWdRSFZybktWeV93S2JzV0pN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFB2VG1YbUdTdlVjVjNFVE1DWXgycEk5MlozbnRSUzljWHVSVDZMbktyaHc2Yy1mRWxVQzBKdUdWbW1say0yQWhGZjFrdHloZEhMdVQyeHZmS1RDQdIBX0FVX3lxTFB6RFc4R25UdldmWUFEd0xiRFVLZzhiXzIwVUpLVjdhNFQ3blYwUEFuN0loZEo1N3lEN2trTXhZQ1BaNmEyM2FEY0xMTGtRdWdRSFZybktWeV93S2JzV0pN?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
         "title": "[속보] 윤석열, ‘체포 방해’ 재판도 출석…‘경호처 김성훈’ 대면 예정",
         "time": "2025-10-31T10:31:00+00:00",
         "img": "/api/attachments/CC8iK0NnNTJORkpGWkVFdFZreE9hbHAyVFJDcUF4aUFCU2dLTWdZbGNKVHNLUWc=-w100-h100-p-df",
@@ -3232,6 +3907,15 @@
         "img": "/api/attachments/CC8iK0NnNDRiMkZzYUVkTVUwaDNUWEl3VFJDZkF4ampCU2dLTWdZdFZZU3VwUWM=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMieEFVX3lxTE5TMlV2d3FwdnNhMk1Zb3JlcFl3enZ1dGpBUmxsc0Y4S1hiczZWMzBNZnhIWjFpdzRwR1VMNi1JcWdqM2lJYlF4ME9lS0NhWG1CNHhyekpoU2VLd1hZU0JUUzI4WHNEOG9zdjJRS3RIWl9WZ1RJYmFLU9IBeEFVX3lxTE1BWnJ5WGYyOExhZFhkNms2UVhjYjJOZWtWdTZnQ1AyOW1FSmo5SkdmWkZlX1c5VTdDTDBVR1lOZXk4WEpOMVRvR2N0d01qVDNYNkxIMmJrbGstUHlZQmVLc3pIdEZVT1RmUmZiMnZpanhkaXQzRXZTRA?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMieEFVX3lxTE5TMlV2d3FwdnNhMk1Zb3JlcFl3enZ1dGpBUmxsc0Y4S1hiczZWMzBNZnhIWjFpdzRwR1VMNi1JcWdqM2lJYlF4ME9lS0NhWG1CNHhyekpoU2VLd1hZU0JUUzI4WHNEOG9zdjJRS3RIWl9WZ1RJYmFLU9IBeEFVX3lxTE1BWnJ5WGYyOExhZFhkNms2UVhjYjJOZWtWdTZnQ1AyOW1FSmo5SkdmWkZlX1c5VTdDTDBVR1lOZXk4WEpOMVRvR2N0d01qVDNYNkxIMmJrbGstUHlZQmVLc3pIdEZVT1RmUmZiMnZpanhkaXQzRXZTRA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[트럼프 스톡커] 말 바꾸는 미국, 6000억弗 '뒤통수'는 아니겠죠",
+        "time": "2025-10-31T09:34:56+00:00",
+        "img": "/api/attachments/CC8iK0NnNXFjbU10ZFZsa1F6ZzVaa1p0VFJDckF4aUFCU2dLTWdhaEU0NktsUW8=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE1FSlJRVHQtcEh6T0pSeGFhM2ZtUWFtVGdiWGV0V05TUjVPQUhsX3FnNlUzNnJJQk5ndXJLVzFFblNlRG9Cc0FjN0l5YzBFcGVUZ3NsT1ZR0gFXQVVfeXFMTjNoNVBZNUROWHc1MFRlQmRQTkNab0F0LUs5MFlrbGJwWTg5LVlOXzNPNkd0d00td1N2RVpkeEJBSHV2dU1EMTJrQU5aZjJQTDhtOXpRVGMw?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE1FSlJRVHQtcEh6T0pSeGFhM2ZtUWFtVGdiWGV0V05TUjVPQUhsX3FnNlUzNnJJQk5ndXJLVzFFblNlRG9Cc0FjN0l5YzBFcGVUZ3NsT1ZR0gFXQVVfeXFMTjNoNVBZNUROWHc1MFRlQmRQTkNab0F0LUs5MFlrbGJwWTg5LVlOXzNPNkd0d00td1N2RVpkeEJBSHV2dU1EMTJrQU5aZjJQTDhtOXpRVGMw?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 31일 금요일"
       },
@@ -3317,11 +4001,29 @@
         "date": "2025년 10월 31일 금요일"
       },
       {
+        "title": "트럼프 \"한국 핵잠 승인\"...'필리식 핵잠 협력' 가능할까",
+        "time": "2025-10-31T04:30:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNHlWMjlrVDNOVFdrczBSWEZUVFJDckF4aUFCU2dLTWdZWnhZanFQUVU=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE9HWlk4bkl5cWNKcTJ5SExleWNQSG5QOUNwcHAyY2ZHbEVHUW0xbUV5Q0Fyakt3ai1Cbm12TjdaZVNQOWs1RTJyUUYtZmNhbFY4aFVac1BfRFVkdDVvREpNTVdBVDhVQlV5LWc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiakFVX3lxTE9HWlk4bkl5cWNKcTJ5SExleWNQSG5QOUNwcHAyY2ZHbEVHUW0xbUV5Q0Fyakt3ai1Cbm12TjdaZVNQOWs1RTJyUUYtZmNhbFY4aFVac1BfRFVkdDVvREpNTVdBVDhVQlV5LWc?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
         "title": "‘60조 잠수함 사업 추진’ 캐나다 총리, 거제 조선소 찾아",
         "time": "2025-10-31T00:55:00+00:00",
         "img": "/api/attachments/CC8iK0NnNXJhM0Z1WmtOVWNUVXlWRE4xVFJDUkF4ajhCU2dLTWdZQlVJWW1SZ1E=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMikgFBVV95cUxOcURQR2FRUWE1dTF6dzZvNU15NHhISDdBay00NVY1QjJxVzMzUkExUmFsMXgxQnFQblByNks3Y2VCanl4UDFublJ4MW9hWDRIOXI3X0FGWXQ4ZkZwNnI2aWNubzd6ZE9GOEI0WmhuTTZvTFo5TmlOand2eDdjWFF1RFNrQ0FPblUzeXZvV0RGbXZUUdIBpgFBVV95cUxQU3pOMzdCRm9mejBTNFh4bUtMM3VRRUlfMjhzbmQ2czc1QllVdjM3eDlKMjQ4ZWs0alZkaFlPOU53R0dXMUN3RmRnNXJ5MW91RWR1SVhfLVI4aS1BQk12QVdCOUI0azVtQWxjZ1YwdHVPX1RMcklmcVdmVTY5enpqUEVEdUE3UnAteU02cU9KUVR3czF2VUdfYmk0em5FVXA2RElEei1B?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMikgFBVV95cUxOcURQR2FRUWE1dTF6dzZvNU15NHhISDdBay00NVY1QjJxVzMzUkExUmFsMXgxQnFQblByNks3Y2VCanl4UDFublJ4MW9hWDRIOXI3X0FGWXQ4ZkZwNnI2aWNubzd6ZE9GOEI0WmhuTTZvTFo5TmlOand2eDdjWFF1RFNrQ0FPblUzeXZvV0RGbXZUUdIBpgFBVV95cUxQU3pOMzdCRm9mejBTNFh4bUtMM3VRRUlfMjhzbmQ2czc1QllVdjM3eDlKMjQ4ZWs0alZkaFlPOU53R0dXMUN3RmRnNXJ5MW91RWR1SVhfLVI4aS1BQk12QVdCOUI0azVtQWxjZ1YwdHVPX1RMcklmcVdmVTY5enpqUEVEdUE3UnAteU02cU9KUVR3czF2VUdfYmk0em5FVXA2RElEei1B?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "G7 '핵심광물 동맹'…中 시장 통제에 맞불",
+        "time": "2025-10-30T17:29:23+00:00",
+        "img": "/api/attachments/CC8iK0NnNUZZa1pwYkdvNFMxaHJORlJaVFJDbEFoaXNBaWdLTWdhQkE1S3ByUWM=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE4xUS1mNzlrNEJHcGhIN2dROE55Ml9MZGpRYmV3S2ZMaW42YURZYmFTalJNZnpoRUQyNzk2TTR2LUJBWm5ydEd6UFBtQklGZWV1bGZ2WGFDamNOZ9IBVEFVX3lxTFBWS0NEd3pNbGpfTjdDcUxFWmRNQzdaNGVIWmRuRy1lMVRVN3gtaXhrcmpXLXpCVDRjenI2M0IwT2F2Z0ZBVG1sSkVSTWs3a1lrWDQwOA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTE4xUS1mNzlrNEJHcGhIN2dROE55Ml9MZGpRYmV3S2ZMaW42YURZYmFTalJNZnpoRUQyNzk2TTR2LUJBWm5ydEd6UFBtQklGZWV1bGZ2WGFDamNOZ9IBVEFVX3lxTFBWS0NEd3pNbGpfTjdDcUxFWmRNQzdaNGVIWmRuRy1lMVRVN3gtaXhrcmpXLXpCVDRjenI2M0IwT2F2Z0ZBVG1sSkVSTWs3a1lrWDQwOA?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 31일 금요일"
       },
@@ -3358,6 +4060,15 @@
         "img": "/api/attachments/CC8iL0NnNXdUMFpwY0RsWWVubHdZbGxKVFJETkFoajBBeWdLTWdrQllwQUR0MlkxU0FJ=-w350-h175-p-df",
         "url": "https://news.google.com/read/CBMiW0FVX3lxTE8wbzB3b0pXU1BkczNLbFhJci1ncXNfVzNGSWZGT193Q3ZrTlhIdDNWU1lhcGx5eFA3YW9OTFhuUHRkTFhhTno0RlJWTjM2SnZJWnJGMlo0bnFQX2vSAWBBVV95cUxNTHNQcllRSWlVNm5rR1hNYXZQSWlpN2gxc24wWjBqdEVLM3RmT1Uzb1V6MjVMV1lSbGEwRzdmclkwYS1BdHczWTFnQ3JOek90aFNDQXloUmdyS1ljRUNyS0w?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE8wbzB3b0pXU1BkczNLbFhJci1ncXNfVzNGSWZGT193Q3ZrTlhIdDNWU1lhcGx5eFA3YW9OTFhuUHRkTFhhTno0RlJWTjM2SnZJWnJGMlo0bnFQX2vSAWBBVV95cUxNTHNQcllRSWlVNm5rR1hNYXZQSWlpN2gxc24wWjBqdEVLM3RmT1Uzb1V6MjVMV1lSbGEwRzdmclkwYS1BdHczWTFnQ3JOek90aFNDQXloUmdyS1ljRUNyS0w?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 10월 31일 금요일"
+      },
+      {
+        "title": "[단독] 직접 받으니 98% 급감…국정자원 화재로 드러난 민원의 ‘민낯’",
+        "time": "2025-10-30T04:30:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNVBjREZaZFhkc1NXMTNkbmhhVFJEZ0F4aUFCU2dLTWdZTjhJU1J6QU0=-w350-h175-p-df",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTFB2MUNpOHpwNXZCMHI5eEdBbDYtNnF5UThiWG9DaElyVDAyVTlCOWVJMHd3SkZHdXlPYjRKMVFHYnBDd09qWFRkWjZtUzNEQWd2ZTYwbDNwbmhMZk0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTFB2MUNpOHpwNXZCMHI5eEdBbDYtNnF5UThiWG9DaElyVDAyVTlCOWVJMHd3SkZHdXlPYjRKMVFHYnBDd09qWFRkWjZtUzNEQWd2ZTYwbDNwbmhMZk0?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 10월 31일 금요일"
       },
@@ -4869,6 +5580,177 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/newsy/20251031144317213zvml.jpg",
         "url": "https://v.daum.net/v/20251031144317307",
         "original_url": "https://v.daum.net/v/20251031144317307",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "\"뒷문 있네\"…트럼프 대러 석유 제재에도 \"인도 350만배럴 구입\"",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/moneytoday/20251031152449478osgr.jpg",
+        "url": "https://v.daum.net/v/20251031152448101",
+        "original_url": "https://v.daum.net/v/20251031152448101",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "대통령실, APEC 정상회의 본회의 일정 관련 브리핑",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/YTN/20251031152821823pvwr.jpg",
+        "url": "https://v.daum.net/v/20251031152821249",
+        "original_url": "https://v.daum.net/v/20251031152821249",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "밤새 추경호 기다린 장동혁…“희희낙락 안돼” APEC 만찬 불참",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/joongang/20251031145050762jwtl.jpg",
+        "url": "https://v.daum.net/v/20251031145049607",
+        "original_url": "https://v.daum.net/v/20251031145049607",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "APEC정상회의 개막…경주 환영 분위기 최고조",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/newsy/20251031151150910timi.jpg",
+        "url": "https://v.daum.net/v/20251031151150570",
+        "original_url": "https://v.daum.net/v/20251031151150570",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "이재명 대통령, APEC 정상회의 \"협력과 연대만이 답' [뉴시스Pic]",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/newsis/20251031151259999mthx.jpg",
+        "url": "https://v.daum.net/v/20251031151259626",
+        "original_url": "https://v.daum.net/v/20251031151259626",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "알리바바·테무 등 中 전자상거래 기업, 동남아 시장 절반 장악",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/Edaily/20251031152749816ruvi.jpg",
+        "url": "https://v.daum.net/v/20251031152748233",
+        "original_url": "https://v.daum.net/v/20251031152748233",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "[오마이포토] \"트럼프, APEC 정상회의 불참하고 자기 이익만 챙겼다\"",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/ohmynews/20251031145402389upum.jpg",
+        "url": "https://v.daum.net/v/20251031145400722",
+        "original_url": "https://v.daum.net/v/20251031145400722",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "다카이치-시진핑 처음 만난다…日정부 “韓서 정상회담 개최” 공식발표",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/sisapress/20251031152248646saav.jpg",
+        "url": "https://v.daum.net/v/20251031152247015",
+        "original_url": "https://v.daum.net/v/20251031152247015",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "李대통령 부부, APEC 환영 만찬 개최…사회는 육군 일병 '차은우' [경주APEC]",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/akn/20251031153224167xqob.jpg",
+        "url": "https://v.daum.net/v/20251031153224402",
+        "original_url": "https://v.daum.net/v/20251031153224402",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "\"러시아, 우크라이나와 전투 거부한 군인 고문·처형 뒤 전사 처리\"",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
+        "url": "https://v.daum.net/v/20251031154205870",
+        "original_url": "https://v.daum.net/v/20251031154205870",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "\"韓日 넘어 북미·유럽·아태·호주까지\"…'디 올 뉴 넥쏘' 세계 누빈다",
+        "time": "2025-10-31T06:43:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/moneytoday/20251031153448184vnia.jpg",
+        "url": "https://v.daum.net/v/20251031153446493",
+        "original_url": "https://v.daum.net/v/20251031153446493",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "中, 25만t 규모 美대두 추가 구매…미중 정상회담 후속조치",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/Edaily/20251031154056006ydoi.jpg",
+        "url": "https://v.daum.net/v/20251031154054820",
+        "original_url": "https://v.daum.net/v/20251031154054820",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "트럼프 \"핵옵션 쓰라\"…당에 셧다운 중단 일방처리 요구",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/yonhap/20251031153618522euwj.jpg",
+        "url": "https://v.daum.net/v/20251031153618582",
+        "original_url": "https://v.daum.net/v/20251031153618582",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "[뉴스퀘어 2PM] 경주 APEC 정상회의 개막...\"협력·연대 유일한 해답\"",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/YTN/20251031144631858alhf.jpg",
+        "url": "https://v.daum.net/v/20251031144631436",
+        "original_url": "https://v.daum.net/v/20251031144631436",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "미국인들, 셧다운 책임론 질문에 \"트럼프·공화 45%, 민주 33%\"",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/yonhap/20251031152813015lahd.jpg",
+        "url": "https://v.daum.net/v/20251031152812243",
+        "original_url": "https://v.daum.net/v/20251031152812243",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "'뜬금포' 트럼프 핵실험 재개 선언…냉전 핵군비경쟁 부활 우려",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/NEWS1/20251031153123115jzne.jpg",
+        "url": "https://v.daum.net/v/20251031153122371",
+        "original_url": "https://v.daum.net/v/20251031153122371",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "시진핑, 트럼프와 악수했지만…APEC서 미 겨냥 “다자주의 이행” 강조",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/hani/20251031152629399wnrz.jpg",
+        "url": "https://v.daum.net/v/20251031152628162",
+        "original_url": "https://v.daum.net/v/20251031152628162",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "美中 정상 합의에도 기업 불안…\"관세 아직 높고 희토류 엄격\"",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/NEWS1/20251031151914355mwhg.jpg",
+        "url": "https://v.daum.net/v/20251031151914883",
+        "original_url": "https://v.daum.net/v/20251031151914883",
+        "source": "daum",
+        "date": "2025년 10월 31일 Friday"
+      },
+      {
+        "title": "美中 국방장관 첫 대면…\"대만에 신중하라\" 신경전(종합)",
+        "time": "2025-10-31T06:42:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202510/31/Edaily/20251031153557810dvfz.jpg",
+        "url": "https://v.daum.net/v/20251031153556564",
+        "original_url": "https://v.daum.net/v/20251031153556564",
         "source": "daum",
         "date": "2025년 10월 31일 Friday"
       }
