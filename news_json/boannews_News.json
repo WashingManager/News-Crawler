@@ -6014,5 +6014,58 @@
         "summary": "에스원, 안티드론 시장도 진출, AI 영상 분석 기술로 원거리 드론 정밀 식별사생활 침해·기밀 유출·기반시설 마비 우려 등 날로 커지는 불법 드론 위협[보안뉴스 조재호 기자] 공항과 항만 등 국가 주요 시설을 노리는 불법 드론 위협이 잇따르는 가운데, 에스원이 인공지능(AI) 기술 기반의 안티드론 솔루션을 내놨다. 관제사 개입 없이도 빠르고 정확한 초기 대..."
       }
     ]
+  },
+  {
+    "date": "2025년 11월 03일 월요일",
+    "articles": [
+      {
+        "title": "핵티비스트들에 뚫린 캐나다 수도·에너지 시설…주요 기반시설 보안 ‘빨간불’",
+        "time": "2025-11-03T15:19:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/981399803_7279.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140120&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140120&page=1&kind=1",
+        "summary": "캐나다 수도시설·석유기업 산업제어시스템 해킹 피해VPN·다중인증 권고…디지털 방어 체계, 국가 안보 과제로 떠올라[보안뉴스 여이레 기자] 캐나다 사이버보안센터가 자국 산업제어시스템(ICS)를 향한 핵티비스트(Hacktivist)들의 공격이 급증하고 있다며 주요 기반시설 보안 강화를 촉구했다.핵티비스트는 ‘해커’(Hacker)와 ‘액티비스트’(Activist..."
+      },
+      {
+        "title": "KISA, 브로드컴 VM웨어 취약점 재차 경고...중국 연계 해커 악용 가능성↑",
+        "time": "2025-11-03T14:44:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/981412444_7149.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140119&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140119&page=1&kind=1",
+        "summary": "[보안뉴스 조재호 기자] 한국인터넷진흥원(KISA)은 최근 브로드컴(Broadcom)에서 발견된  권한 상승 취약점에 대한 보안 업데이트를 재차 요청했다.KISA는 최근 보호나라 사이트 보안공지에서 안내한 브로드컴 브이엠웨어(VMware) 제품군의 로컬 권한 상승 취약점(CVE-2025-41244) 관련 공지를 사이버 위협정보 분석·공유 시스템(C-TAS)..."
+      },
+      {
+        "title": "[AI와 보안] AI 크롤러만 속이는 ‘AI 겨냥 클로킹’ 등장…가짜 정보 사실로 둔갑",
+        "time": "2025-11-03T11:58:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/981296151_9060.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140118&page=1&kind=4",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140118&page=1&kind=4",
+        "summary": "[보안뉴스 김형근 기자] 사이버 보안 연구원들이 오픈AI의 챗GPT 아틀라스(Atlas) 같은 AI 에이전트 웹 브라우저에서 컨텍스트 오염 공격이라는 새로운 보안 위험을 경고하고 나섰다.AI 보안 전문 회사 SPLX는 이 공격 기법을 ‘AI 타겟팅 클로킹’(AI-targeted cloaking)이라고 명명했다.▲AI 타겟팅 클로킹 예시 [자료: SPLX]이..."
+      },
+      {
+        "title": "국정원, AI 시대 디지털포렌식 미래 논의...‘K-디지털포렌식 위크 2025’ 개최",
+        "time": "2025-11-03T11:17:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/981305644_7660.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140112&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140112&page=1&kind=2",
+        "summary": "국내외 전문가 참석, 학술대회 등 디지털포렌식 기술 교류의 장 마련[보안뉴스 강현주 기자] 국가정보원이 AI 기술 발전에 따른 디지털포렌식의 미래를 논하는 자리를 마련한다.국정원은 오는 10~12일 서울 코엑스 마곡(강서구)에서 ‘K-디지털포렌식 위크 2025’(Korea Digital Forensics Week 2025)를 개최한다고 3일 밝혔다.이번 행..."
+      },
+      {
+        "title": "포티넷코리아 “AI 역량이 보안 인력난 해소 핵심”",
+        "time": "2025-11-03T10:36:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/981296151_2128.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140108&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140108&page=1&kind=3",
+        "summary": "‘2025 글로벌 사이버보안 기술 격차 보고서’ 발표AI, 보안 인력난 해법으로 부상했지만 전문 역량 부족은 새 리스크포티넷, 2026년까지 세계 100만 명 보안 인재 양성 목표[보안뉴스 여이레 기자] 글로벌 네트워크 보안 융합 솔루션 기업 포티넷코리아는 3일 발간한 ‘2025 글로벌 사이버보안 기술 격차 보고서’(Global Cybersecurity S..."
+      },
+      {
+        "title": "사생활 침해, 기밀 유출 막는다...에스원, AI 기반 안티드론 보안 솔루션 선봬",
+        "time": "2025-11-02T09:30:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/767541644_6607.jpeg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140098&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140098&page=2&kind=1",
+        "summary": "에스원, 안티드론 시장도 진출, AI 영상 분석 기술로 원거리 드론 정밀 식별사생활 침해·기밀 유출·기반시설 마비 우려 등 날로 커지는 불법 드론 위협[보안뉴스 조재호 기자] 공항과 항만 등 국가 주요 시설을 노리는 불법 드론 위협이 잇따르는 가운데, 에스원이 인공지능(AI) 기술 기반의 안티드론 솔루션을 내놨다. 관제사 개입 없이도 빠르고 정확한 초기 대..."
+      }
+    ]
   }
 ]
