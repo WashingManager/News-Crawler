@@ -1,5 +1,991 @@
 [
   {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "“대통령 연봉 2.5배 모았다”…윤석열, 재구속 100일 만에 영치금 6.5억",
+        "time": "2025-11-09T09:29:08",
+        "img": "https://imgnews.pstatic.net/image/009/2025/11/09/0005586852_001_20251109092908330.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/009/0005586852",
+        "original_url": "https://n.news.naver.com/mnews/article/009/0005586852",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "“경항모는 없다”…핵잠 그림자 속 해군, 2030년대 ‘유·무인 함대’ 간다 [박수찬의 軍]",
+        "time": "2025-11-09T09:02:10",
+        "img": "https://imgnews.pstatic.net/image/022/2025/11/09/20251108503546_20251109090210523.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/022/0004081225",
+        "original_url": "https://n.news.naver.com/mnews/article/022/0004081225",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美셧다운 39일째…공화 상원 원내대표 “초당적 협상 진전”",
+        "time": "2025-11-09T10:03:09",
+        "img": "https://imgnews.pstatic.net/image/018/2025/11/09/0006159861_001_20251109100309676.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006159861",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006159861",
+        "summary": "존 튠 \"상원 초당적 협상 긍정적 방향\"\n정부 재개·1월말까지 자금 확보 노력\n민주 상원 원내대표 \"정치적 압박\" 비판",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "우크라이나 \"러시아, 원전 전력 공급망 공격해 7명 사망\"",
+        "time": "2025-11-09T09:11:08",
+        "img": "https://imgnews.pstatic.net/image/469/2025/11/09/0000896491_001_20251109091108618.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000896491",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000896491",
+        "summary": "겨울 앞두고 변전소 집중 타격\n우크라 여러 지역에 정전 피해\n젤렌스키 \"대러 제재 필요\" 호소",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본의 대미 외교 전략은 ‘아부’? 아베가 시작한 ‘아부 외교’부터 다카이치 총리와 트럼프 회담에 대한 현지 반응까지 [특파원 토크, 특톡]",
+        "time": "2025-11-09T09:01:24",
+        "img": "https://imgnews.pstatic.net/image/449/2025/11/09/0000325919_001_20251109090216819.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/449/0000325919",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000325919",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "중국, 세 번째 항공모함 '푸젠함' 취역... 시진핑 직접 함정 시찰",
+        "time": "2025-11-09T08:39:09",
+        "img": "https://imgnews.pstatic.net/image/047/2025/11/09/0002494300_001_20251109083909068.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/047/0002494300",
+        "original_url": "https://n.news.naver.com/mnews/article/047/0002494300",
+        "summary": "독자 설계 첨단 기술 탑재, 미국과 해상 경쟁 구도에서 중요한 전환점",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "연세대 600명 시험서 190명 커닝 의혹… AI가 불러온 ‘캠퍼스 혼란’",
+        "time": "2025-11-09T09:50:13",
+        "img": "https://imgnews.pstatic.net/image/366/2025/11/09/0001121374_001_20251109095013824.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001121374",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001121374",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"네덜란드, 반도체 공급 재개 시 中 넥스페리아 통제 해제 검토\"",
+        "time": "2025-11-09T09:28:10",
+        "img": "https://imgnews.pstatic.net/image/092/2025/11/09/0002397576_001_20251109092810526.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/092/0002397576",
+        "original_url": "https://n.news.naver.com/mnews/article/092/0002397576",
+        "summary": "공급망 안정 위한 조건부 완화 조치…유럽 車 산업 ‘숨통 트이나’",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"히틀러 존경한다\"는 극우 인플루언서 존재감에…美 보수 내분",
+        "time": "2025-11-09T10:10:35",
+        "img": "https://imgnews.pstatic.net/image/277/2025/11/09/0005676543_001_20251109101112110.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005676543",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005676543",
+        "summary": "닉 푸엔테스, SNS 복귀 후 존재감 커져\n보수 내부, 수용이냐 단절이냐 갈림길",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "바이든 \"트럼프, 민주주의에 '파괴의 망치' 휘둘렀다\" 맹비난",
+        "time": "2025-11-09T09:52:09",
+        "img": "https://imgnews.pstatic.net/image/469/2025/11/09/0000896493_001_20251109095209053.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/469/0000896493",
+        "original_url": "https://n.news.naver.com/mnews/article/469/0000896493",
+        "summary": "민주당 주최 행사서 트럼프 직격\n\"국민들을 부끄럽게 만들고 있다\"\n'선거 압승' 당 사기 진작 목적인 듯",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "시리아 새 정부 ,  전국적인 IS 잔당 소탕작전 시작",
+        "time": "2025-11-09T09:12:34",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/09/NISI20250715_0000491516_web_20250715100535_20251109095714604.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013588922",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013588922",
+        "summary": "알샤라 임시대통령 방미 앞두고 전격 대규모 작전\n북서부 이들립주 등 IS 본부 의심지역 일제히 공격",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"물건 훔치는 것도 이젠 옛말\"…시민 의식 달라진 중국인들 [글로벌 리포트]",
+        "time": "2025-11-09T10:01:11",
+        "img": "https://imgnews.pstatic.net/image/025/2025/11/09/0003481294_001_20251109101015249.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003481294",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003481294",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"경호원 풀어줘\" 젤렌스키에 전화 건 졸리…우크라 동행 중 '강제 징집'",
+        "time": "2025-11-09T09:57:59",
+        "img": "https://imgnews.pstatic.net/image/008/2025/11/09/0005275405_001_20251109100911832.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/008/0005275405",
+        "original_url": "https://n.news.naver.com/mnews/article/008/0005275405",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美 연방정부 셧다운에 해외 미군기지 근로자 월급도 끊겨",
+        "time": "2025-11-09T09:44:08",
+        "img": "https://imgnews.pstatic.net/image/005/2025/11/09/2025110909425365468_1762648973_0028947568_20251109094408797.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001813123",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001813123",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본 동쪽 야마다 지역 인근서 규모 5.6 지진 발생",
+        "time": "2025-11-09T09:27:13",
+        "img": "https://imgnews.pstatic.net/image/449/2025/11/09/0000325922_001_20251109092813956.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/449/0000325922",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000325922",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "미국 '셧다운'에 해외 미군기지 근로자 월급도 끊겨",
+        "time": "2025-11-09T09:21:48",
+        "img": "https://imgnews.pstatic.net/image/055/2025/11/09/0001306489_001_20251109092215487.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/055/0001306489",
+        "original_url": "https://n.news.naver.com/mnews/article/055/0001306489",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "‘43℃’ 차 안에 딸 방치한 美 아빠…선고 전날 사망 [현장영상]",
+        "time": "2025-11-09T09:00:35",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012062662",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012062662",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "누군가에겐 ‘불청객’ 된 도심 마라톤···교통통제에 “1시간30분간 차에 갇혀”",
+        "time": "2025-11-09T10:29:00+00:00",
+        "img": "/api/attachments/CC8iK0NnNW5UV1Z0UmxaU2FqVnNZVlkxVFJEZ0F4aUFCU2dLTWdZQllJZ2dQd1E=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTFB2SElrcDU1Z2l1d1lld3NNY2FjX0V4Y0twTGprTFAyaXVmQzFsZnZPUS1JMmR1dkRnUnp5bEJoc0dMdjFsRWRaaDlpMkFTZ05CRWZ0bTlFdXd0Z9IBX0FVX3lxTFBVSkJIbDdySVYwWWhlS2laZDk0RWZtNHdkTG5qSkktbkpuUVVmOVVKT1VYUW9zbnFXcVN1N2ZNMDF5dmdNdHhNYV96d2RvMnVBNnFPSVRuZGY5cnloT1RB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFB2SElrcDU1Z2l1d1lld3NNY2FjX0V4Y0twTGprTFAyaXVmQzFsZnZPUS1JMmR1dkRnUnp5bEJoc0dMdjFsRWRaaDlpMkFTZ05CRWZ0bTlFdXd0Z9IBX0FVX3lxTFBVSkJIbDdySVYwWWhlS2laZDk0RWZtNHdkTG5qSkktbkpuUVVmOVVKT1VYUW9zbnFXcVN1N2ZNMDF5dmdNdHhNYV96d2RvMnVBNnFPSVRuZGY5cnloT1RB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본 동쪽 야마다 지역 인근서 규모 5.6 지진 발생",
+        "time": "2025-11-09T09:26:00+00:00",
+        "img": "/api/attachments/CC8iL0NnNXFkRkJmZUZSdGVtZHJYMHcyVFJDYkF4anFCU2dLTWdtQlVvcGdJeWh6VHdF=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiXkFVX3lxTE45TGdRX2tXYjZ3NzdVUk91ZWJSU1o5Y3l6U0FnRzBPQ0p6Tk1JczVhSHZwajdLMENvOWhPUkxWVUJhV2RBMFgtSVhEQ19ObzNKc01LWG5ZeXhsY0ZYbkHSAWNBVV95cUxQS2RlOWZ0WUVBUUJ5Nkpac0lFazdjMEpBbEVYS3VubDhpdUs1WmIxT1ZOVnh6MkZ5ZWtrc1hibG5lRUZCcnRUN2RSOERRNTdMOGpXT0dvY0FscVRoTXZ2OU42X2M?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiXkFVX3lxTE45TGdRX2tXYjZ3NzdVUk91ZWJSU1o5Y3l6U0FnRzBPQ0p6Tk1JczVhSHZwajdLMENvOWhPUkxWVUJhV2RBMFgtSVhEQ19ObzNKc01LWG5ZeXhsY0ZYbkHSAWNBVV95cUxQS2RlOWZ0WUVBUUJ5Nkpac0lFazdjMEpBbEVYS3VubDhpdUs1WmIxT1ZOVnh6MkZ5ZWtrc1hibG5lRUZCcnRUN2RSOERRNTdMOGpXT0dvY0FscVRoTXZ2OU42X2M?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "“한국인에게 진짜 더 잘할게요”…‘BMW·벤츠에 굴욕’ 독일차, 더 독해졌네 [세상만車]",
+        "time": "2025-11-09T07:39:00+00:00",
+        "img": "/api/attachments/CC8iI0NnNURYMHg2YlZsaFFsVnRNSFJvVFJDMEFSaVlBaWdCTWdB=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiT0FVX3lxTE5VS1llMnNvVFYxcmQ1N2k2RmF1WFp4ZFloTm1MSENVSUVJQ2pxWEV0LUR2V3c4QjIyOHlTNGJpNVJrcXhpLU5pN0tnekNBcTQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiT0FVX3lxTE5VS1llMnNvVFYxcmQ1N2k2RmF1WFp4ZFloTm1MSENVSUVJQ2pxWEV0LUR2V3c4QjIyOHlTNGJpNVJrcXhpLU5pN0tnekNBcTQ?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "뜻 안 맞으면 끝…″퇴역·좌천 美장성, 트럼프 2기에 20여명″",
+        "time": "2025-11-08T13:37:15+00:00",
+        "img": "/api/attachments/CC8iK0NnNVhhVXRhUWtnNU1ITlhRVTFOVFJEWUFoajBBeWdLTWdhdE5aRE5IUWs=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiZEFVX3lxTFA0Vk43V3ZpbllHWlZPQ3JxQ1g2STVrcnd3QmFMQ09lNDN0MzhQSl81Q3hVWVpsZVNYMWhoTUhxc3pibjFaUWdpWlBXLWJ4eGZCV2VoUEEzZjE5X0d0OV9iNlRTT1U?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiZEFVX3lxTFA0Vk43V3ZpbllHWlZPQ3JxQ1g2STVrcnd3QmFMQ09lNDN0MzhQSl81Q3hVWVpsZVNYMWhoTUhxc3pibjFaUWdpWlBXLWJ4eGZCV2VoUEEzZjE5X0d0OV9iNlRTT1U?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "[속보] 20대 중국인 음주운전 역주행 추돌사고…6명 부상, 차량 전소",
+        "time": "2025-11-09T10:25:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3422771_3558139_2459_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3422771",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3422771",
+        "source": "Gukje",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "[속보] 시흥 정왕동 시화공단서 황화수소 유출…주민 외출 자제 당부",
+        "time": "2025-11-09T09:46:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3422761_3558126_4632_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3422761",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3422761",
+        "source": "Gukje",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "[속보] '갈매기'에 할퀸 필리핀, 슈퍼 태풍 '풍웡' 접근에 비상",
+        "time": "2025-11-09T10:58:00",
+        "img": "https://cdn.gukjenews.com/news/thumbnail/202511/3422780_3558149_5739_v150.jpg",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3422780",
+        "original_url": "https://www.gukjenews.com/news/articleView.html?idxno=3422780",
+        "source": "Gukje",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "26만장 GPU 확보한 한국… AI 경쟁력은 이제부터가 ‘시작’",
+        "time": "2025-11-06T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=290037",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=290037",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "현대차그룹, AI 기술로 차세대 소재 확보 나선다… 英 AI 스타트업과 ‘맞손’",
+        "time": "2025-11-07T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=290098",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=290098",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "롯데케미칼, 인니 석유화학단지 준공… 신동빈 “20억달러 부가가치 창출”",
+        "time": "2025-11-07T00:00:00",
+        "img": "",
+        "url": "https://www.skyedaily.com/news/news_view.html?ID=290097",
+        "original_url": "https://www.skyedaily.com/news/news_view.html?ID=290097",
+        "summary": "",
+        "source": "skyDaily",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 Sunday",
+    "articles": [
+      {
+        "title": "대화 가능성 일축하듯…연일 美 비난하고 나선 北",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/Edaily/20251109101747880iajc.jpg",
+        "url": "https://v.daum.net/v/20251109101746549",
+        "original_url": "https://v.daum.net/v/20251109101746549",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "울산화력 매몰자 수색, 드론 투입 재개… 보일러 타워 4·6호기 해체 사전작업 속도",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/chosun/20251109111248494vnyw.jpg",
+        "url": "https://v.daum.net/v/20251109110538442",
+        "original_url": "https://v.daum.net/v/20251109110538442",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "안규백 “한미 팩트시트 조만간 발표, 美 부처내 ‘원잠 건조’ 조율 때문”",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ned/20251109111248509nuge.jpg",
+        "url": "https://v.daum.net/v/20251109111248563",
+        "original_url": "https://v.daum.net/v/20251109111248563",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "안규백 “핵잠은 자주국방의 쾌거…‘조인트 팩트시트’ 조만간 발표”",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/chosunbiz/20251109110849676etxg.jpg",
+        "url": "https://v.daum.net/v/20251109110848499",
+        "original_url": "https://v.daum.net/v/20251109110848499",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "‘재간정’ 가서 '강북빵'에 모히또 한 잔?…우이천에 문 연 강북구 웰니스 거점",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/akn/20251109111712678gewe.jpg",
+        "url": "https://v.daum.net/v/20251109111711685",
+        "original_url": "https://v.daum.net/v/20251109111711685",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "[속보] 소방당국 \"울산화력 매몰자 시신 1구 수습\"",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/NEWS1/20251109111715659hylv.jpg",
+        "url": "https://v.daum.net/v/20251109111715692",
+        "original_url": "https://v.daum.net/v/20251109111715692",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "고령화 북한, 평양 신도시 곳곳 ‘노인건강원’ 운영",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/kbs/20251109100051012ltoi.jpg",
+        "url": "https://v.daum.net/v/20251109095940177",
+        "original_url": "https://v.daum.net/v/20251109095940177",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "[여의도풍향계] 지방선거 '선수 선발' 앞둔 정청래·장동혁…리더십 시험대",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/newsy/20251109110230726wsgd.jpg",
+        "url": "https://v.daum.net/v/20251109110230370",
+        "original_url": "https://v.daum.net/v/20251109110230370",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "[타보고서] 험난한 흙길도 거침없이…군용차 DNA '지프 랭글러'",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ZDNetKorea/20251109102649229croz.jpg",
+        "url": "https://v.daum.net/v/20251109102647706",
+        "original_url": "https://v.daum.net/v/20251109102647706",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "중국인이 전산망 '먹통' 노리고 입국? 신문 만평에 '주의'",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/mediatoday/20251109111715437ahzj.jpg",
+        "url": "https://v.daum.net/v/20251109111713688",
+        "original_url": "https://v.daum.net/v/20251109111713688",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "안규백 “핵잠, 자주국방 쾌거…김정은 간담 서늘할 것”",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/dt/20251109111650841hyke.png",
+        "url": "https://v.daum.net/v/20251109111649675",
+        "original_url": "https://v.daum.net/v/20251109111649675",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "중국, 피지컬 AI용 데이터 확보에 사활…한국은 '걸음마' 수준",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/akn/20251109110312771hitf.jpg",
+        "url": "https://v.daum.net/v/20251109110311395",
+        "original_url": "https://v.daum.net/v/20251109110311395",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "자유 월남 최후 지켜본 한국 장군 [김태훈의 의미 또는 재미]",
+        "time": "2025-11-09T02:18:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/segye/20251109100941735mnjp.jpg",
+        "url": "https://v.daum.net/v/20251109100941426",
+        "original_url": "https://v.daum.net/v/20251109100941426",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "'보수우위' 美연방대법원, 낙태권 이어 동성결혼 합법화 뒤집나",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/yonhap/20251109111451578btcs.jpg",
+        "url": "https://v.daum.net/v/20251109111451605",
+        "original_url": "https://v.daum.net/v/20251109111451605",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "\"히틀러 존경한다\"는 극우 인플루언서 존재감에…美 보수 내분",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/akn/20251109101228921iodm.jpg",
+        "url": "https://v.daum.net/v/20251109101227461",
+        "original_url": "https://v.daum.net/v/20251109101227461",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "\"물건 훔치는 것도 이젠 옛말\"…시민 의식 달라진 중국인들 [글로벌 리포트]",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/joongang/20251109100155114cueq.jpg",
+        "url": "https://v.daum.net/v/20251109100147266",
+        "original_url": "https://v.daum.net/v/20251109100147266",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "北, 왜 핵보유국 인정 못받나···6차례 핵실험·50발 핵탄두 보유 추정[이현호의 밀리터리!톡]",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/seouleconomy/20251109110225840asev.jpg",
+        "url": "https://v.daum.net/v/20251109110223362",
+        "original_url": "https://v.daum.net/v/20251109110223362",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "美상원 ‘셧다운 해법’ 논의 공전…트럼프 “필버 폐지” 거듭 압박",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ned/20251109104550885nkyh.jpg",
+        "url": "https://v.daum.net/v/20251109104550965",
+        "original_url": "https://v.daum.net/v/20251109104550965",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "불발된 경주發 북미회동...김정은, 대체 뭐가 불만이었을까 [외교안보 문·지·방]",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/hankooki/20251109110113386eykk.jpg",
+        "url": "https://v.daum.net/v/20251109110111283",
+        "original_url": "https://v.daum.net/v/20251109110111283",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "\"중국 암 치료약 임상시험 건수 2년 연속 미국 추월\"",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/yonhap/20251109110357160vnhx.jpg",
+        "url": "https://v.daum.net/v/20251109110357413",
+        "original_url": "https://v.daum.net/v/20251109110357413",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "또 쿠바 미사일 위기? 러, ‘美와 갈등’ 베네수엘라에 미사일 배치 시사",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ned/20251109110149791ivee.jpg",
+        "url": "https://v.daum.net/v/20251109110149329",
+        "original_url": "https://v.daum.net/v/20251109110149329",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "대만 부총통, EU 향해 “대만해협 평화” 주장…중국 “강력히 분노”",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/hani/20251109103116097pmxk.jpg",
+        "url": "https://v.daum.net/v/20251109103114779",
+        "original_url": "https://v.daum.net/v/20251109103114779",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "일본의 대미 외교 전략은 ‘아부’? 아베가 시작한 ‘아부 외교’부터 다카이치 총리와 트럼프 회담에 대한 현지 반응까지 [특파원 토크, 특톡]",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/Channela/20251109090249519byuc.jpg",
+        "url": "https://v.daum.net/v/20251109090248363",
+        "original_url": "https://v.daum.net/v/20251109090248363",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "[포착] “내 머리카락이”…‘새벽 3시 출근’ 日총리, 워라밸 포기 부작용 고백",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/seoul/20251109110347482awla.jpg",
+        "url": "https://v.daum.net/v/20251109110345404",
+        "original_url": "https://v.daum.net/v/20251109110345404",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "바이든 \"트럼프, 민주주의에 '파괴의 망치' 휘둘렀다\" 맹비난",
+        "time": "2025-11-09T02:17:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/hankooki/20251109095249924pizv.jpg",
+        "url": "https://v.daum.net/v/20251109095248068",
+        "original_url": "https://v.daum.net/v/20251109095248068",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "[속보] 서해 공해상서 중국어선 전복…3명 실종·2명 심정지 구조",
+        "time": "2025-11-09T11:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/sg/2025/11/09/20251109504249.jpg",
+        "url": "https://news.nate.com/view/20251109n05171",
+        "original_url": "https://news.nate.com/view/20251109n05171",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "연세대 중간고사 대규모 부정행위? AI 윤리 논의 점화",
+        "time": "2025-11-09T11:17:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/dn/2025/11/09/news_1762653514_1570657_m_1.jpg",
+        "url": "https://news.nate.com/view/20251109n04897",
+        "original_url": "https://news.nate.com/view/20251109n04897",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러, 우크라 아파트·전력시설 동시 공격…민간인 4명 사망",
+        "time": "2025-11-09T11:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/11/09/2025110901000713700042781.jpg",
+        "url": "https://news.nate.com/view/20251109n04848",
+        "original_url": "https://news.nate.com/view/20251109n04848",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"중국 암 치료약 임상시험 건수 2년 연속 미국 추월\"",
+        "time": "2025-11-09T11:02:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/AKR20251109020300073_02_i.jpg",
+        "url": "https://news.nate.com/view/20251109n04819",
+        "original_url": "https://news.nate.com/view/20251109n04819",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "또 쿠바 미사일 위기? 러, '美와 갈등' 베네수엘라에 미사일 배치 시사",
+        "time": "2025-11-09T11:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/11/09/news-p.v1.20251107.154aa6c5176b421bacb37b0140bd8dec_P1.jpg",
+        "url": "https://news.nate.com/view/20251109n04810",
+        "original_url": "https://news.nate.com/view/20251109n04810",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美상원 '셧다운 해법' 논의 공전…트럼프 \"필버 폐지\" 거듭 압박",
+        "time": "2025-11-09T10:45:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/11/09/rcv.YNA.20251108.PAP20251108047201009_P1.jpg",
+        "url": "https://news.nate.com/view/20251109n04364",
+        "original_url": "https://news.nate.com/view/20251109n04364",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "대만 부총통, EU 향해 \"대만해협 평화\" 주장…중국 \"강력히 분노\"",
+        "time": "2025-11-09T10:40:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hn/2025/11/09/20251109500591.jpg",
+        "url": "https://news.nate.com/view/20251109n04121",
+        "original_url": "https://news.nate.com/view/20251109n04121",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美 셧다운 해법 여전히 평행선…트럼프 \"오바마케어는 세계 최악\"",
+        "time": "2025-11-09T10:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/11/09/2025110901000707000042491.jpg",
+        "url": "https://news.nate.com/view/20251109n04068",
+        "original_url": "https://news.nate.com/view/20251109n04068",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "미국 새 미식축구장 이름 '트럼프' 되나…\"트럼프 대통령이 원하는 일\"",
+        "time": "2025-11-09T10:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/09/AKR20251109101840WwI_01_i.jpg",
+        "url": "https://news.nate.com/view/20251109n03941",
+        "original_url": "https://news.nate.com/view/20251109n03941",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"히틀러 존경한다\"는 극우 인플루언서 존재감에…美 보수 내분",
+        "time": "2025-11-09T10:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/11/09/ae_1762650664379_484892_0.png",
+        "url": "https://news.nate.com/view/20251109n03797",
+        "original_url": "https://news.nate.com/view/20251109n03797",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프, 직접 전쟁 일으키나…\"항모 보내고 2만 병력 결집\" 비상 [핫이슈]",
+        "time": "2025-11-09T10:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/11/09/SSC_20251109100928_V.png",
+        "url": "https://news.nate.com/view/20251109n03805",
+        "original_url": "https://news.nate.com/view/20251109n03805",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "시카고 이민 단속 격화 속 연방 요원 겨냥 총격 발생…주민 시위와 긴장 고조",
+        "time": "2025-11-09T10:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/at/2025/11/09/2025110901000704500042311.jpg",
+        "url": "https://news.nate.com/view/20251109n03707",
+        "original_url": "https://news.nate.com/view/20251109n03707",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "바이든 \"트럼프, 민주주의에 '파괴의 망치' 휘둘렀다\" 맹비난",
+        "time": "2025-11-09T09:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/11/09/8c1ac177-74b3-4a59-a3f5-b4a52a0a4b9d.jpg",
+        "url": "https://news.nate.com/view/20251109n03398",
+        "original_url": "https://news.nate.com/view/20251109n03398",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러, 우크라 전력시설 밤샘 공습…곳곳서 정전·단수 피해",
+        "time": "2025-11-09T09:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ed/2025/11/09/PS25110900093.jpg",
+        "url": "https://news.nate.com/view/20251109n02961",
+        "original_url": "https://news.nate.com/view/20251109n02961",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "AI 거품론이 흔들었다…美 대표 기술주 한 주 새 1160조원 증발",
+        "time": "2025-11-09T09:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ch/2025/11/09/ch_1762647604298_615756_0.jpg",
+        "url": "https://news.nate.com/view/20251109n02219",
+        "original_url": "https://news.nate.com/view/20251109n02219",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "혐오발언 일삼는 27세 극우 인플루언서 부상에 美보수진영 내분",
+        "time": "2025-11-09T09:20:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/AKR20251109013400009_01_i.jpg",
+        "url": "https://news.nate.com/view/20251109n02906",
+        "original_url": "https://news.nate.com/view/20251109n02906",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "'현상금 145억' 반미 테러리스트의 전향…시리아 수장 방미 파격 [후후월드]",
+        "time": "2025-11-09T09:12:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/11/09/e7451d33-0dfd-4238-8590-e18cc505f497.jpg",
+        "url": "https://news.nate.com/view/20251109n00667",
+        "original_url": "https://news.nate.com/view/20251109n00667",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "우크라이나 \"러시아, 원전 전력 공급망 공격해 7명 사망\"",
+        "time": "2025-11-09T09:11:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hi/2025/11/09/b6d4d9da-881c-4dee-ba83-9ade58b85001.jpg",
+        "url": "https://news.nate.com/view/20251109n02796",
+        "original_url": "https://news.nate.com/view/20251109n02796",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"총 5발 쐈고, 그녀는 구멍 7개 났다\"…미국 요원, 채팅방서 '충격 발언'",
+        "time": "2025-11-09T08:41:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/11/09/mt_1762645264628_198228_0.jpg",
+        "url": "https://news.nate.com/view/20251109n02243",
+        "original_url": "https://news.nate.com/view/20251109n02243",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러 공습에 우크라서 4명 사망…주요 발전소는 가동 멈춰",
+        "time": "2025-11-09T08:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/09/665121_1762643770.jpg",
+        "url": "https://news.nate.com/view/20251109n02166",
+        "original_url": "https://news.nate.com/view/20251109n02166",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "'셧다운' 논의 공전…트럼프 \"필리버스터 폐지\" 압박",
+        "time": "2025-11-09T08:21:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/09/665097_1762643305.jpg",
+        "url": "https://news.nate.com/view/20251109n02147",
+        "original_url": "https://news.nate.com/view/20251109n02147",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"유럽, 이제 우리 문화재 내놔!\"…이집트, 대박물관 열더니 ○○ 자신감↑ [나우,어스]",
+        "time": "2025-11-09T07:51:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/hr/2025/11/09/rcv.YNA.20251106.PAP20251106007701009_P1.jpg",
+        "url": "https://news.nate.com/view/20251109n01921",
+        "original_url": "https://news.nate.com/view/20251109n01921",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러, 우크라 에너지 시설 대규모 공습…7명 사망·정전 속출",
+        "time": "2025-11-09T07:39:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090731356637_t.jpg",
+        "url": "https://news.nate.com/view/20251109n01843",
+        "original_url": "https://news.nate.com/view/20251109n01843",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美 UN 인권심의 불참…국제사회 \"책임 방기\"",
+        "time": "2025-11-09T07:06:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/11/09/mt_1762639564793_960998_0.jpg",
+        "url": "https://news.nate.com/view/20251109n01505",
+        "original_url": "https://news.nate.com/view/20251109n01505",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "나스닥 주간 하락률 3%, 트럼프 4월 관세 폭탄 이후 최고",
+        "time": "2025-11-09T07:03:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/09/7587228_high.jpg",
+        "url": "https://news.nate.com/view/20251109n01620",
+        "original_url": "https://news.nate.com/view/20251109n01620",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美 워싱턴DC 풋볼팀 새 구장 이름에 트럼프?…\"본인이 원해\"",
+        "time": "2025-11-09T06:54:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/AKR20251109004800071_01_i.jpg",
+        "url": "https://news.nate.com/view/20251109n01473",
+        "original_url": "https://news.nate.com/view/20251109n01473",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러 공습에 우크라 7명 사망…발전소 중단, 정전 속출",
+        "time": "2025-11-09T06:24:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251109n01277",
+        "original_url": "https://news.nate.com/view/20251109n01277",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "미국 애틀랜타 총영사관 \"한국 기업 비자·입국 심사 유의해야\"",
+        "time": "2025-11-09T06:29:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090624541510_t.jpg",
+        "url": "https://news.nate.com/view/20251109n01329",
+        "original_url": "https://news.nate.com/view/20251109n01329",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "이스라엘, 주말에도 가자 공격 2명 살상…사망자 총 6만9000명 넘어",
+        "time": "2025-11-09T06:18:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/09/NISI20251029_0000752706_web.jpg",
+        "url": "https://news.nate.com/view/20251109n01253",
+        "original_url": "https://news.nate.com/view/20251109n01253",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프, 전면 침공 나서나…항모 보내고 2만 병력 집결시킨 이곳",
+        "time": "2025-11-09T06:27:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/jo/2025/11/09/42ca0eaa-66c7-4bfe-a1ff-1e922dd3f1a9.jpg",
+        "url": "https://news.nate.com/view/20251109n00670",
+        "original_url": "https://news.nate.com/view/20251109n00670",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프 눈치 봤나…EU·중남미 회의에 정상 대거 불참",
+        "time": "2025-11-09T06:50:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/PEP20251109037401009_P2.jpg",
+        "url": "https://news.nate.com/view/20251109n01458",
+        "original_url": "https://news.nate.com/view/20251109n01458",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "세계 1위 올라선 中 로봇…대만 상륙 훈련에도 등장[시사쇼]",
+        "time": "2025-11-09T06:30:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ae/2025/11/09/ae_1762637404527_910198_0.jpg",
+        "url": "https://news.nate.com/view/20251109n01335",
+        "original_url": "https://news.nate.com/view/20251109n01335",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프 편애 받는 아르헨티나…\"미국과 철강·알루미늄 무관세 수출 협상 중\"",
+        "time": "2025-11-09T06:04:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090600431314_t.jpg",
+        "url": "https://news.nate.com/view/20251109n01144",
+        "original_url": "https://news.nate.com/view/20251109n01144",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"군대 끌려가기 전 탈출해서 행복해\" 젊은 우크라 남성들 '독일 러시'",
+        "time": "2025-11-09T06:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/no/2025/11/09/SSC_20251109022750_V.jpg",
+        "url": "https://news.nate.com/view/20251109n01062",
+        "original_url": "https://news.nate.com/view/20251109n01062",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러 공습에 우크라 4명 사망…발전소 중단, 정전 속출",
+        "time": "2025-11-09T04:44:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251109n00626",
+        "original_url": "https://news.nate.com/view/20251109n00626",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"日, 인도·태평양 전략 2.0 추진해야\"",
+        "time": "2025-11-09T06:00:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mt/2025/11/09/2025110717104872521_1.jpg",
+        "url": "https://news.nate.com/view/20251109n00994",
+        "original_url": "https://news.nate.com/view/20251109n00994",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "볼리비아, '중도 우파' 파스 대통령 취임…\"0순위는 경제난 극복\"",
+        "time": "2025-11-09T04:52:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ny/2025/11/09/AKR202511090451511US_01_i.jpg",
+        "url": "https://news.nate.com/view/20251109n00634",
+        "original_url": "https://news.nate.com/view/20251109n00634",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "'셧다운' 논의 공전…트럼프, 필리버스터 폐지 압박",
+        "time": "2025-11-09T04:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090213172301_t.jpg",
+        "url": "https://news.nate.com/view/20251109n00531",
+        "original_url": "https://news.nate.com/view/20251109n00531",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "美, 유엔 인권 검토 거부…\"中·베네수가 하는 훈계 필요 없다\"",
+        "time": "2025-11-09T04:10:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/09/7585614_high.jpg",
+        "url": "https://news.nate.com/view/20251109n00607",
+        "original_url": "https://news.nate.com/view/20251109n00607",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"이란 이슬람 혁명 수비대, 멕시코에서 이스라엘 대사 암살 계획\"",
+        "time": "2025-11-09T04:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090404572698_t.jpg",
+        "url": "https://news.nate.com/view/20251109n00606",
+        "original_url": "https://news.nate.com/view/20251109n00606",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "친미 중도 우파 성향 볼리비아 대통령 취임…\"왕좌 아닌 임무\"",
+        "time": "2025-11-09T04:09:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090402471271_t.jpg",
+        "url": "https://news.nate.com/view/20251109n00603",
+        "original_url": "https://news.nate.com/view/20251109n00603",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"이스라엘 군인 골딘 시신 발견돼\"…11년만에 송환 목전",
+        "time": "2025-11-09T03:48:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/PAF20251029095301009_P2.jpg",
+        "url": "https://news.nate.com/view/20251109n00576",
+        "original_url": "https://news.nate.com/view/20251109n00576",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러 공습에 우크라서 4명 사망…주요 발전소 생산중단, 정전 속출(종합)",
+        "time": "2025-11-09T02:49:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yt/2025/11/09/PAF20251108119401009_P2.jpg",
+        "url": "https://news.nate.com/view/20251109n00556",
+        "original_url": "https://news.nate.com/view/20251109n00556",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "바이든 \"트럼프, 美 때려 부숴…황금기 아니라 부끄러운 시기\"",
+        "time": "2025-11-09T03:31:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/na/2025/11/09/7294548_high.jpg",
+        "url": "https://news.nate.com/view/20251109n00580",
+        "original_url": "https://news.nate.com/view/20251109n00580",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "러, 우크라 에너지시설 공습…발전 중단·정전 확산",
+        "time": "2025-11-09T03:47:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/09/NISI20250214_0000106456_web.jpg",
+        "url": "https://news.nate.com/view/20251109n00588",
+        "original_url": "https://news.nate.com/view/20251109n00588",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프 마가연합, 극우 인터뷰 옹호로 분열…헤리티지 재단 수장 태도 논란",
+        "time": "2025-11-09T03:59:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251109n00592",
+        "original_url": "https://news.nate.com/view/20251109n00592",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"APEC 비공식 회의\"로 부르는 중국…내년 타이완 보이콧?",
+        "time": "2025-11-09T02:19:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/yn/2025/11/09/202511090212072127_t.jpg",
+        "url": "https://news.nate.com/view/20251109n00529",
+        "original_url": "https://news.nate.com/view/20251109n00529",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "미·이스라엘 \"이란, 주멕시코 이스라엘 대사 암살 모의\"",
+        "time": "2025-11-09T02:05:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/09/NISI20250626_0000446019_web.jpg",
+        "url": "https://news.nate.com/view/20251109n00503",
+        "original_url": "https://news.nate.com/view/20251109n00503",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "미국, UN 인권심의 불참…이사회, 미국 UPR 내년으로 연기",
+        "time": "2025-11-09T00:24:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/09/NISI20251107_0000775700_web.jpg",
+        "url": "https://news.nate.com/view/20251109n00145",
+        "original_url": "https://news.nate.com/view/20251109n00145",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "\"청소하러 왔을 뿐인데\"…잘못된 주소 찾아간 여성 총격 사망",
+        "time": "2025-11-09T01:01:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/ns/2025/11/09/NISI20251107_0001986945_web.jpg",
+        "url": "https://news.nate.com/view/20251109n00250",
+        "original_url": "https://news.nate.com/view/20251109n00250",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "브라질서 토네이도에 6명 사망·600여 명 부상…\"재난지역 선포\"",
+        "time": "2025-11-09T01:36:00",
+        "img": "",
+        "url": "https://news.nate.com/view/20251109n00230",
+        "original_url": "https://news.nate.com/view/20251109n00230",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "'전쟁범죄' 혐의 네타냐후, 튀르키예 영토 들어서면 즉각 체포",
+        "time": "2025-11-09T00:23:00",
+        "img": "//thumbnews.nateimg.co.kr/news90///news.nateimg.co.kr/orgImg/mh/2025/11/09/rcv.YNA.20251108.PAF20251108077501009_P1.jpg",
+        "url": "https://news.nate.com/view/20251109n00109",
+        "original_url": "https://news.nate.com/view/20251109n00109",
+        "source": "nate",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
     "date": "2025년 11월 08일 토요일",
     "articles": [
       {
