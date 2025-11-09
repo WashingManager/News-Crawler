@@ -6444,5 +6444,26 @@
         "summary": "피해자에 2년 무료 신용 모니터링 제공…정기 점검 권고자동차 분야 디지털 전환 가속화에 보안 강화 절실[보안뉴스 여이레 기자] 현대자동차그룹 IT 계열사 현대오토에버의 미국 법인 ‘현대오토에버 아메리카’(HAEA)에서 해킹 공격으로 개인정보 유출이 발생했다.[자료: 현대오토에버 아메리카]5일(현지시간) 본지 취재를 종합하면 이번 현대오토에버 아메리카 해킹으..."
       }
     ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
+        "title": "[KINPA에서 만난 사람 ④] “호주 IP시장, 특이점이 온다”...김현태 濠 변호사",
+        "time": "2025-11-09T10:36:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/976637489_9878.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140231&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140231&page=1&kind=1",
+        "summary": "“호주엔 지금, 한류 열풍 뜨겁습니다. 그만큼 한국상표 출원 등에 대한 현지 문의도 급증하고 있어요.”이번 KINPA 컨퍼런스 참석 등 한국 고객사 미팅 차, 고국을 방문한 김현태 호주변호사(52)는 현지에 이른바 ‘K-웨이브’가 매섭다고 밝혔다.▲김현태 호주변호사 [촬영: 최훈석 기자]김 변호사는 “화장품과 식품 등 일반 소비재는 물론, 게임이나 소프트웨..."
+      },
+      {
+        "title": "보안 약한 C 언어를 안전한 ‘러스트’로 자동 변환...KAIST 연구 주목",
+        "time": "2025-11-09T13:13:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/976671443_4209.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140232&page=1&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140232&page=1&kind=5",
+        "summary": "LLM 방식 한계 넘는 C→러스트 코드 자동 변환 핵심 기술...연구 방향과 비전 제시[보안뉴스 한세희 기자] 보안 위험이 높은 C 언어를 보다 안전한 ‘러스트’ 언어로 자동 변환하는 연구를 KAIST 연구진이 선도해 주목된다.KAIST는 전산학부 류석영 교수 연구팀 논문이 세계 최대 컴퓨터학회 ACM(Association for Computing Mach..."
+      }
+    ]
   }
 ]
