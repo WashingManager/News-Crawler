@@ -26,6 +26,21 @@
     "date": "2025년 11월 09일 일요일",
     "articles": [
       {
+        "title": "[기획] 트럼프는 왜 ‘계엄’을 선포했음에도 법정에 서지 않는가",
+        "time": "2025-11-09T06:23:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2155_4239_427.jpg",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2155",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2155",
+        "summary": "도널드 트럼프 미국 대통령이 사실상 ‘준(準)계엄령’에 해당하는 주방위군을 워싱턴DC·시카고·로스앤젤레스 등 주요 도시에 투입하면서 미국은 다시 긴장 상태에 빠졌다. 하지만 미국의 사법 시스템은 이 문제를 ‘법적 논란’으로 다루되, 결코 ‘정치적 숙청’으로 몰고 가지 않았다. 반면 한국의 사법 시스템은 헌법상 계엄 선포권을 가진 대통령의 ‘12.3 계엄’을...",
+        "source": "truthdaily",
+        "date": "2025년 11월 09일 일요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 09일 일요일",
+    "articles": [
+      {
         "title": "“대통령 연봉 2.5배 모았다”…윤석열, 재구속 100일 만에 영치금 6.5억",
         "time": "2025-11-09T09:29:08",
         "img": "https://imgnews.pstatic.net/image/009/2025/11/09/0005586852_001_20251109092908330.jpg?type=w860",
@@ -1724,12 +1739,201 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "입법 전쟁 본격화…여야, 관세협상·반도체법·배임죄 '팽팽'",
+        "time": "2025-11-09T16:59:10",
+        "img": "https://imgnews.pstatic.net/image/018/2025/11/09/0006160259_001_20251109165910164.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006160259",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006160259",
+        "summary": "한미관세협상 국회 비준 두고 여야 신경전 고조\n'주52시간 특례 빠진' 반도체특별법 입장차 여전\n배임죄 두고는 與 \"완전 폐지\" vs 野 \"완화 충분\"",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "안규백 “핵잠은 자주국방 쾌거…김정은 잠 못 잘 것”",
+        "time": "2025-11-09T16:19:12",
+        "img": "https://imgnews.pstatic.net/image/021/2025/11/09/0002748668_002_20251109161912108.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002748668",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002748668",
+        "summary": "“한미, 내년 전작권 전환 2단계 검증 합의…팩트시트 곧 발표될 것”",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "'불장'에 개미군단 돈 쏟아부었다…한달새 신규증권계좌 50% 급증",
+        "time": "2025-11-09T18:00:10",
+        "img": "https://imgnews.pstatic.net/image/018/2025/11/09/0006160302_001_20251109180010636.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/018/0006160302",
+        "original_url": "https://n.news.naver.com/mnews/article/018/0006160302",
+        "summary": "[동학 개미 시즌2 현실화하나]\n상승랠리에 한달새 예금이탈 22조\n증권사 신규계좌는 39만개 늘어\n거래대금도 연초보다 두배 넘게 쑥\n개미들, 급락장에서도 순매수로 지지\n금융권 \"대출 급증 건전성 관리 부담\"",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "성남·과천도 7000만원대, 강북 5000만원 넘봐…고삐 풀린 분양가",
+        "time": "2025-11-09T17:47:12",
+        "img": "https://imgnews.pstatic.net/image/015/2025/11/09/0005208930_001_20251109174712632.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/015/0005208930",
+        "original_url": "https://n.news.naver.com/mnews/article/015/0005208930",
+        "summary": "서울에 '8000만원대 분양가' 나왔다\n\n집값 급등에 공사비까지 치솟아\n반포 래미안 트리니원 8484만원",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "日 이와테현 동쪽 바다서 규모 6.7 지진…쓰나미 주의보 발령",
+        "time": "2025-11-09T18:11:05",
+        "img": "https://imgnews.pstatic.net/image/025/2025/11/09/0003481367_001_20251109181217945.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/025/0003481367",
+        "original_url": "https://n.news.naver.com/mnews/article/025/0003481367",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "日이와테현 동쪽 바다 규모 6.7 지진…쓰나미 주의보 발령",
+        "time": "2025-11-09T17:59:56",
+        "img": "https://imgnews.pstatic.net/image/277/2025/11/09/0005676645_001_20251109180015046.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/277/0005676645",
+        "original_url": "https://n.news.naver.com/mnews/article/277/0005676645",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일 북동부 이와테 근해서 규모 6.7 지진 발생…쓰나미 주의보(1보)",
+        "time": "2025-11-09T17:59:21",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/09/NISI20201211_0000654239_web_20201211094147_20251109180222553.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013589621",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013589621",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "中, 미얀마 등 해외 진출 사기 조직 강력 단속 나서나",
+        "time": "2025-11-09T17:56:14",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/09/NISI20251021_0000730701_web_20251021110755_20251109175715620.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013589620",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013589620",
+        "summary": "CCTV, 미얀마 접경도시 라우카잉 활동 마피아 조직원 심문 장면 방영\n“원숭이 겁주려 닭 죽이는” 해외 중국인 범죄단체 단속 의지 나타내\n미얀마 군부정권과 협력해 민병대 운영하며 세력 키워",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "“트럼프 졸렸나” “대통령 안 잤다” 퍼진 영상에 갑론을박",
+        "time": "2025-11-09T17:58:12",
+        "img": "https://imgnews.pstatic.net/image/028/2025/11/09/0002775468_001_20251109175812349.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002775468",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002775468",
+        "summary": "‘졸린 조’ 바이든 전 대통령 공격해 온 전적 탓에 화제",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "트럼프, 인도엔 추가관세 때리더니…헝가리는 러 원유 수입 1년 용인",
+        "time": "2025-11-09T17:51:10",
+        "img": "https://imgnews.pstatic.net/image/011/2025/11/09/0004553696_001_20251109175110601.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004553696",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004553696",
+        "summary": "내년 총선 앞둔 오르반 ‘지원사격’",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "‘130명 사망’ 파리 테러 10주기 앞두고 테러 긴장감 고조",
+        "time": "2025-11-09T17:44:18",
+        "img": "https://imgnews.pstatic.net/image/028/2025/11/09/0002775464_001_20251109175217755.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/028/0002775464",
+        "original_url": "https://n.news.naver.com/mnews/article/028/0002775464",
+        "summary": "최근 ‘자폭 모의’ 3명 구금",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본 동쪽 해역서 6.8 강진…‘대지진 조짐? 하루 새 12차례 강진’",
+        "time": "2025-11-09T18:10:13",
+        "img": "https://imgnews.pstatic.net/image/449/2025/11/09/0000325956_001_20251109181113351.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/449/0000325956",
+        "original_url": "https://n.news.naver.com/mnews/article/449/0000325956",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "中, 해군력 강화 드라이브…항모·핵잠 도입 속도",
+        "time": "2025-11-09T18:06:10",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000799845",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000799845",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "최장기 '美셧다운'…\"미군 해외기지 직원 월급도 끊겨\"",
+        "time": "2025-11-09T18:05:18",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000799844",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000799844",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본 이와테현 동쪽 바다서 규모 6.7 지진…쓰나미 주의보 발령",
+        "time": "2025-11-09T18:02:29",
+        "img": "https://imgnews.pstatic.net/image/056/2025/11/09/0012062744_001_20251109180415116.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/056/0012062744",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012062744",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "일본 이와테현 동쪽 해역서 6.7 강진 발생…쓰나미 주의보 발령",
+        "time": "2025-11-09T17:53:13",
+        "img": "https://imgnews.pstatic.net/image/660/2025/11/09/0000096628_001_20251109175313247.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/660/0000096628",
+        "original_url": "https://n.news.naver.com/mnews/article/660/0000096628",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "日 이와테현 동쪽 바다에 6.7 규모 지진…쓰나미주의보",
+        "time": "2025-11-09T17:47:31",
+        "img": "https://imgnews.pstatic.net/image/215/2025/11/09/A202511090161_1_20251109174816039.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/215/0001230173",
+        "original_url": "https://n.news.naver.com/mnews/article/215/0001230173",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "日 이와테현 동쪽 바다서 규모 6.7 지진… 쓰나미 주의보 발령",
+        "time": "2025-11-09T17:47:09",
+        "img": "https://imgnews.pstatic.net/image/366/2025/11/09/0001121497_001_20251109174709712.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/366/0001121497",
+        "original_url": "https://n.news.naver.com/mnews/article/366/0001121497",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 09일 일요일"
       }
     ]
   },
   {
     "date": "2025년 11월 09일 일요일",
     "articles": [
+      {
+        "title": "일본 이와테현 동쪽 바다서 규모 6.7 지진…쓰나미 주의보 발령",
+        "time": "2025-11-09T18:02:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNDVkV0ZRWTFGV1N6QlJZWE15VFJEb0FoaUFCU2dLTWdPdEloSQ=-w100-h100-p-df-rw",
+        "url": "https://news.google.com/read/CBMiW0FVX3lxTE9OUkI3Zld4STIwOGJaUzZyNUplS0RFQ1Z6TUI3ekQwZ1dkeEpCV0h4M0RWa0ZpODljZFpOekNZLURRYlJMOEVOb3ZxdGJ4a1dfTmZFd2QyTHB4Mk0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiW0FVX3lxTE9OUkI3Zld4STIwOGJaUzZyNUplS0RFQ1Z6TUI3ekQwZ1dkeEpCV0h4M0RWa0ZpODljZFpOekNZLURRYlJMOEVOb3ZxdGJ4a1dfTmZFd2QyTHB4Mk0?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      },
       {
         "title": "일본 이와테현 모리오카시 동쪽 바다서 규모 6.5 지진 발생",
         "time": "2025-11-09T17:15:00+00:00",
@@ -1853,6 +2057,15 @@
         "img": "/api/attachments/CC8iK0NnNW5UV1Z0UmxaU2FqVnNZVlkxVFJEZ0F4aUFCU2dLTWdZQllJZ2dQd1E=-w100-h100-p-df",
         "url": "https://news.google.com/read/CBMiWkFVX3lxTFB2SElrcDU1Z2l1d1lld3NNY2FjX0V4Y0twTGprTFAyaXVmQzFsZnZPUS1JMmR1dkRnUnp5bEJoc0dMdjFsRWRaaDlpMkFTZ05CRWZ0bTlFdXd0Z9IBX0FVX3lxTFBVSkJIbDdySVYwWWhlS2laZDk0RWZtNHdkTG5qSkktbkpuUVVmOVVKT1VYUW9zbnFXcVN1N2ZNMDF5dmdNdHhNYV96d2RvMnVBNnFPSVRuZGY5cnloT1RB?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMiWkFVX3lxTFB2SElrcDU1Z2l1d1lld3NNY2FjX0V4Y0twTGprTFAyaXVmQzFsZnZPUS1JMmR1dkRnUnp5bEJoc0dMdjFsRWRaaDlpMkFTZ05CRWZ0bTlFdXd0Z9IBX0FVX3lxTFBVSkJIbDdySVYwWWhlS2laZDk0RWZtNHdkTG5qSkktbkpuUVVmOVVKT1VYUW9zbnFXcVN1N2ZNMDF5dmdNdHhNYV96d2RvMnVBNnFPSVRuZGY5cnloT1RB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 09일 일요일"
+      },
+      {
+        "title": "“대통령 연봉 2.5배 모았다”…윤석열, 재구속 100일 만에 영치금 6.5억",
+        "time": "2025-11-09T09:28:39+00:00",
+        "img": "/api/attachments/CC8iK0NnNTJjRzEzYWpRelRWcE1jbTFaVFJERUF4aW1CU2dLTWdZbGNKVHNLUWc=-w350-h175-p-df-rw",
+        "url": "https://news.google.com/read/CBMiVkFVX3lxTE41WU1JeUI3UGNqMVNmZXY3X2NKUmYtQkhPemdCZktxU2l5cEdsbURvLTdEbEZtUFY1a2hHTjNxV0U1TXpCeGEwYUpHendfT1BwMEh3Rkln?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiVkFVX3lxTE41WU1JeUI3UGNqMVNmZXY3X2NKUmYtQkhPemdCZktxU2l5cEdsbURvLTdEbEZtUFY1a2hHTjNxV0U1TXpCeGEwYUpHendfT1BwMEh3Rkln?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 11월 09일 일요일"
       },
@@ -3443,6 +3656,141 @@
         "img": "https://t1.daumcdn.net/media/img-media/mobile/meta/og.png",
         "url": "https://v.daum.net/v/20251109173849409",
         "original_url": "https://v.daum.net/v/20251109173849409",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "B-21 레이더는 AI탑재 '디지털 폭격기'…\"美 미래 핵전력의 3대축\"",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ked/20251109181848799cdcx.jpg",
+        "url": "https://v.daum.net/v/20251109175139669",
+        "original_url": "https://v.daum.net/v/20251109175139669",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "\"공급망 지원은 국가 전략\"…오픈AI, 美 정부에 세액공제 확대 요청",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/Edaily/20251109182355196xsbu.jpg",
+        "url": "https://v.daum.net/v/20251109182353239",
+        "original_url": "https://v.daum.net/v/20251109182353239",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "APEC 성공, 국민 74% “국익에 도움”…대미 협상도 긍정 평가",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/551752-SREzwmR/20251109180958469aiww.jpg",
+        "url": "https://v.daum.net/v/20251109180957987",
+        "original_url": "https://v.daum.net/v/20251109180957987",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "지역 7선 의원에게 \"저게 정신 나갔나\" 막말이 쏟아졌던 이유 [12.7 탄핵박제 105인]",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/ohmynews/20251109180902377ayjk.jpg",
+        "url": "https://v.daum.net/v/20251109180901974",
+        "original_url": "https://v.daum.net/v/20251109180901974",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "인도 美전투기엔진 대량 도입… 무역협상 출구 기대",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/fnnewsi/20251109175428840nfpa.jpg",
+        "url": "https://v.daum.net/v/20251109175428721",
+        "original_url": "https://v.daum.net/v/20251109175428721",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "[일요와이드] 北 \"美 적의에 더 공세적 행동\"…'원잠' 변수에 팩트시트 지연",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/newsy/20251109182251751nrrz.jpg",
+        "url": "https://v.daum.net/v/20251109182251220",
+        "original_url": "https://v.daum.net/v/20251109182251220",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "텅빈 트럭만 오가고 식당은 썰렁… 을씨년스러운 '철의 도시'[한국판 러스트벨트를 가다]",
+        "time": "2025-11-09T09:27:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/fnnewsi/20251109182429472tazs.jpg",
+        "url": "https://v.daum.net/v/20251109182429253",
+        "original_url": "https://v.daum.net/v/20251109182429253",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "이번주 세계 미리보기…美-시리아 정상회담·G7 외교장관 회의 등[월드콕!]",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/munhwa/20251109180916136hxvp.jpg",
+        "url": "https://v.daum.net/v/20251109180914977",
+        "original_url": "https://v.daum.net/v/20251109180914977",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "‘졸린 조’ 공격하더니…트럼프, 20분 졸음 주체 못 하고 눈 비비적",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/hani/20251109180113443oxzi.jpg",
+        "url": "https://v.daum.net/v/20251109180112839",
+        "original_url": "https://v.daum.net/v/20251109180112839",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "최장기 '美셧다운'…\"미군 해외기지 직원 월급도 끊겨\"",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/newsy/20251109180652294sbxk.jpg",
+        "url": "https://v.daum.net/v/20251109180652948",
+        "original_url": "https://v.daum.net/v/20251109180652948",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "일 북동부 이와테 근해서 규모 6.7 지진 발생…쓰나미 주의보(1보)",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/newsis/20251109180254278qlom.jpg",
+        "url": "https://v.daum.net/v/20251109180113840",
+        "original_url": "https://v.daum.net/v/20251109180113840",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "러, 우크라 원전 변전소 공격…주요 발전소 생산중단·정전 잇따라",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/sbscnbc/20251109180603400pvns.jpg",
+        "url": "https://v.daum.net/v/20251109180016825",
+        "original_url": "https://v.daum.net/v/20251109180016825",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "다카이치 “대만 유사시 집단자위권 행사 가능”… 日총리 첫 언급",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/segye/20251109181614685kauc.jpg",
+        "url": "https://v.daum.net/v/20251109181614096",
+        "original_url": "https://v.daum.net/v/20251109181614096",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "中, 미얀마 등 해외 진출 사기 조직 강력 단속 나서나",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/newsis/20251109175739740odbk.jpg",
+        "url": "https://v.daum.net/v/20251109175739786",
+        "original_url": "https://v.daum.net/v/20251109175739786",
+        "source": "daum",
+        "date": "2025년 11월 09일 Sunday"
+      },
+      {
+        "title": "'반군출신' 시리아 대통령 워싱턴 도착…\"시리아 건국 후 처음\"",
+        "time": "2025-11-09T09:26:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/09/akn/20251109181624459yedw.jpg",
+        "url": "https://v.daum.net/v/20251109181623098",
+        "original_url": "https://v.daum.net/v/20251109181623098",
         "source": "daum",
         "date": "2025년 11월 09일 Sunday"
       }
