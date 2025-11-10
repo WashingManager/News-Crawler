@@ -6465,5 +6465,106 @@
         "summary": "LLM 방식 한계 넘는 C→러스트 코드 자동 변환 핵심 기술...연구 방향과 비전 제시[보안뉴스 한세희 기자] 보안 위험이 높은 C 언어를 보다 안전한 ‘러스트’ 언어로 자동 변환하는 연구를 KAIST 연구진이 선도해 주목된다.KAIST는 전산학부 류석영 교수 연구팀 논문이 세계 최대 컴퓨터학회 ACM(Association for Computing Mach..."
       }
     ]
+  },
+  {
+    "date": "2025년 11월 10일 월요일",
+    "articles": [
+      {
+        "title": "정보처리와 AI, 보안이 만나다...한국정보처리학회 연례 컨퍼런스 성료",
+        "time": "2025-11-10T18:10:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12308291_4820.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140265&page=1&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140265&page=1&kind=5",
+        "summary": "동국대서 한국정보처리학회 연례 컨퍼런스 및 총회 개최박능수 건국대 교수 신임 회장 내년 임기 시작...최정식 보안뉴스 발행인 수석부회장 선출[보안뉴스 한세희 기자] “우리나라 여론을 움직여 자신들에게 유리한 환경을 조성하려는 타국의 ’인지전을 통한 영향력 공작’이 현재 우리가 당면한 가장 큰 안보 위협 중 하나입니다.”7일 동국대 서울 캠퍼스에서 열린 한국..."
+      },
+      {
+        "title": "[2025 문서보안 리포트] AI부터 클라우드까지, 방향은 달라도 결국은 ‘문서보안’이 핵심",
+        "time": "2025-11-10T16:58:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12246638_5718.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140254&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140254&page=1&kind=3",
+        "summary": "문자 생성 이후 가장 오랫동안 중요하게 다뤄왔던 데이터 ‘문서’문서보안 솔루션에 대한 사용자 설문조사...문서보안 만족도의 핵심은 기존 솔루션과 ‘호환성’문서보안 솔루션 전문기업 집중 분석: 이노티움, 데이타시큐어, 블루문소프트, 두루안[보안뉴스 원병철 기자] 문서보안이라는 개념이 처음 등장한 것은 ‘문서’가 등장하고 난 이후라고 할 수 있다. 이미 기원전..."
+      },
+      {
+        "title": "[한국정보공학기술사 보안을 論하다-27] AI가 만든 위협, AI로 맞선다",
+        "time": "2025-11-10T16:26:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12248848_8059.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140259&page=1&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140259&page=1&kind=5",
+        "summary": "AI 진화가 불러온 사이버전의 패러다임 전환[보안뉴스=박기현 기술사/한국원자력연구원] 기술의 발전은 언제나 새로운 가능성과 함께 예상치 못한 위험을 동반해 왔다. 1990년대 인터넷의 보급은 정보 접근성을 비약적으로 향상시켰지만 해킹, 악성코드, DDoS 공격이라는 사이버 위협도 동시에 출현시켰다. 모바일 혁명은 손안의 편리함을 제공했지만, 스마트폰 기반 ..."
+      },
+      {
+        "title": "[KINPA에서 만난 사람 ⑤] 韓中 양수겸비, 이성화 론리&텐원 한국 대표",
+        "time": "2025-11-10T15:19:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12264979_2899.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140255&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140255&page=1&kind=1",
+        "summary": "“중국 특허 출원은 현지 사정에 정통한 로펌과 함께 해야 합니다.”이번 KINPA 컨퍼런스 현장서 만난 이성화 중국 론리&텐원 법률사무소 한국 대표(사진)는, 중국 IP시장만의 독특한 환경에 주목해야 한다고 강조했다.▲이성화 中 론리&텐원 한국 대표 [촬영: 최훈석 기자]이 대표는 “예컨대, 중국서 상표를 출원할 때는 한국내 저명성(인지도)이 아무런 고려 ..."
+      },
+      {
+        "title": "구글 맵 악성 리뷰 악용, 사업주 울리는 신종 온라인 랜섬웨어 공격 비상",
+        "time": "2025-11-10T11:10:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12157760_7377.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140240&page=1&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140240&page=1&kind=1",
+        "summary": "[보안뉴스 김형근 기자] 최근 사기꾼들이 구글 맵 리뷰 시스템을 악용해 사업주들에게 돈을 뜯어내는 새로운 협박 수법을 사용하고 있다. 구글은 랜섬 요구를 직접 신고할 수 있는 기능을 추가하며 대응에 나섰다.[자료: gettyimagesbank]이 사기 수법은 ‘리뷰 폭탄’(review-bombing)으로 시작한다. 악성 행위자들이 구글의 자동 검토 시스템을..."
+      },
+      {
+        "title": "세이퍼존, 로키 리눅스 기반 ‘AI DLP·보안USB’ 국정원 인증 획득",
+        "time": "2025-11-10T14:23:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12157760_118.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140249&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140249&page=1&kind=3",
+        "summary": "CentOS 7 지원 종료 대응…로키 리눅스 도입으로 안정성·보안성 강화국정원 인증 암호검증모듈(KCMVP) 탑재해 2030년까지 보안기능확인서 유지고객사 대상 EOS 없는 무상 업그레이드 및 차세대 AI 기반 DLP 기능 확대[보안뉴스 여이레 기자] 정보유출방지(DLP) 보안USB 전문기업 세이퍼존은 리눅스 로키OS 기반의 ‘세이퍼존 AI DLP’와 ‘세..."
+      },
+      {
+        "title": "개인도 기업처럼 안전하게! 이스트시큐리티, ‘알약 3.0’으로 랜섬웨어 보안 환경 제공",
+        "time": "2025-11-10T14:19:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12219525_8820.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140247&page=1&kind=3",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140247&page=1&kind=3",
+        "summary": "랜섬웨어 보호 기능 대폭 강화...파일 암호화 시도 즉시 차단 및 백업·복구탐지 엔진 고도화로 개인도 기업 수준 보안 환경 이용 및 신·변종 위협 대응력 강화[보안뉴스 조재호 기자] 이스트시큐리티가 랜섬웨어 탐지 및 차단 성능을 대폭 강화하고, 개인 사용자도 기업 환경 수준의 보안을 경험할 수 있도록 고도화한 ‘알약 3.0’을 정식 출시했다고 10일 밝혔다..."
+      },
+      {
+        "title": "충북도, 특별안전구역 스마트 안전 솔루션 구축으로 ‘안전한 산업단지’ 조성 추진",
+        "time": "2025-11-10T13:23:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12135294_1666.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140241&page=1&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140241&page=1&kind=2",
+        "summary": "청주산단 포함 전국 6개 산업단지서 시범사업 시행실시간 모니터링, 위험 예측·대응 시스템 도입해 특별안전구역 관리[보안뉴스 강초희 기자] 충북도는 청주산업단지 내 화학물질 누출 및 전기화재 예방이 필요한 입주업체들을 대상으로 특별안전구역 스마트 안전 솔루션 구축사업(이하 스마트 안전 솔루션)을 본격적으로 추진하고 있다고 9일 밝혔다.▲충청북도 로고 [자료:..."
+      },
+      {
+        "title": "[AI와 보안] 트래픽 관찰만으로 AI와 대화 훔쳐 본다...MS, ‘위스퍼 리크’ 공격 포착",
+        "time": "2025-11-10T11:08:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/12157760_8022.png",
+        "url": "https://www.boannews.com/media/view.asp?idx=140242&page=1&kind=4",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140242&page=1&kind=4",
+        "summary": "[보안뉴스 김형근 기자] 마이크로소프트(MS)가 원격 언어 모델을 표적으로 하는 새로운 측면 채널 공격 ‘위스퍼 리크’(Whisper Leak)를 공개했다.이 공격은 암호화된 통신이 오가는 상황에서도 네트워크 트래픽을 관찰해 AI 모델과의 대화에 대한 세부 정보를 알아낼 수 있게 한다.[자료: MS]이 데이터 유출은 사용자나 기업 통신의 개인정보보호에 심각..."
+      },
+      {
+        "title": "보안 약한 C 언어를 안전한 ‘러스트’로 자동 변환...KAIST 연구 주목",
+        "time": "2025-11-09T13:13:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/976671443_4209.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140232&page=2&kind=5",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140232&page=2&kind=5",
+        "summary": "LLM 방식 한계 넘는 C→러스트 코드 자동 변환 핵심 기술...연구 방향과 비전 제시[보안뉴스 한세희 기자] 보안 위험이 높은 C 언어를 보다 안전한 ‘러스트’ 언어로 자동 변환하는 연구를 KAIST 연구진이 선도해 주목된다.KAIST는 전산학부 류석영 교수 연구팀 논문이 세계 최대 컴퓨터학회 ACM(Association for Computing Mach..."
+      },
+      {
+        "title": "[KINPA에서 만난 사람 ④] “호주 IP시장, 특이점이 온다”...김현태 濠 변호사",
+        "time": "2025-11-09T10:36:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/976637489_9878.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140231&page=2&kind=1",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140231&page=2&kind=1",
+        "summary": "“호주엔 지금, 한류 열풍 뜨겁습니다. 그만큼 한국상표 출원 등에 대한 현지 문의도 급증하고 있어요.”이번 KINPA 컨퍼런스 참석 등 한국 고객사 미팅 차, 고국을 방문한 김현태 호주변호사(52)는 현지에 이른바 ‘K-웨이브’가 매섭다고 밝혔다.▲김현태 호주변호사 [촬영: 최훈석 기자]김 변호사는 “화장품과 식품 등 일반 소비재는 물론, 게임이나 소프트웨..."
+      },
+      {
+        "title": "한국마사회, 국가·공공기관 사이버공격 대응 훈련 A등급 획득",
+        "time": "2025-11-08T14:51:00",
+        "img": "http://www.boannews.com/media/upFiles2/2025/11/762944825_600.jpg",
+        "url": "https://www.boannews.com/media/view.asp?idx=140229&page=2&kind=2",
+        "original_url": "https://www.boannews.com/media/view.asp?idx=140229&page=2&kind=2",
+        "summary": "[보안뉴스 한세희 기자] 한국마사회는 국가정보원 주관으로 시행한 국가·공공기관 사이버공격 대응 훈련 평가에서 기관 최초로 최고 등급인 A등급을 받았다고 8일 밝혔다.이 평가는 사이버 위기 상황을 가정해 기관의 대응 체계를 평가하는 도상 훈련과 실전 방어 훈련, 해킹 메일 훈련 등  3개 분야를 종합 평가한다.[자료: 마사회]한국마사회는 최근 정보보안 전담 ..."
+      }
+    ]
   }
 ]
