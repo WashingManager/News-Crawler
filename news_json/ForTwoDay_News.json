@@ -163,6 +163,15 @@
         "original_url": "https://www.fnnews.com/news/202511110156385768",
         "source": "Fn",
         "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "'알카에다' 출신 시리아 대통령, 美 백악관에서 트럼프와 대담",
+        "time": "2025-11-11T06:59:00",
+        "img": "",
+        "url": "https://www.fnnews.com/news/202511110650279838",
+        "original_url": "https://www.fnnews.com/news/202511110650279838",
+        "source": "Fn",
+        "date": "2025년 11월 10일 월요일"
       }
     ]
   },
@@ -219,6 +228,71 @@
         "original_url": "https://hanmiilbo.kr/news/view.php?idx=3738&mcode=m38dz78",
         "summary": "",
         "source": "hanmiilbo",
+        "date": "2025년 11월 10일 월요일"
+      }
+    ]
+  },
+  {
+    "date": "2025년 11월 10일 월요일",
+    "articles": [
+      {
+        "title": "북한 해커들의 '블랙아웃' 공격, 당신의 스마트폰이 당신 몰래 지워진다",
+        "time": "2025-11-11T01:57:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2162_4252_4355.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2162",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2162",
+        "summary": "당신이 잠시 자리를 비운 사이, 당신의 스마트폰이 스스로 모든 데이터를 지운다. 사진·연락처·메시지·모든 것이 사라진다. 동시에 당신의 PC는 해커의 손에 넘어가 지인들에게 악성코드를 퍼뜨린다. 당신의 웹캠은 당신을 지켜보고 있을지도 모른다.",
+        "source": "truthdaily",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "이재명정부의 정치 보복극, 윤 전 대통령 '드론 기소'의 민낯",
+        "time": "2025-11-11T01:52:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2165_4256_3941.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2165",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2165",
+        "summary": "이재명 정부가 윤석열 전 대통령을 향한 정치 보복을 한 단계 더 끌어올렸다. 이번에는 북한 상공 드론 비행을 문제 삼아 추가 기소에 나섰다. 하지만 그 이면을 들여다보면, 이것이 얼마나 터무니없는 정치 공작인지 금방 드러난다. 10일, 조은숙 특별검사팀은 윤석열 전 대통령과 김용현 전 국방장관·여인형 전 군 방첩부 사령관을 \"적에게 이익을 제공하고 권력을 ...",
+        "source": "truthdaily",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "중국, 한화오션 제재 1년 유예… \"불안정한 휴전\" 시작됐다",
+        "time": "2025-11-11T01:54:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2170_4260_5522.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2170",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2170",
+        "summary": "중국이 한국 최대 조선소 중 하나인 한화오션의 미국 자회사에 대한 제재를 중단한다고 10일 발표했다. 이는 워싱턴과 베이징 간의 불안정한 무역 휴전이 계속 구체화되고 있음을 보여주는 최신 신호다.",
+        "source": "truthdaily",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프 대통령이 옳았다... 지미 라이 사건이 폭로한 서방의 도덕적 위선",
+        "time": "2025-11-11T02:06:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2161_4251_138.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2161",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2161",
+        "summary": "",
+        "source": "truthdaily",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "중국의 물리 AI 데이터 대공세·한국은 출발선에도 서지 못했다",
+        "time": "2025-11-11T02:03:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2163_4254_2532.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2163",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2163",
+        "summary": "인공지능(AI) 경쟁의 전선이 바뀌고 있다. 챗GPT로 대표되는 대규모 언어 모델(LLM)의 시대를 지나 이제는 로봇이 실제 세계에서 보고·만지고·움직이는 '물리 AI(Physical AI)'의 시대가 열리고 있다. 그리고 이 새로운 전장에서 중국은 이미 한참 앞서 달리고 있다.",
+        "source": "truthdaily",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프, 육류 대기업 '빅4'에 칼 빼 \"가격 담합 즉각 수사하라\"",
+        "time": "2025-11-11T01:49:00",
+        "img": "https://cdn.truthdaily.co.kr/news/photo/202511/2164_4255_1747.png",
+        "url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2164",
+        "original_url": "https://www.truthdaily.co.kr/news/articleView.html?idxno=2164",
+        "summary": "도널드 트럼프 대통령이 미국 육류 산업의 거대 기업들을 겨냥한 강력한 조치에 나섰다. 미국산 쇠고기 제품의 대부분을 통제하는 '빅4' 육류 가공업체가 '가격 담합'과 '불법 공모'를 통해 시장을 왜곡하고 있다며 법무부(DOJ)에 즉각 수사를 지시한 것이다. 트럼프 대통령은 개인 SNS인 트루스소셜에 올린 글에서 \"저는 법무부에 불법 공모, 가격 조작·가격 ...",
+        "source": "truthdaily",
         "date": "2025년 11월 10일 월요일"
       }
     ]
@@ -6965,6 +7039,166 @@
         "summary": "",
         "source": "naver",
         "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "박지원 “尹, 먹여주고 재워줬는데 영치금 6.5억? 뇌물수사”",
+        "time": "2025-11-11T06:53:12",
+        "img": "https://imgnews.pstatic.net/image/021/2025/11/11/0002749018_002_20251111065312233.png?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/021/0002749018",
+        "original_url": "https://n.news.naver.com/mnews/article/021/0002749018",
+        "summary": "김건희 여사, 두 달간 약 2250만 원 영치금 수령",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "현대차의 '현지화' 진격… 中도 印도 역사상 첫 현지인 CEO 발탁 [biz-플러스]",
+        "time": "2025-11-11T07:01:26",
+        "img": "https://imgnews.pstatic.net/image/011/2025/11/11/0004554283_001_20251111070126575.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/011/0004554283",
+        "original_url": "https://n.news.naver.com/mnews/article/011/0004554283",
+        "summary": "중국 합작법인에 리펑강 총경리 임명\nFAW-폭스바겐서 22년간 경력 쌓아\n중국 판매량 2030년 3배 확대 목표\n인도 합작법인에도 타룬 가르그 CEO\n마루티 스즈키서 2019년 현대차 합류\n인도, 2030년 현대차의 제2 시장 예상",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "코스피 4천시대, 한국 보수언론의 천박함... 세계적으로 드문 행태",
+        "time": "2025-11-11T06:55:10",
+        "img": "https://imgnews.pstatic.net/image/047/2025/11/11/0002494518_001_20251111065510063.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/047/0002494518",
+        "original_url": "https://n.news.naver.com/mnews/article/047/0002494518",
+        "summary": "[최경영의 돈과 시간 이야기] 붕괴, 부글부글, 어포더블",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프, '前알카에다' 시리아정상과 조용한 회담…제재유예 선물(종합2보)",
+        "time": "2025-11-11T06:43:39",
+        "img": "https://imgnews.pstatic.net/image/001/2025/11/11/AKR20251111003452071_01_i_P4_20251111064411756.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015734446",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015734446",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "美 검찰, 음모론 따라 ‘트럼프 파괴하는 기득권자들 ’ 조사",
+        "time": "2025-11-11T06:18:09",
+        "img": "https://imgnews.pstatic.net/image/016/2025/11/11/0002555643_001_20251111061809396.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002555643",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002555643",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프, 알카에다 분파 출신 시리아 정상과 회담…제재유예 선물",
+        "time": "2025-11-11T06:01:16",
+        "img": "https://imgnews.pstatic.net/image/016/2025/11/11/0002555637_001_20251111060116178.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/016/0002555637",
+        "original_url": "https://n.news.naver.com/mnews/article/016/0002555637",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "'친애하는 X' 日·홍콩 사로잡을까…글로벌 진출 사활 건 티빙",
+        "time": "2025-11-11T06:00:00",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/11/NISI20251107_0001987129_web_20251107145403_20251111060134701.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013592167",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013592167",
+        "summary": "티빙, 亞 17개국 이어 日 진출…미국·남미도 예고\n국내 OTT 시장 포화 직면…웨이브 합병 완료해도 성장 한계\n오징어게임·케데헌 등 인기 속 K콘텐츠 전용관 승부수  \n현지 플랫폼 브랜드관 진출로 초기 비용 최소화",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프 \"인도와 무역협정 타결 매우 가까워…관세 내릴 것\"",
+        "time": "2025-11-11T07:12:20",
+        "img": "https://imgnews.pstatic.net/image/001/2025/11/11/AKR20251111012700071_01_i_P4_20251111071312048.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015734467",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015734467",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프 “관세 재판서 지면 2조달러 환급해야···국가 안보에 재앙 될 것”",
+        "time": "2025-11-11T06:52:00",
+        "img": "https://imgnews.pstatic.net/image/032/2025/11/11/0003407896_001_20251111070214031.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/032/0003407896",
+        "original_url": "https://n.news.naver.com/mnews/article/032/0003407896",
+        "summary": "연방대법원 ‘보수 6 대 진보 3’ 구도지만\n보수 법관조차 잇따라 정부 논리에 ‘의문’",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프-알샤라 백악관 정상회담…美, 시리아 제재 6개월 추가유예",
+        "time": "2025-11-11T06:47:40",
+        "img": "https://imgnews.pstatic.net/image/003/2025/11/11/NISI20251111_0001989245_web_20251111064216_20251111064817003.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/003/0013592186",
+        "original_url": "https://n.news.naver.com/mnews/article/003/0013592186",
+        "summary": "\"트럼프, 시리아 '反 IS' 참여 선언\"\n알샤라 집권 후 관계 정상화 가속\n시저법 재유예, 폐지엔 입법 필요",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "[1보] 英부커상에 솔로이 '플레시'…한국계 美작가 수전 최 불발",
+        "time": "2025-11-11T06:54:44",
+        "img": "https://imgnews.pstatic.net/image/001/2025/11/11/PAP20251111037301009_P4_20251111065511892.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/001/0015734449",
+        "original_url": "https://n.news.naver.com/mnews/article/001/0015734449",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "[속보] 부커상에 솔로이 '플레시'…한국계 미국 작가 수전 최 불발",
+        "time": "2025-11-11T07:05:09",
+        "img": "https://imgnews.pstatic.net/image/057/2025/11/11/0001918087_001_20251111070509101.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/057/0001918087",
+        "original_url": "https://n.news.naver.com/mnews/article/057/0001918087",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "[속보] 英부커상에 솔로이 ‘플레시’…한국계 美작가 수전 최 불발",
+        "time": "2025-11-11T07:05:09",
+        "img": "https://imgnews.pstatic.net/image/005/2025/11/11/2025111107034373182_1762812224_0028956156_20251111070509275.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/005/0001813626",
+        "original_url": "https://n.news.naver.com/mnews/article/005/0001813626",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "트럼프, 백악관서 알카에다 출신 시리아 대통령과 회담",
+        "time": "2025-11-11T07:00:09",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/422/0000800319",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000800319",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "[속보] 부커상에 솔로이 '플레시'…한국계 美작가 수전 최 불발",
+        "time": "2025-11-11T06:56:15",
+        "img": "https://imgnews.pstatic.net/image/422/2025/11/11/AKR202511110655349vw_01_i_20251111065615777.jpg?type=w860",
+        "url": "https://n.news.naver.com/mnews/article/422/0000800318",
+        "original_url": "https://n.news.naver.com/mnews/article/422/0000800318",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "인도 뉴델리 관광지서 차량 폭발 9명 사망",
+        "time": "2025-11-11T06:45:08",
+        "img": "",
+        "url": "https://n.news.naver.com/mnews/article/056/0012063715",
+        "original_url": "https://n.news.naver.com/mnews/article/056/0012063715",
+        "summary": "",
+        "source": "naver",
+        "date": "2025년 11월 10일 월요일"
       }
     ]
   },
@@ -7697,6 +7931,15 @@
         "img": "/api/attachments/CC8iK0NnNXJWelZZYTB4Mk1WODJhVVJ2VFJDUUJCakZCQ2dLTWdhWkJaQU5wZ2M=-w100-h100-p-df-rw",
         "url": "https://news.google.com/read/CBMigAFBVV95cUxNNnd4STd5WWE5SmxrY1lkS2NMRjRlUVI3YW1iVHpyYnBWaHhGSFlDWkVrOU94YTFBMkhzRGdLWEJVeHdsMG5VYmthaDktYjBqYjNrel9CV0RMc1dDcDl1MWktTjM5d2Q0b1VmNmYxZUtmd0RibjJsSzc1ZXdkcjV5SA?hl=ko&gl=KR&ceid=KR%3Ako",
         "original_url": "https://news.google.com/read/CBMigAFBVV95cUxNNnd4STd5WWE5SmxrY1lkS2NMRjRlUVI3YW1iVHpyYnBWaHhGSFlDWkVrOU94YTFBMkhzRGdLWEJVeHdsMG5VYmthaDktYjBqYjNrel9CV0RMc1dDcDl1MWktTjM5d2Q0b1VmNmYxZUtmd0RibjJsSzc1ZXdkcjV5SA?hl=ko&gl=KR&ceid=KR%3Ako",
+        "source": "google",
+        "date": "2025년 11월 10일 월요일"
+      },
+      {
+        "title": "日 이와테현 동쪽 바다서 규모 6.7 지진…쓰나미 주의보 발령",
+        "time": "2025-11-09T18:11:00+00:00",
+        "img": "/api/attachments/CC8iJ0NnNXlVVTF4YzBKaGNubGZSbUkyVFJEaEFSamhBU2dCTWdPOU1oUQ=-w100-h100-p-df",
+        "url": "https://news.google.com/read/CBMiYkFVX3lxTE5BbGxpaHhLLXZXY056aTNPSGU0V3g0NTdaYkc3Ri0zMDJkdlRfWVZBRURUYjlNRWU4Mld5cUhFdWUyZWtsYWxyT1JwV1FGZnJHVm8yZ3RWWVBnS2Flcy02azlB?hl=ko&gl=KR&ceid=KR%3Ako",
+        "original_url": "https://news.google.com/read/CBMiYkFVX3lxTE5BbGxpaHhLLXZXY056aTNPSGU0V3g0NTdaYkc3Ri0zMDJkdlRfWVZBRURUYjlNRWU4Mld5cUhFdWUyZWtsYWxyT1JwV1FGZnJHVm8yZ3RWWVBnS2Flcy02azlB?hl=ko&gl=KR&ceid=KR%3Ako",
         "source": "google",
         "date": "2025년 11월 10일 월요일"
       },
@@ -11373,6 +11616,150 @@
         "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/Edaily/20251111063449143qbpp.jpg",
         "url": "https://v.daum.net/v/20251111063447227",
         "original_url": "https://v.daum.net/v/20251111063447227",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "코스피 4천시대, 한국 보수언론의 천박함... 세계적으로 드문 행태",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/ohmynews/20251111065702697pqyx.jpg",
+        "url": "https://v.daum.net/v/20251111065701427",
+        "original_url": "https://v.daum.net/v/20251111065701427",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "‘경기도 미군 반환공여구역 입법추진지원단’ 구성·운영",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/ned/20251111071140477omcs.jpg",
+        "url": "https://v.daum.net/v/20251111071139660",
+        "original_url": "https://v.daum.net/v/20251111071139660",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "충북도, 농민 재산·생명 보호…겨울철 농업재해 종합대책 본격 추진",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/munhwa/20251111072651787xktx.jpg",
+        "url": "https://v.daum.net/v/20251111072650850",
+        "original_url": "https://v.daum.net/v/20251111072650850",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "핵추진 잠수함, 한미동맹 새 시대를 열다 [전문가 칼럼]",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/NEWS1/20251111070122104hrsx.jpg",
+        "url": "https://v.daum.net/v/20251111070120486",
+        "original_url": "https://v.daum.net/v/20251111070120486",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "델몬트처럼 ‘유리생수병’, APEC의 디테일···무해한 미래 만들까[점선면]",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/khan/20251111070151835qldb.png",
+        "url": "https://v.daum.net/v/20251111070146504",
+        "original_url": "https://v.daum.net/v/20251111070146504",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "[우분투칼럼] 한국과 핵심광물 미래: 남아공 G20 통한 전략적 파트너십",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/yonhap/20251111070147215cdft.jpg",
+        "url": "https://v.daum.net/v/20251111070147508",
+        "original_url": "https://v.daum.net/v/20251111070147508",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "1460원대 뚫린 환율, 이러다 1500원까지 갈까 [고환율 비상사태]",
+        "time": "2025-11-10T22:33:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/dailian/20251111071114059qshu.jpg",
+        "url": "https://v.daum.net/v/20251111071112654",
+        "original_url": "https://v.daum.net/v/20251111071112654",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "[이 시각 세계] 인도네시아 고교서 폭발 사고‥한국 게임 탓?",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/imbc/20251111072519364ougb.jpg",
+        "url": "https://v.daum.net/v/20251111072518834",
+        "original_url": "https://v.daum.net/v/20251111072518834",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "[이 시각 세계] 트럼프, 백악관서 시리아 대통령과 회담",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/imbc/20251111072509488vezj.jpg",
+        "url": "https://v.daum.net/v/20251111072508832",
+        "original_url": "https://v.daum.net/v/20251111072508832",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "트럼프 \"인도와 무역협정 타결 매우 가까워…관세 내릴 것\"",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/yonhap/20251111071415046pqpc.jpg",
+        "url": "https://v.daum.net/v/20251111071414697",
+        "original_url": "https://v.daum.net/v/20251111071414697",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "인도 델리에서 차량 폭발 8명 사망...최고 경계 태세",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/YTN/20251111071009553ryph.jpg",
+        "url": "https://v.daum.net/v/20251111071008638",
+        "original_url": "https://v.daum.net/v/20251111071008638",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "과테말라 수놓은 韓전통음악과 클래식…대통령도 기립박수",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/yonhap/20251111071902738qdab.jpg",
+        "url": "https://v.daum.net/v/20251111071902757",
+        "original_url": "https://v.daum.net/v/20251111071902757",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "인도 뉴델리 관광지서 차량 폭발 9명 사망",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/kbs/20251111065959801gtwg.jpg",
+        "url": "https://v.daum.net/v/20251111065957457",
+        "original_url": "https://v.daum.net/v/20251111065957457",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "사르코지 전 프랑스 대통령, 수감 20일 만에 조기 석방...출국금지 및 보호감찰키로",
+        "time": "2025-11-10T22:32:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/ned/20251111073148212pxqa.jpg",
+        "url": "https://v.daum.net/v/20251111073147950",
+        "original_url": "https://v.daum.net/v/20251111073147950",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "개도국 성장 핵심 재생에너지 산업, 중국이 이끈다",
+        "time": "2025-11-10T22:31:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/newsis/20251111072312933vmlv.jpg",
+        "url": "https://v.daum.net/v/20251111072312814",
+        "original_url": "https://v.daum.net/v/20251111072312814",
+        "source": "daum",
+        "date": "2025년 11월 10일 Monday"
+      },
+      {
+        "title": "[이 시각 세계] 나이지리아서 이슬람 무장단체끼리 충돌",
+        "time": "2025-11-10T22:31:00+09:00",
+        "img": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202511/11/imbc/20251111072520650qisq.jpg",
+        "url": "https://v.daum.net/v/20251111072519835",
+        "original_url": "https://v.daum.net/v/20251111072519835",
         "source": "daum",
         "date": "2025년 11월 10일 Monday"
       }
