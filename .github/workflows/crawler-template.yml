@@ -12,6 +12,7 @@ on:
 
 jobs:
   scrape:
+    if: false
     runs-on: ubuntu-latest
 
     steps:
