@@ -2,7 +2,7 @@ name: Process Two-Day News
 
 on:
   schedule:
-    - cron: '0,25,50 * * * *'  # 매일 자정 UTC (KST 오전 9시)
+    #- cron: '0,25,50 * * * *'  # 매일 자정 UTC (KST 오전 9시)
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
